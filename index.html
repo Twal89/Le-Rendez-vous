@@ -47,6 +47,20 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 .onglet.principal{ border-color:var(--or); color:var(--or-clair); background:rgba(201,162,39,.1); }
 .onglet.icone{ padding:8px 12px; display:inline-flex; align-items:center; }
 .onglet.icone svg{ width:15px; height:15px; display:block; }
+.onglet.icone[data-actif="true"], .onglet.aa[data-actif="true"]{
+  background:rgba(201,162,39,.16); border-color:var(--or); color:var(--or-clair);
+}
+.onglet.aa{
+  text-transform:none; font-family:'EB Garamond',serif; font-size:15px;
+  letter-spacing:.02em; padding:5px 14px;
+}
+#taille{ display:none; align-items:center; gap:12px; margin-bottom:12px; }
+#taille.ouvert{ display:flex; }
+.onglet.pm{ font-size:17px; line-height:1; padding:4px 15px; letter-spacing:0; }
+#taille-valeur{
+  font-family:'Cinzel',serif; font-size:10.5px; letter-spacing:.18em;
+  opacity:.55; min-width:56px; text-align:center;
+}
 .onglet:focus-visible, .cmd:focus-visible, #scene:focus-visible, .ligne:focus-visible{
   outline:2px solid var(--or-clair); outline-offset:3px;
 }
@@ -65,40 +79,36 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
   border-radius:20px; padding:24px 20px 18px; display:flex; flex-direction:column;
   justify-content:space-between; overflow:hidden;
   box-shadow:0 26px 60px rgba(0,0,0,.55);
-}
-#recto{
   background:linear-gradient(160deg,#16243A 0%,#0D1727 100%);
   border:1px solid rgba(201,162,39,.34);
 }
-#recto::after{
+.face::after{
   content:''; position:absolute; inset:9px; border-radius:13px;
   border:1px solid rgba(201,162,39,.16); pointer-events:none;
 }
-#verso{
-  transform:rotateY(180deg);
-  background:linear-gradient(155deg,#F1E8D5 0%,var(--parchemin) 58%,#DCCFB4 100%);
-  border:1px solid rgba(36,28,18,.22); color:var(--encre);
-}
+#verso{ transform:rotateY(180deg); }
 
 .eyebrow{
   font-family:'Cinzel', serif; font-size:10px; letter-spacing:.28em;
   text-transform:uppercase; display:flex; justify-content:space-between; align-items:center;
-  flex:0 0 auto; gap:10px;
+  flex:0 0 auto; gap:10px; color:rgba(201,162,39,.75);
 }
-#recto .eyebrow{ color:rgba(201,162,39,.75); }
-#verso .eyebrow{ color:rgba(36,28,18,.5); }
 .eyebrow .ar{ font-family:'Amiri', serif; font-size:18px; letter-spacing:0; }
 
 .corps{
   flex:1 1 auto; min-height:0; display:flex; align-items:center; justify-content:center;
   overflow-y:auto; overscroll-behavior:contain; padding:10px 0;
 }
-#arabe{
+.texte{ margin:0; width:100%; text-align:center; }
+.texte.ar{
   font-family:'Amiri','Scheherazade New','Geeza Pro','Traditional Arabic',serif;
-  direction:rtl; text-align:center; color:#F7F1E3; margin:0; width:100%;
-  line-height:1.95; text-shadow:0 1px 16px rgba(201,162,39,.16);
+  direction:rtl; line-height:1.95; color:#F7F1E3;
+  text-shadow:0 1px 16px rgba(201,162,39,.16);
 }
-#francais{ text-align:center; margin:0; width:100%; line-height:1.55; color:var(--encre); }
+.texte.fr{
+  font-family:'EB Garamond', Georgia, serif;
+  direction:ltr; line-height:1.55; color:rgba(240,233,216,.92); text-shadow:none;
+}
 
 .pied{ display:flex; flex-direction:column; align-items:center; gap:6px; flex:0 0 auto; }
 .indice{
@@ -106,12 +116,19 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
   text-transform:uppercase; opacity:.4; color:var(--parchemin);
 }
 
-.commandes{ display:flex; align-items:center; gap:10px; margin-top:16px; }
+.commandes{ display:flex; align-items:center; gap:14px; margin-top:16px; }
 .cmd{
   font-family:'Cinzel',serif; font-size:10px; letter-spacing:.18em; text-transform:uppercase;
-  padding:11px 18px; border-radius:999px; cursor:pointer; transition:all .22s;
+  padding:0 20px; height:52px; border-radius:999px; cursor:pointer; transition:all .22s;
+  display:inline-flex; align-items:center; justify-content:center;
   border:1px solid rgba(201,162,39,.3); background:transparent; color:rgba(234,224,203,.72);
 }
+.cmd.fleche{
+  width:52px; padding:0; border-radius:50%;
+  border-color:rgba(201,162,39,.45); color:var(--or-clair);
+}
+.cmd.fleche svg{ width:24px; height:24px; display:block; }
+.cmd.fleche:hover{ background:rgba(201,162,39,.12); }
 .cmd:hover{ border-color:var(--or); color:var(--or-clair); }
 .cmd[data-actif="true"]{ background:var(--or); border-color:var(--or); color:#0A1120; }
 .cmd[disabled]{ opacity:.25; cursor:default; }
@@ -241,24 +258,25 @@ body[data-theme="clair"] .onglet:hover{ border-color:#9C7B14; color:#6E5608; }
 body[data-theme="clair"] .onglet.principal{
   background:rgba(156,123,20,.15); border-color:#9C7B14; color:#6E5608;
 }
-body[data-theme="clair"] .face{ box-shadow:0 20px 46px rgba(94,72,28,.2); }
-body[data-theme="clair"] #recto{
+body[data-theme="clair"] .onglet.icone[data-actif="true"],
+body[data-theme="clair"] .onglet.aa[data-actif="true"]{
+  background:rgba(156,123,20,.18); border-color:#9C7B14; color:#6E5608;
+}
+body[data-theme="clair"] .face{
   background:linear-gradient(160deg,#FDF8EC 0%,#F3E8D0 100%);
   border-color:rgba(156,123,20,.5);
+  box-shadow:0 20px 46px rgba(94,72,28,.2);
 }
-body[data-theme="clair"] #recto::after{ border-color:rgba(156,123,20,.3); }
-body[data-theme="clair"] #recto .eyebrow{ color:#96751A; }
-body[data-theme="clair"] #arabe{ color:#4A3A14; text-shadow:none; }
+body[data-theme="clair"] .face::after{ border-color:rgba(156,123,20,.3); }
+body[data-theme="clair"] .eyebrow{ color:#96751A; }
+body[data-theme="clair"] .texte.ar{ color:#4A3A14; text-shadow:none; }
+body[data-theme="clair"] .texte.fr{ color:#3B2F1C; }
 body[data-theme="clair"] .indice{ color:rgba(74,58,20,.5); }
-body[data-theme="clair"] #verso{
-  background:linear-gradient(155deg,#F7EFDC 0%,#EBDDC0 58%,#DFCEA9 100%);
-  border-color:rgba(74,58,20,.32); color:#3B2F1C;
-}
-body[data-theme="clair"] #verso .eyebrow{ color:rgba(59,47,28,.55); }
-body[data-theme="clair"] #francais{ color:#3B2F1C; }
 body[data-theme="clair"] .perle{ border-color:rgba(156,123,20,.5); }
 body[data-theme="clair"] .perle[data-courant="true"]{ border-color:#6E5608; }
 body[data-theme="clair"] .cmd{ border-color:rgba(26,42,68,.22); color:rgba(26,42,68,.7); }
+body[data-theme="clair"] .cmd.fleche{ border-color:rgba(150,117,26,.55); color:#8A6C10; }
+body[data-theme="clair"] .cmd.fleche:hover{ background:rgba(150,117,26,.12); }
 body[data-theme="clair"] .cmd[data-actif="true"]{ background:#9C7B14; border-color:#9C7B14; color:#FCF6E8; }
 body[data-theme="clair"] #barre .fond{ background:rgba(26,42,68,.14); }
 body[data-theme="clair"] #barre .jus{ background:#9C7B14; }
@@ -309,14 +327,22 @@ body[data-theme="clair"] #champ{ color:#6E5608; border-bottom-color:rgba(156,123
 
 <nav>
   <button class="onglet principal icone" id="btn-sourate" aria-label="Revenir à la liste des sourates"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M3 11.2 12 4l9 7.2"/><path d="M5.6 9.7V20h12.8V9.7"/><path d="M10 20v-5.2h4V20"/></svg></button>
+  <button class="onglet icone" id="btn-inverse" aria-label="Inverser recto et verso"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9h14M14.5 5.5 18 9l-3.5 3.5M20 15H6M9.5 11.5 6 15l3.5 3.5"/></svg></button>
+  <button class="onglet aa" id="btn-taille" aria-label="Taille du texte">Aa</button>
   <button class="onglet" id="btn-theme" aria-label="Changer de fond">☀</button>
 </nav>
+
+<div id="taille">
+  <button class="onglet pm" id="taille-moins" aria-label="Réduire le texte">−</button>
+  <span id="taille-valeur">100 %</span>
+  <button class="onglet pm" id="taille-plus" aria-label="Agrandir le texte">+</button>
+</div>
 
 <div id="scene" role="button" tabindex="0" aria-label="Carte : glisse à l’horizontale pour retourner">
   <div id="carte">
     <div class="face" id="recto">
       <div class="eyebrow"><span id="r-sourate"></span><span class="ar" id="r-ar"></span></div>
-      <div class="corps"><p id="arabe" lang="ar"></p></div>
+      <div class="corps"><p id="t-recto" class="texte ar"></p></div>
       <div class="pied">
         <svg id="med-or" width="62" height="45" viewBox="0 0 100 72" aria-hidden="true"></svg>
         <span class="indice">Glisse pour retourner</span>
@@ -324,7 +350,7 @@ body[data-theme="clair"] #champ{ color:#6E5608; border-bottom-color:rgba(156,123
     </div>
     <div class="face" id="verso">
       <div class="eyebrow"><span id="v-sourate"></span><span id="v-ref"></span></div>
-      <div class="corps"><p id="francais"></p></div>
+      <div class="corps"><p id="t-verso" class="texte fr"></p></div>
       <div class="pied">
         <svg id="med-vert" width="52" height="38" viewBox="0 0 100 72" aria-hidden="true"></svg>
       </div>
@@ -333,9 +359,9 @@ body[data-theme="clair"] #champ{ color:#6E5608; border-bottom-color:rgba(156,123
 </div>
 
 <div class="commandes">
-  <button class="cmd" id="prec" aria-label="Verset précédent">&larr;</button>
+  <button class="cmd fleche" id="prec" aria-label="Verset précédent"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 5 7.5 12l7 7"/></svg></button>
   <button class="cmd" id="btn-saut">Aller au verset</button>
-  <button class="cmd" id="suiv" aria-label="Verset suivant">&rarr;</button>
+  <button class="cmd fleche" id="suiv" aria-label="Verset suivant"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 5l7 7-7 7"/></svg></button>
 </div>
 
 <div id="jauge"></div>
@@ -479,7 +505,7 @@ const CLE_REGL = "coran:reglages";
 const $ = function(id){ return document.getElementById(id); };
 const reduit = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-let reglages = { clair: false };
+let reglages = { clair: false, inverse: false, echelle: 1 };
 try { Object.assign(reglages, JSON.parse(localStorage.getItem(CLE_REGL) || "{}")); } catch(e) {}
 document.body.dataset.theme = reglages.clair ? "clair" : "nuit";
 
@@ -515,11 +541,22 @@ function ajuster(p, max, min){
         (p.scrollHeight > boite.clientHeight - 2 || p.scrollWidth > boite.clientWidth)){
     t -= 1; p.style.fontSize = t + "px";
   }
+  /* le facteur ne peut que réduire une taille déjà validée : jamais de débordement */
+  const e = reglages.echelle || 1;
+  if (e < 1) p.style.fontSize = Math.max(11, Math.round(t * e)) + "px";
 }
 function ajusterTout(){
   const l = Math.min($("scene").clientWidth, 560);
-  ajuster($("arabe"), Math.round(l * 0.185), 18);
-  ajuster($("francais"), Math.round(l * 0.075), 14);
+  [$("t-recto"), $("t-verso")].forEach(function(p){
+    const arabe = p.classList.contains("ar");
+    ajuster(p, Math.round(l * (arabe ? 0.185 : 0.075)), arabe ? 18 : 14);
+  });
+}
+
+function poser(p, texte, langue){
+  p.textContent = texte;
+  p.className = "texte " + langue;
+  p.setAttribute("lang", langue === "ar" ? "ar" : "fr");
 }
 
 function appliquer(){
@@ -560,14 +597,16 @@ function rendre(){
   $("scene").style.display = "block";
 
   const c = session[i];
+  const inv = !!reglages.inverse;
   $("r-sourate").textContent = "Sourate " + c.s + " · verset " + c.a;
   $("r-ar").textContent = nomAr(c.s);
-  $("arabe").textContent = c.ar;
   $("v-sourate").textContent = nomFr(c.s);
   $("v-ref").textContent = c.s + ":" + c.a;
-  $("francais").textContent = c.fr;
+  poser($("t-recto"), inv ? c.fr : c.ar, inv ? "fr" : "ar");
+  poser($("t-verso"), inv ? c.ar : c.fr, inv ? "ar" : "fr");
   medaillon($("med-or"), c.a, reglages.clair ? "#96751A" : "#C9A227");
-  medaillon($("med-vert"), c.a, reglages.clair ? "#2C6349" : "#2F6B52");
+  medaillon($("med-vert"), c.a, reglages.clair ? "#96751A" : "#C9A227");
+  $("btn-inverse").dataset.actif = inv ? "true" : "false";
 
   $("compteur").textContent = nomFr(c.s) + " · verset " + c.a + " sur " +
                               session[session.length - 1].a;
@@ -620,6 +659,30 @@ function basculerTheme(){
   sauver(); majTheme();
   if (session.length) rendre();
 }
+function majTaille(){
+  $("taille-valeur").textContent = Math.round((reglages.echelle || 1) * 100) + " %";
+  $("taille-moins").disabled = (reglages.echelle <= 0.6);
+  $("taille-plus").disabled = (reglages.echelle >= 1);
+}
+function changerTaille(d){
+  const e = Math.min(1, Math.max(0.6, Math.round(((reglages.echelle || 1) + d) * 10) / 10));
+  if (e === reglages.echelle) return;
+  reglages.echelle = e;
+  sauver(); majTaille(); ajusterTout();
+}
+$("btn-taille").onclick = function(){
+  const ouvert = $("taille").classList.toggle("ouvert");
+  $("btn-taille").dataset.actif = ouvert ? "true" : "false";
+};
+$("taille-moins").onclick = function(){ changerTaille(-0.1); };
+$("taille-plus").onclick  = function(){ changerTaille(0.1); };
+majTaille();
+
+$("btn-inverse").onclick = function(){
+  reglages.inverse = !reglages.inverse;
+  retourne = false;
+  sauver(); rendre();
+};
 $("btn-theme").onclick = basculerTheme;
 $("btn-theme-accueil").onclick = basculerTheme;
 majTheme();
