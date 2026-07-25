@@ -149,7 +149,7 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 /* ---------- fenêtres ---------- */
 .fenetre{
   position:fixed; inset:0; z-index:50; display:none; flex-direction:column;
-  background:rgba(6,11,20,.97); backdrop-filter:blur(6px);
+  background:radial-gradient(125% 72% at 50% -6%, #24384F 0%, #16243A 42%, #0D1727 72%, #091320 100%);
   padding:max(18px, env(safe-area-inset-top)) 16px calc(18px + env(safe-area-inset-bottom));
 }
 .fenetre.ouvert{ display:flex; }
@@ -264,7 +264,9 @@ body[data-theme="clair"] #barre .fond{ background:rgba(26,42,68,.14); }
 body[data-theme="clair"] #barre .jus{ background:#9C7B14; }
 body[data-theme="clair"] #barre .tete{ background:#8A6C10; }
 body[data-theme="clair"] #alerte{ border-color:rgba(156,123,20,.55); background:rgba(156,123,20,.12); }
-body[data-theme="clair"] .fenetre{ background:rgba(252,246,232,.97); }
+body[data-theme="clair"] .fenetre{
+  background:radial-gradient(125% 72% at 50% -6%, #FDF9EE 0%, #F5EBD6 45%, #EADCBE 100%);
+}
 body[data-theme="clair"] .fenetre::before{
   background-image:
     radial-gradient(140% 55% at 50% 0%, rgba(150,117,26,.1), transparent 72%),
