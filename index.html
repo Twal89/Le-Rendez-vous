@@ -45,6 +45,8 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 }
 .onglet:hover{ border-color:rgba(201,162,39,.6); color:var(--or-clair); }
 .onglet.principal{ border-color:var(--or); color:var(--or-clair); background:rgba(201,162,39,.1); }
+.onglet.icone{ padding:8px 12px; display:inline-flex; align-items:center; }
+.onglet.icone svg{ width:15px; height:15px; display:block; }
 .onglet:focus-visible, .cmd:focus-visible, #scene:focus-visible, .ligne:focus-visible{
   outline:2px solid var(--or-clair); outline-offset:3px;
 }
@@ -152,10 +154,26 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 }
 .fenetre.ouvert{ display:flex; }
 .fenetre::before{
-  content:''; position:absolute; inset:0; pointer-events:none; opacity:.05;
+  content:''; position:absolute; inset:0; pointer-events:none;
+  background-repeat:no-repeat;
   background-image:
-    repeating-linear-gradient(45deg,  #C9A227 0 1px, transparent 1px 28px),
-    repeating-linear-gradient(-45deg, #C9A227 0 1px, transparent 1px 28px);
+    radial-gradient(140% 55% at 50% 0%, rgba(201,162,39,.09), transparent 72%),
+    radial-gradient(1.7px 1.7px at 11% 14%, rgba(234,224,203,.55), transparent 62%),
+    radial-gradient(1.1px 1.1px at 27% 7%,  rgba(201,162,39,.6),  transparent 62%),
+    radial-gradient(1.4px 1.4px at 44% 20%, rgba(234,224,203,.35), transparent 62%),
+    radial-gradient(1px 1px    at 63% 9%,   rgba(201,162,39,.5),  transparent 62%),
+    radial-gradient(1.8px 1.8px at 82% 17%, rgba(234,224,203,.45), transparent 62%),
+    radial-gradient(1.2px 1.2px at 93% 6%,  rgba(201,162,39,.45), transparent 62%),
+    radial-gradient(1.3px 1.3px at 7% 38%,  rgba(201,162,39,.5),  transparent 62%),
+    radial-gradient(1px 1px    at 34% 46%,  rgba(234,224,203,.3),  transparent 62%),
+    radial-gradient(1.6px 1.6px at 71% 41%, rgba(201,162,39,.45), transparent 62%),
+    radial-gradient(1.1px 1.1px at 96% 34%, rgba(234,224,203,.35), transparent 62%),
+    radial-gradient(1.4px 1.4px at 16% 63%, rgba(234,224,203,.4),  transparent 62%),
+    radial-gradient(1px 1px    at 49% 71%,  rgba(201,162,39,.45), transparent 62%),
+    radial-gradient(1.7px 1.7px at 87% 66%, rgba(201,162,39,.4),  transparent 62%),
+    radial-gradient(1.2px 1.2px at 24% 88%, rgba(234,224,203,.32), transparent 62%),
+    radial-gradient(1.3px 1.3px at 61% 93%, rgba(201,162,39,.4),  transparent 62%),
+    radial-gradient(1px 1px    at 91% 84%,  rgba(234,224,203,.3),  transparent 62%);
 }
 .basmala{
   font-family:'Amiri',serif; direction:rtl; text-align:center; color:var(--or-clair);
@@ -248,10 +266,24 @@ body[data-theme="clair"] #barre .tete{ background:#8A6C10; }
 body[data-theme="clair"] #alerte{ border-color:rgba(156,123,20,.55); background:rgba(156,123,20,.12); }
 body[data-theme="clair"] .fenetre{ background:rgba(252,246,232,.97); }
 body[data-theme="clair"] .fenetre::before{
-  opacity:.07;
   background-image:
-    repeating-linear-gradient(45deg,  #96751A 0 1px, transparent 1px 28px),
-    repeating-linear-gradient(-45deg, #96751A 0 1px, transparent 1px 28px);
+    radial-gradient(140% 55% at 50% 0%, rgba(150,117,26,.1), transparent 72%),
+    radial-gradient(1.7px 1.7px at 11% 14%, rgba(150,117,26,.4), transparent 62%),
+    radial-gradient(1.1px 1.1px at 27% 7%,  rgba(150,117,26,.45), transparent 62%),
+    radial-gradient(1.4px 1.4px at 44% 20%, rgba(120,92,20,.28), transparent 62%),
+    radial-gradient(1px 1px    at 63% 9%,   rgba(150,117,26,.4), transparent 62%),
+    radial-gradient(1.8px 1.8px at 82% 17%, rgba(150,117,26,.3), transparent 62%),
+    radial-gradient(1.2px 1.2px at 93% 6%,  rgba(120,92,20,.3), transparent 62%),
+    radial-gradient(1.3px 1.3px at 7% 38%,  rgba(150,117,26,.38), transparent 62%),
+    radial-gradient(1px 1px    at 34% 46%,  rgba(120,92,20,.25), transparent 62%),
+    radial-gradient(1.6px 1.6px at 71% 41%, rgba(150,117,26,.32), transparent 62%),
+    radial-gradient(1.1px 1.1px at 96% 34%, rgba(120,92,20,.26), transparent 62%),
+    radial-gradient(1.4px 1.4px at 16% 63%, rgba(150,117,26,.3), transparent 62%),
+    radial-gradient(1px 1px    at 49% 71%,  rgba(120,92,20,.3), transparent 62%),
+    radial-gradient(1.7px 1.7px at 87% 66%, rgba(150,117,26,.28), transparent 62%),
+    radial-gradient(1.2px 1.2px at 24% 88%, rgba(120,92,20,.24), transparent 62%),
+    radial-gradient(1.3px 1.3px at 61% 93%, rgba(150,117,26,.3), transparent 62%),
+    radial-gradient(1px 1px    at 91% 84%,  rgba(120,92,20,.22), transparent 62%);
 }
 body[data-theme="clair"] .basmala{ color:#96751A; text-shadow:none; }
 body[data-theme="clair"] .ornement{ color:#96751A; opacity:.85; }
@@ -274,7 +306,7 @@ body[data-theme="clair"] #champ{ color:#6E5608; border-bottom-color:rgba(156,123
 <div id="alerte"></div>
 
 <nav>
-  <button class="onglet principal" id="btn-sourate" aria-label="Revenir à la liste des sourates">Sourate</button>
+  <button class="onglet principal icone" id="btn-sourate" aria-label="Revenir à la liste des sourates"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M3 11.2 12 4l9 7.2"/><path d="M5.6 9.7V20h12.8V9.7"/><path d="M10 20v-5.2h4V20"/></svg></button>
   <button class="onglet" id="btn-theme" aria-label="Changer de fond">☀</button>
 </nav>
 
@@ -321,7 +353,10 @@ body[data-theme="clair"] #champ{ color:#6E5608; border-bottom-color:rgba(156,123
 <div id="f-sourates" class="fenetre" role="dialog" aria-modal="true" aria-label="Choisir la sourate">
   <div class="f-tete">
     <span class="f-titre">Mémoriser · <span style="font-family:Amiri,serif;letter-spacing:0">حِفْظ</span></span>
-    <button class="onglet" data-fermer="f-sourates">Fermer</button>
+    <span style="display:flex;gap:8px">
+      <button class="onglet" id="btn-theme-accueil" aria-label="Changer de fond">☀</button>
+      <button class="onglet" data-fermer="f-sourates">Fermer</button>
+    </span>
   </div>
   <div class="f-corps">
     <p class="basmala">بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</p>
@@ -534,7 +569,6 @@ function rendre(){
 
   $("compteur").textContent = nomFr(c.s) + " · verset " + c.a + " sur " +
                               session[session.length - 1].a;
-  $("btn-sourate").textContent = "☰  " + nomFr(c.s);
   $("btn-theme").textContent = reglages.clair ? "☾" : "☀";
   $("prec").disabled = (i === 0);
   $("suiv").disabled = (i === session.length - 1);
@@ -573,11 +607,20 @@ function basculer(){ retourne = !retourne; appliquer(); }
 
 $("prec").onclick = function(){ aller(-1); };
 $("suiv").onclick = function(){ aller(1); };
-$("btn-theme").onclick = function(){
+function majTheme(){
+  const g = reglages.clair ? "☾" : "☀";
+  $("btn-theme").textContent = g;
+  $("btn-theme-accueil").textContent = g;
+}
+function basculerTheme(){
   reglages.clair = !reglages.clair;
   document.body.dataset.theme = reglages.clair ? "clair" : "nuit";
-  sauver(); rendre();
-};
+  sauver(); majTheme();
+  if (session.length) rendre();
+}
+$("btn-theme").onclick = basculerTheme;
+$("btn-theme-accueil").onclick = basculerTheme;
+majTheme();
 
 document.addEventListener("keydown", function(e){
   const f = document.querySelector(".fenetre.ouvert");
