@@ -172,6 +172,7 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
   font-family:'Cinzel',serif; font-size:11px; opacity:.45; min-width:26px; flex:0 0 auto;
 }
 .ligne .nom{ flex:1 1 auto; }
+.ligne .compte{ font-size:13px; opacity:.4; flex:0 0 auto; }
 .ligne .ar{ font-family:'Amiri',serif; font-size:20px; opacity:.75; }
 
 /* ---------- saut ---------- */
@@ -196,7 +197,21 @@ body[data-theme="clair"] .onglet:hover{ border-color:#9C7B14; color:#6E5608; }
 body[data-theme="clair"] .onglet.principal{
   background:rgba(156,123,20,.15); border-color:#9C7B14; color:#6E5608;
 }
-body[data-theme="clair"] #verso{ border-color:rgba(26,42,68,.3); }
+body[data-theme="clair"] .face{ box-shadow:0 20px 46px rgba(94,72,28,.2); }
+body[data-theme="clair"] #recto{
+  background:linear-gradient(160deg,#FDF8EC 0%,#F3E8D0 100%);
+  border-color:rgba(156,123,20,.5);
+}
+body[data-theme="clair"] #recto::after{ border-color:rgba(156,123,20,.3); }
+body[data-theme="clair"] #recto .eyebrow{ color:#96751A; }
+body[data-theme="clair"] #arabe{ color:#4A3A14; text-shadow:none; }
+body[data-theme="clair"] .indice{ color:rgba(74,58,20,.5); }
+body[data-theme="clair"] #verso{
+  background:linear-gradient(155deg,#F7EFDC 0%,#EBDDC0 58%,#DFCEA9 100%);
+  border-color:rgba(74,58,20,.32); color:#3B2F1C;
+}
+body[data-theme="clair"] #verso .eyebrow{ color:rgba(59,47,28,.55); }
+body[data-theme="clair"] #francais{ color:#3B2F1C; }
 body[data-theme="clair"] .perle{ border-color:rgba(156,123,20,.5); }
 body[data-theme="clair"] .perle[data-courant="true"]{ border-color:#6E5608; }
 body[data-theme="clair"] .cmd{ border-color:rgba(26,42,68,.22); color:rgba(26,42,68,.7); }
@@ -456,8 +471,8 @@ function rendre(){
   $("v-sourate").textContent = nomFr(c.s);
   $("v-ref").textContent = c.s + ":" + c.a;
   $("francais").textContent = c.fr;
-  medaillon($("med-or"), c.a, "#C9A227");
-  medaillon($("med-vert"), c.a, "#2F6B52");
+  medaillon($("med-or"), c.a, reglages.clair ? "#96751A" : "#C9A227");
+  medaillon($("med-vert"), c.a, reglages.clair ? "#2C6349" : "#2F6B52");
 
   $("compteur").textContent = nomFr(c.s) + " · verset " + c.a + " sur " +
                               session[session.length - 1].a;
@@ -576,7 +591,7 @@ document.querySelectorAll("[data-fermer]").forEach(function(b){
   b.onclick = function(){ fermer(b.dataset.fermer); };
 });
 
-$("btn-sourate").onclick = function(){
+function ouvrirListe(){
   const liste = $("liste-sourates");
   liste.innerHTML = "";
   NUMEROS.forEach(function(s){
@@ -594,7 +609,8 @@ $("btn-sourate").onclick = function(){
     liste.appendChild(b);
   });
   ouvrir("f-sourates");
-};
+}
+$("btn-sourate").onclick = ouvrirListe;
 
 function validerSaut(){
   const v = parseInt($("champ").value, 10);
@@ -646,6 +662,7 @@ function demarrer(texte){
 
   if (!NUMEROS.length){ rendre(); return; }
   ouvrirSourate(NUMEROS[0], 1);
+  ouvrirListe();
 }
 
 chargerContenu().then(demarrer);
