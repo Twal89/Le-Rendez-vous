@@ -313,8 +313,8 @@ function analyser(texte){
   return { versets: versets, erreurs: erreurs };
 }
 
-const lu = analyser(window.VERSETS);
-const TOUS = lu.versets.slice().sort(function(x, y){ return x.s - y.s || x.a - y.a; });
+let lu = { versets: [], erreurs: [] };
+let TOUS = [];
 
 /* ---- découpage en portions (tranches de 20 pour les longues sourates) ---- */
 const TAILLE_TRANCHE = 20, SEUIL_TRANCHE = 25;
@@ -339,7 +339,7 @@ function construirePortions(){
   });
   return portions;
 }
-const PORTIONS = construirePortions();
+let PORTIONS = [];
 
 /* =================================================================
    3. État
@@ -353,10 +353,25 @@ let acquis = {}, reglages = { selection: null, aleatoire: false, masquerAcquis: 
 try { acquis = JSON.parse(localStorage.getItem(CLE_ACQUIS) || "{}"); } catch(e) {}
 try { Object.assign(reglages, JSON.parse(localStorage.getItem(CLE_REGL) || "{}")); } catch(e) {}
 
-const idsExistants = PORTIONS.map(function(p){ return p.id; });
-if (!Array.isArray(reglages.selection)) reglages.selection = idsExistants.slice();
-reglages.selection = reglages.selection.filter(function(id){ return idsExistants.indexOf(id) !== -1; });
-if (!reglages.selection.length) reglages.selection = idsExistants.slice();
+let idsExistants = [];
+
+/* Toute portion apparue depuis la dernière visite est cochée d'office :
+   sans cela, une sourate ajoutée à versets.js resterait invisible. */
+function synchroniserSelection(){
+  if (!Array.isArray(reglages.selection)) reglages.selection = [];
+  if (!Array.isArray(reglages.vues)) reglages.vues = [];
+  idsExistants.forEach(function(id){
+    if (reglages.vues.indexOf(id) === -1){
+      reglages.vues.push(id);
+      if (reglages.selection.indexOf(id) === -1) reglages.selection.push(id);
+    }
+  });
+  const vivant = function(id){ return idsExistants.indexOf(id) !== -1; };
+  reglages.selection = reglages.selection.filter(vivant);
+  reglages.vues = reglages.vues.filter(vivant);
+  if (!reglages.selection.length) reglages.selection = idsExistants.slice();
+  sauver();
+}
 
 let session = [], i = 0, retourne = false, drag = 0, enCours = false;
 
@@ -587,16 +602,39 @@ $("p-rien").onclick = function(){ reglages.selection = []; rendrePanneau(); sauv
 /* =================================================================
    7. Démarrage
    ================================================================= */
-if (lu.erreurs.length){
-  const a = $("alerte");
-  a.style.display = "block";
-  a.textContent = lu.erreurs.length + " bloc" + (lu.erreurs.length > 1 ? "s" : "") +
-                  " ignoré" + (lu.erreurs.length > 1 ? "s" : "") + " dans versets.js — toucher pour voir le détail";
-  a.onclick = function(){ a.textContent = lu.erreurs.join(" · "); };
+/* Le fichier de contenu est relu à chaque ouverture, en contournant le cache :
+   une mise à jour sur GitHub est visible immédiatement, sans vidage manuel. */
+function chargerContenu(){
+  return fetch("versets.js?t=" + Date.now(), { cache: "no-store" })
+    .then(function(r){ return r.ok ? r.text() : ""; })
+    .then(function(brut){
+      const d = brut.indexOf("`"), f = brut.lastIndexOf("`");
+      if (d !== -1 && f > d) return brut.slice(d + 1, f);
+      throw new Error("format");
+    })
+    .catch(function(){ return window.VERSETS || ""; });
 }
-if (!reduit) $("carte").classList.add("anime");
-construireSession();
-rendre();
+
+function demarrer(texte){
+  lu = analyser(texte);
+  TOUS = lu.versets.slice().sort(function(x, y){ return x.s - y.s || x.a - y.a; });
+  PORTIONS = construirePortions();
+  idsExistants = PORTIONS.map(function(p){ return p.id; });
+  synchroniserSelection();
+
+  if (lu.erreurs.length){
+    const a = $("alerte");
+    a.style.display = "block";
+    a.textContent = lu.erreurs.length + " bloc" + (lu.erreurs.length > 1 ? "s" : "") +
+                    " ignoré" + (lu.erreurs.length > 1 ? "s" : "") + " dans versets.js — toucher pour voir le détail";
+    a.onclick = function(){ a.textContent = lu.erreurs.join(" · "); };
+  }
+  if (!reduit) $("carte").classList.add("anime");
+  construireSession();
+  rendre();
+}
+
+chargerContenu().then(demarrer);
 </script>
 </body>
 </html>
