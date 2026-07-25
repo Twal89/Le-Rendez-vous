@@ -151,15 +151,41 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
   padding:max(18px, env(safe-area-inset-top)) 16px calc(18px + env(safe-area-inset-bottom));
 }
 .fenetre.ouvert{ display:flex; }
+.fenetre::before{
+  content:''; position:absolute; inset:0; pointer-events:none; opacity:.05;
+  background-image:
+    repeating-linear-gradient(45deg,  #C9A227 0 1px, transparent 1px 28px),
+    repeating-linear-gradient(-45deg, #C9A227 0 1px, transparent 1px 28px);
+}
+.basmala{
+  font-family:'Amiri',serif; direction:rtl; text-align:center; color:var(--or-clair);
+  font-size:clamp(21px,5.6vw,29px); margin:4px 0 16px; opacity:.9;
+  text-shadow:0 1px 20px rgba(201,162,39,.2);
+}
+.ornement{
+  display:block; margin:0 auto 22px; width:min(300px,78%); height:auto;
+  color:var(--or); opacity:.8;
+}
+.pied-verset{ text-align:center; margin:28px 0 8px; }
+.pied-verset .ar{
+  display:block; font-family:'Amiri',serif; direction:rtl;
+  font-size:20px; line-height:2; color:var(--or); opacity:.65;
+}
+.pied-verset .fr{
+  display:block; font-size:12.5px; font-style:italic; opacity:.32; margin-top:8px;
+}
 .f-tete{
   display:flex; justify-content:space-between; align-items:center; gap:12px;
-  max-width:600px; width:100%; margin:0 auto 14px;
+  max-width:600px; width:100%; margin:0 auto 14px; position:relative; z-index:1;
 }
 .f-titre{
   font-family:'Cinzel',serif; font-size:11px; letter-spacing:.3em; text-transform:uppercase;
   color:var(--or);
 }
-.f-corps{ max-width:600px; width:100%; margin:0 auto; overflow-y:auto; flex:1 1 auto; }
+.f-corps{
+  max-width:600px; width:100%; margin:0 auto; overflow-y:auto; flex:1 1 auto;
+  position:relative; z-index:1;
+}
 .ligne{
   display:flex; align-items:center; gap:12px; width:100%; text-align:left;
   padding:14px; margin-bottom:6px; border-radius:12px; cursor:pointer;
@@ -221,6 +247,15 @@ body[data-theme="clair"] #barre .jus{ background:#9C7B14; }
 body[data-theme="clair"] #barre .tete{ background:#8A6C10; }
 body[data-theme="clair"] #alerte{ border-color:rgba(156,123,20,.55); background:rgba(156,123,20,.12); }
 body[data-theme="clair"] .fenetre{ background:rgba(252,246,232,.97); }
+body[data-theme="clair"] .fenetre::before{
+  opacity:.07;
+  background-image:
+    repeating-linear-gradient(45deg,  #96751A 0 1px, transparent 1px 28px),
+    repeating-linear-gradient(-45deg, #96751A 0 1px, transparent 1px 28px);
+}
+body[data-theme="clair"] .basmala{ color:#96751A; text-shadow:none; }
+body[data-theme="clair"] .ornement{ color:#96751A; opacity:.85; }
+body[data-theme="clair"] .pied-verset .ar{ color:#96751A; opacity:.7; }
 body[data-theme="clair"] .f-titre{ color:#8A6C10; }
 body[data-theme="clair"] .ligne{ color:#1A2A44; border-color:rgba(26,42,68,.18); }
 body[data-theme="clair"] .ligne[data-actif="true"]{
@@ -239,7 +274,7 @@ body[data-theme="clair"] #champ{ color:#6E5608; border-bottom-color:rgba(156,123
 <div id="alerte"></div>
 
 <nav>
-  <button class="onglet principal" id="btn-sourate">Sourate</button>
+  <button class="onglet principal" id="btn-sourate" aria-label="Revenir à la liste des sourates">Sourate</button>
   <button class="onglet" id="btn-theme" aria-label="Changer de fond">☀</button>
 </nav>
 
@@ -285,10 +320,33 @@ body[data-theme="clair"] #champ{ color:#6E5608; border-bottom-color:rgba(156,123
 <!-- ---- choix de la sourate ---- -->
 <div id="f-sourates" class="fenetre" role="dialog" aria-modal="true" aria-label="Choisir la sourate">
   <div class="f-tete">
-    <span class="f-titre">Quelle sourate ?</span>
+    <span class="f-titre">Mémoriser · <span style="font-family:Amiri,serif;letter-spacing:0">حِفْظ</span></span>
     <button class="onglet" data-fermer="f-sourates">Fermer</button>
   </div>
-  <div class="f-corps" id="liste-sourates"></div>
+  <div class="f-corps">
+    <p class="basmala">بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</p>
+
+    <svg class="ornement" viewBox="0 0 300 54" fill="none" aria-hidden="true">
+      <g stroke="currentColor" stroke-width="1.1">
+        <path d="M6 27 H96" opacity=".3"/>
+        <path d="M204 27 H294" opacity=".3"/>
+        <path d="M104 27 L112 21 L120 27 L112 33 Z" opacity=".55"/>
+        <path d="M196 27 L188 21 L180 27 L188 33 Z" opacity=".55"/>
+        <rect x="132" y="9" width="36" height="36" opacity=".8"/>
+        <rect x="132" y="9" width="36" height="36" transform="rotate(45 150 27)" opacity=".8"/>
+        <circle cx="150" cy="27" r="24" opacity=".35" stroke-dasharray="3 5"/>
+        <circle cx="150" cy="27" r="6" opacity=".7"/>
+      </g>
+      <circle cx="150" cy="27" r="2.4" fill="currentColor" opacity=".8"/>
+    </svg>
+
+    <div id="liste-sourates"></div>
+
+    <p class="pied-verset">
+      <span class="ar">وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ</span>
+      <span class="fr">Nous avons rendu le Coran facile pour le rappel — 54:17</span>
+    </p>
+  </div>
 </div>
 
 <!-- ---- saut à un verset ---- -->
@@ -476,7 +534,7 @@ function rendre(){
 
   $("compteur").textContent = nomFr(c.s) + " · verset " + c.a + " sur " +
                               session[session.length - 1].a;
-  $("btn-sourate").textContent = nomFr(c.s);
+  $("btn-sourate").textContent = "☰  " + nomFr(c.s);
   $("btn-theme").textContent = reglages.clair ? "☾" : "☀";
   $("prec").disabled = (i === 0);
   $("suiv").disabled = (i === session.length - 1);
