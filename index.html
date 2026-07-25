@@ -44,9 +44,7 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
   color:rgba(234,224,203,.6); cursor:pointer; transition:all .25s;
 }
 .onglet:hover{ border-color:rgba(201,162,39,.6); color:var(--or-clair); }
-.onglet[data-actif="true"]{
-  background:rgba(201,162,39,.13); border-color:var(--or); color:var(--or-clair);
-}
+.onglet.principal{ border-color:var(--or); color:var(--or-clair); background:rgba(201,162,39,.1); }
 .onglet:focus-visible, .cmd:focus-visible, #scene:focus-visible, .ligne:focus-visible{
   outline:2px solid var(--or-clair); outline-offset:3px;
 }
@@ -114,21 +112,27 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 }
 .cmd:hover{ border-color:var(--or); color:var(--or-clair); }
 .cmd[data-actif="true"]{ background:var(--or); border-color:var(--or); color:#0A1120; }
+.cmd[disabled]{ opacity:.25; cursor:default; }
+.cmd[disabled]:hover{ border-color:rgba(201,162,39,.3); color:rgba(234,224,203,.72); }
 
 #jauge{ display:flex; gap:6px; flex-wrap:wrap; justify-content:center; margin-top:14px; max-width:560px; }
 .perle{
   width:9px; height:9px; border-radius:50%; padding:0; cursor:pointer;
   border:1px solid rgba(201,162,39,.4); background:transparent; transition:all .2s;
 }
-.perle[data-acquis="true"]{ background:var(--or); border-color:var(--or); }
 .perle[data-courant="true"]{ transform:scale(1.55); border-color:var(--or-clair); }
 
-#barre{ width:100%; max-width:560px; margin-top:16px; display:none; }
-#barre .rail{ height:3px; background:rgba(201,162,39,.18); border-radius:2px; overflow:hidden; }
-#barre .jus{ height:100%; background:var(--or); width:0%; transition:width .3s; }
+#barre{ width:100%; max-width:560px; margin-top:16px; display:none; cursor:pointer; touch-action:none; }
+#barre .rail{ height:14px; display:flex; align-items:center; }
+#barre .fond{ height:3px; width:100%; background:rgba(201,162,39,.18); border-radius:2px; position:relative; }
+#barre .jus{ position:absolute; inset:0 auto 0 0; background:var(--or); border-radius:2px; width:0%; }
+#barre .tete{
+  position:absolute; top:50%; width:11px; height:11px; margin:-5.5px 0 0 -5.5px;
+  border-radius:50%; background:var(--or-clair); left:0;
+}
 #barre .txt{
   font-family:'Cinzel',serif; font-size:9.5px; letter-spacing:.22em; text-transform:uppercase;
-  opacity:.45; text-align:center; margin-top:8px;
+  opacity:.45; text-align:center; margin-top:6px;
 }
 
 .note{ font-size:12.5px; opacity:.33; margin:12px 0 0; text-align:center; font-style:italic; }
@@ -140,43 +144,74 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 #vide{ max-width:520px; text-align:center; margin-top:40px; line-height:1.7; opacity:.7; display:none; }
 #vide code{ font-family:ui-monospace,Menlo,monospace; font-size:13px; color:var(--or-clair); }
 
-/* ---- panneau de sélection ---- */
-#panneau{
+/* ---------- fenêtres ---------- */
+.fenetre{
   position:fixed; inset:0; z-index:50; display:none; flex-direction:column;
   background:rgba(6,11,20,.97); backdrop-filter:blur(6px);
   padding:max(18px, env(safe-area-inset-top)) 16px calc(18px + env(safe-area-inset-bottom));
 }
-#panneau.ouvert{ display:flex; }
-.p-tete{
+.fenetre.ouvert{ display:flex; }
+.f-tete{
   display:flex; justify-content:space-between; align-items:center; gap:12px;
   max-width:600px; width:100%; margin:0 auto 14px;
 }
-.p-titre{
+.f-titre{
   font-family:'Cinzel',serif; font-size:11px; letter-spacing:.3em; text-transform:uppercase;
   color:var(--or);
 }
-.p-corps{ max-width:600px; width:100%; margin:0 auto; overflow-y:auto; flex:1 1 auto; }
-.p-section{
-  font-family:'Cinzel',serif; font-size:9.5px; letter-spacing:.24em; text-transform:uppercase;
-  opacity:.4; margin:18px 0 8px;
-}
+.f-corps{ max-width:600px; width:100%; margin:0 auto; overflow-y:auto; flex:1 1 auto; }
 .ligne{
   display:flex; align-items:center; gap:12px; width:100%; text-align:left;
-  padding:12px 14px; margin-bottom:6px; border-radius:12px; cursor:pointer;
+  padding:14px; margin-bottom:6px; border-radius:12px; cursor:pointer;
   border:1px solid rgba(201,162,39,.16); background:transparent;
-  color:var(--parchemin); font-family:'EB Garamond',serif; font-size:16px;
+  color:var(--parchemin); font-family:'EB Garamond',serif; font-size:17px;
   transition:all .2s;
 }
-.ligne[data-coche="true"]{ border-color:rgba(201,162,39,.55); background:rgba(201,162,39,.09); }
-.case{
-  width:16px; height:16px; border-radius:4px; flex:0 0 auto;
-  border:1px solid rgba(201,162,39,.5);
+.ligne[data-actif="true"]{ border-color:rgba(201,162,39,.6); background:rgba(201,162,39,.1); }
+.ligne .num{
+  font-family:'Cinzel',serif; font-size:11px; opacity:.45; min-width:26px; flex:0 0 auto;
 }
-.ligne[data-coche="true"] .case{ background:var(--or); border-color:var(--or); }
 .ligne .nom{ flex:1 1 auto; }
-.ligne .ar{ font-family:'Amiri',serif; font-size:19px; opacity:.75; }
-.ligne .compte{ font-size:13px; opacity:.42; }
-.p-actions{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-top:16px; }
+.ligne .ar{ font-family:'Amiri',serif; font-size:20px; opacity:.75; }
+
+/* ---------- saut ---------- */
+#saut .f-corps{ display:flex; flex-direction:column; align-items:center; justify-content:center; gap:18px; }
+#champ{
+  width:190px; text-align:center; background:transparent; color:var(--or-clair);
+  border:none; border-bottom:1px solid rgba(201,162,39,.5);
+  font-family:'Cinzel',serif; font-size:46px; letter-spacing:4px; padding:6px 0;
+}
+#champ:focus{ outline:none; border-bottom-color:var(--or); }
+#saut .aide{ font-size:14px; opacity:.5; font-style:italic; text-align:center; }
+#saut .actions{ display:flex; gap:10px; }
+
+/* ---------- fond clair ---------- */
+body[data-theme="clair"]{
+  background:radial-gradient(120% 80% at 50% -10%, #FCF6E8 0%, #F1E6CF 55%, #E2D4B5 100%);
+  background-attachment:fixed; color:#1A2A44;
+}
+body[data-theme="clair"] h1{ color:#9C7B14; opacity:1; }
+body[data-theme="clair"] .onglet{ border-color:rgba(26,42,68,.22); color:rgba(26,42,68,.6); }
+body[data-theme="clair"] .onglet:hover{ border-color:#9C7B14; color:#6E5608; }
+body[data-theme="clair"] .onglet.principal{
+  background:rgba(156,123,20,.15); border-color:#9C7B14; color:#6E5608;
+}
+body[data-theme="clair"] #verso{ border-color:rgba(26,42,68,.3); }
+body[data-theme="clair"] .perle{ border-color:rgba(156,123,20,.5); }
+body[data-theme="clair"] .perle[data-courant="true"]{ border-color:#6E5608; }
+body[data-theme="clair"] .cmd{ border-color:rgba(26,42,68,.22); color:rgba(26,42,68,.7); }
+body[data-theme="clair"] .cmd[data-actif="true"]{ background:#9C7B14; border-color:#9C7B14; color:#FCF6E8; }
+body[data-theme="clair"] #barre .fond{ background:rgba(26,42,68,.14); }
+body[data-theme="clair"] #barre .jus{ background:#9C7B14; }
+body[data-theme="clair"] #barre .tete{ background:#8A6C10; }
+body[data-theme="clair"] #alerte{ border-color:rgba(156,123,20,.55); background:rgba(156,123,20,.12); }
+body[data-theme="clair"] .fenetre{ background:rgba(252,246,232,.97); }
+body[data-theme="clair"] .f-titre{ color:#8A6C10; }
+body[data-theme="clair"] .ligne{ color:#1A2A44; border-color:rgba(26,42,68,.18); }
+body[data-theme="clair"] .ligne[data-actif="true"]{
+  background:rgba(156,123,20,.13); border-color:rgba(156,123,20,.6);
+}
+body[data-theme="clair"] #champ{ color:#6E5608; border-bottom-color:rgba(156,123,20,.5); }
 </style>
 </head>
 <body>
@@ -189,9 +224,8 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 <div id="alerte"></div>
 
 <nav>
-  <button class="onglet" id="btn-choisir">Choisir</button>
-  <button class="onglet" id="btn-ordre">Ordre naturel</button>
-  <button class="onglet" id="btn-filtre">Tout réviser</button>
+  <button class="onglet principal" id="btn-sourate">Sourate</button>
+  <button class="onglet" id="btn-theme" aria-label="Changer de fond">☀</button>
 </nav>
 
 <div id="scene" role="button" tabindex="0" aria-label="Carte : glisse à l’horizontale pour retourner">
@@ -216,12 +250,15 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 
 <div class="commandes">
   <button class="cmd" id="prec" aria-label="Verset précédent">&larr;</button>
-  <button class="cmd" id="acquis">Je le connais</button>
+  <button class="cmd" id="btn-saut">Aller au verset</button>
   <button class="cmd" id="suiv" aria-label="Verset suivant">&rarr;</button>
 </div>
 
 <div id="jauge"></div>
-<div id="barre"><div class="rail"><div class="jus"></div></div><div class="txt"></div></div>
+<div id="barre">
+  <div class="rail"><div class="fond"><div class="jus"></div><div class="tete"></div></div></div>
+  <div class="txt"></div>
+</div>
 
 <p class="note">Glisse à l’horizontale pour retourner la carte · vers le haut pour la suivante</p>
 
@@ -230,16 +267,28 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
   <p>Ouvre le fichier <code>versets.js</code> et ajoute tes blocs, puis recharge la page.</p>
 </div>
 
-<!-- ---- panneau de sélection ---- -->
-<div id="panneau" role="dialog" aria-modal="true" aria-label="Choisir les versets à réviser">
-  <div class="p-tete">
-    <span class="p-titre">Que veux-tu réviser ?</span>
-    <button class="onglet" id="p-fermer">Fermer</button>
+<!-- ---- choix de la sourate ---- -->
+<div id="f-sourates" class="fenetre" role="dialog" aria-modal="true" aria-label="Choisir la sourate">
+  <div class="f-tete">
+    <span class="f-titre">Quelle sourate ?</span>
+    <button class="onglet" data-fermer="f-sourates">Fermer</button>
   </div>
-  <div class="p-corps" id="p-liste"></div>
-  <div class="p-actions">
-    <button class="onglet" id="p-tout">Tout cocher</button>
-    <button class="onglet" id="p-rien">Tout décocher</button>
+  <div class="f-corps" id="liste-sourates"></div>
+</div>
+
+<!-- ---- saut à un verset ---- -->
+<div id="saut" class="fenetre" role="dialog" aria-modal="true" aria-label="Aller à un verset">
+  <div class="f-tete">
+    <span class="f-titre">Aller au verset</span>
+    <button class="onglet" data-fermer="saut">Fermer</button>
+  </div>
+  <div class="f-corps">
+    <input id="champ" type="text" inputmode="numeric" pattern="[0-9]*" autocomplete="off" aria-label="Numéro du verset">
+    <p class="aide" id="aide-saut"></p>
+    <div class="actions">
+      <button class="onglet" id="saut-debut">Premier verset</button>
+      <button class="onglet principal" id="saut-ok">Y aller</button>
+    </div>
   </div>
 </div>
 
@@ -278,8 +327,8 @@ const SOURATES = [null,
 ["Al-Kāfirūn","الكافرون"],["An-Naṣr","النصر"],["Al-Masad","المسد"],["Al-Ikhlāṣ","الإخلاص"],
 ["Al-Falaq","الفلق"],["An-Nās","الناس"]
 ];
-const nomFr = (s) => (SOURATES[s] ? SOURATES[s][0] : "Sourate " + s);
-const nomAr = (s) => (SOURATES[s] ? SOURATES[s][1] : "");
+const nomFr = function(s){ return SOURATES[s] ? SOURATES[s][0] : "Sourate " + s; };
+const nomAr = function(s){ return SOURATES[s] ? SOURATES[s][1] : ""; };
 
 /* =================================================================
    2. Lecture du fichier versets.js
@@ -313,93 +362,24 @@ function analyser(texte){
   return { versets: versets, erreurs: erreurs };
 }
 
-let lu = { versets: [], erreurs: [] };
-let TOUS = [];
-
-/* ---- découpage en portions (tranches de 20 pour les longues sourates) ---- */
-const TAILLE_TRANCHE = 20, SEUIL_TRANCHE = 25;
-function construirePortions(){
-  const parSourate = {};
-  TOUS.forEach(function(v){ (parSourate[v.s] = parSourate[v.s] || []).push(v); });
-  const portions = [];
-  Object.keys(parSourate).map(Number).sort(function(a,b){ return a-b; }).forEach(function(s){
-    const liste = parSourate[s];
-    if (liste.length <= SEUIL_TRANCHE){
-      portions.push({ id: s + "#0", s:s, nom: nomFr(s), ar: nomAr(s), versets: liste });
-    } else {
-      for (let d = 0; d < liste.length; d += TAILLE_TRANCHE){
-        const t = liste.slice(d, d + TAILLE_TRANCHE);
-        portions.push({
-          id: s + "#" + (d / TAILLE_TRANCHE),
-          s: s, nom: nomFr(s) + " · " + t[0].a + "–" + t[t.length-1].a,
-          ar: nomAr(s), versets: t
-        });
-      }
-    }
-  });
-  return portions;
-}
-let PORTIONS = [];
-
 /* =================================================================
    3. État
    ================================================================= */
-const CLE_ACQUIS = "coran:acquis", CLE_REGL = "coran:reglages";
+const CLE_REGL = "coran:reglages";
 const $ = function(id){ return document.getElementById(id); };
-const cle = function(c){ return c.s + ":" + c.a; };
 const reduit = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-let acquis = {}, reglages = { selection: null, aleatoire: false, masquerAcquis: false };
-try { acquis = JSON.parse(localStorage.getItem(CLE_ACQUIS) || "{}"); } catch(e) {}
+let reglages = { clair: false };
 try { Object.assign(reglages, JSON.parse(localStorage.getItem(CLE_REGL) || "{}")); } catch(e) {}
+document.body.dataset.theme = reglages.clair ? "clair" : "nuit";
 
-let idsExistants = [];
-
-/* Toute portion apparue depuis la dernière visite est cochée d'office :
-   sans cela, une sourate ajoutée à versets.js resterait invisible. */
-function synchroniserSelection(){
-  if (!Array.isArray(reglages.selection)) reglages.selection = [];
-  if (!Array.isArray(reglages.vues)) reglages.vues = [];
-  idsExistants.forEach(function(id){
-    if (reglages.vues.indexOf(id) === -1){
-      reglages.vues.push(id);
-      if (reglages.selection.indexOf(id) === -1) reglages.selection.push(id);
-    }
-  });
-  const vivant = function(id){ return idsExistants.indexOf(id) !== -1; };
-  reglages.selection = reglages.selection.filter(vivant);
-  reglages.vues = reglages.vues.filter(vivant);
-  if (!reglages.selection.length) reglages.selection = idsExistants.slice();
-  sauver();
-}
-
-let session = [], i = 0, retourne = false, drag = 0, enCours = false;
+let lu = { versets: [], erreurs: [] };
+let PAR_SOURATE = {}, NUMEROS = [];
+let sCourante = null, session = [], i = 0;
+let retourne = false, drag = 0, enCours = false;
 
 function sauver(){
-  try { localStorage.setItem(CLE_ACQUIS, JSON.stringify(acquis)); } catch(e) {}
   try { localStorage.setItem(CLE_REGL, JSON.stringify(reglages)); } catch(e) {}
-}
-
-function melanger(t){
-  for (let k = t.length - 1; k > 0; k--){
-    const j = Math.floor(Math.random() * (k + 1));
-    const tmp = t[k]; t[k] = t[j]; t[j] = tmp;
-  }
-  return t;
-}
-
-function construireSession(){
-  let liste = [];
-  PORTIONS.forEach(function(p){
-    if (reglages.selection.indexOf(p.id) !== -1) liste = liste.concat(p.versets);
-  });
-  if (reglages.masquerAcquis){
-    const restants = liste.filter(function(v){ return !acquis[cle(v)]; });
-    if (restants.length) liste = restants;
-  }
-  if (reglages.aleatoire) liste = melanger(liste.slice());
-  session = liste;
-  if (i >= session.length) i = 0;
 }
 
 /* =================================================================
@@ -445,8 +425,7 @@ function rendreProgression(){
     session.forEach(function(c, k){
       const b = document.createElement("button");
       b.className = "perle";
-      b.setAttribute("aria-label", "Verset " + cle(c));
-      if (acquis[cle(c)]) b.dataset.acquis = "true";
+      b.setAttribute("aria-label", "Verset " + c.a);
       if (k === i) b.dataset.courant = "true";
       b.onclick = function(){ i = k; retourne = false; rendre(); };
       $("jauge").appendChild(b);
@@ -454,8 +433,10 @@ function rendreProgression(){
   } else {
     $("jauge").style.display = "none";
     $("barre").style.display = "block";
-    $("barre").querySelector(".jus").style.width = ((i + 1) / total * 100) + "%";
-    $("barre").querySelector(".txt").textContent = (i + 1) + " / " + total;
+    const r = total > 1 ? i / (total - 1) : 0;
+    $("barre").querySelector(".jus").style.width = (r * 100) + "%";
+    $("barre").querySelector(".tete").style.left = (r * 100) + "%";
+    $("barre").querySelector(".txt").textContent = "verset " + session[i].a + " · " + (i + 1) + " / " + total;
   }
 }
 
@@ -478,14 +459,12 @@ function rendre(){
   medaillon($("med-or"), c.a, "#C9A227");
   medaillon($("med-vert"), c.a, "#2F6B52");
 
-  const n = Object.keys(acquis).length;
-  $("compteur").textContent = n + " verset" + (n > 1 ? "s" : "") + " acquis sur " + TOUS.length + " chargés";
-  $("acquis").textContent = acquis[cle(c)] ? "Acquis" : "Je le connais";
-  $("acquis").dataset.actif = acquis[cle(c)] ? "true" : "false";
-  $("btn-ordre").textContent = reglages.aleatoire ? "Aléatoire" : "Ordre naturel";
-  $("btn-ordre").dataset.actif = reglages.aleatoire ? "true" : "false";
-  $("btn-filtre").textContent = reglages.masquerAcquis ? "Non acquis" : "Tout réviser";
-  $("btn-filtre").dataset.actif = reglages.masquerAcquis ? "true" : "false";
+  $("compteur").textContent = nomFr(c.s) + " · verset " + c.a + " sur " +
+                              session[session.length - 1].a;
+  $("btn-sourate").textContent = nomFr(c.s);
+  $("btn-theme").textContent = reglages.clair ? "☾" : "☀";
+  $("prec").disabled = (i === 0);
+  $("suiv").disabled = (i === session.length - 1);
 
   rendreProgression();
   appliquer();
@@ -493,36 +472,45 @@ function rendre(){
 }
 
 /* =================================================================
-   5. Navigation et gestes
+   5. Navigation
    ================================================================= */
 function aller(d){
   if (!session.length) return;
-  retourne = false; drag = 0;
-  i = (i + d + session.length) % session.length;
+  const n = Math.min(Math.max(i + d, 0), session.length - 1);
+  if (n === i) return;
+  i = n; retourne = false; drag = 0;
   rendre();
 }
+
+function ouvrirSourate(s, verset){
+  sCourante = s;
+  session = PAR_SOURATE[s] || [];
+  i = 0;
+  if (verset != null){
+    for (let k = 0; k < session.length; k++){
+      if (session[k].a >= verset){ i = k; break; }
+      if (k === session.length - 1) i = k;
+    }
+  }
+  retourne = false; drag = 0;
+  rendre();
+}
+
 function basculer(){ retourne = !retourne; appliquer(); }
 
 $("prec").onclick = function(){ aller(-1); };
 $("suiv").onclick = function(){ aller(1); };
-$("acquis").onclick = function(){
-  if (!session.length) return;
-  const k = cle(session[i]);
-  if (acquis[k]) delete acquis[k]; else acquis[k] = 1;
+$("btn-theme").onclick = function(){
+  reglages.clair = !reglages.clair;
+  document.body.dataset.theme = reglages.clair ? "clair" : "nuit";
   sauver(); rendre();
-};
-$("btn-ordre").onclick = function(){
-  reglages.aleatoire = !reglages.aleatoire;
-  i = 0; sauver(); construireSession(); rendre();
-};
-$("btn-filtre").onclick = function(){
-  reglages.masquerAcquis = !reglages.masquerAcquis;
-  i = 0; sauver(); construireSession(); rendre();
 };
 
 document.addEventListener("keydown", function(e){
-  if ($("panneau").classList.contains("ouvert")){
-    if (e.key === "Escape") fermerPanneau();
+  const f = document.querySelector(".fenetre.ouvert");
+  if (f){
+    if (e.key === "Escape") fermer(f.id);
+    else if (e.key === "Enter" && f.id === "saut") validerSaut();
     return;
   }
   if (e.key === "ArrowRight" || e.key === "ArrowDown") aller(1);
@@ -530,6 +518,7 @@ document.addEventListener("keydown", function(e){
   else if (e.key === " " || e.key === "Enter") { e.preventDefault(); basculer(); }
 });
 
+/* ---- gestes sur la carte ---- */
 const scene = $("scene");
 let p0 = { x:0, y:0, axe:null };
 scene.addEventListener("pointerdown", function(e){
@@ -560,50 +549,72 @@ scene.addEventListener("pointercancel", relacher);
 window.addEventListener("resize", ajusterTout);
 if (document.fonts && document.fonts.ready) document.fonts.ready.then(ajusterTout);
 
-/* =================================================================
-   6. Panneau de sélection
-   ================================================================= */
-function rendrePanneau(){
-  const liste = $("p-liste");
-  liste.innerHTML = "";
-  const titre = document.createElement("div");
-  titre.className = "p-section";
-  titre.textContent = PORTIONS.length + " portion" + (PORTIONS.length > 1 ? "s" : "") + " disponible" + (PORTIONS.length > 1 ? "s" : "");
-  liste.appendChild(titre);
+/* ---- glissement sur la barre de progression ---- */
+(function(){
+  const b = $("barre");
+  let actif = false;
+  const placer = function(e){
+    const r = b.querySelector(".fond").getBoundingClientRect();
+    const ratio = Math.min(Math.max((e.clientX - r.left) / r.width, 0), 1);
+    const n = Math.round(ratio * (session.length - 1));
+    if (n !== i){ i = n; retourne = false; rendre(); }
+  };
+  b.addEventListener("pointerdown", function(e){
+    actif = true; b.setPointerCapture(e.pointerId); placer(e);
+  });
+  b.addEventListener("pointermove", function(e){ if (actif) placer(e); });
+  b.addEventListener("pointerup", function(){ actif = false; });
+  b.addEventListener("pointercancel", function(){ actif = false; });
+})();
 
-  PORTIONS.forEach(function(p){
+/* =================================================================
+   6. Fenêtres
+   ================================================================= */
+function ouvrir(id){ $(id).classList.add("ouvert"); }
+function fermer(id){ $(id).classList.remove("ouvert"); }
+document.querySelectorAll("[data-fermer]").forEach(function(b){
+  b.onclick = function(){ fermer(b.dataset.fermer); };
+});
+
+$("btn-sourate").onclick = function(){
+  const liste = $("liste-sourates");
+  liste.innerHTML = "";
+  NUMEROS.forEach(function(s){
     const b = document.createElement("button");
     b.className = "ligne";
-    b.dataset.coche = reglages.selection.indexOf(p.id) !== -1 ? "true" : "false";
-    b.innerHTML = '<span class="case"></span>' +
-                  '<span class="nom">' + p.nom + '</span>' +
-                  '<span class="compte">' + p.versets.length + '</span>' +
-                  '<span class="ar">' + p.ar + '</span>';
+    if (s === sCourante) b.dataset.actif = "true";
+    b.innerHTML = '<span class="num">' + s + '</span>' +
+                  '<span class="nom">' + nomFr(s) + '</span>' +
+                  '<span class="compte">' + PAR_SOURATE[s].length + '</span>' +
+                  '<span class="ar">' + nomAr(s) + '</span>';
     b.onclick = function(){
-      const k = reglages.selection.indexOf(p.id);
-      if (k === -1) reglages.selection.push(p.id); else reglages.selection.splice(k, 1);
-      b.dataset.coche = k === -1 ? "true" : "false";
-      sauver();
+      fermer("f-sourates");
+      ouvrirSourate(s, 1);
     };
     liste.appendChild(b);
   });
+  ouvrir("f-sourates");
+};
+
+function validerSaut(){
+  const v = parseInt($("champ").value, 10);
+  if (!isNaN(v)) ouvrirSourate(sCourante, v);
+  fermer("saut");
 }
-function ouvrirPanneau(){ rendrePanneau(); $("panneau").classList.add("ouvert"); }
-function fermerPanneau(){
-  $("panneau").classList.remove("ouvert");
-  if (!reglages.selection.length) reglages.selection = idsExistants.slice();
-  i = 0; sauver(); construireSession(); rendre();
-}
-$("btn-choisir").onclick = ouvrirPanneau;
-$("p-fermer").onclick = fermerPanneau;
-$("p-tout").onclick = function(){ reglages.selection = idsExistants.slice(); rendrePanneau(); sauver(); };
-$("p-rien").onclick = function(){ reglages.selection = []; rendrePanneau(); sauver(); };
+$("btn-saut").onclick = function(){
+  if (!session.length) return;
+  $("aide-saut").textContent = nomFr(sCourante) + " · versets " +
+                               session[0].a + " à " + session[session.length - 1].a + " chargés";
+  $("champ").value = "";
+  ouvrir("saut");
+  setTimeout(function(){ $("champ").focus(); }, 60);
+};
+$("saut-ok").onclick = validerSaut;
+$("saut-debut").onclick = function(){ ouvrirSourate(sCourante, 1); fermer("saut"); };
 
 /* =================================================================
    7. Démarrage
    ================================================================= */
-/* Le fichier de contenu est relu à chaque ouverture, en contournant le cache :
-   une mise à jour sur GitHub est visible immédiatement, sans vidage manuel. */
 function chargerContenu(){
   return fetch("versets.js?t=" + Date.now(), { cache: "no-store" })
     .then(function(r){ return r.ok ? r.text() : ""; })
@@ -617,10 +628,12 @@ function chargerContenu(){
 
 function demarrer(texte){
   lu = analyser(texte);
-  TOUS = lu.versets.slice().sort(function(x, y){ return x.s - y.s || x.a - y.a; });
-  PORTIONS = construirePortions();
-  idsExistants = PORTIONS.map(function(p){ return p.id; });
-  synchroniserSelection();
+  PAR_SOURATE = {};
+  lu.versets.forEach(function(v){ (PAR_SOURATE[v.s] = PAR_SOURATE[v.s] || []).push(v); });
+  NUMEROS = Object.keys(PAR_SOURATE).map(Number).sort(function(a, b){ return a - b; });
+  NUMEROS.forEach(function(s){
+    PAR_SOURATE[s].sort(function(x, y){ return x.a - y.a; });
+  });
 
   if (lu.erreurs.length){
     const a = $("alerte");
@@ -630,8 +643,9 @@ function demarrer(texte){
     a.onclick = function(){ a.textContent = lu.erreurs.join(" · "); };
   }
   if (!reduit) $("carte").classList.add("anime");
-  construireSession();
-  rendre();
+
+  if (!NUMEROS.length){ rendre(); return; }
+  ouvrirSourate(NUMEROS[0], 1);
 }
 
 chargerContenu().then(demarrer);
