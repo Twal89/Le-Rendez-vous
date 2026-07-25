@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0A1120">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Mémoriser">
+<title>Mémoriser · حِفْظ</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --nuit:#0A1120; --or:#C9A227; --or-clair:#E3C365;
+  --parchemin:#EAE0CB; --encre:#241C12; --vert:#2F6B52;
+}
+*{ box-sizing:border-box; -webkit-tap-highlight-color:transparent; }
+html,body{ margin:0; padding:0; }
+body{
+  min-height:100dvh;
+  display:flex; flex-direction:column; align-items:center; justify-content:flex-start;
+  padding:max(16px, env(safe-area-inset-top)) 16px calc(18px + env(safe-area-inset-bottom));
+  background:radial-gradient(120% 80% at 50% -10%, #1B2C44 0%, var(--nuit) 55%, #060B14 100%);
+  background-attachment:fixed;
+  color:var(--parchemin);
+  font-family:'EB Garamond', Georgia, serif;
+}
+
+header{ text-align:center; margin-bottom:10px; }
+h1{
+  font-family:'Cinzel', serif; font-size:12px; letter-spacing:.34em;
+  text-transform:uppercase; color:var(--or); opacity:.85; margin:0; font-weight:600;
+}
+h1 .ar{ font-family:'Amiri', serif; font-size:17px; letter-spacing:0; }
+#compteur{ font-size:14px; opacity:.5; margin:6px 0 0; font-style:italic; }
+
+nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-bottom:14px; }
+.onglet{
+  font-family:'Cinzel', serif; font-size:10.5px; letter-spacing:.16em;
+  text-transform:uppercase; padding:8px 14px; border-radius:999px;
+  border:1px solid rgba(201,162,39,.28); background:transparent;
+  color:rgba(234,224,203,.6); cursor:pointer; transition:all .25s;
+}
+.onglet:hover{ border-color:rgba(201,162,39,.6); color:var(--or-clair); }
+.onglet[data-actif="true"]{
+  background:rgba(201,162,39,.13); border-color:var(--or); color:var(--or-clair);
+}
+.onglet:focus-visible, .cmd:focus-visible, #scene:focus-visible, .ligne:focus-visible{
+  outline:2px solid var(--or-clair); outline-offset:3px;
+}
+
+#scene{
+  position:relative; width:100%; max-width:560px;
+  height:clamp(380px, 62dvh, 620px); flex:0 0 auto;
+  perspective:1600px; touch-action:none; cursor:grab;
+}
+#scene:active{ cursor:grabbing; }
+#carte{ position:absolute; inset:0; transform-style:preserve-3d; }
+#carte.anime{ transition:transform .62s cubic-bezier(.2,.75,.25,1); }
+
+.face{
+  position:absolute; inset:0; backface-visibility:hidden; -webkit-backface-visibility:hidden;
+  border-radius:20px; padding:24px 20px 18px; display:flex; flex-direction:column;
+  justify-content:space-between; overflow:hidden;
+  box-shadow:0 26px 60px rgba(0,0,0,.55);
+}
+#recto{
+  background:linear-gradient(160deg,#16243A 0%,#0D1727 100%);
+  border:1px solid rgba(201,162,39,.34);
+}
+#recto::after{
+  content:''; position:absolute; inset:9px; border-radius:13px;
+  border:1px solid rgba(201,162,39,.16); pointer-events:none;
+}
+#verso{
+  transform:rotateY(180deg);
+  background:linear-gradient(155deg,#F1E8D5 0%,var(--parchemin) 58%,#DCCFB4 100%);
+  border:1px solid rgba(36,28,18,.22); color:var(--encre);
+}
+
+.eyebrow{
+  font-family:'Cinzel', serif; font-size:10px; letter-spacing:.28em;
+  text-transform:uppercase; display:flex; justify-content:space-between; align-items:center;
+  flex:0 0 auto; gap:10px;
+}
+#recto .eyebrow{ color:rgba(201,162,39,.75); }
+#verso .eyebrow{ color:rgba(36,28,18,.5); }
+.eyebrow .ar{ font-family:'Amiri', serif; font-size:18px; letter-spacing:0; }
+
+.corps{
+  flex:1 1 auto; min-height:0; display:flex; align-items:center; justify-content:center;
+  overflow-y:auto; overscroll-behavior:contain; padding:10px 0;
+}
+#arabe{
+  font-family:'Amiri','Scheherazade New','Geeza Pro','Traditional Arabic',serif;
+  direction:rtl; text-align:center; color:#F7F1E3; margin:0; width:100%;
+  line-height:1.95; text-shadow:0 1px 16px rgba(201,162,39,.16);
+}
+#francais{ text-align:center; margin:0; width:100%; line-height:1.55; color:var(--encre); }
+
+.pied{ display:flex; flex-direction:column; align-items:center; gap:6px; flex:0 0 auto; }
+.indice{
+  font-family:'Cinzel',serif; font-size:9.5px; letter-spacing:.24em;
+  text-transform:uppercase; opacity:.4; color:var(--parchemin);
+}
+
+.commandes{ display:flex; align-items:center; gap:10px; margin-top:16px; }
+.cmd{
+  font-family:'Cinzel',serif; font-size:10px; letter-spacing:.18em; text-transform:uppercase;
+  padding:11px 18px; border-radius:999px; cursor:pointer; transition:all .22s;
+  border:1px solid rgba(201,162,39,.3); background:transparent; color:rgba(234,224,203,.72);
+}
+.cmd:hover{ border-color:var(--or); color:var(--or-clair); }
+.cmd[data-actif="true"]{ background:var(--or); border-color:var(--or); color:#0A1120; }
+
+#jauge{ display:flex; gap:6px; flex-wrap:wrap; justify-content:center; margin-top:14px; max-width:560px; }
+.perle{
+  width:9px; height:9px; border-radius:50%; padding:0; cursor:pointer;
+  border:1px solid rgba(201,162,39,.4); background:transparent; transition:all .2s;
+}
+.perle[data-acquis="true"]{ background:var(--or); border-color:var(--or); }
+.perle[data-courant="true"]{ transform:scale(1.55); border-color:var(--or-clair); }
+
+#barre{ width:100%; max-width:560px; margin-top:16px; display:none; }
+#barre .rail{ height:3px; background:rgba(201,162,39,.18); border-radius:2px; overflow:hidden; }
+#barre .jus{ height:100%; background:var(--or); width:0%; transition:width .3s; }
+#barre .txt{
+  font-family:'Cinzel',serif; font-size:9.5px; letter-spacing:.22em; text-transform:uppercase;
+  opacity:.45; text-align:center; margin-top:8px;
+}
+
+.note{ font-size:12.5px; opacity:.33; margin:12px 0 0; text-align:center; font-style:italic; }
+#alerte{
+  max-width:560px; margin:0 0 12px; padding:10px 14px; border-radius:12px;
+  border:1px solid rgba(201,162,39,.45); background:rgba(201,162,39,.08);
+  font-size:13px; line-height:1.5; display:none; cursor:pointer;
+}
+#vide{ max-width:520px; text-align:center; margin-top:40px; line-height:1.7; opacity:.7; display:none; }
+#vide code{ font-family:ui-monospace,Menlo,monospace; font-size:13px; color:var(--or-clair); }
+
+/* ---- panneau de sélection ---- */
+#panneau{
+  position:fixed; inset:0; z-index:50; display:none; flex-direction:column;
+  background:rgba(6,11,20,.97); backdrop-filter:blur(6px);
+  padding:max(18px, env(safe-area-inset-top)) 16px calc(18px + env(safe-area-inset-bottom));
+}
+#panneau.ouvert{ display:flex; }
+.p-tete{
+  display:flex; justify-content:space-between; align-items:center; gap:12px;
+  max-width:600px; width:100%; margin:0 auto 14px;
+}
+.p-titre{
+  font-family:'Cinzel',serif; font-size:11px; letter-spacing:.3em; text-transform:uppercase;
+  color:var(--or);
+}
+.p-corps{ max-width:600px; width:100%; margin:0 auto; overflow-y:auto; flex:1 1 auto; }
+.p-section{
+  font-family:'Cinzel',serif; font-size:9.5px; letter-spacing:.24em; text-transform:uppercase;
+  opacity:.4; margin:18px 0 8px;
+}
+.ligne{
+  display:flex; align-items:center; gap:12px; width:100%; text-align:left;
+  padding:12px 14px; margin-bottom:6px; border-radius:12px; cursor:pointer;
+  border:1px solid rgba(201,162,39,.16); background:transparent;
+  color:var(--parchemin); font-family:'EB Garamond',serif; font-size:16px;
+  transition:all .2s;
+}
+.ligne[data-coche="true"]{ border-color:rgba(201,162,39,.55); background:rgba(201,162,39,.09); }
+.case{
+  width:16px; height:16px; border-radius:4px; flex:0 0 auto;
+  border:1px solid rgba(201,162,39,.5);
+}
+.ligne[data-coche="true"] .case{ background:var(--or); border-color:var(--or); }
+.ligne .nom{ flex:1 1 auto; }
+.ligne .ar{ font-family:'Amiri',serif; font-size:19px; opacity:.75; }
+.ligne .compte{ font-size:13px; opacity:.42; }
+.p-actions{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-top:16px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Mémoriser · <span class="ar">حِفْظ</span></h1>
+  <p id="compteur"></p>
+</header>
+
+<div id="alerte"></div>
+
+<nav>
+  <button class="onglet" id="btn-choisir">Choisir</button>
+  <button class="onglet" id="btn-ordre">Ordre naturel</button>
+  <button class="onglet" id="btn-filtre">Tout réviser</button>
+</nav>
+
+<div id="scene" role="button" tabindex="0" aria-label="Carte : glisse à l’horizontale pour retourner">
+  <div id="carte">
+    <div class="face" id="recto">
+      <div class="eyebrow"><span id="r-sourate"></span><span class="ar" id="r-ar"></span></div>
+      <div class="corps"><p id="arabe" lang="ar"></p></div>
+      <div class="pied">
+        <svg id="med-or" width="62" height="45" viewBox="0 0 100 72" aria-hidden="true"></svg>
+        <span class="indice">Glisse pour retourner</span>
+      </div>
+    </div>
+    <div class="face" id="verso">
+      <div class="eyebrow"><span id="v-sourate"></span><span id="v-ref"></span></div>
+      <div class="corps"><p id="francais"></p></div>
+      <div class="pied">
+        <svg id="med-vert" width="52" height="38" viewBox="0 0 100 72" aria-hidden="true"></svg>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="commandes">
+  <button class="cmd" id="prec" aria-label="Verset précédent">&larr;</button>
+  <button class="cmd" id="acquis">Je le connais</button>
+  <button class="cmd" id="suiv" aria-label="Verset suivant">&rarr;</button>
+</div>
+
+<div id="jauge"></div>
+<div id="barre"><div class="rail"><div class="jus"></div></div><div class="txt"></div></div>
+
+<p class="note">Glisse à l’horizontale pour retourner la carte · vers le haut pour la suivante</p>
+
+<div id="vide">
+  <p>Aucun verset chargé.</p>
+  <p>Ouvre le fichier <code>versets.js</code> et ajoute tes blocs, puis recharge la page.</p>
+</div>
+
+<!-- ---- panneau de sélection ---- -->
+<div id="panneau" role="dialog" aria-modal="true" aria-label="Choisir les versets à réviser">
+  <div class="p-tete">
+    <span class="p-titre">Que veux-tu réviser ?</span>
+    <button class="onglet" id="p-fermer">Fermer</button>
+  </div>
+  <div class="p-corps" id="p-liste"></div>
+  <div class="p-actions">
+    <button class="onglet" id="p-tout">Tout cocher</button>
+    <button class="onglet" id="p-rien">Tout décocher</button>
+  </div>
+</div>
+
+<script src="versets.js"></script>
+<script>
+/* =================================================================
+   1. Table des 114 sourates
+   ================================================================= */
+const SOURATES = [null,
+["Al-Fātiḥa","الفاتحة"],["Al-Baqara","البقرة"],["Āl ʿImrān","آل عمران"],["An-Nisāʾ","النساء"],
+["Al-Māʾida","المائدة"],["Al-Anʿām","الأنعام"],["Al-Aʿrāf","الأعراف"],["Al-Anfāl","الأنفال"],
+["At-Tawba","التوبة"],["Yūnus","يونس"],["Hūd","هود"],["Yūsuf","يوسف"],["Ar-Raʿd","الرعد"],
+["Ibrāhīm","إبراهيم"],["Al-Ḥijr","الحجر"],["An-Naḥl","النحل"],["Al-Isrāʾ","الإسراء"],
+["Al-Kahf","الكهف"],["Maryam","مريم"],["Ṭā-Hā","طه"],["Al-Anbiyāʾ","الأنبياء"],["Al-Ḥajj","الحج"],
+["Al-Muʾminūn","المؤمنون"],["An-Nūr","النور"],["Al-Furqān","الفرقان"],["Ash-Shuʿarāʾ","الشعراء"],
+["An-Naml","النمل"],["Al-Qaṣaṣ","القصص"],["Al-ʿAnkabūt","العنكبوت"],["Ar-Rūm","الروم"],
+["Luqmān","لقمان"],["As-Sajda","السجدة"],["Al-Aḥzāb","الأحزاب"],["Sabaʾ","سبأ"],["Fāṭir","فاطر"],
+["Yā-Sīn","يس"],["Aṣ-Ṣāffāt","الصافات"],["Ṣād","ص"],["Az-Zumar","الزمر"],["Ghāfir","غافر"],
+["Fuṣṣilat","فصلت"],["Ash-Shūrā","الشورى"],["Az-Zukhruf","الزخرف"],["Ad-Dukhān","الدخان"],
+["Al-Jāthiya","الجاثية"],["Al-Aḥqāf","الأحقاف"],["Muḥammad","محمد"],["Al-Fatḥ","الفتح"],
+["Al-Ḥujurāt","الحجرات"],["Qāf","ق"],["Adh-Dhāriyāt","الذاريات"],["Aṭ-Ṭūr","الطور"],
+["An-Najm","النجم"],["Al-Qamar","القمر"],["Ar-Raḥmān","الرحمن"],["Al-Wāqiʿa","الواقعة"],
+["Al-Ḥadīd","الحديد"],["Al-Mujādala","المجادلة"],["Al-Ḥashr","الحشر"],["Al-Mumtaḥana","الممتحنة"],
+["Aṣ-Ṣaff","الصف"],["Al-Jumuʿa","الجمعة"],["Al-Munāfiqūn","المنافقون"],["At-Taghābun","التغابن"],
+["Aṭ-Ṭalāq","الطلاق"],["At-Taḥrīm","التحريم"],["Al-Mulk","الملك"],["Al-Qalam","القلم"],
+["Al-Ḥāqqa","الحاقة"],["Al-Maʿārij","المعارج"],["Nūḥ","نوح"],["Al-Jinn","الجن"],
+["Al-Muzzammil","المزمل"],["Al-Muddaththir","المدثر"],["Al-Qiyāma","القيامة"],["Al-Insān","الإنسان"],
+["Al-Mursalāt","المرسلات"],["An-Nabaʾ","النبأ"],["An-Nāziʿāt","النازعات"],["ʿAbasa","عبس"],
+["At-Takwīr","التكوير"],["Al-Infiṭār","الانفطار"],["Al-Muṭaffifīn","المطففين"],["Al-Inshiqāq","الانشقاق"],
+["Al-Burūj","البروج"],["Aṭ-Ṭāriq","الطارق"],["Al-Aʿlā","الأعلى"],["Al-Ghāshiya","الغاشية"],
+["Al-Fajr","الفجر"],["Al-Balad","البلد"],["Ash-Shams","الشمس"],["Al-Layl","الليل"],
+["Aḍ-Ḍuḥā","الضحى"],["Ash-Sharḥ","الشرح"],["At-Tīn","التين"],["Al-ʿAlaq","العلق"],
+["Al-Qadr","القدر"],["Al-Bayyina","البينة"],["Az-Zalzala","الزلزلة"],["Al-ʿĀdiyāt","العاديات"],
+["Al-Qāriʿa","القارعة"],["At-Takāthur","التكاثر"],["Al-ʿAṣr","العصر"],["Al-Humaza","الهمزة"],
+["Al-Fīl","الفيل"],["Quraysh","قريش"],["Al-Māʿūn","الماعون"],["Al-Kawthar","الكوثر"],
+["Al-Kāfirūn","الكافرون"],["An-Naṣr","النصر"],["Al-Masad","المسد"],["Al-Ikhlāṣ","الإخلاص"],
+["Al-Falaq","الفلق"],["An-Nās","الناس"]
+];
+const nomFr = (s) => (SOURATES[s] ? SOURATES[s][0] : "Sourate " + s);
+const nomAr = (s) => (SOURATES[s] ? SOURATES[s][1] : "");
+
+/* =================================================================
+   2. Lecture du fichier versets.js
+   ================================================================= */
+function analyser(texte){
+  const versets = [], erreurs = [];
+  const blocs = String(texte || "").split(/\n\s*\n/);
+  blocs.forEach(function(bloc){
+    const lignes = bloc.split("\n").map(function(l){ return l.trim(); })
+                       .filter(function(l){ return l && l.charAt(0) !== "#"; });
+    if (!lignes.length) return;
+
+    const ref = lignes[0].match(/^(\d{1,3})\s*[:.\-\s]\s*(\d{1,3})$/);
+    if (!ref) { erreurs.push("Référence illisible : « " + lignes[0].slice(0, 40) + " »"); return; }
+    const s = +ref[1], a = +ref[2];
+    if (s < 1 || s > 114) { erreurs.push("Numéro de sourate hors limites : " + s); return; }
+
+    let champ = null, ar = [], fr = [];
+    for (let k = 1; k < lignes.length; k++){
+      const l = lignes[k];
+      if (/^ar\s*:/i.test(l))      { champ = "ar"; ar.push(l.replace(/^ar\s*:/i, "").trim()); }
+      else if (/^fr\s*:/i.test(l)) { champ = "fr"; fr.push(l.replace(/^fr\s*:/i, "").trim()); }
+      else if (champ === "ar")     { ar.push(l); }
+      else if (champ === "fr")     { fr.push(l); }
+    }
+    const A = ar.join(" ").trim(), F = fr.join(" ").trim();
+    if (!A) { erreurs.push(s + ":" + a + " — ligne « ar: » manquante ou vide"); return; }
+    if (!F) { erreurs.push(s + ":" + a + " — ligne « fr: » manquante ou vide"); return; }
+    versets.push({ s:s, a:a, ar:A, fr:F });
+  });
+  return { versets: versets, erreurs: erreurs };
+}
+
+const lu = analyser(window.VERSETS);
+const TOUS = lu.versets.slice().sort(function(x, y){ return x.s - y.s || x.a - y.a; });
+
+/* ---- découpage en portions (tranches de 20 pour les longues sourates) ---- */
+const TAILLE_TRANCHE = 20, SEUIL_TRANCHE = 25;
+function construirePortions(){
+  const parSourate = {};
+  TOUS.forEach(function(v){ (parSourate[v.s] = parSourate[v.s] || []).push(v); });
+  const portions = [];
+  Object.keys(parSourate).map(Number).sort(function(a,b){ return a-b; }).forEach(function(s){
+    const liste = parSourate[s];
+    if (liste.length <= SEUIL_TRANCHE){
+      portions.push({ id: s + "#0", s:s, nom: nomFr(s), ar: nomAr(s), versets: liste });
+    } else {
+      for (let d = 0; d < liste.length; d += TAILLE_TRANCHE){
+        const t = liste.slice(d, d + TAILLE_TRANCHE);
+        portions.push({
+          id: s + "#" + (d / TAILLE_TRANCHE),
+          s: s, nom: nomFr(s) + " · " + t[0].a + "–" + t[t.length-1].a,
+          ar: nomAr(s), versets: t
+        });
+      }
+    }
+  });
+  return portions;
+}
+const PORTIONS = construirePortions();
+
+/* =================================================================
+   3. État
+   ================================================================= */
+const CLE_ACQUIS = "coran:acquis", CLE_REGL = "coran:reglages";
+const $ = function(id){ return document.getElementById(id); };
+const cle = function(c){ return c.s + ":" + c.a; };
+const reduit = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+let acquis = {}, reglages = { selection: null, aleatoire: false, masquerAcquis: false };
+try { acquis = JSON.parse(localStorage.getItem(CLE_ACQUIS) || "{}"); } catch(e) {}
+try { Object.assign(reglages, JSON.parse(localStorage.getItem(CLE_REGL) || "{}")); } catch(e) {}
+
+const idsExistants = PORTIONS.map(function(p){ return p.id; });
+if (!Array.isArray(reglages.selection)) reglages.selection = idsExistants.slice();
+reglages.selection = reglages.selection.filter(function(id){ return idsExistants.indexOf(id) !== -1; });
+if (!reglages.selection.length) reglages.selection = idsExistants.slice();
+
+let session = [], i = 0, retourne = false, drag = 0, enCours = false;
+
+function sauver(){
+  try { localStorage.setItem(CLE_ACQUIS, JSON.stringify(acquis)); } catch(e) {}
+  try { localStorage.setItem(CLE_REGL, JSON.stringify(reglages)); } catch(e) {}
+}
+
+function melanger(t){
+  for (let k = t.length - 1; k > 0; k--){
+    const j = Math.floor(Math.random() * (k + 1));
+    const tmp = t[k]; t[k] = t[j]; t[j] = tmp;
+  }
+  return t;
+}
+
+function construireSession(){
+  let liste = [];
+  PORTIONS.forEach(function(p){
+    if (reglages.selection.indexOf(p.id) !== -1) liste = liste.concat(p.versets);
+  });
+  if (reglages.masquerAcquis){
+    const restants = liste.filter(function(v){ return !acquis[cle(v)]; });
+    if (restants.length) liste = restants;
+  }
+  if (reglages.aleatoire) liste = melanger(liste.slice());
+  session = liste;
+  if (i >= session.length) i = 0;
+}
+
+/* =================================================================
+   4. Rendu
+   ================================================================= */
+function medaillon(svg, n, couleur){
+  svg.innerHTML =
+    '<g fill="none" stroke="'+couleur+'" stroke-width="1.6" opacity="0.9">' +
+      '<path d="M20 6 H80 L94 36 L80 66 H20 L6 36 Z"/>' +
+      '<path d="M24 12 H76 L87 36 L76 60 H24 L13 36 Z" opacity="0.55" stroke-dasharray="5 4"/>' +
+      '<rect x="38" y="4" width="24" height="6" rx="3" fill="'+couleur+'" stroke="none"/>' +
+      '<rect x="38" y="62" width="24" height="6" rx="3" fill="'+couleur+'" stroke="none"/>' +
+    '</g>' +
+    '<text x="50" y="46" text-anchor="middle" font-size="30" fill="'+couleur+'" ' +
+    'style="font-family:\'Cinzel\',serif;letter-spacing:1px">' + n + '</text>';
+}
+
+function ajuster(p, max, min){
+  const boite = p.parentElement;
+  let t = max, garde = 0;
+  p.style.fontSize = t + "px";
+  while (t > min && garde++ < 300 &&
+        (p.scrollHeight > boite.clientHeight - 2 || p.scrollWidth > boite.clientWidth)){
+    t -= 1; p.style.fontSize = t + "px";
+  }
+}
+function ajusterTout(){
+  const l = Math.min($("scene").clientWidth, 560);
+  ajuster($("arabe"), Math.round(l * 0.185), 18);
+  ajuster($("francais"), Math.round(l * 0.075), 14);
+}
+
+function appliquer(){
+  $("carte").style.transform = "rotateY(" + ((retourne ? 180 : 0) + drag) + "deg)";
+}
+
+function rendreProgression(){
+  const total = session.length;
+  if (total <= 45){
+    $("barre").style.display = "none";
+    $("jauge").style.display = "flex";
+    $("jauge").innerHTML = "";
+    session.forEach(function(c, k){
+      const b = document.createElement("button");
+      b.className = "perle";
+      b.setAttribute("aria-label", "Verset " + cle(c));
+      if (acquis[cle(c)]) b.dataset.acquis = "true";
+      if (k === i) b.dataset.courant = "true";
+      b.onclick = function(){ i = k; retourne = false; rendre(); };
+      $("jauge").appendChild(b);
+    });
+  } else {
+    $("jauge").style.display = "none";
+    $("barre").style.display = "block";
+    $("barre").querySelector(".jus").style.width = ((i + 1) / total * 100) + "%";
+    $("barre").querySelector(".txt").textContent = (i + 1) + " / " + total;
+  }
+}
+
+function rendre(){
+  if (!session.length){
+    $("vide").style.display = "block";
+    $("scene").style.display = "none";
+    return;
+  }
+  $("vide").style.display = "none";
+  $("scene").style.display = "block";
+
+  const c = session[i];
+  $("r-sourate").textContent = "Sourate " + c.s + " · verset " + c.a;
+  $("r-ar").textContent = nomAr(c.s);
+  $("arabe").textContent = c.ar;
+  $("v-sourate").textContent = nomFr(c.s);
+  $("v-ref").textContent = c.s + ":" + c.a;
+  $("francais").textContent = c.fr;
+  medaillon($("med-or"), c.a, "#C9A227");
+  medaillon($("med-vert"), c.a, "#2F6B52");
+
+  const n = Object.keys(acquis).length;
+  $("compteur").textContent = n + " verset" + (n > 1 ? "s" : "") + " acquis sur " + TOUS.length + " chargés";
+  $("acquis").textContent = acquis[cle(c)] ? "Acquis" : "Je le connais";
+  $("acquis").dataset.actif = acquis[cle(c)] ? "true" : "false";
+  $("btn-ordre").textContent = reglages.aleatoire ? "Aléatoire" : "Ordre naturel";
+  $("btn-ordre").dataset.actif = reglages.aleatoire ? "true" : "false";
+  $("btn-filtre").textContent = reglages.masquerAcquis ? "Non acquis" : "Tout réviser";
+  $("btn-filtre").dataset.actif = reglages.masquerAcquis ? "true" : "false";
+
+  rendreProgression();
+  appliquer();
+  requestAnimationFrame(ajusterTout);
+}
+
+/* =================================================================
+   5. Navigation et gestes
+   ================================================================= */
+function aller(d){
+  if (!session.length) return;
+  retourne = false; drag = 0;
+  i = (i + d + session.length) % session.length;
+  rendre();
+}
+function basculer(){ retourne = !retourne; appliquer(); }
+
+$("prec").onclick = function(){ aller(-1); };
+$("suiv").onclick = function(){ aller(1); };
+$("acquis").onclick = function(){
+  if (!session.length) return;
+  const k = cle(session[i]);
+  if (acquis[k]) delete acquis[k]; else acquis[k] = 1;
+  sauver(); rendre();
+};
+$("btn-ordre").onclick = function(){
+  reglages.aleatoire = !reglages.aleatoire;
+  i = 0; sauver(); construireSession(); rendre();
+};
+$("btn-filtre").onclick = function(){
+  reglages.masquerAcquis = !reglages.masquerAcquis;
+  i = 0; sauver(); construireSession(); rendre();
+};
+
+document.addEventListener("keydown", function(e){
+  if ($("panneau").classList.contains("ouvert")){
+    if (e.key === "Escape") fermerPanneau();
+    return;
+  }
+  if (e.key === "ArrowRight" || e.key === "ArrowDown") aller(1);
+  else if (e.key === "ArrowLeft" || e.key === "ArrowUp") aller(-1);
+  else if (e.key === " " || e.key === "Enter") { e.preventDefault(); basculer(); }
+});
+
+const scene = $("scene");
+let p0 = { x:0, y:0, axe:null };
+scene.addEventListener("pointerdown", function(e){
+  p0 = { x:e.clientX, y:e.clientY, axe:null };
+  enCours = true;
+  $("carte").classList.remove("anime");
+  scene.setPointerCapture(e.pointerId);
+});
+scene.addEventListener("pointermove", function(e){
+  if (!enCours) return;
+  const dx = e.clientX - p0.x, dy = e.clientY - p0.y;
+  if (!p0.axe && Math.hypot(dx, dy) > 10) p0.axe = Math.abs(dx) > Math.abs(dy) ? "x" : "y";
+  if (p0.axe === "x"){ drag = Math.max(-175, Math.min(175, dx * 0.55)); appliquer(); }
+});
+function relacher(e){
+  if (!enCours) return;
+  enCours = false;
+  const dx = e.clientX - p0.x, dy = e.clientY - p0.y, axe = p0.axe;
+  drag = 0;
+  if (!reduit) $("carte").classList.add("anime");
+  if (axe === "y" && Math.abs(dy) > 60) aller(dy < 0 ? 1 : -1);
+  else if (axe === "x" && Math.abs(dx) > 55) basculer();
+  else if (Math.hypot(dx, dy) < 10) basculer();
+  else appliquer();
+}
+scene.addEventListener("pointerup", relacher);
+scene.addEventListener("pointercancel", relacher);
+window.addEventListener("resize", ajusterTout);
+if (document.fonts && document.fonts.ready) document.fonts.ready.then(ajusterTout);
+
+/* =================================================================
+   6. Panneau de sélection
+   ================================================================= */
+function rendrePanneau(){
+  const liste = $("p-liste");
+  liste.innerHTML = "";
+  const titre = document.createElement("div");
+  titre.className = "p-section";
+  titre.textContent = PORTIONS.length + " portion" + (PORTIONS.length > 1 ? "s" : "") + " disponible" + (PORTIONS.length > 1 ? "s" : "");
+  liste.appendChild(titre);
+
+  PORTIONS.forEach(function(p){
+    const b = document.createElement("button");
+    b.className = "ligne";
+    b.dataset.coche = reglages.selection.indexOf(p.id) !== -1 ? "true" : "false";
+    b.innerHTML = '<span class="case"></span>' +
+                  '<span class="nom">' + p.nom + '</span>' +
+                  '<span class="compte">' + p.versets.length + '</span>' +
+                  '<span class="ar">' + p.ar + '</span>';
+    b.onclick = function(){
+      const k = reglages.selection.indexOf(p.id);
+      if (k === -1) reglages.selection.push(p.id); else reglages.selection.splice(k, 1);
+      b.dataset.coche = k === -1 ? "true" : "false";
+      sauver();
+    };
+    liste.appendChild(b);
+  });
+}
+function ouvrirPanneau(){ rendrePanneau(); $("panneau").classList.add("ouvert"); }
+function fermerPanneau(){
+  $("panneau").classList.remove("ouvert");
+  if (!reglages.selection.length) reglages.selection = idsExistants.slice();
+  i = 0; sauver(); construireSession(); rendre();
+}
+$("btn-choisir").onclick = ouvrirPanneau;
+$("p-fermer").onclick = fermerPanneau;
+$("p-tout").onclick = function(){ reglages.selection = idsExistants.slice(); rendrePanneau(); sauver(); };
+$("p-rien").onclick = function(){ reglages.selection = []; rendrePanneau(); sauver(); };
+
+/* =================================================================
+   7. Démarrage
+   ================================================================= */
+if (lu.erreurs.length){
+  const a = $("alerte");
+  a.style.display = "block";
+  a.textContent = lu.erreurs.length + " bloc" + (lu.erreurs.length > 1 ? "s" : "") +
+                  " ignoré" + (lu.erreurs.length > 1 ? "s" : "") + " dans versets.js — toucher pour voir le détail";
+  a.onclick = function(){ a.textContent = lu.erreurs.join(" · "); };
+}
+if (!reduit) $("carte").classList.add("anime");
+construireSession();
+rendre();
+</script>
+</body>
+</html>
