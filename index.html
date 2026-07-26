@@ -10,7 +10,7 @@
 <title>Le Rendez-vous</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Cinzel:wght@400;600&family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
 <style>
 :root{
   --nuit:#0A1120; --or:#C9A227; --or-clair:#E3C365;
@@ -199,42 +199,58 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 /* ---------- fenêtres ---------- */
 .fenetre{
   position:fixed; inset:0; z-index:50; display:none; flex-direction:column;
-  background:radial-gradient(125% 72% at 50% -6%, #24384F 0%, #16243A 42%, #0D1727 72%, #091320 100%);
+  background:
+    radial-gradient(85% 50% at 80% 6%,  rgba(86,131,176,.18) 0%, transparent 62%),
+    radial-gradient(75% 48% at 12% 94%, rgba(46,80,134,.24) 0%, transparent 64%),
+    radial-gradient(60% 34% at 50% 34%, rgba(201,162,39,.05) 0%, transparent 70%),
+    radial-gradient(125% 72% at 50% -6%, #263B54 0%, #16243A 42%, #0D1727 72%, #081120 100%);
   padding:max(18px, env(safe-area-inset-top)) 16px calc(18px + env(safe-area-inset-bottom));
+}
+.fenetre::after{
+  content:''; position:absolute; inset:0; pointer-events:none;
+  background:radial-gradient(115% 82% at 50% 42%, transparent 40%, rgba(3,7,14,.55) 100%);
 }
 .fenetre.ouvert{ display:flex; }
 .fenetre::before{
   content:''; position:absolute; inset:0; pointer-events:none;
   background-repeat:no-repeat;
   background-image:
-    radial-gradient(140% 55% at 50% 0%, rgba(201,162,39,.09), transparent 72%),
-    radial-gradient(1.7px 1.7px at 11% 14%, rgba(234,224,203,.55), transparent 62%),
-    radial-gradient(1.1px 1.1px at 27% 7%,  rgba(201,162,39,.6),  transparent 62%),
-    radial-gradient(1.4px 1.4px at 44% 20%, rgba(234,224,203,.35), transparent 62%),
-    radial-gradient(1px 1px    at 63% 9%,   rgba(201,162,39,.5),  transparent 62%),
-    radial-gradient(1.8px 1.8px at 82% 17%, rgba(234,224,203,.45), transparent 62%),
-    radial-gradient(1.2px 1.2px at 93% 6%,  rgba(201,162,39,.45), transparent 62%),
-    radial-gradient(1.3px 1.3px at 7% 38%,  rgba(201,162,39,.5),  transparent 62%),
-    radial-gradient(1px 1px    at 34% 46%,  rgba(234,224,203,.3),  transparent 62%),
-    radial-gradient(1.6px 1.6px at 71% 41%, rgba(201,162,39,.45), transparent 62%),
-    radial-gradient(1.1px 1.1px at 96% 34%, rgba(234,224,203,.35), transparent 62%),
-    radial-gradient(1.4px 1.4px at 16% 63%, rgba(234,224,203,.4),  transparent 62%),
-    radial-gradient(1px 1px    at 49% 71%,  rgba(201,162,39,.45), transparent 62%),
-    radial-gradient(1.7px 1.7px at 87% 66%, rgba(201,162,39,.4),  transparent 62%),
-    radial-gradient(1.2px 1.2px at 24% 88%, rgba(234,224,203,.32), transparent 62%),
-    radial-gradient(1.3px 1.3px at 61% 93%, rgba(201,162,39,.4),  transparent 62%),
-    radial-gradient(1px 1px    at 91% 84%,  rgba(234,224,203,.3),  transparent 62%);
+    radial-gradient(2.2px 2.2px at 12% 16%, rgba(255,251,238,.9),  transparent 64%),
+    radial-gradient(1.5px 1.5px at 27% 8%,  rgba(233,205,138,.82), transparent 64%),
+    radial-gradient(1.9px 1.9px at 44% 19%, rgba(255,251,238,.62), transparent 64%),
+    radial-gradient(1.3px 1.3px at 62% 10%, rgba(233,205,138,.75), transparent 64%),
+    radial-gradient(2.4px 2.4px at 81% 15%, rgba(255,251,238,.85), transparent 64%),
+    radial-gradient(1.4px 1.4px at 93% 7%,  rgba(233,205,138,.6),  transparent 64%),
+    radial-gradient(1.7px 1.7px at 7% 36%,  rgba(255,251,238,.6),  transparent 64%),
+    radial-gradient(1.2px 1.2px at 33% 44%, rgba(233,205,138,.58), transparent 64%),
+    radial-gradient(2px 2px     at 70% 39%, rgba(255,251,238,.66), transparent 64%),
+    radial-gradient(1.4px 1.4px at 95% 32%, rgba(233,205,138,.52), transparent 64%),
+    radial-gradient(1.8px 1.8px at 17% 61%, rgba(255,251,238,.58), transparent 64%),
+    radial-gradient(1.3px 1.3px at 48% 69%, rgba(233,205,138,.52), transparent 64%),
+    radial-gradient(2.1px 2.1px at 86% 64%, rgba(255,251,238,.62), transparent 64%),
+    radial-gradient(1.5px 1.5px at 25% 86%, rgba(233,205,138,.48), transparent 64%),
+    radial-gradient(1.7px 1.7px at 60% 91%, rgba(255,251,238,.52), transparent 64%),
+    radial-gradient(1.2px 1.2px at 90% 82%, rgba(233,205,138,.45), transparent 64%),
+    radial-gradient(9px 9px at 12% 16%, rgba(201,162,39,.15), transparent 70%),
+    radial-gradient(8px 8px at 81% 15%, rgba(201,162,39,.13), transparent 70%),
+    radial-gradient(7px 7px at 70% 39%, rgba(201,162,39,.1),  transparent 70%),
+    radial-gradient(8px 8px at 86% 64%, rgba(201,162,39,.1),  transparent 70%);
 }
 .f-tete.droite{ justify-content:flex-end; }
 .titre-appli{
-  font-family:'Cinzel',serif; font-weight:600; text-align:center;
-  font-size:clamp(27px,7.6vw,41px); letter-spacing:.13em; text-transform:uppercase;
-  color:var(--or-clair); margin:14px 0 0; line-height:1.24;
-  text-shadow:0 2px 28px rgba(201,162,39,.25);
+  font-family:'Cormorant Garamond','EB Garamond',serif;
+  font-style:italic; font-weight:400; text-transform:none; text-align:center;
+  font-size:clamp(32px,8.8vw,47px); letter-spacing:.015em;
+  color:var(--or-clair); margin:18px 0 0; line-height:1.16;
+  text-shadow:0 2px 32px rgba(201,162,39,.3);
+}
+.titre-appli::after{
+  content:''; display:block; width:70px; height:1px; margin:17px auto 0;
+  background:linear-gradient(to right, transparent, rgba(201,162,39,.7), transparent);
 }
 .basmala{
   font-family:'Amiri',serif; direction:rtl; text-align:center; color:var(--or);
-  font-size:clamp(18px,4.8vw,25px); margin:30px 0 24px; opacity:.78;
+  font-size:clamp(18px,4.8vw,25px); margin:24px 0 24px; opacity:.78;
   text-shadow:0 1px 20px rgba(201,162,39,.16);
 }
 .ornement{
@@ -337,29 +353,42 @@ body[data-theme="clair"] #barre .jus{ background:#9C7B14; }
 body[data-theme="clair"] #barre .tete{ background:#8A6C10; }
 body[data-theme="clair"] #alerte{ border-color:rgba(156,123,20,.55); background:rgba(156,123,20,.12); }
 body[data-theme="clair"] .fenetre{
-  background:radial-gradient(125% 72% at 50% -6%, #FDF9EE 0%, #F5EBD6 45%, #EADCBE 100%);
+  background:
+    radial-gradient(85% 50% at 80% 6%,  rgba(212,180,118,.28) 0%, transparent 62%),
+    radial-gradient(75% 48% at 12% 94%, rgba(190,158,100,.3)  0%, transparent 64%),
+    radial-gradient(60% 34% at 50% 34%, rgba(255,255,255,.5)  0%, transparent 70%),
+    radial-gradient(125% 72% at 50% -6%, #FEFBF3 0%, #F6ECD8 45%, #E7D8B6 100%);
+}
+body[data-theme="clair"] .fenetre::after{
+  background:radial-gradient(115% 82% at 50% 42%, transparent 44%, rgba(146,116,52,.17) 100%);
 }
 body[data-theme="clair"] .fenetre::before{
   background-image:
-    radial-gradient(140% 55% at 50% 0%, rgba(150,117,26,.1), transparent 72%),
-    radial-gradient(1.7px 1.7px at 11% 14%, rgba(150,117,26,.4), transparent 62%),
-    radial-gradient(1.1px 1.1px at 27% 7%,  rgba(150,117,26,.45), transparent 62%),
-    radial-gradient(1.4px 1.4px at 44% 20%, rgba(120,92,20,.28), transparent 62%),
-    radial-gradient(1px 1px    at 63% 9%,   rgba(150,117,26,.4), transparent 62%),
-    radial-gradient(1.8px 1.8px at 82% 17%, rgba(150,117,26,.3), transparent 62%),
-    radial-gradient(1.2px 1.2px at 93% 6%,  rgba(120,92,20,.3), transparent 62%),
-    radial-gradient(1.3px 1.3px at 7% 38%,  rgba(150,117,26,.38), transparent 62%),
-    radial-gradient(1px 1px    at 34% 46%,  rgba(120,92,20,.25), transparent 62%),
-    radial-gradient(1.6px 1.6px at 71% 41%, rgba(150,117,26,.32), transparent 62%),
-    radial-gradient(1.1px 1.1px at 96% 34%, rgba(120,92,20,.26), transparent 62%),
-    radial-gradient(1.4px 1.4px at 16% 63%, rgba(150,117,26,.3), transparent 62%),
-    radial-gradient(1px 1px    at 49% 71%,  rgba(120,92,20,.3), transparent 62%),
-    radial-gradient(1.7px 1.7px at 87% 66%, rgba(150,117,26,.28), transparent 62%),
-    radial-gradient(1.2px 1.2px at 24% 88%, rgba(120,92,20,.24), transparent 62%),
-    radial-gradient(1.3px 1.3px at 61% 93%, rgba(150,117,26,.3), transparent 62%),
-    radial-gradient(1px 1px    at 91% 84%,  rgba(120,92,20,.22), transparent 62%);
+    radial-gradient(2.2px 2.2px at 12% 16%, rgba(138,108,16,.55), transparent 64%),
+    radial-gradient(1.5px 1.5px at 27% 8%,  rgba(168,133,44,.5),  transparent 64%),
+    radial-gradient(1.9px 1.9px at 44% 19%, rgba(138,108,16,.4),  transparent 64%),
+    radial-gradient(1.3px 1.3px at 62% 10%, rgba(168,133,44,.48), transparent 64%),
+    radial-gradient(2.4px 2.4px at 81% 15%, rgba(138,108,16,.5),  transparent 64%),
+    radial-gradient(1.4px 1.4px at 93% 7%,  rgba(168,133,44,.4),  transparent 64%),
+    radial-gradient(1.7px 1.7px at 7% 36%,  rgba(138,108,16,.42), transparent 64%),
+    radial-gradient(1.2px 1.2px at 33% 44%, rgba(168,133,44,.38), transparent 64%),
+    radial-gradient(2px 2px     at 70% 39%, rgba(138,108,16,.42), transparent 64%),
+    radial-gradient(1.4px 1.4px at 95% 32%, rgba(168,133,44,.34), transparent 64%),
+    radial-gradient(1.8px 1.8px at 17% 61%, rgba(138,108,16,.38), transparent 64%),
+    radial-gradient(1.3px 1.3px at 48% 69%, rgba(168,133,44,.34), transparent 64%),
+    radial-gradient(2.1px 2.1px at 86% 64%, rgba(138,108,16,.4),  transparent 64%),
+    radial-gradient(1.5px 1.5px at 25% 86%, rgba(168,133,44,.3),  transparent 64%),
+    radial-gradient(1.7px 1.7px at 60% 91%, rgba(138,108,16,.34), transparent 64%),
+    radial-gradient(1.2px 1.2px at 90% 82%, rgba(168,133,44,.28), transparent 64%),
+    radial-gradient(9px 9px at 12% 16%, rgba(196,166,110,.3), transparent 70%),
+    radial-gradient(8px 8px at 81% 15%, rgba(196,166,110,.26), transparent 70%),
+    radial-gradient(7px 7px at 70% 39%, rgba(196,166,110,.22), transparent 70%),
+    radial-gradient(8px 8px at 86% 64%, rgba(196,166,110,.22), transparent 70%);
 }
 body[data-theme="clair"] .titre-appli{ color:#8A6C10; text-shadow:none; }
+body[data-theme="clair"] .titre-appli::after{
+  background:linear-gradient(to right, transparent, rgba(138,108,16,.75), transparent);
+}
 body[data-theme="clair"] .basmala{ color:#96751A; text-shadow:none; }
 body[data-theme="clair"] .ornement{ color:#96751A; opacity:.85; }
 body[data-theme="clair"] .pied-verset .ar{ color:#96751A; opacity:.7; }
