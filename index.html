@@ -240,22 +240,14 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 .titre-appli{
   font-family:'Cormorant Garamond','EB Garamond',serif;
   font-style:italic; font-weight:400; text-transform:none; text-align:center;
-  font-size:clamp(32px,8.8vw,47px); letter-spacing:.015em;
-  color:var(--or-clair); margin:18px 0 0; line-height:1.16;
+  font-size:clamp(33px,9vw,48px); letter-spacing:.015em;
+  color:var(--or-clair); margin:44px 0 0; line-height:1.16;
   text-shadow:0 2px 32px rgba(201,162,39,.3);
 }
-.titre-appli::after{
-  content:''; display:block; width:70px; height:1px; margin:17px auto 0;
-  background:linear-gradient(to right, transparent, rgba(201,162,39,.7), transparent);
-}
 .basmala{
-  font-family:'Amiri',serif; direction:rtl; text-align:center; color:var(--or);
-  font-size:clamp(18px,4.8vw,25px); margin:24px 0 24px; opacity:.78;
-  text-shadow:0 1px 20px rgba(201,162,39,.16);
-}
-.ornement{
-  display:block; margin:0 auto 22px; width:min(300px,78%); height:auto;
-  color:var(--or); opacity:.8;
+  font-family:'Amiri',serif; direction:rtl; text-align:center; color:var(--or-clair);
+  font-size:clamp(19px,5vw,26px); margin:26px 0 0; opacity:.92;
+  text-shadow:0 1px 22px rgba(201,162,39,.28);
 }
 .pied-verset{ text-align:center; margin:28px 0 8px; }
 .pied-verset .ar{
@@ -294,11 +286,7 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
   border-color:rgba(201,162,39,.6);
   background:linear-gradient(155deg, rgba(201,162,39,.22) 0%, rgba(201,162,39,.07) 100%);
 }
-.ligne .num{
-  font-family:'Cinzel',serif; font-size:11px; opacity:.45; min-width:26px; flex:0 0 auto;
-}
 .ligne .nom{ flex:1 1 auto; }
-.ligne .compte{ font-size:13px; opacity:.4; flex:0 0 auto; }
 .ligne .ar{ font-family:'Amiri',serif; font-size:20px; opacity:.75; }
 
 /* ---------- saut ---------- */
@@ -311,6 +299,149 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 #champ:focus{ outline:none; border-bottom-color:var(--or); }
 #saut .aide{ font-size:14px; opacity:.5; font-style:italic; text-align:center; }
 #saut .actions{ display:flex; gap:10px; }
+
+
+/* ---------- décor de l'accueil ---------- */
+.hero{ position:relative; min-height:414px; padding:0 0 118px; overflow:hidden; }
+.hero > *{ position:relative; z-index:7; }
+
+.hero .lueur{
+  position:absolute; left:-18%; right:-18%; bottom:0; height:250px; z-index:0; pointer-events:none;
+  background:
+    radial-gradient(44% 76% at 50% 106%, rgba(255,219,150,.6) 0%, rgba(255,180,92,.3) 32%,
+                    rgba(255,142,62,.12) 56%, transparent 78%),
+    radial-gradient(96% 130% at 50% 122%, rgba(206,124,56,.22) 0%, transparent 70%);
+}
+.hero .etoiles{
+  position:absolute; inset:0 0 118px; z-index:1; pointer-events:none;
+  background-repeat:no-repeat;
+  background-image:
+    radial-gradient(2.2px 2.2px at 33.1% 10.2%, rgba(233,205,138,0.37), transparent 62%),
+    radial-gradient(1.9px 1.9px at 80.8% 6.7%, rgba(255,251,238,0.37), transparent 62%),
+    radial-gradient(1.7px 1.7px at 50.7% 3.3%, rgba(255,251,238,0.57), transparent 62%),
+    radial-gradient(1.1px 1.1px at 25.1% 34.6%, rgba(233,205,138,0.8), transparent 62%),
+    radial-gradient(2.2px 2.2px at 13.9% 14.6%, rgba(255,251,238,0.67), transparent 62%),
+    radial-gradient(1.1px 1.1px at 7.9% 36.7%, rgba(255,251,238,0.89), transparent 62%),
+    radial-gradient(1.5px 1.5px at 6.5% 53.4%, rgba(233,205,138,0.57), transparent 62%),
+    radial-gradient(1.9px 1.9px at 53.9% 35.8%, rgba(255,251,238,0.8), transparent 62%),
+    radial-gradient(2.2px 2.2px at 19.3% 36.5%, rgba(255,251,238,0.45), transparent 62%),
+    radial-gradient(1.9px 1.9px at 11.4% 44.4%, rgba(233,205,138,0.37), transparent 62%),
+    radial-gradient(1.7px 1.7px at 21.8% 42.5%, rgba(255,251,238,0.78), transparent 62%),
+    radial-gradient(1.5px 1.5px at 46.7% 57.3%, rgba(255,251,238,0.51), transparent 62%),
+    radial-gradient(1.3px 1.3px at 78.3% 43.6%, rgba(233,205,138,0.39), transparent 62%),
+    radial-gradient(1.5px 1.5px at 30.8% 31.2%, rgba(255,251,238,0.75), transparent 62%),
+    radial-gradient(1.1px 1.1px at 29.6% 60.8%, rgba(255,251,238,0.63), transparent 62%),
+    radial-gradient(1.7px 1.7px at 17.8% 21.9%, rgba(233,205,138,0.58), transparent 62%),
+    radial-gradient(1.9px 1.9px at 94.4% 5.7%, rgba(255,251,238,0.66), transparent 62%),
+    radial-gradient(2.2px 2.2px at 86.0% 20.1%, rgba(255,251,238,0.54), transparent 62%),
+    radial-gradient(1.1px 1.1px at 49.7% 49.6%, rgba(233,205,138,0.81), transparent 62%),
+    radial-gradient(2.2px 2.2px at 92.7% 29.9%, rgba(255,251,238,0.38), transparent 62%),
+    radial-gradient(1.9px 1.9px at 72.2% 19.9%, rgba(255,251,238,0.9), transparent 62%),
+    radial-gradient(1.7px 1.7px at 80.9% 18.4%, rgba(233,205,138,0.84), transparent 62%),
+    radial-gradient(1.5px 1.5px at 35.3% 58.4%, rgba(255,251,238,0.43), transparent 62%),
+    radial-gradient(1.5px 1.5px at 13.2% 4.6%, rgba(255,251,238,0.41), transparent 62%),
+    radial-gradient(1.7px 1.7px at 25.8% 24.8%, rgba(233,205,138,0.39), transparent 62%),
+    radial-gradient(1.3px 1.3px at 45.1% 34.5%, rgba(255,251,238,0.8), transparent 62%),
+    radial-gradient(1.7px 1.7px at 84.9% 18.0%, rgba(255,251,238,0.89), transparent 62%),
+    radial-gradient(1.3px 1.3px at 67.5% 24.2%, rgba(233,205,138,0.42), transparent 62%),
+    radial-gradient(1.3px 1.3px at 18.9% 15.1%, rgba(255,251,238,0.35), transparent 62%),
+    radial-gradient(1.5px 1.5px at 81.8% 12.1%, rgba(255,251,238,0.34), transparent 62%),
+    radial-gradient(1.9px 1.9px at 42.2% 23.5%, rgba(233,205,138,0.52), transparent 62%),
+    radial-gradient(1.9px 1.9px at 14.0% 53.4%, rgba(255,251,238,0.71), transparent 62%),
+    radial-gradient(2.2px 2.2px at 73.0% 28.9%, rgba(255,251,238,0.79), transparent 62%),
+    radial-gradient(1.1px 1.1px at 39.7% 25.3%, rgba(233,205,138,0.61), transparent 62%),
+    radial-gradient(1.3px 1.3px at 40.4% 12.6%, rgba(255,251,238,0.59), transparent 62%),
+    radial-gradient(1.1px 1.1px at 12.6% 37.6%, rgba(255,251,238,0.34), transparent 62%),
+    radial-gradient(1.5px 1.5px at 16.5% 7.2%, rgba(233,205,138,0.68), transparent 62%),
+    radial-gradient(1.7px 1.7px at 8.8% 13.7%, rgba(255,251,238,0.42), transparent 62%),
+    radial-gradient(9px 9px at 18% 14%, rgba(201,162,39,0.16), transparent 70%),
+    radial-gradient(8px 8px at 64% 9%, rgba(201,162,39,0.14), transparent 70%),
+    radial-gradient(7px 7px at 41% 31%, rgba(201,162,39,0.11), transparent 70%),
+    radial-gradient(8px 8px at 83% 22%, rgba(201,162,39,0.12), transparent 70%),
+    radial-gradient(7px 7px at 30% 47%, rgba(201,162,39,0.1), transparent 70%);
+}
+.hero .scintille{
+  position:absolute; left:0; top:0; width:100%; height:62%; z-index:2;
+  color:#FFF6DF; pointer-events:none;
+}
+.hero .arche{
+  position:absolute; left:50%; top:0; transform:translateX(-50%);
+  width:min(344px,94%); height:100%; z-index:3;
+}
+.hero .arche-fond{ fill:rgba(4,10,22,.3); }
+.hero .arche-trait{ fill:none; stroke:url(#gArche); stroke-width:1.6; }
+.hero .arche-trait.fin{ stroke-width:.9; opacity:.55; }
+.hero .lune{
+  position:absolute; left:3%; top:8px; width:46px; height:46px; z-index:3;
+  fill:#F2E6BC; opacity:.9; filter:drop-shadow(0 0 14px rgba(242,230,188,.5));
+}
+.hero .horizon{
+  position:absolute; left:10%; right:10%; bottom:16px; height:76px; z-index:4;
+  pointer-events:none; filter:blur(7px);
+  background:radial-gradient(50% 100% at 50% 100%,
+    rgba(255,240,198,.8) 0%, rgba(255,203,120,.42) 38%, transparent 72%);
+}
+.hero .skyline{
+  position:absolute; left:0; right:0; bottom:0; width:100%; height:128px; z-index:6;
+}
+.hero .skyline.loin{ height:104px; z-index:5; opacity:.72; }
+.hero .skyline .sil{ fill:#060D1A; opacity:.95; }
+.hero .skyline.loin .sil{ fill:#101D31; opacity:.9; }
+.hero .skyline .fil{ stroke:#E3C365; stroke-width:1; opacity:.55; fill:none; }
+.hero .skyline .palme{
+  stroke:#060D1A; stroke-width:2.4; fill:none; stroke-linecap:round; opacity:.95;
+}
+.hero .brume{
+  position:absolute; left:0; right:0; bottom:0; height:56px; z-index:6; pointer-events:none;
+  background:linear-gradient(to top, rgba(255,196,116,.22) 0%, rgba(255,180,100,.07) 45%, transparent 100%);
+}
+
+.filet-titre{
+  display:flex; align-items:center; justify-content:center; gap:11px;
+  width:min(268px,74%); margin:15px auto 0;
+}
+.filet-titre i{
+  flex:1 1 auto; height:1px;
+  background:linear-gradient(to right, transparent, rgba(201,162,39,.6));
+}
+.filet-titre i:last-of-type{
+  background:linear-gradient(to left, transparent, rgba(201,162,39,.6));
+}
+.filet-titre svg{ width:9px; height:9px; fill:var(--or); opacity:.8; flex:0 0 auto; }
+
+.ornement{
+  display:block; margin:14px auto 0; width:min(300px,82%); height:auto;
+  color:var(--or-clair); opacity:.9;
+}
+.separateur{ display:flex; align-items:center; gap:12px; margin:2px 0 18px; }
+.separateur i{
+  flex:1 1 auto; height:1px;
+  background:linear-gradient(to right, transparent, rgba(201,162,39,.45));
+}
+.separateur i:last-of-type{
+  background:linear-gradient(to left, transparent, rgba(201,162,39,.45));
+}
+.separateur span{
+  font-family:'Cormorant Garamond','EB Garamond',serif; font-size:23px;
+  letter-spacing:.06em; color:var(--or-clair); opacity:.9;
+}
+.quat{ width:11px; height:11px; fill:var(--or); opacity:.7; flex:0 0 auto; }
+
+/* ---------- lignes de sourate ---------- */
+.etoile{
+  position:relative; width:46px; height:46px; flex:0 0 auto;
+  display:grid; place-items:center; color:var(--or);
+}
+.etoile svg{ position:absolute; inset:0; width:100%; height:100%; }
+.etoile em{
+  position:relative; font-family:'Cinzel',serif; font-style:normal;
+  font-size:13.5px; color:var(--or-clair);
+}
+.ligne .nom{ flex:1 1 auto; display:flex; flex-direction:column; gap:2px; min-width:0; }
+.ligne .nom b{ font-weight:400; font-size:18.5px; letter-spacing:.01em; }
+.ligne .nom small{ font-size:12.5px; opacity:.45; }
+.ligne .chev{ flex:0 0 auto; display:flex; opacity:.38; }
+.ligne .chev svg{ width:15px; height:15px; }
 
 /* ---------- fond clair ---------- */
 body[data-theme="clair"]{
@@ -386,11 +517,7 @@ body[data-theme="clair"] .fenetre::before{
     radial-gradient(8px 8px at 86% 64%, rgba(196,166,110,.22), transparent 70%);
 }
 body[data-theme="clair"] .titre-appli{ color:#8A6C10; text-shadow:none; }
-body[data-theme="clair"] .titre-appli::after{
-  background:linear-gradient(to right, transparent, rgba(138,108,16,.75), transparent);
-}
 body[data-theme="clair"] .basmala{ color:#96751A; text-shadow:none; }
-body[data-theme="clair"] .ornement{ color:#96751A; opacity:.85; }
 body[data-theme="clair"] .pied-verset .ar{ color:#96751A; opacity:.7; }
 body[data-theme="clair"] .f-titre{ color:#8A6C10; }
 body[data-theme="clair"] .ligne{
@@ -407,6 +534,86 @@ body[data-theme="clair"] .ligne[data-actif="true"]{
   border-color:rgba(156,123,20,.6);
 }
 body[data-theme="clair"] #champ{ color:#6E5608; border-bottom-color:rgba(156,123,20,.5); }
+
+body[data-theme="clair"] .hero .lueur{
+  background:
+    radial-gradient(44% 76% at 50% 106%, rgba(255,206,132,.72) 0%, rgba(246,182,104,.36) 32%,
+                    rgba(232,150,76,.14) 56%, transparent 78%),
+    radial-gradient(96% 130% at 50% 122%, rgba(206,150,84,.22) 0%, transparent 70%);
+}
+body[data-theme="clair"] .hero .etoiles{
+  background-image:
+    radial-gradient(2.2px 2.2px at 33.1% 10.2%, rgba(168,133,44,0.19), transparent 62%),
+    radial-gradient(1.9px 1.9px at 80.8% 6.7%, rgba(138,108,16,0.2), transparent 62%),
+    radial-gradient(1.7px 1.7px at 50.7% 3.3%, rgba(138,108,16,0.29), transparent 62%),
+    radial-gradient(1.1px 1.1px at 25.1% 34.6%, rgba(168,133,44,0.4), transparent 62%),
+    radial-gradient(2.2px 2.2px at 13.9% 14.6%, rgba(138,108,16,0.34), transparent 62%),
+    radial-gradient(1.1px 1.1px at 7.9% 36.7%, rgba(138,108,16,0.44), transparent 62%),
+    radial-gradient(1.5px 1.5px at 6.5% 53.4%, rgba(168,133,44,0.29), transparent 62%),
+    radial-gradient(1.9px 1.9px at 53.9% 35.8%, rgba(138,108,16,0.4), transparent 62%),
+    radial-gradient(2.2px 2.2px at 19.3% 36.5%, rgba(138,108,16,0.23), transparent 62%),
+    radial-gradient(1.9px 1.9px at 11.4% 44.4%, rgba(168,133,44,0.2), transparent 62%),
+    radial-gradient(1.7px 1.7px at 21.8% 42.5%, rgba(138,108,16,0.39), transparent 62%),
+    radial-gradient(1.5px 1.5px at 46.7% 57.3%, rgba(138,108,16,0.26), transparent 62%),
+    radial-gradient(1.3px 1.3px at 78.3% 43.6%, rgba(168,133,44,0.2), transparent 62%),
+    radial-gradient(1.5px 1.5px at 30.8% 31.2%, rgba(138,108,16,0.38), transparent 62%),
+    radial-gradient(1.1px 1.1px at 29.6% 60.8%, rgba(138,108,16,0.32), transparent 62%),
+    radial-gradient(1.7px 1.7px at 17.8% 21.9%, rgba(168,133,44,0.29), transparent 62%),
+    radial-gradient(1.9px 1.9px at 94.4% 5.7%, rgba(138,108,16,0.33), transparent 62%),
+    radial-gradient(2.2px 2.2px at 86.0% 20.1%, rgba(138,108,16,0.27), transparent 62%),
+    radial-gradient(1.1px 1.1px at 49.7% 49.6%, rgba(168,133,44,0.41), transparent 62%),
+    radial-gradient(2.2px 2.2px at 92.7% 29.9%, rgba(138,108,16,0.2), transparent 62%),
+    radial-gradient(1.9px 1.9px at 72.2% 19.9%, rgba(138,108,16,0.45), transparent 62%),
+    radial-gradient(1.7px 1.7px at 80.9% 18.4%, rgba(168,133,44,0.42), transparent 62%),
+    radial-gradient(1.5px 1.5px at 35.3% 58.4%, rgba(138,108,16,0.23), transparent 62%),
+    radial-gradient(1.5px 1.5px at 13.2% 4.6%, rgba(138,108,16,0.21), transparent 62%),
+    radial-gradient(1.7px 1.7px at 25.8% 24.8%, rgba(168,133,44,0.2), transparent 62%),
+    radial-gradient(1.3px 1.3px at 45.1% 34.5%, rgba(138,108,16,0.4), transparent 62%),
+    radial-gradient(1.7px 1.7px at 84.9% 18.0%, rgba(138,108,16,0.45), transparent 62%),
+    radial-gradient(1.3px 1.3px at 67.5% 24.2%, rgba(168,133,44,0.22), transparent 62%),
+    radial-gradient(1.3px 1.3px at 18.9% 15.1%, rgba(138,108,16,0.18), transparent 62%),
+    radial-gradient(1.5px 1.5px at 81.8% 12.1%, rgba(138,108,16,0.18), transparent 62%),
+    radial-gradient(1.9px 1.9px at 42.2% 23.5%, rgba(168,133,44,0.27), transparent 62%),
+    radial-gradient(1.9px 1.9px at 14.0% 53.4%, rgba(138,108,16,0.36), transparent 62%),
+    radial-gradient(2.2px 2.2px at 73.0% 28.9%, rgba(138,108,16,0.4), transparent 62%),
+    radial-gradient(1.1px 1.1px at 39.7% 25.3%, rgba(168,133,44,0.31), transparent 62%),
+    radial-gradient(1.3px 1.3px at 40.4% 12.6%, rgba(138,108,16,0.3), transparent 62%),
+    radial-gradient(1.1px 1.1px at 12.6% 37.6%, rgba(138,108,16,0.18), transparent 62%),
+    radial-gradient(1.5px 1.5px at 16.5% 7.2%, rgba(168,133,44,0.35), transparent 62%),
+    radial-gradient(1.7px 1.7px at 8.8% 13.7%, rgba(138,108,16,0.22), transparent 62%);
+}
+body[data-theme="clair"] .hero .scintille{ color:#B58F2A; opacity:.7; }
+body[data-theme="clair"] .hero .arche-fond{ fill:rgba(255,251,240,.55); }
+body[data-theme="clair"] .hero .lune{ fill:#B58F2A; opacity:.55; filter:none; }
+body[data-theme="clair"] .hero .horizon{
+  background:radial-gradient(50% 100% at 50% 100%,
+    rgba(255,238,196,.9) 0%, rgba(250,204,128,.5) 38%, transparent 72%);
+}
+body[data-theme="clair"] .hero .skyline .sil{ fill:#7A5C28; opacity:.62; }
+body[data-theme="clair"] .hero .skyline.loin .sil{ fill:#9B7A42; opacity:.5; }
+body[data-theme="clair"] .hero .skyline .palme{ stroke:#7A5C28; opacity:.62; }
+body[data-theme="clair"] .hero .skyline .fil{ stroke:#8A6C10; opacity:.55; }
+body[data-theme="clair"] .hero .brume{
+  background:linear-gradient(to top, rgba(255,214,150,.35) 0%, rgba(255,206,140,.12) 45%, transparent 100%);
+}
+body[data-theme="clair"] .filet-titre i{
+  background:linear-gradient(to right, transparent, rgba(138,108,16,.6));
+}
+body[data-theme="clair"] .filet-titre i:last-of-type{
+  background:linear-gradient(to left, transparent, rgba(138,108,16,.6));
+}
+body[data-theme="clair"] .filet-titre svg{ fill:#8A6C10; }
+body[data-theme="clair"] .ornement{ color:#96751A; opacity:.95; }
+body[data-theme="clair"] .separateur span{ color:#8A6C10; }
+body[data-theme="clair"] .separateur i{
+  background:linear-gradient(to right, transparent, rgba(138,108,16,.45));
+}
+body[data-theme="clair"] .separateur i:last-of-type{
+  background:linear-gradient(to left, transparent, rgba(138,108,16,.45));
+}
+body[data-theme="clair"] .quat{ fill:#96751A; }
+body[data-theme="clair"] .etoile{ color:#96751A; }
+body[data-theme="clair"] .etoile em{ color:#6E5608; }
 </style>
 </head>
 <body>
@@ -484,22 +691,112 @@ body[data-theme="clair"] #champ{ color:#6E5608; border-bottom-color:rgba(156,123
     </span>
   </div>
   <div class="f-corps">
-    <h2 class="titre-appli">Le Rendez-vous</h2>
-    <p class="basmala">بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</p>
 
-    <svg class="ornement" viewBox="0 0 300 54" fill="none" aria-hidden="true">
-      <g stroke="currentColor" stroke-width="1.1">
-        <path d="M6 27 H96" opacity=".3"/>
-        <path d="M204 27 H294" opacity=".3"/>
-        <path d="M104 27 L112 21 L120 27 L112 33 Z" opacity=".55"/>
-        <path d="M196 27 L188 21 L180 27 L188 33 Z" opacity=".55"/>
-        <rect x="132" y="9" width="36" height="36" opacity=".8"/>
-        <rect x="132" y="9" width="36" height="36" transform="rotate(45 150 27)" opacity=".8"/>
-        <circle cx="150" cy="27" r="24" opacity=".35" stroke-dasharray="3 5"/>
-        <circle cx="150" cy="27" r="6" opacity=".7"/>
-      </g>
-      <circle cx="150" cy="27" r="2.4" fill="currentColor" opacity=".8"/>
-    </svg>
+    <div class="hero">
+      <div class="lueur"></div>
+      <div class="etoiles"></div>
+
+      <svg class="scintille" viewBox="0 0 100 60" aria-hidden="true">
+        <g fill="currentColor">
+          <path d="M22 8 L23.1 11.4 L26.5 12.5 L23.1 13.6 L22 17 L20.9 13.6 L17.5 12.5 L20.9 11.4 Z" opacity=".55"/>
+          <path d="M74 18 L74.9 20.7 L77.6 21.6 L74.9 22.5 L74 25.2 L73.1 22.5 L70.4 21.6 L73.1 20.7 Z" opacity=".45"/>
+          <path d="M52 4 L52.7 6.1 L54.8 6.8 L52.7 7.5 L52 9.6 L51.3 7.5 L49.2 6.8 L51.3 6.1 Z" opacity=".4"/>
+        </g>
+      </svg>
+
+      <svg class="arche" viewBox="0 0 320 300" preserveAspectRatio="xMidYMin meet" aria-hidden="true">
+        <defs>
+          <linearGradient id="gArche" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="#F0DDA0" stop-opacity=".9"/>
+            <stop offset=".5" stop-color="#C9A227" stop-opacity=".4"/>
+            <stop offset="1" stop-color="#C9A227" stop-opacity="0"/>
+          </linearGradient>
+        </defs>
+        <path class="arche-fond" d="M46 300 L46 132 C46 96 70 70 100 56 C126 44 146 30 160 6 C174 30 194 44 220 56 C250 70 274 96 274 132 L274 300 Z"/>
+        <path class="arche-trait" d="M46 300 L46 132 C46 96 70 70 100 56 C126 44 146 30 160 6 C174 30 194 44 220 56 C250 70 274 96 274 132 L274 300"/>
+        <path class="arche-trait fin" d="M58 300 L58 134 C58 103 80 80 107 67 C130 56 148 42 160 22 C172 42 190 56 213 67 C240 80 262 103 262 134 L262 300"/>
+      </svg>
+
+      <svg class="lune" viewBox="0 0 56 56" aria-hidden="true">
+        <path d="M30 6 A22 22 0 1 0 30 50 A17 17 0 1 1 30 6 Z"/>
+      </svg>
+
+      <div class="horizon"></div>
+
+      <svg class="skyline loin" viewBox="0 0 420 122" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+        <g class="sil">
+          <path d="M0 116 H420 V122 H0 Z"/>
+          <path d="M96 116 V96 h6 V90 h3 V96 h6 v20 Z"/>
+          <path d="M97 90 C97 84 105 84 105 79 C105 84 113 84 113 90 Z"/>
+          <path d="M304 116 V96 h6 V90 h3 V96 h6 v20 Z"/>
+          <path d="M305 90 C305 84 313 84 313 79 C313 84 321 84 321 90 Z"/>
+          <path d="M140 116 V102 C140 95 148 91 152 84 C156 91 164 95 164 102 v14 Z"/>
+          <path d="M256 116 V102 C256 95 264 91 268 84 C272 91 280 95 280 102 v14 Z"/>
+          <path d="M186 116 V96 C186 86 200 80 210 68 C220 80 234 86 234 96 v20 Z"/>
+          <path d="M60 116 V106 h300 v10 Z"/>
+        </g>
+      </svg>
+
+      <svg class="skyline" viewBox="0 0 420 122" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+        <g class="sil">
+          <path d="M0 112 H420 V122 H0 Z"/>
+          <path d="M26 112 V52 h9 V44 h4 V52 h9 v60 Z"/>
+          <path d="M28 44 C28 36 39.5 36 39.5 30 C39.5 36 51 36 51 44 Z"/>
+          <path d="M369 112 V52 h9 V44 h4 V52 h9 v60 Z"/>
+          <path d="M371 44 C371 36 382.5 36 382.5 30 C382.5 36 394 36 394 44 Z"/>
+          <path d="M72 112 V88 C72 78 82 72 88 62 C94 72 104 78 104 88 v24 Z"/>
+          <path d="M316 112 V88 C316 78 326 72 332 62 C338 72 348 78 348 88 v24 Z"/>
+          <path d="M120 112 V80 C120 68 133 61 140 48 C147 61 160 68 160 80 v32 Z"/>
+          <path d="M260 112 V80 C260 68 273 61 280 48 C287 61 300 68 300 80 v32 Z"/>
+          <path d="M172 112 V72 C172 54 194 44 210 22 C226 44 248 54 248 72 v40 Z"/>
+          <path d="M60 112 V96 h300 v16 Z"/>
+        </g>
+        <g class="fil">
+          <path d="M210 22 V10"/><path d="M39.5 30 V20"/><path d="M382.5 30 V20"/>
+        </g>
+        <g class="palme">
+          <path d="M12 112 C14 96 15 84 13 72"/>
+          <path d="M13 72 C6 66 2 62 0 56"/><path d="M13 72 C8 62 8 55 10 48"/>
+          <path d="M13 72 C16 62 20 57 26 53"/><path d="M13 72 C20 68 26 67 32 68"/>
+          <path d="M408 112 C406 96 405 84 407 72"/>
+          <path d="M407 72 C414 66 418 62 420 56"/><path d="M407 72 C412 62 412 55 410 48"/>
+          <path d="M407 72 C404 62 400 57 394 53"/><path d="M407 72 C400 68 394 67 388 68"/>
+        </g>
+      </svg>
+
+      <div class="brume"></div>
+
+      <h2 class="titre-appli">Le Rendez-vous</h2>
+      <div class="filet-titre">
+        <i></i>
+        <svg viewBox="0 0 14 14" aria-hidden="true"><path d="M7 0 L14 7 L7 14 L0 7 Z"/></svg>
+        <i></i>
+      </div>
+      <p class="basmala">بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</p>
+
+      <svg class="ornement" viewBox="0 0 320 92" fill="none" aria-hidden="true">
+        <g stroke="currentColor" stroke-width="1.1">
+          <path d="M6 46 H96" opacity=".28"/>
+          <path d="M224 46 H314" opacity=".28"/>
+          <path d="M104 46 L112 39 L120 46 L112 53 Z" opacity=".5"/>
+          <path d="M216 46 L208 39 L200 46 L208 53 Z" opacity=".5"/>
+          <rect x="128" y="14" width="64" height="64" opacity=".75"/>
+          <rect x="128" y="14" width="64" height="64" transform="rotate(45 160 46)" opacity=".75"/>
+          <circle cx="160" cy="46" r="41" opacity=".28" stroke-dasharray="3 6"/>
+          <path d="M160 36 C156 31 148 29 142 30 L142 57 C148 56 156 58 160 62" opacity=".9"/>
+          <path d="M160 36 C164 31 172 29 178 30 L178 57 C172 56 164 58 160 62" opacity=".9"/>
+          <path d="M160 36 V62" opacity=".55"/>
+        </g>
+      </svg>
+    </div>
+
+    <div class="separateur">
+      <i></i>
+      <svg class="quat" viewBox="0 0 16 16" aria-hidden="true"><path d="M8 1 C9.5 4 12 6.5 15 8 C12 9.5 9.5 12 8 15 C6.5 12 4 9.5 1 8 C4 6.5 6.5 4 8 1 Z"/></svg>
+      <span>Sourates</span>
+      <svg class="quat" viewBox="0 0 16 16" aria-hidden="true"><path d="M8 1 C9.5 4 12 6.5 15 8 C12 9.5 9.5 12 8 15 C6.5 12 4 9.5 1 8 C4 6.5 6.5 4 8 1 Z"/></svg>
+      <i></i>
+    </div>
 
     <div id="liste-sourates"></div>
 
@@ -900,13 +1197,22 @@ function ouvrirListe(){
   const liste = $("liste-sourates");
   liste.innerHTML = "";
   NUMEROS.forEach(function(s){
+    const n = PAR_SOURATE[s].length;
     const b = document.createElement("button");
     b.className = "ligne";
     if (s === sCourante) b.dataset.actif = "true";
-    b.innerHTML = '<span class="num">' + s + '</span>' +
-                  '<span class="nom">' + nomFr(s) + '</span>' +
-                  '<span class="compte">' + PAR_SOURATE[s].length + '</span>' +
-                  '<span class="ar">' + nomAr(s) + '</span>';
+    b.innerHTML =
+      '<span class="etoile">' +
+        '<svg viewBox="0 0 44 44" fill="none" stroke="currentColor" stroke-width="1.1" opacity=".8">' +
+          '<rect x="10.5" y="10.5" width="23" height="23"/>' +
+          '<rect x="10.5" y="10.5" width="23" height="23" transform="rotate(45 22 22)"/>' +
+        '</svg><em>' + s + '</em></span>' +
+      '<span class="nom"><b>' + nomFr(s) + '</b>' +
+        '<small>' + n + ' verset' + (n > 1 ? 's' : '') + '</small></span>' +
+      '<span class="ar">' + nomAr(s) + '</span>' +
+      '<span class="chev"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" ' +
+        'stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">' +
+        '<path d="M9.5 5l7 7-7 7"/></svg></span>';
     b.onclick = function(){
       fermer("f-sourates");
       ouvrirSourate(s, 1);
