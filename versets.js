@@ -59,6 +59,563 @@ ar: صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ 
 fr: le chemin de ceux que Tu as comblés de bienfaits, non pas de ceux qui ont encouru Ta colère, ni des égarés.
 ph: Şirāţa Al-Ladhīna 'An`amta `Alayhim Ghayri Al-Maghđūbi `Alayhim Wa Lā Ađ-Đāllīna
 
+# ---------- Sourate 12 · Yusuf ----------
+
+12:1
+ar: الٓر ۚ تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ ٱلْمُبِينِ
+fr: Alif, Lam, Ra. Tels sont les versets du Livre explicite.
+ph: 'Alif-Lām-Rā Tilka 'Āyātu Al-Kitābi Al-Mubīni
+
+12:2
+ar: إِنَّآ أَنزَلْنَٰهُ قُرْءَٰنًا عَرَبِيًّۭا لَّعَلَّكُمْ تَعْقِلُونَ
+fr: Nous l'avons fait descendre, un Coran en [langue] arabe, afin que vous raisonniez.
+ph: 'Innā 'Anzalnāhu Qur'ānāan `Arabīyāan La`allakum Ta`qilūna
+
+12:3
+ar: نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ ٱلْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ هَٰذَا ٱلْقُرْءَانَ وَإِن كُنتَ مِن قَبْلِهِۦ لَمِنَ ٱلْغَٰفِلِينَ
+fr: Nous te racontons le meilleur récit, grâce à la révélation que Nous te faisons dans ce Coran même si tu étais auparavant du nombre des inattentifs (à ces récits).
+ph: Naĥnu Naquşşu `Alayka 'Aĥsana Al-Qaşaşi Bimā 'Awĥaynā 'Ilayka Hādhā Al-Qur'āna Wa 'In Kunta Min Qablihi Lamina Al-Ghāfilīna
+
+12:4
+ar: إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَٰجِدِينَ
+fr: Quand Yusuf (Joseph) dit à son père: « Ô mon père, j'ai vu [en songe], onze étoiles, et aussi le soleil et la lune; je les ai vus prosternés devant moi. »
+ph: 'Idh Qāla Yūsufu Li'abīhi Yā 'Abati 'Innī Ra'aytu 'Aĥada `Ashara Kawkabāan Wa Ash-Shamsa Wa Al-Qamara Ra'aytuhum Lī Sājidīna
+
+12:5
+ar: قَالَ يَٰبُنَىَّ لَا تَقْصُصْ رُءْيَاكَ عَلَىٰٓ إِخْوَتِكَ فَيَكِيدُوا۟ لَكَ كَيْدًا ۖ إِنَّ ٱلشَّيْطَٰنَ لِلْإِنسَٰنِ عَدُوٌّۭ مُّبِينٌۭ
+fr: « Ô mon fils, dit-il, ne raconte pas ta vision à tes frères car ils monteraient un complot contre toi; le Diable est certainement pour l'homme un ennemi déclaré.
+ph: Qāla Yā Bunayya Lā Taqşuş Ru'uyā Ka `Alá 'Ikhwatika Fayakīdū Laka Kaydāan 'Inna Ash-Shayţāna Lil'insāni `Adūwun Mubīnun
+
+12:6
+ar: وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُۥ عَلَيْكَ وَعَلَىٰٓ ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيْكَ مِن قَبْلُ إِبْرَٰهِيمَ وَإِسْحَٰقَ ۚ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌۭ
+fr: Ainsi ton Seigneur te choisira et t'enseignera l'interprétation des rêves, et Il parfera Son bienfait sur toi et sur la famille de Ya'qub (Jacob), tout comme Il l'a parfait auparavant sur tes deux ancêtres, Ibrahim (Abraham) et Ishaq (Isaac), car ton Seigneur est Omniscient et Sage.
+ph: Wa Kadhalika Yajtabīka Rabbuka Wa Yu`allimuka Min Ta'wīli Al-'Aĥādīthi Wa Yutimmu Ni`matahu `Alayka Wa `Alá 'Āli Ya`qūba Kamā 'Atammahā `Alá 'Abawayka Min Qablu 'Ibrāhīma Wa 'Isĥāqa 'Inna Rabbaka `Alīmun Ĥakīmun
+
+12:7
+ar: ۞ لَّقَدْ كَانَ فِى يُوسُفَ وَإِخْوَتِهِۦٓ ءَايَٰتٌۭ لِّلسَّآئِلِينَ
+fr: Il y avait certainement, en Yusuf (Joseph) et ses frères, des exhortations pour ceux qui interrogent,
+ph: Laqad Kāna Fī Yūsufa Wa 'Ikhwatihi 'Āyātun Lilssā'ilīna
+
+12:8
+ar: إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَٰلٍۢ مُّبِينٍ
+fr: quand ceux-ci dirent: « Yusuf (Joseph) et son frère sont plus aimés de notre père que nous, alors que nous sommes un groupe bien fort. Notre père est vraiment dans un tort évident.
+ph: 'Idh Qālū Layūsufu Wa 'Akhūhu 'Aĥabbu 'Ilá 'Abīnā Minnā Wa Naĥnu `Uşbatun 'Inna 'Abānā Lafī Đalālin Mubīnin
+
+12:9
+ar: ٱقْتُلُوا۟ يُوسُفَ أَوِ ٱطْرَحُوهُ أَرْضًۭا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا۟ مِنۢ بَعْدِهِۦ قَوْمًۭا صَٰلِحِينَ
+fr: Tuez Yusuf (Joseph) ou bien éloignez-le dans n'importe quel pays, afin que le visage de votre père se tourne exclusivement vers vous, et que vous soyez après cela des gens de bien ».
+ph: Aqtulū Yūsufa 'Awi Aţraĥūhu 'Arđāan Yakhlu Lakum Wajhu 'Abīkum Wa Takūnū Min Ba`dihi Qawmāan Şāliĥīna
+
+12:10
+ar: قَالَ قَآئِلٌۭ مِّنْهُمْ لَا تَقْتُلُوا۟ يُوسُفَ وَأَلْقُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ يَلْتَقِطْهُ بَعْضُ ٱلسَّيَّارَةِ إِن كُنتُمْ فَٰعِلِينَ
+fr: L'un d'eux dit: « Ne tuez pas Yusuf (Joseph), mais jetez-le si vous êtes disposés à agir, au fond du puits afin que quelque caravane le recueille. »
+ph: Qāla Qā'ilun Minhum Lā Taqtulū Yūsufa Wa 'Alqūhu Fī Ghayābati Al-Jubbi Yaltaqiţhu Ba`đu As-Sayyārati 'In Kuntum Fā`ilīna
+
+12:11
+ar: قَالُوا۟ يَٰٓأَبَانَا مَا لَكَ لَا تَأْمَ۫نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَٰصِحُونَ
+fr: Ils dirent: « Ô notre père, qu'as-tu à ne pas te fier à nous au sujet de Yusuf (Joseph) ? Nous sommes cependant bien intentionnés à son égard.
+ph: Qālū Yā 'Abānā Mā Laka Lā Ta'mannā `Alá Yūsufa Wa 'Innā Lahu Lanāşiĥūna
+
+12:12
+ar: أَرْسِلْهُ مَعَنَا غَدًۭا يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ
+fr: Envoie-le demain avec nous faire une promenade et jouer. Et nous veillerons sur lui. »
+ph: 'Arsilhu Ma`anā Ghadāan Yarta` Wa Yal`ab Wa 'Innā Lahu Laĥāfižūna
+
+12:13
+ar: قَالَ إِنِّى لَيَحْزُنُنِىٓ أَن تَذْهَبُوا۟ بِهِۦ وَأَخَافُ أَن يَأْكُلَهُ ٱلذِّئْبُ وَأَنتُمْ عَنْهُ غَٰفِلُونَ
+fr: Il dit: « Certes, je m'attristerai que vous l'emmeniez; et je crains que le loup ne le dévore dans un moment où vous ne ferez pas attention à lui. »
+ph: Qāla 'Innī Layaĥzununī 'An Tadh/habū Bihi Wa 'Akhāfu 'An Ya'kulahu Adh-Dhi'bu Wa 'Antum `Anhu Ghāfilūna
+
+12:14
+ar: قَالُوا۟ لَئِنْ أَكَلَهُ ٱلذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّآ إِذًۭا لَّخَٰسِرُونَ
+fr: Ils dirent: « Si le loup le dévore alors que nous sommes nombreux, nous serons vraiment les perdants. »
+ph: Qālū La'in 'Akalahu Adh-Dhi'bu Wa Naĥnu `Uşbatun 'Innā 'Idhāan Lakhāsirūna
+
+12:15
+ar: فَلَمَّا ذَهَبُوا۟ بِهِۦ وَأَجْمَعُوٓا۟ أَن يَجْعَلُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ ۚ وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبِّئَنَّهُم بِأَمْرِهِمْ هَٰذَا وَهُمْ لَا يَشْعُرُونَ
+fr: Et lorsqu'ils l'eurent emmené, et se furent mis d'accord pour le jeter dans les profondeurs invisibles du puits, Nous lui révélâmes: « Tu les informeras sûrement de cette affaire sans qu'ils s'en rendent compte. »
+ph: Falammā Dhahabū Bihi Wa 'Ajma`ū 'An Yaj`alūhu Fī Ghayābati Al-Jubbi Wa 'Awĥaynā 'Ilayhi Latunabbi'annahum Bi'amrihim Hādhā Wa Hum Lā Yash`urūna
+
+12:16
+ar: وَجَآءُوٓ أَبَاهُمْ عِشَآءًۭ يَبْكُونَ
+fr: Et ils vinrent à leur père, le soir, en pleurant.
+ph: Wa Jā'ū 'Abāhum `Ishā'an Yabkūna
+
+12:17
+ar: قَالُوا۟ يَٰٓأَبَانَآ إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِندَ مَتَٰعِنَا فَأَكَلَهُ ٱلذِّئْبُ ۖ وَمَآ أَنتَ بِمُؤْمِنٍۢ لَّنَا وَلَوْ كُنَّا صَٰدِقِينَ
+fr: Ils dirent: « Ô notre père, nous sommes allés faire une course, et nous avons laissé Yusuf (Joseph) auprès de nos effets; et le loup l'a dévoré. Tu ne nous croiras pas, même si nous disons la vérité. »
+ph: Qālū Yā 'Abānā 'Innā Dhahabnā Nastabiqu Wa Taraknā Yūsufa `Inda Matā`inā Fa'akalahu Adh-Dhi'bu Wa Mā 'Anta Bimu'uminin Lanā Wa Law Kunnā Şādiqīna
+
+12:18
+ar: وَجَآءُو عَلَىٰ قَمِيصِهِۦ بِدَمٍۢ كَذِبٍۢ ۚ قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًۭا ۖ فَصَبْرٌۭ جَمِيلٌۭ ۖ وَٱللَّهُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ
+fr: Ils apportèrent sa tunique tachée d'un faux sang. Il dit: « Vos âmes, plutôt, vous ont suggéré quelque chose... [Il ne me reste plus donc] qu'une belle patience ! C'est Allah qu'il faut appeler au secours contre ce que vous racontez ! »
+ph: Wa Jā'ū `Alá Qamīşihi Bidamin Kadhibin Qāla Bal Sawwalat Lakum 'Anfusukum 'Amrāan Faşabrun Jamīlun Wa Allāhu Al-Musta`ānu `Alá Mā Taşifūna
+
+12:19
+ar: وَجَآءَتْ سَيَّارَةٌۭ فَأَرْسَلُوا۟ وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُۥ ۖ قَالَ يَٰبُشْرَىٰ هَٰذَا غُلَٰمٌۭ ۚ وَأَسَرُّوهُ بِضَٰعَةًۭ ۚ وَٱللَّهُ عَلِيمٌۢ بِمَا يَعْمَلُونَ
+fr: Or, vint une caravane. Ils envoyèrent leur chercheur d'eau, qui fit descendre son seau. Il dit: « Bonne nouvelle ! Voilà un garçon ! » Et ils le dissimulèrent [pour le vendre] telle une marchandise. Allah cependant savait fort bien ce qu'ils faisaient.
+ph: Wa Jā'at Sayyāratun Fa'arsalū Wa Aridahum Fa'adlá Dalwahu Qāla Yā Bushrá Hādhā Ghulāmun Wa 'Asarrūhu Biđā`atan Wa Allāhu `Alīmun Bimā Ya`malūna
+
+12:20
+ar: وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍۢ دَرَٰهِمَ مَعْدُودَةٍۢ وَكَانُوا۟ فِيهِ مِنَ ٱلزَّٰهِدِينَ
+fr: Et ils le vendirent à vil prix: pour quelques dirhams comptés. Ils le considéraient comme indésirable.
+ph: Wa Sharawhu Bithamanin Bakhsin Darāhima Ma`dūdatin Wa Kānū Fīhi Mina Az-Zāhidīna
+
+12:21
+ar: وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+fr: Et celui qui l'acheta était de l'Egypte. Il dit à sa femme : « Accorde lui une généreuse hospitalité. Il se peut qu'il nous soit utile ou que nous l'adoptions comme notre enfant. » Ainsi avons-nous raffermi Yusuf (Joseph) dans le pays et nous lui avons appris l'interprétation des rêves. Et Allah est souverain en Son Commandement: mais la plupart des gens ne savent pas.
+ph: Wa Qāla Al-Ladhī Ashtarāhu Min Mişra Li'imra'atihi 'Akrimī Mathwāhu `Asá 'An Yanfa`anā 'Aw Nattakhidhahu Waladāan Wa Kadhalika Makkannā Liyūsufa Fī Al-'Arđi Wa Linu`allimahu Min Ta'wīli Al-'Aĥādīthi Wa Allāhu Ghālibun `Alá 'Amrihi Wa Lakinna 'Akthara An-Nāsi Lā Ya`lamūna
+
+12:22
+ar: وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيْنَٰهُ حُكْمًۭا وَعِلْمًۭا ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
+fr: Et quand il eut atteint sa maturité Nous lui accordâmes sagesse et savoir. C'est ainsi que nous récompensons les bienfaisants.
+ph: Wa Lammā Balagha 'Ashuddahu 'Ātaynāhu Ĥukmāan Wa `Ilmāan Wa Kadhalika Najzī Al-Muĥsinīna
+
+12:23
+ar: وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ ٱللَّهِ ۖ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
+fr: Or celle [Zulikha] qui l'avait reçu dans sa maison essaya de le séduire. Et elle ferma bien les portes et dit: « Viens, (je suis prête pour toi ! ) » -Il dit: « Qu'Allah me protège ! C'est mon maître qui m'a accordé un bon asile. Vraiment les injustes ne réussissent pas. »
+ph: Wa Rāwadat/hu Allatī Huwa Fī Baytihā `An Nafsihi Wa Ghallaqati Al-'Abwāba Wa Qālat Hayta Laka Qāla Ma`ādha Allāhi 'Innahu Rabbī 'Aĥsana Mathwāya 'Innahu Lā Yufliĥu Až-Žālimūna
+
+12:24
+ar: وَلَقَدْ هَمَّتْ بِهِۦ ۖ وَهَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَٰنَ رَبِّهِۦ ۚ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ ٱلسُّوٓءَ وَٱلْفَحْشَآءَ ۚ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُخْلَصِينَ
+fr: Et, elle le désira. Et il l'aurait désirée n'eût été ce qu'il vit comme preuve évidente de son Seigneur. Ainsi [Nous avons agi] pour écarter de lui le mal et la turpitude. Il était certes un de Nos serviteurs élus.
+ph: Wa Laqad Hammat Bihi Wa Hamma Bihā Lawlā 'An Ra'á Burhāna Rabbihi Kadhālika Linaşrifa `Anhu As-Sū'a Wa Al-Faĥshā'a 'Innahu Min `Ibādinā Al-Mukhlaşīna
+
+12:25
+ar: وَٱسْتَبَقَا ٱلْبَابَ وَقَدَّتْ قَمِيصَهُۥ مِن دُبُرٍۢ وَأَلْفَيَا سَيِّدَهَا لَدَا ٱلْبَابِ ۚ قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوٓءًا إِلَّآ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌۭ
+fr: Et tous deux coururent vers la porte, et elle lui déchira sa tunique par derrière. Ils trouvèrent le mari [de cette femme] à la porte. Elle dit: « Quelle serait la punition de quiconque a voulu faire du mal à ta famille, sinon la prison, ou un châtiment douloureux ? »
+ph: Wa Astabaqā Al-Bāba Wa Qaddat Qamīşahu Min Duburin Wa 'Alfayā Sayyidahā Ladá Al-Bābi Qālat Mā Jazā'u Man 'Arāda Bi'ahlika Sū'āan 'Illā 'An Yusjana 'Aw `Adhābun 'Alīmun
+
+12:26
+ar: قَالَ هِىَ رَٰوَدَتْنِى عَن نَّفْسِى ۚ وَشَهِدَ شَاهِدٌۭ مِّنْ أَهْلِهَآ إِن كَانَ قَمِيصُهُۥ قُدَّ مِن قُبُلٍۢ فَصَدَقَتْ وَهُوَ مِنَ ٱلْكَٰذِبِينَ
+fr: [Yusuf (Joseph)] dit: « C'est elle qui a voulu me séduire. » Et un témoin, de la famille de celle-ci témoigna: « Si sa tunique [à lui] est déchirée par devant, alors c'est elle qui dit la vérité, tandis qu'il est du nombre des menteurs.
+ph: Qāla Hiya Rāwadatnī `An Nafsī Wa Shahida Shāhidun Min 'Ahlihā 'In Kāna Qamīşuhu Qudda Min Qubulin Faşadaqat Wa Huwa Mina Al-Kādhibīna
+
+12:27
+ar: وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٍۢ فَكَذَبَتْ وَهُوَ مِنَ ٱلصَّٰدِقِينَ
+fr: Mais si sa tunique est déchirée par derrière, alors c'est elle qui mentit, tandis qu'il est du nombre des véridiques. »
+ph: Wa 'In Kāna Qamīşuhu Qudda Min Duburin Fakadhabat Wa Huwa Mina Aş-Şādiqīna
+
+12:28
+ar: فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٍۢ قَالَ إِنَّهُۥ مِن كَيْدِكُنَّ ۖ إِنَّ كَيْدَكُنَّ عَظِيمٌۭ
+fr: Puis, quand il (le mari) vit la tunique déchirée par derrière, il dit: « C'est bien de votre ruse de femmes ! Vos ruses sont vraiment énormes !
+ph: Falammā Ra'á Qamīşahu Qudda Min Duburin Qāla 'Innahu Min Kaydikunna 'Inna Kaydakunna `Ažīmun
+
+12:29
+ar: يُوسُفُ أَعْرِضْ عَنْ هَٰذَا ۚ وَٱسْتَغْفِرِى لِذَنۢبِكِ ۖ إِنَّكِ كُنتِ مِنَ ٱلْخَاطِـِٔينَ
+fr: Yusuf (Joseph), ne pense plus à cela ! Et toi, (femme), implore le pardon pour ton péché car tu es fautive. »
+ph: Yūsufu 'A`riđ `An Hādhā Wa Astaghfirī Lidhanbiki 'Innaki Kunti Mina Al-Khāţi'īna
+
+12:30
+ar: ۞ وَقَالَ نِسْوَةٌۭ فِى ٱلْمَدِينَةِ ٱمْرَأَتُ ٱلْعَزِيزِ تُرَٰوِدُ فَتَىٰهَا عَن نَّفْسِهِۦ ۖ قَدْ شَغَفَهَا حُبًّا ۖ إِنَّا لَنَرَىٰهَا فِى ضَلَٰلٍۢ مُّبِينٍۢ
+fr: Et dans la ville, des femmes dirent: « la femme d'Al-'Azize essaye de séduire son valet ! Il l'a vraiment rendue folle d'amour. Nous la trouvons certes dans un égarement évident.
+ph: Wa Qāla Niswatun Fī Al-Madīnati Amra'atu Al-`Azīzi Turāwidu Fatāhā `An Nafsihi Qad Shaghafahā Ĥubbāan 'Innā Lanarāhā Fī Đalālin Mubīnin
+
+12:31
+ar: فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًۭٔا وَءَاتَتْ كُلَّ وَٰحِدَةٍۢ مِّنْهُنَّ سِكِّينًۭا وَقَالَتِ ٱخْرُجْ عَلَيْهِنَّ ۖ فَلَمَّا رَأَيْنَهُۥٓ أَكْبَرْنَهُۥ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَٰشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَآ إِلَّا مَلَكٌۭ كَرِيمٌۭ
+fr: Lorsqu'elle eut entendu leur fourberie, elle leur envoya [des invitations,] et prépara pour elles une collation; et elle remit à chacune d'elles un couteau. Puis elle dit: « Sors devant elles, (Yusuf (Joseph) ! ) » -Lorsqu'elles le virent, elles l'admirèrent, se coupèrent les mains et dirent: « À Allah ne plaise ! Ce n'est pas un être humain, ce n'est qu'un ange noble ! »
+ph: Falammā Sami`at Bimakrihinna 'Arsalat 'Ilayhinna Wa 'A`tadat Lahunna Muttaka'an Wa 'Ātat Kulla Wāĥidatin Minhunna Sikkīnāan Wa Qālati Akhruj `Alayhinna Falammā Ra'aynahu 'Akbarnahu Wa Qaţţa`na 'Aydiyahunna Wa Qulna Ĥāsha Lillāhi Mā Hādhā Basharāan 'In Hādhā 'Illā Malakun Karīmun
+
+12:32
+ar: قَالَتْ فَذَٰلِكُنَّ ٱلَّذِى لُمْتُنَّنِى فِيهِ ۖ وَلَقَدْ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ فَٱسْتَعْصَمَ ۖ وَلَئِن لَّمْ يَفْعَلْ مَآ ءَامُرُهُۥ لَيُسْجَنَنَّ وَلَيَكُونًۭا مِّنَ ٱلصَّٰغِرِينَ
+fr: Elle dit: « Voilà donc celui à propos duquel vous me blâmiez. J'ai essayé de le séduire mais il s'en défendit fermement. Or, s'il ne fait pas ce que je lui commande, il sera très certainement emprisonné et sera certes parmi les humiliés. »
+ph: Qālat Fadhālikunna Al-Ladhī Lumtunnanī Fīhi Wa Laqad Rāwadttuhu `An Nafsihi Fāsta`şama Wa La'in Lam Yaf`al Mā 'Āmuruhu Layusjananna Wa Layakūnāan Mina Aş-Şāghirīna
+
+12:33
+ar: قَالَ رَبِّ ٱلسِّجْنُ أَحَبُّ إِلَىَّ مِمَّا يَدْعُونَنِىٓ إِلَيْهِ ۖ وَإِلَّا تَصْرِفْ عَنِّى كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُن مِّنَ ٱلْجَٰهِلِينَ
+fr: Il dit: « Ô mon Seigneur, la prison m'est préférable à ce à quoi elles m'invitent. Et si Tu n'écartes pas de moi leur ruse, je pencherai vers elles et serai du nombre des ignorants » [des pécheurs].
+ph: Qāla Rabbi As-Sijnu 'Aĥabbu 'Ilayya Mimmā Yad`ūnanī 'Ilayhi Wa 'Illā Taşrif `Annī Kaydahunna 'Aşbu 'Ilayhinna Wa 'Akun Mina Al-Jāhilīna
+
+12:34
+ar: فَٱسْتَجَابَ لَهُۥ رَبُّهُۥ فَصَرَفَ عَنْهُ كَيْدَهُنَّ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+fr: Son Seigneur l'exauça donc, et éloigna de lui leur ruse. C'est Lui, vraiment, qui est l'Audient et l'Omniscient.
+ph: Fāstajāba Lahu Rabbuhu Faşarafa `Anhu Kaydahunna 'Innahu Huwa As-Samī`u Al-`Alīmu
+
+12:35
+ar: ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ مَا رَأَوُا۟ ٱلْءَايَٰتِ لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍۢ
+fr: Puis, après qu'ils eurent vu les preuves (de son innocence), il leur sembla qu'ils devaient l'emprisonner pour un temps.
+ph: Thumma Badā Lahum Min Ba`di Mā Ra'aw Al-'Āyāti Layasjununnahu Ĥattá Ĥīnin
+
+12:36
+ar: وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ ۖ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًۭا ۖ وَقَالَ ٱلْءَاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًۭا تَأْكُلُ ٱلطَّيْرُ مِنْهُ ۖ نَبِّئْنَا بِتَأْوِيلِهِۦٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ
+fr: Deux valets entrèrent avec lui en prison. L'un d'eux dit: « Je me voyais [en rêve] pressant du raisin... » Et l'autre dit: « Et moi, je me voyais portant sur ma tête du pain dont les oiseaux mangeaient. Apprends-nous l'interprétation (de nos rêves), nous te voyons au nombre des bienfaisants. »
+ph: Wa Dakhala Ma`ahu As-Sijna Fatayāni Qāla 'Aĥaduhumā 'Innī 'Arānī 'A`şiru Khamrāan Wa Qāla Al-'Ākharu 'Innī 'Arānī 'Aĥmilu Fawqa Ra'sī Khubzāan Ta'kulu Aţ-Ţayru Minhu Nabbi'nā Bita'wīlihi 'Innā Narāka Mina Al-Muĥsinīna
+
+12:37
+ar: قَالَ لَا يَأْتِيكُمَا طَعَامٌۭ تُرْزَقَانِهِۦٓ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِۦ قَبْلَ أَن يَأْتِيَكُمَا ۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِى رَبِّىٓ ۚ إِنِّى تَرَكْتُ مِلَّةَ قَوْمٍۢ لَّا يُؤْمِنُونَ بِٱللَّهِ وَهُم بِٱلْءَاخِرَةِ هُمْ كَٰفِرُونَ
+fr: « La nourriture qui vous est attribuée ne vous parviendra point, dit-il, que je ne vous aie avisés de son interprétation [de votre nourriture] avant qu'elle ne vous arrive. Cela fait partie de ce que mon Seigneur m'a enseigné. Certes, j'ai abandonné la religion d'un peuple qui ne croit pas en Allah et qui nie la vie future. »
+ph: Qāla Lā Ya'tīkumā Ţa`āmun Turzaqānihi 'Illā Nabba'tukumā Bita'wīlihi Qabla 'An Ya'tiyakumā Dhālikumā Mimmā `Allamanī Rabbī 'Innī Taraktu Millata Qawmin Lā Yu'uminūna Billāhi Wa Hum Bil-'Ākhirati Hum Kāfirūna
+
+12:38
+ar: وَٱتَّبَعْتُ مِلَّةَ ءَابَآءِىٓ إِبْرَٰهِيمَ وَإِسْحَٰقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَآ أَن نُّشْرِكَ بِٱللَّهِ مِن شَىْءٍۢ ۚ ذَٰلِكَ مِن فَضْلِ ٱللَّهِ عَلَيْنَا وَعَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ
+fr: Et j'ai suivi la religion de mes ancêtres, Ibrahim (Abraham), Ishaq (Isaac) et Ya'qub (Jacob). Il ne nous convient pas d'associer à Allah quoi que ce soit. Ceci est une grâce d'Allah sur nous et sur tout le monde; mais la plupart des gens ne sont pas reconnaissants.
+ph: Wa Attaba`tu Millata 'Ābā'ī 'Ibrāhīma Wa 'Isĥāqa Wa Ya`qūba Mā Kāna Lanā 'An Nushrika Billāhi Min Shay'in Dhālika Min Fađli Allāhi `Alaynā Wa `Alá An-Nāsi Wa Lakinna 'Akthara An-Nāsi Lā Yashkurūna
+
+12:39
+ar: يَٰصَىٰحِبَىِ ٱلسِّجْنِ ءَأَرْبَابٌۭ مُّتَفَرِّقُونَ خَيْرٌ أَمِ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ
+fr: Ô mes deux compagnons de prison ! Qui est le meilleur: des Seigneurs éparpillés ou Allah, l'Unique, le Dominateur suprême ?
+ph: Yā Şāĥibayi As-Sijni 'A'arbābun Mutafarriqūna Khayrun 'Ami Allāhu Al-Wāĥidu Al-Qahhāru
+
+12:40
+ar: مَا تَعْبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسْمَآءًۭ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+fr: Vous n'adorez, en dehors de Lui, que des noms que vous avez inventés, vous et vos ancêtres, et à l'appui desquels Allah n'a fait descendre aucune preuve. Le pouvoir n'appartient qu'à Allah. Il vous a commandé de n'adorer que Lui. Telle est la religion droite; mais la plupart des gens ne savent pas.
+ph: Mā Ta`budūna Min Dūnihi 'Illā 'Asmā'an Sammaytumūhā 'Antum Wa 'Ābā'uukum Mā 'Anzala Allāhu Bihā Min Sulţānin 'Ini Al-Ĥukmu 'Illā Lillāhi 'Amara 'Allā Ta`budū 'Illā 'Īyāhu Dhālika Ad-Dīnu Al-Qayyimu Wa Lakinna 'Akthara An-Nāsi Lā Ya`lamūna
+
+12:41
+ar: يَٰصَىٰحِبَىِ ٱلسِّجْنِ أَمَّآ أَحَدُكُمَا فَيَسْقِى رَبَّهُۥ خَمْرًۭا ۖ وَأَمَّا ٱلْءَاخَرُ فَيُصْلَبُ فَتَأْكُلُ ٱلطَّيْرُ مِن رَّأْسِهِۦ ۚ قُضِىَ ٱلْأَمْرُ ٱلَّذِى فِيهِ تَسْتَفْتِيَانِ
+fr: Ô mes deux compagnons de prison ! L'un de vous donnera du vin à boire à son maître; quant à l'autre, il sera crucifié, et les oiseaux mangeront de sa tête. L'affaire sur laquelle vous me consultez est déjà décidée. »
+ph: Yā Şāĥibayi As-Sijni 'Ammā 'Aĥadukumā Fayasqī Rabbahu Khamrāan Wa 'Ammā Al-'Ākharu Fayuşlabu Fata'kulu Aţ-Ţayru Min Ra'sihi Quđiya Al-'Amru Al-Ladhī Fīhi Tastaftiyāni
+
+12:42
+ar: وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍۢ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَٰنُ ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ
+fr: Et il dit à celui des deux dont il pensait qu'il serait délivré: « Parle de moi auprès de ton maître ». Mais le Diable fit qu'il oublia de rappeler (le cas de Yusuf (Joseph)) à son maître. Yusuf (Joseph) resta donc en prison quelques années.
+ph: Wa Qāla Lilladhī Žanna 'Annahu Nājin Minhumā Adhkurnī `Inda Rabbika Fa'ansāhu Ash-Shayţānu Dhikra Rabbihi Falabitha Fī As-Sijni Biđ`a Sinīna
+
+12:43
+ar: وَقَالَ ٱلْمَلِكُ إِنِّىٓ أَرَىٰ سَبْعَ بَقَرَٰتٍۢ سِمَانٍۢ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌۭ وَسَبْعَ سُنۢبُلَٰتٍ خُضْرٍۢ وَأُخَرَ يَابِسَٰتٍۢ ۖ يَٰٓأَيُّهَا ٱلْمَلَأُ أَفْتُونِى فِى رُءْيَٰىَ إِن كُنتُمْ لِلرُّءْيَا تَعْبُرُونَ
+fr: Et le roi dit: « En vérité, je voyais (en rêve) sept vaches grasses mangées par sept maigres; et sept épis verts, et autant d'autres, secs. ô conseil de notables, donnez-moi une explication de ma vision, si vous savez interpréter le rêve. »
+ph: Wa Qāla Al-Maliku 'Innī 'Ará Sab`a Baqarātin Simānin Ya'kuluhunna Sab`un `Ijāfun Wa Sab`a Sunbulātin Khuđrin Wa 'Ukhara Yā Bisātin Yā 'Ayyuhā Al-Mala'u 'Aftūnī Fī Ru'uyā Ya 'In Kuntum Lilrru'uyā Ta`burūna
+
+12:44
+ar: قَالُوٓا۟ أَضْغَٰثُ أَحْلَٰمٍۢ ۖ وَمَا نَحْنُ بِتَأْوِيلِ ٱلْأَحْلَٰمِ بِعَٰلِمِينَ
+fr: Ils dirent: « C'est un amas de rêves ! Et nous ne savons pas interpréter les rêves ! »
+ph: Qālū 'Ađghāthu 'Aĥlāmin Wa Mā Naĥnu Bita'wīli Al-'Aĥlāmi Bi`ālimīna
+
+12:45
+ar: وَقَالَ ٱلَّذِى نَجَا مِنْهُمَا وَٱدَّكَرَ بَعْدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأْوِيلِهِۦ فَأَرْسِلُونِ
+fr: Or, celui des deux qui avait été délivré et qui, après quelque temps se rappela, dit: « Je vous en donnerai l'interprétation. Envoyez-moi donc. »
+ph: Wa Qāla Al-Ladhī Najā Minhumā Wa Aiddakara Ba`da 'Ummatin 'Anā 'Unabbi'ukum Bita'wīlihi Fa'arsilūni
+
+12:46
+ar: يُوسُفُ أَيُّهَا ٱلصِّدِّيقُ أَفْتِنَا فِى سَبْعِ بَقَرَٰتٍۢ سِمَانٍۢ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌۭ وَسَبْعِ سُنۢبُلَٰتٍ خُضْرٍۢ وَأُخَرَ يَابِسَٰتٍۢ لَّعَلِّىٓ أَرْجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمْ يَعْلَمُونَ
+fr: « Ô toi, Yusuf (Joseph), le véridique ! Eclaire-nous au sujet de sept vaches grasses que mangent sept très maigres, et sept épis verts et autant d'autres, secs, afin que je retourne aux gens et qu'ils sachent [l'interprétation exacte du rêve]. »
+ph: Yūsufu 'Ayyuhā Aş-Şiddīqu 'Aftinā Fī Sab`i Baqarātin Simānin Ya'kuluhunna Sab`un `Ijāfun Wa Sab`i Sunbulātin Khuđrin Wa 'Ukhara Yā Bisātin La`allī 'Arji`u 'Ilá An-Nāsi La`allahum Ya`lamūna
+
+12:47
+ar: قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًۭا فَمَا حَصَدتُّمْ فَذَرُوهُ فِى سُنۢبُلِهِۦٓ إِلَّا قَلِيلًۭا مِّمَّا تَأْكُلُونَ
+fr: Alors [Yusuf (Joseph) dit]: « Vous sèmerez pendant sept années consécutives. Tout ce que vous aurez moissonné, laissez-le en épi, sauf le peu que vous consommerez.
+ph: Qāla Tazra`ūna Sab`a Sinīna Da'abāan Famā Ĥaşadtum Fadharūhu Fī Sunbulihi 'Illā Qalīlāan Mimmā Ta'kulūna
+
+12:48
+ar: ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ سَبْعٌۭ شِدَادٌۭ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًۭا مِّمَّا تُحْصِنُونَ
+fr: Viendront ensuite sept années de disette qui consommeront tout ce que vous aurez amassé pour elles sauf le peu que vous aurez réservé [comme semence].
+ph: Thumma Ya'tī Min Ba`di Dhālika Sab`un Shidādun Ya'kulna Mā Qaddamtum Lahunna 'Illā Qalīlāan Mimmā Tuĥşinūna
+
+12:49
+ar: ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ عَامٌۭ فِيهِ يُغَاثُ ٱلنَّاسُ وَفِيهِ يَعْصِرُونَ
+fr: Puis, viendra après cela une année où les gens seront secourus [par la pluie] et iront au pressoir. »
+ph: Thumma Ya'tī Min Ba`di Dhālika `Āmun Fīhi Yughāthu An-Nāsu Wa Fīhi Ya`şirūna
+
+12:50
+ar: وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦ ۖ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ ٱرْجِعْ إِلَىٰ رَبِّكَ فَسْـَٔلْهُ مَا بَالُ ٱلنِّسْوَةِ ٱلَّٰتِى قَطَّعْنَ أَيْدِيَهُنَّ ۚ إِنَّ رَبِّى بِكَيْدِهِنَّ عَلِيمٌۭ
+fr: Et le roi dit: « Amenez-le moi. » Puis, lorsque l'émissaire arriva auprès de lui, [Yusuf (Joseph)] dit: « Retourne auprès de ton maître et demande-lui: « Quelle était la raison qui poussa les femmes à se couper les mains ? Mon Seigneur connaît bien leur ruse. »
+ph: Wa Qāla Al-Maliku A'tūnī Bihi Falammā Jā'ahu Ar-Rasūlu Qāla Arji` 'Ilá Rabbika Fās'alhu Mā Bālu An-Niswati Al-Lātī Qaţţa`na 'Aydiyahunna 'Inna Rabbī Bikaydihinna `Alīmun
+
+12:51
+ar: قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٰٔنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّٰدِقِينَ
+fr: Alors, [le roi leur] dit: « Qu'est-ce donc qui vous a poussées à essayer de séduire Yusuf (Joseph) ? » Elles dirent: « À Allah ne plaise ! Nous ne connaissons rien de mauvais contre lui. » Et la femme d'Al-'Azize dit: « Maintenant la vérité s'est manifestée. C'est moi qui ai voulu le séduire. Et c'est lui, vraiment, qui est du nombre des véridiques ! »
+ph: Qāla Mā Khaţbukunna 'Idh Rāwadttunna Yūsufa `An Nafsihi Qulna Ĥāsha Lillāhi Mā `Alimnā `Alayhi Min Sū'in Qālati Amra'atu Al-`Azīzi Al-'Āna Ĥaşĥaşa Al-Ĥaqqu 'Anā Rāwadttuhu `An Nafsihi Wa 'Innahu Lamina Aş-Şādiqīna
+
+12:52
+ar: ذَٰلِكَ لِيَعْلَمَ أَنِّى لَمْ أَخُنْهُ بِٱلْغَيْبِ وَأَنَّ ٱللَّهَ لَا يَهْدِى كَيْدَ ٱلْخَآئِنِينَ
+fr: « Cela afin qu'il sache que je ne l'ai pas trahi en son absence, et qu'en vérité Allah ne guide pas la ruse des traîtres.
+ph: Dhālika Liya`lama 'Annī Lam 'Akhunhu Bil-Ghaybi Wa 'Anna Allāha Lā Yahdī Kayda Al-Khā'inīna
+
+12:53
+ar: ۞ وَمَآ أُبَرِّئُ نَفْسِىٓ ۚ إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّىٓ ۚ إِنَّ رَبِّى غَفُورٌۭ رَّحِيمٌۭ
+fr: Je ne m'innocente cependant pas, car l'âme est très incitatrice au mal, à moins que mon Seigneur, par miséricorde, [ne la préserve du péché]. Mon Seigneur est certes Pardonneur et très Miséricordieux. »
+ph: Wa Mā 'Ubarri'u Nafsī 'Inna An-Nafsa La'ammāratun Bis-Sū'i 'Illā Mā Raĥima Rabbī 'Inna Rabbī Ghafūrun Raĥīmun
+
+12:54
+ar: وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦٓ أَسْتَخْلِصْهُ لِنَفْسِى ۖ فَلَمَّا كَلَّمَهُۥ قَالَ إِنَّكَ ٱلْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌۭ
+fr: Et le roi dit: « Amenez-le moi: je me le réserve pour moi-même. » Et lorsqu'il lui eut parlé, il dit: « Tu es dès aujourd'hui près de nous, en une position d'autorité et de confiance. »
+ph: Wa Qāla Al-Maliku A'tūnī Bihi 'Astakhlişhu Linafsī Falammā Kallamahu Qāla 'Innaka Al-Yawma Ladaynā Makīnun 'Amīnun
+
+12:55
+ar: قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ ۖ إِنِّى حَفِيظٌ عَلِيمٌۭ
+fr: Et [Yusuf (Joseph)] dit: « Assigne-moi les dépôts du territoire: je suis bon gardien et connaisseur. »
+ph: Qāla Aj`alnī `Alá Khazā'ini Al-'Arđi 'Innī Ĥafīžun `Alīmun
+
+12:56
+ar: وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَآءُ ۚ نُصِيبُ بِرَحْمَتِنَا مَن نَّشَآءُ ۖ وَلَا نُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ
+fr: Ainsi avons-nous affermi (l'autorité de) Yusuf (Joseph) dans ce territoire et il s'y installait là où il le voulait. Nous touchons de Notre miséricorde qui Nous voulons et ne faisons pas perdre aux hommes de bien le mérite [de leurs œuvres].
+ph: Wa Kadhalika Makkannā Liyūsufa Fī Al-'Arđi Yatabawwa'u Minhā Ĥaythu Yashā'u Nuşību Biraĥmatinā Man Nashā'u Wa Lā Nuđī`u 'Ajra Al-Muĥsinīna
+
+12:57
+ar: وَلَأَجْرُ ٱلْءَاخِرَةِ خَيْرٌۭ لِّلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ
+fr: Et la récompense de l'au-delà est meilleure pour ceux qui ont cru et ont pratiqué la piété.
+ph: Wa La'ajru Al-'Ākhirati Khayrun Lilladhīna 'Āmanū Wa Kānū Yattaqūna
+
+12:58
+ar: وَجَآءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا۟ عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُۥ مُنكِرُونَ
+fr: Et les frères de Yusuf (Joseph) vinrent et entrèrent auprès de lui. Il les reconnut, mais eux ne le reconnurent pas.
+ph: Wa Jā'a 'Ikhwatu Yūsufa Fadakhalū `Alayhi Fa`arafahum Wa Hum Lahu Munkirūna
+
+12:59
+ar: وَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ قَالَ ٱئْتُونِى بِأَخٍۢ لَّكُم مِّنْ أَبِيكُمْ ۚ أَلَا تَرَوْنَ أَنِّىٓ أُوفِى ٱلْكَيْلَ وَأَنَا۠ خَيْرُ ٱلْمُنزِلِينَ
+fr: Et quand il leur eut fourni leur provision, il dit: « Amenez-moi un frère que vous avez de votre père. Ne voyez-vous pas que je donne la pleine mesure et que je suis le meilleur des hôtes ?
+ph: Wa Lammā Jahhazahum Bijahāzihim Qāla A'tūnī Bi'akhin Lakum Min 'Abīkum 'Alā Tarawna 'Annī 'Ūfī Al-Kayla Wa 'Anā Khayru Al-Munzilīna
+
+12:60
+ar: فَإِن لَّمْ تَأْتُونِى بِهِۦ فَلَا كَيْلَ لَكُمْ عِندِى وَلَا تَقْرَبُونِ
+fr: Et si vous ne me l'amenez pas, alors il n'y aura plus de provision pour vous, chez moi; et vous ne m'approcherez plus. »
+ph: Fa'in Lam Ta'tūnī Bihi Falā Kayla Lakum `Indī Wa Lā Taqrabūni
+
+12:61
+ar: قَالُوا۟ سَنُرَٰوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَٰعِلُونَ
+fr: Ils dirent: « Nous essayerons de persuader son père. Certes, nous le ferons. »
+ph: Qālū Sanurāwidu `Anhu 'Abāhu Wa 'Innā Lafā`ilūna
+
+12:62
+ar: وَقَالَ لِفِتْيَٰنِهِ ٱجْعَلُوا۟ بِضَٰعَتَهُمْ فِى رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَآ إِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ
+fr: Et il dit à ses serviteurs: « Remettez leurs marchandises dans leurs sacs: peut-être les reconnaîtront-ils quand ils seront de retour vers leur famille et peut-être qu'ils reviendront ».
+ph: Wa Qāla Lifityānihi Aj`alū Biđā`atahum Fī Riĥālihim La`allahum Ya`rifūnahā 'Idhā Anqalabū 'Ilá 'Ahlihim La`allahum Yarji`ūna
+
+12:63
+ar: فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ فَأَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ
+fr: Et lorsqu'ils revinrent à leur père, ils dirent: « Ô notre père, il nous sera refusé [à l'avenir] de nous ravitailler [en grain]. Envoie donc avec nous notre frère, afin que nous obtenions des provisions. Nous le surveillerons bien. »
+ph: Falammā Raja`ū 'Ilá 'Abīhim Qālū Yā 'Abānā Muni`a Minnā Al-Kaylu Fa'arsil Ma`anā 'Akhānā Naktal Wa 'Innā Lahu Laĥāfižūna
+
+12:64
+ar: قَالَ هَلْ ءَامَنُكُمْ عَلَيْهِ إِلَّا كَمَآ أَمِنتُكُمْ عَلَىٰٓ أَخِيهِ مِن قَبْلُ ۖ فَٱللَّهُ خَيْرٌ حَٰفِظًۭا ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
+fr: Il dit: « Vais-je vous le confier comme, auparavant, je vous ai confié son frère ? Mais Allah est le meilleur gardien, et Il est Le plus Miséricordieux des miséricordieux ! »
+ph: Qāla Hal 'Āmanukum `Alayhi 'Illā Kamā 'Amintukum `Alá 'Akhīhi Min Qablu Fa-Allāhu Khayrun Ĥāfižāan Wa Huwa 'Arĥamu Ar-Rāĥimīna
+
+12:65
+ar: وَلَمَّا فَتَحُوا۟ مَتَٰعَهُمْ وَجَدُوا۟ بِضَٰعَتَهُمْ رُدَّتْ إِلَيْهِمْ ۖ قَالُوا۟ يَٰٓأَبَانَا مَا نَبْغِى ۖ هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتْ إِلَيْنَا ۖ وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍۢ ۖ ذَٰلِكَ كَيْلٌۭ يَسِيرٌۭ
+fr: Et lorsqu'ils ouvrirent leurs bagages, ils trouvèrent qu'on leur avait rendu leurs marchandises. Ils dirent: « Ô notre père. Que désirons-nous [de plus] ? Voici que nos marchandises nous ont été rendues. Et ainsi nous approvisionnerons notre famille, nous veillerons à la sécurité de notre frère et nous nous ajouterons la charge d'un chameau et c'est une charge facile. »
+ph: Wa Lammā Fataĥū Matā`ahum Wa Jadū Biđā`atahum Ruddat 'Ilayhim Qālū Yā 'Abānā Mā Nabghī Hadhihi Biđā`atunā Ruddat 'Ilaynā Wa Namīru 'Ahlanā Wa Naĥfažu 'Akhānā Wa Nazdādu Kayla Ba`īrin Dhālika Kaylun Yasīrun
+
+12:66
+ar: قَالَ لَنْ أُرْسِلَهُۥ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًۭا مِّنَ ٱللَّهِ لَتَأْتُنَّنِى بِهِۦٓ إِلَّآ أَن يُحَاطَ بِكُمْ ۖ فَلَمَّآ ءَاتَوْهُ مَوْثِقَهُمْ قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌۭ
+fr: -Il dit: « Jamais je ne l'enverrai avec vous, jusqu'à ce que vous m'apportiez l'engagement formel au nom d'Allah que vous me le ramènerez à moins que vous ne soyez cernés. » Lorsqu'ils lui eurent apporté l'engagement, il dit: « Allah est garant de ce que nous disons. »
+ph: Qāla Lan 'Ursilahu Ma`akum Ĥattá Tu'utūni Mawthiqāan Mina Allāhi Lata'tunanī Bihi 'Illā 'An Yuĥāţa Bikum Falammā 'Ātawhu Mawthiqahum Qāla Allāhu `Alá Mā Naqūlu Wa Kīlun
+
+12:67
+ar: وَقَالَ يَٰبَنِىَّ لَا تَدْخُلُوا۟ مِنۢ بَابٍۢ وَٰحِدٍۢ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍۢ مُّتَفَرِّقَةٍۢ ۖ وَمَآ أُغْنِى عَنكُم مِّنَ ٱللَّهِ مِن شَىْءٍ ۖ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ
+fr: Et il dit: « Ô mes fils, n'entrez pas par une seule porte, mais entrez par portes séparées. Je ne peux cependant vous être d'aucune utilité contre les desseins d'Allah. La décision n'appartient qu'à Allah: en Lui je place ma confiance. Et que ceux qui placent leur confiance la placent en Lui. »
+ph: Wa Qāla Yā Banīya Lā Tadkhulū Min Bābin Wāĥidin Wa Adkhulū Min 'Abwābin Mutafarriqatin Wa Mā 'Ughnī `Ankum Mina Allāhi Min Shay'in 'Ini Al-Ĥukmu 'Illā Lillāhi `Alayhi Tawakkaltu Wa `Alayhi Falyatawakkali Al-Mutawakkilūna
+
+12:68
+ar: وَلَمَّا دَخَلُوا۟ مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِى عَنْهُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِلَّا حَاجَةًۭ فِى نَفْسِ يَعْقُوبَ قَضَىٰهَا ۚ وَإِنَّهُۥ لَذُو عِلْمٍۢ لِّمَا عَلَّمْنَٰهُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+fr: Etant entrés comme leur père le leur avait commandé [cela] ne leur servit à rien contre (les décrets d') Allah. Ce n'était [au reste] qu'une précaution que Ya'qub (Jacob) avait jugé [de leur recommander]. Il avait pleine connaissance de ce que Nous lui avions enseigné. Mais la plupart des gens ne savent pas.
+ph: Wa Lammā Dakhalū Min Ĥaythu 'Amarahum 'Abūhum Mmā Kāna Yughnī `Anhum Mmina Allāhi Min Shay'in 'Illā Ĥājatan Fī Nafsi Ya`qūba Qađāhā Wa 'Innahu Ladhū `Ilmin Limā `Allamnāhu Wa Lakinna 'Akthara An-Nāsi Lā Ya`lamūna
+
+12:69
+ar: وَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَخَاهُ ۖ قَالَ إِنِّىٓ أَنَا۠ أَخُوكَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَعْمَلُونَ
+fr: Et quand ils furent entrés auprès de Yusuf (Joseph), [celui-ci] retint son frère auprès de lui en disant: « Je suis ton frère. Ne te chagrine donc pas pour ce qu'ils faisaient. »
+ph: Wa Lammā Dakhalū `Alá Yūsufa 'Āwá 'Ilayhi 'Akhāhu Qāla 'Innī 'Anā 'Akhūka Falā Tabta'is Bimā Kānū Ya`malūna
+
+12:70
+ar: فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَٰرِقُونَ
+fr: Puis, quand il leur eut fourni leurs provisions, il mit la coupe dans le sac de son frère. Ensuite un crieur annonça: « Caravaniers ! Vous êtes des voleurs. »
+ph: Falammā Jahhazahum Bijahāzihim Ja`ala As-Siqāyata Fī Raĥli 'Akhīhi Thumma 'Adhana Mu'uadhinun 'Ayyatuhā Al-`Īru 'Innakum Lasāriqūna
+
+12:71
+ar: قَالُوا۟ وَأَقْبَلُوا۟ عَلَيْهِم مَّاذَا تَفْقِدُونَ
+fr: Ils se retournèrent en disant: « Qu'avez-vous perdu ? »
+ph: Qālū Wa 'Aqbalū `Alayhim Mādhā Tafqidūna
+
+12:72
+ar: قَالُوا۟ نَفْقِدُ صُوَاعَ ٱلْمَلِكِ وَلِمَن جَآءَ بِهِۦ حِمْلُ بَعِيرٍۢ وَأَنَا۠ بِهِۦ زَعِيمٌۭ
+fr: Ils répondirent: « Nous cherchons la grande coupe du roi. La charge d'un chameau à qui l'apportera et j'en suis garant. »
+ph: Qālū Nafqidu Şuwā`a Al-Maliki Wa Liman Jā'a Bihi Ĥimlu Ba`īrin Wa 'Anā Bihi Za`īmun
+
+12:73
+ar: قَالُوا۟ تَٱللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِى ٱلْأَرْضِ وَمَا كُنَّا سَٰرِقِينَ
+fr: « Par Allah, dirent-ils, vous savez certes que nous ne sommes pas venus pour semer la corruption sur le territoire et que nous ne sommes pas des voleurs. »
+ph: Qālū Ta-Allāhi Laqad `Alimtum Mā Ji'nā Linufsida Fī Al-'Arđi Wa Mā Kunnā Sāriqīna
+
+12:74
+ar: قَالُوا۟ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمْ كَٰذِبِينَ
+fr: -Quelle sera donc la sanction si vous êtes des menteurs ? (dirent-ils).
+ph: Qālū Famā Jazā'uuhu 'In Kuntum Kādhibīna
+
+12:75
+ar: قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ
+fr: Ils dirent: « La sanction infligée à celui dont les bagages de qui la coupe sera retrouvée est: [qu'il soit livré] lui-même [à titre d'esclave à la victime du vol]. C'est ainsi que nous punissons les malfaiteurs. »
+ph: Qālū Jazā'uuhu Man Wujida Fī Raĥlihi Fahuwa Jazā'uuhu Kadhālika Najzī Až-Žālimīna
+
+12:76
+ar: فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ ۚ كَذَٰلِكَ كِدْنَا لِيُوسُفَ ۖ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ نَرْفَعُ دَرَجَٰتٍۢ مَّن نَّشَآءُ ۗ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌۭ
+fr: [Yusuf (Joseph)] commença par les sacs des autres avant celui de son frère; puis il la fit sortir du sac de son frère. Ainsi suggérâmes-Nous cet artifice à Yusuf (Joseph). Car il ne pouvait pas se saisir de son frère, selon la justice du roi, à moins qu'Allah ne l'eût voulu. Nous élevons en rang qui Nous voulons. Et au-dessus de tout homme détenant la science il y a un savant [plus docte que lui].
+ph: Fabada'a Bi'aw`iyatihim Qabla Wi`ā'i 'Akhīhi Thumma Astakhrajahā Min Wi`ā'i 'Akhīhi Kadhālika Kidnā Liyūsufa Mā Kāna Liya'khudha 'Akhāhu Fī Dīni Al-Maliki 'Illā 'An Yashā'a Allāhu Narfa`u Darajātin Man Nashā'u Wa Fawqa Kulli Dhī `Ilmin `Alīmun
+
+12:77
+ar: ۞ قَالُوٓا۟ إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌۭ لَّهُۥ مِن قَبْلُ ۚ فَأَسَرَّهَا يُوسُفُ فِى نَفْسِهِۦ وَلَمْ يُبْدِهَا لَهُمْ ۚ قَالَ أَنتُمْ شَرٌّۭ مَّكَانًۭا ۖ وَٱللَّهُ أَعْلَمُ بِمَا تَصِفُونَ
+fr: Ils dirent: « S'il a commis un vol, un frère à lui auparavant a volé aussi. » Mais Yusuf (Joseph) tint sa pensée secrète, et ne la leur dévoila pas. Il dit [en lui même]: « Votre position est bien pire encore ! Et Allah connaît mieux ce que vous décrivez. »
+ph: Qālū 'In Yasriq Faqad Saraqa 'Akhun Lahu Min Qablu Fa'asarrahā Yūsufu Fī Nafsihi Wa Lam Yubdihā Lahum Qāla 'Antum Sharrun Makānāan Wa Allāhu 'A`lamu Bimā Taşifūna
+
+12:78
+ar: قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ إِنَّ لَهُۥٓ أَبًۭا شَيْخًۭا كَبِيرًۭا فَخُذْ أَحَدَنَا مَكَانَهُۥٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ
+fr: -Ils dirent.: « Ô Al-'Azize, il a un père très vieux; saisis-toi donc de l'un de nous, à sa place. Nous voyons que tu es vraiment du nombre des gens bienfaisants. »
+ph: Qālū Yā 'Ayyuhā Al-`Azīzu 'Inna Lahu 'Abāan Shaykhāan Kabīrāan Fakhudh 'Aĥadanā Makānahu 'Innā Narāka Mina Al-Muĥsinīna
+
+12:79
+ar: قَالَ مَعَاذَ ٱللَّهِ أَن نَّأْخُذَ إِلَّا مَن وَجَدْنَا مَتَٰعَنَا عِندَهُۥٓ إِنَّآ إِذًۭا لَّظَٰلِمُونَ
+fr: -Il dit: « Qu'Allah nous garde de prendre un autre que celui chez qui nous avons trouvé notre bien ! Nous serions alors vraiment injustes. »
+ph: Qāla Ma`ādha Allāhi 'An Na'khudha 'Illā Man Wajadnā Matā`anā `Indahu 'Innā 'Idhāan Lažālimūna
+
+12:80
+ar: فَلَمَّا ٱسْتَيْـَٔسُوا۟ مِنْهُ خَلَصُوا۟ نَجِيًّۭا ۖ قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوٓا۟ أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَّوْثِقًۭا مِّنَ ٱللَّهِ وَمِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ ۖ فَلَنْ أَبْرَحَ ٱلْأَرْضَ حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ لِى ۖ وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ
+fr: Puis, lorsqu'ils eurent perdu tout espoir [de ramener Benyamin] ils se concertèrent en secret. Leur aîné dit: « Ne savez-vous pas que votre père a pris de vous un engagement formel au nom d'Allah, et que déjà vous y avez manqué autrefois à propos de Yusuf (Joseph) ? Je ne quitterai point le territoire, jusqu'à ce que mon père me le permette ou qu'Allah juge en ma faveur, et Il est le meilleur des juges.
+ph: Falammā Astay'asū Minhu Khalaşū Najīyāan Qāla Kabīruhum 'Alam Ta`lamū 'Anna 'Abākum Qad 'Akhadha `Alaykum Mawthiqāan Mina Allāhi Wa Min Qablu Mā Farraţtum Fī Yūsufa Falan 'Abraĥa Al-'Arđa Ĥattá Ya'dhana Lī 'Abī 'Aw Yaĥkuma Allāhu Lī Wa Huwa Khayru Al-Ĥākimīna
+
+12:81
+ar: ٱرْجِعُوٓا۟ إِلَىٰٓ أَبِيكُمْ فَقُولُوا۟ يَٰٓأَبَانَآ إِنَّ ٱبْنَكَ سَرَقَ وَمَا شَهِدْنَآ إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَٰفِظِينَ
+fr: Retournez à votre père et dites: « Ô notre père, ton fils a volé. Et nous n'attestons que ce que nous savons. Et nous n'étions nullement au courant de l'inconnu.
+ph: Arji`ū 'Ilá 'Abīkum Faqūlū Yā 'Abānā 'Inna Abnaka Saraqa Wa Mā Shahidnā 'Illā Bimā `Alimnā Wa Mā Kunnā Lilghaybi Ĥāfižīna
+
+12:82
+ar: وَسْـَٔلِ ٱلْقَرْيَةَ ٱلَّتِى كُنَّا فِيهَا وَٱلْعِيرَ ٱلَّتِىٓ أَقْبَلْنَا فِيهَا ۖ وَإِنَّا لَصَٰدِقُونَ
+fr: Et interroge la ville où nous étions, ainsi que la caravane dans laquelle nous sommes arrivés. Nous disons réellement la vérité. »
+ph: Wa As'ali Al-Qaryata Allatī Kunnā Fīhā Wa Al-`Īra Allatī 'Aqbalnā Fīhā Wa 'Innā Laşādiqūna
+
+12:83
+ar: قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًۭا ۖ فَصَبْرٌۭ جَمِيلٌ ۖ عَسَى ٱللَّهُ أَن يَأْتِيَنِى بِهِمْ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
+fr: Alors [Ya'qub (Jacob)] dit: Vos âmes plutôt vous ont inspiré [d'entreprendre] quelque chose !.. Oh ! belle patience. Il se peut qu'Allah me les ramènera tous les deux. Car c'est Lui l'Omniscient, le Sage. »
+ph: Qāla Bal Sawwalat Lakum 'Anfusukum 'Amrāan Faşabrun Jamīlun `Asá Allāhu 'An Ya'tiyanī Bihim Jamī`āan 'Innahu Huwa Al-`Alīmu Al-Ĥakīmu
+
+12:84
+ar: وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ فَهُوَ كَظِيمٌۭ
+fr: Et il se détourna d'eux et dit: « Que mon chagrin est grand pour Yusuf (Joseph) ! » Et ses yeux blanchirent d'affliction. Et il était accablé.
+ph: Wa Tawallá `Anhum Wa Qāla Yā 'Asafá `Alá Yūsufa Wa Abyađđat `Aynāhu Mina Al-Ĥuzni Fahuwa Kažīmun
+
+12:85
+ar: قَالُوا۟ تَٱللَّهِ تَفْتَؤُا۟ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ ٱلْهَٰلِكِينَ
+fr: -Ils dirent: « Par Allah ! Tu ne cesseras pas d'évoquer Yusuf (Joseph), jusqu'à ce que tu t'épuises ou que tu sois parmi les morts. »
+ph: Qālū Ta-Allāhi Tafta'u Tadhkuru Yūsufa Ĥattá Takūna Ĥarađāan 'Aw Takūna Mina Al-Hālikīna
+
+12:86
+ar: قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
+fr: -Il dit: « Je ne me plains qu'à Allah de mon déchirement et de mon chagrin. Et, je sais de la part d'Allah, ce que vous ne savez pas.
+ph: Qāla 'Innamā 'Ashkū Baththī Wa Ĥuznī 'Ilá Allāhi Wa 'A`lamu Mina Allāhi Mā Lā Ta`lamūna
+
+12:87
+ar: يَٰبَنِىَّ ٱذْهَبُوا۟ فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ ۖ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَٰفِرُونَ
+fr: Ô mes fils ! Partez et enquérez-vous de Yusuf (Joseph) et de son frère. Et ne désespérez pas de la miséricorde d'Allah. Ce sont seulement les gens mécréants qui désespèrent de la miséricorde d'Allah. »
+ph: Yā Banīya Adh/habū Fataĥassasū Min Yūsufa Wa 'Akhīhi Wa Lā Tay'asū Min Rawĥi Allāhi 'Innahu Lā Yay'asu Min Rawĥi Allāhi 'Illā Al-Qawmu Al-Kāfirūna
+
+12:88
+ar: فَلَمَّا دَخَلُوا۟ عَلَيْهِ قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ مَسَّنَا وَأَهْلَنَا ٱلضُّرُّ وَجِئْنَا بِبِضَٰعَةٍۢ مُّزْجَىٰةٍۢ فَأَوْفِ لَنَا ٱلْكَيْلَ وَتَصَدَّقْ عَلَيْنَآ ۖ إِنَّ ٱللَّهَ يَجْزِى ٱلْمُتَصَدِّقِينَ
+fr: Et lorsqu'ils s'introduisirent auprès de [Yusuf (Joseph),] ils dirent: « Ô al-'Azize, la famine nous a touchés, nous et notre famille; et nous venons avec une marchandise sans grande valeur. Donne-nous une pleine mesure, et fais-nous la charité. Certes, Allah récompense les charitables ! »
+ph: Falammā Dakhalū `Alayhi Qālū Yā 'Ayyuhā Al-`Azīzu Massanā Wa 'Ahlanā Ađ-Đurru Wa Ji'nā Bibiđā`atin Muzjāatin Fa'awfi Lanā Al-Kayla Wa Taşaddaq `Alaynā 'Inna Allāha Yajzī Al-Mutaşaddiqīna
+
+12:89
+ar: قَالَ هَلْ عَلِمْتُم مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ جَٰهِلُونَ
+fr: -Il dit: « Savez-vous ce que vous avez fait de Yusuf (Joseph) et de son frère alors que vous étiez ignorants ? [injustes]. »
+ph: Qāla Hal `Alimtum Mā Fa`altum Biyūsufa Wa 'Akhīhi 'Idh 'Antum Jāhilūna
+
+12:90
+ar: قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ ۖ قَالَ أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِى ۖ قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ ۖ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ
+fr: -Ils dirent: « Est-ce que tu es... Certes, tu es Yusuf (Joseph) ! » -Il dit: « Je suis Yusuf (Joseph), et voici mon frère. Certes, Allah nous a favorisés. Quiconque craint et patiente... Et très certainement, Allah ne fait pas perdre la récompense des bienfaisants. »
+ph: Qālū 'A'innaka La'anta Yūsufu Qāla 'Anā Yūsufu Wa Hadhā 'Akhī Qad Manna Allāhu `Alaynā 'Innahu Man Yattaqi Wa Yaşbir Fa'inna Allāha Lā Yuđī`u 'Ajra Al-Muĥsinīna
+
+12:91
+ar: قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَٰطِـِٔينَ
+fr: -Ils dirent: « Par Allah ! Vraiment Allah t'a préféré à nous et nous avons été fautifs. »
+ph: Qālū Ta-Allāhi Laqad 'Ātharaka Allāhu `Alaynā Wa 'In Kunnā Lakhāţi'īna
+
+12:92
+ar: قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ ۖ يَغْفِرُ ٱللَّهُ لَكُمْ ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
+fr: -Il dit: « Pas de récrimination contre vous aujourd'hui ! Qu'Allah vous pardonne. C'est Lui Le plus Miséricordieux des miséricordieux.
+ph: Qāla Lā Tathrība `Alaykumu Al-Yawma Yaghfiru Allāhu Lakum Wa Huwa 'Arĥamu Ar-Rāĥimīna
+
+12:93
+ar: ٱذْهَبُوا۟ بِقَمِيصِى هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًۭا وَأْتُونِى بِأَهْلِكُمْ أَجْمَعِينَ
+fr: Emportez ma tunique que voici, et appliquez-la sur le visage de mon père: il recouvrera [aussitôt] la vue. Et amenez-moi toute votre famille. »
+ph: Adh/habū Biqamīşī Hādhā Fa'alqūhu `Alá Wajhi 'Abī Ya'ti Başīrāan Wa 'Tūnī Bi'ahlikum 'Ajma`īna
+
+12:94
+ar: وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ ۖ لَوْلَآ أَن تُفَنِّدُونِ
+fr: -Et dès que la caravane franchit la frontière [de Canâan], leur père dit: « Je décèle, certes, l'odeur de Yusuf (Joseph), même si vous dites que je radote. »
+ph: Wa Lammā Faşalati Al-`Īru Qāla 'Abūhum 'Innī La'ajidu Rīĥa Yūsufa Lawlā 'An Tufannidūni
+
+12:95
+ar: قَالُوا۟ تَٱللَّهِ إِنَّكَ لَفِى ضَلَٰلِكَ ٱلْقَدِيمِ
+fr: Ils Lui dirent: « Par Allah te voilà bien dans ton ancien égarement. »
+ph: Qālū Ta-Allāhi 'Innaka Lafī Đalālika Al-Qadīmi
+
+12:96
+ar: فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
+fr: Puis quand arriva le porteur de bonne annonce, il l'appliqua [la tunique] sur le visage de Ya'qub (Jacob). Celui-ci recouvra [aussitôt] la vue, et dit: « Ne vous ai-je pas dit que je sais, par Allah, ce que vous ne savez pas ? »
+ph: Falammā 'An Jā'a Al-Bashīru 'Alqāhu `Alá Wajhihi Fārtadda Başīrāan Qāla 'Alam 'Aqul Lakum 'Innī 'A`lamu Mina Allāhi Mā Lā Ta`lamūna
+
+12:97
+ar: قَالُوا۟ يَٰٓأَبَانَا ٱسْتَغْفِرْ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَٰطِـِٔينَ
+fr: -Ils dirent: « Ô notre père, implore pour nous la rémission de nos péchés. Nous étions vraiment fautifs. »
+ph: Qālū Yā 'Abānā Astaghfir Lanā Dhunūbanā 'Innā Kunnā Khāţi'īna
+
+12:98
+ar: قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّىٓ ۖ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
+fr: -Il dit: « J'implorerai pour vous le pardon de mon Seigneur. Car c'est Lui le Pardonneur, le Très Miséricordieux. »
+ph: Qāla Sawfa 'Astaghfiru Lakum Rabbī 'Innahu Huwa Al-Ghafūru Ar-Raĥīmu
+
+12:99
+ar: فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ
+fr: Lorsqu'ils s'introduisirent auprès de Yusuf (Joseph), celui-ci accueillit ses père et mère, et leur dit: « Entrez en Egypte, en toute sécurité, si Allah le veut ! »
+ph: Falammā Dakhalū `Alá Yūsufa 'Āwá 'Ilayhi 'Abawayhi Wa Qāla Adkhulū Mişra 'In Shā'a Allāhu 'Āminīna
+
+12:100
+ar: وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًۭا ۖ وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّۭا ۖ وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ ۚ إِنَّ رَبِّى لَطِيفٌۭ لِّمَا يَشَآءُ ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
+fr: Et il éleva ses parents sur le trône, et tous tombèrent devant lui, prosternés. Et il dit: « Ô mon père, voilà l'interprétation de mon rêve de jadis. Allah l'a bel et bien réalisé... Et Il m'a certainement fait du bien quand Il m'a fait sortir de prison et qu'Il vous a fait venir de la campagne, [du désert], après que le Diable ait suscité la discorde entre mes frères et moi. Mon Seigneur est plein de douceur pour ce qu'Il veut. Et c'est Lui l'Omniscient, le Sage.
+ph: Wa Rafa`a 'Abawayhi `Alá Al-`Arshi Wa Kharrū Lahu Sujjadāan Wa Qāla Yā 'Abati Hādhā Ta'wīlu Ru'uyā Y Min Qablu Qad Ja`alahā Rabbī Ĥaqqāan Wa Qad 'Aĥsana Bī 'Idh 'Akhrajanī Mina As-Sijni Wa Jā'a Bikum Mina Al-Badwi Min Ba`di 'An Nazagha Ash-Shayţānu Baynī Wa Bayna 'Ikhwatī 'Inna Rabbī Laţīfun Limā Yashā'u 'Innahu Huwa Al-`Alīmu Al-Ĥakīmu
+
+12:101
+ar: ۞ رَبِّ قَدْ ءَاتَيْتَنِى مِنَ ٱلْمُلْكِ وَعَلَّمْتَنِى مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ أَنتَ وَلِىِّۦ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۖ تَوَفَّنِى مُسْلِمًۭا وَأَلْحِقْنِى بِٱلصَّٰلِحِينَ
+fr: Ô mon Seigneur, Tu m'as donné du pouvoir et m'as enseigné l'interprétation des rêves. [C'est Toi Le] Créateur des cieux et de la terre, Tu es mon patron, ici-bas et dans l'au-delà. Fais-moi mourir en parfaite soumission et fais moi rejoindre les vertueux.
+ph: Rabbi Qad 'Ātaytanī Mina Al-Mulki Wa `Allamtanī Min Ta'wīli Al-'Aĥādīthi Fāţira As-Samāwāti Wa Al-'Arđi 'Anta Wa Līyi Fī Ad-Dunyā Wa Al-'Ākhirati Tawaffanī Muslimāan Wa 'Alĥiqnī Biş-Şāliĥīna
+
+12:102
+ar: ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ ۖ وَمَا كُنتَ لَدَيْهِمْ إِذْ أَجْمَعُوٓا۟ أَمْرَهُمْ وَهُمْ يَمْكُرُونَ
+fr: Ce sont là des récits inconnus que Nous te révélons. Et tu n'étais pas auprès d'eux quand ils se mirent d'accord pour comploter.
+ph: Dhālika Min 'Anbā'i Al-Ghaybi Nūĥīhi 'Ilayka Wa Mā Kunta Ladayhim 'Idh 'Ajma`ū 'Amrahum Wa Hum Yamkurūna
+
+12:103
+ar: وَمَآ أَكْثَرُ ٱلنَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ
+fr: Et la plupart des gens ne sont pas croyants malgré ton désir ardent.
+ph: Wa Mā 'Aktharu An-Nāsi Wa Law Ĥaraşta Bimu'uminīna
+
+12:104
+ar: وَمَا تَسْـَٔلُهُمْ عَلَيْهِ مِنْ أَجْرٍ ۚ إِنْ هُوَ إِلَّا ذِكْرٌۭ لِّلْعَٰلَمِينَ
+fr: Et tu ne leur demandes aucun salaire pour cela. Ce n'est là qu'un rappel adressé à l'univers.
+ph: Wa Mā Tas'aluhum `Alayhi Min 'Ajrin 'In Huwa 'Illā Dhikrun Lil`ālamīna
+
+12:105
+ar: وَكَأَيِّن مِّنْ ءَايَةٍۢ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ
+fr: Et dans les cieux et sur la terre, que de signes auprès desquels les gens passent, en s'en détournant !
+ph: Wa Ka'ayyin Min 'Āyatin Fī As-Samāwāti Wa Al-'Arđi Yamurrūna `Alayhā Wa Hum `Anhā Mu`riđūna
+
+12:106
+ar: وَمَا يُؤْمِنُ أَكْثَرُهُم بِٱللَّهِ إِلَّا وَهُم مُّشْرِكُونَ
+fr: Et la plupart d'entre eux ne croient en Allah, qu'en lui donnant des associés.
+ph: Wa Mā Yu'uminu 'Aktharuhum Billāhi 'Illā Wa Hum Mushrikūna
+
+12:107
+ar: أَفَأَمِنُوٓا۟ أَن تَأْتِيَهُمْ غَٰشِيَةٌۭ مِّنْ عَذَابِ ٱللَّهِ أَوْ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةًۭ وَهُمْ لَا يَشْعُرُونَ
+fr: Est-ce qu'ils sont sûrs que le châtiment d'Allah ne viendra pas les couvrir ou que l'Heure ne leur viendra pas soudainement, sans qu'ils s'en rendent compte ?
+ph: 'Afa'aminū 'An Ta'tiyahum Ghāshiyatun Min `Adhābi Allāhi 'Aw Ta'tiyahumu As-Sā`atu Baghtatan Wa Hum Lā Yash`urūna
+
+12:108
+ar: قُلْ هَٰذِهِۦ سَبِيلِىٓ أَدْعُوٓا۟ إِلَى ٱللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِى ۖ وَسُبْحَٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ
+fr: Dis: « Voici ma voie, j'appelle les gens à [la religion] d'Allah, moi et ceux qui me suivent, nous basant sur une preuve évidente. Gloire à Allah ! Et je ne suis point du nombre des associateurs.
+ph: Qul Hadhihi Sabīlī 'Ad`ū 'Ilá Allāhi `Alá Başīratin 'Anā Wa Mani Attaba`anī Wa Subĥāna Allāhi Wa Mā 'Anā Mina Al-Mushrikīna
+
+12:109
+ar: وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًۭا نُّوحِىٓ إِلَيْهِم مِّنْ أَهْلِ ٱلْقُرَىٰٓ ۗ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۗ وَلَدَارُ ٱلْءَاخِرَةِ خَيْرٌۭ لِّلَّذِينَ ٱتَّقَوْا۟ ۗ أَفَلَا تَعْقِلُونَ
+fr: Nous n'avons envoyé avant toi que des hommes originaires des cités, à qui Nous avons fait des révélations. [Ces gens là] n'ont-ils pas parcouru la terre et considéré quelle fut la fin de ceux qui ont vécu avant eux ? La demeure de l'au-delà est assurément meilleure pour ceux qui craignent [Allah]. Ne raisonnerez-vous donc pas ?
+ph: Wa Mā 'Arsalnā Min Qablika 'Illā Rijālāan Nūĥī 'Ilayhim Min 'Ahli Al-Qurá 'Afalam Yasīrū Fī Al-'Arđi Fayanžurū Kayfa Kāna `Āqibatu Al-Ladhīna Min Qablihim Wa Ladāru Al-'Ākhirati Khayrun Lilladhīna Attaqaw 'Afalā Ta`qilūna
+
+12:110
+ar: حَتَّىٰٓ إِذَا ٱسْتَيْـَٔسَ ٱلرُّسُلُ وَظَنُّوٓا۟ أَنَّهُمْ قَدْ كُذِبُوا۟ جَآءَهُمْ نَصْرُنَا فَنُجِّىَ مَن نَّشَآءُ ۖ وَلَا يُرَدُّ بَأْسُنَا عَنِ ٱلْقَوْمِ ٱلْمُجْرِمِينَ
+fr: Quand les messagers faillirent perdre espoir (et que leurs adeptes) eurent pensé qu'ils étaient dupés voilà que vint à eux Notre secours. Et furent sauvés ceux que Nous voulûmes. Mais Notre rigueur ne saurait être détournée des gens criminels.
+ph: Ĥattá 'Idhā Astay'asa Ar-Rusulu Wa Žannū 'Annahum Qad Kudhibū Jā'ahum Naşrunā Fanujjiya Man Nashā'u Wa Lā Yuraddu Ba'sunā `Ani Al-Qawmi Al-Mujrimīna
+
+12:111
+ar: لَقَدْ كَانَ فِى قَصَصِهِمْ عِبْرَةٌۭ لِّأُو۟لِى ٱلْأَلْبَٰبِ ۗ مَا كَانَ حَدِيثًۭا يُفْتَرَىٰ وَلَٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ كُلِّ شَىْءٍۢ وَهُدًۭى وَرَحْمَةًۭ لِّقَوْمٍۢ يُؤْمِنُونَ
+fr: Dans leurs récits il y a certes une leçon pour les gens doués d'intelligence. Ce n'est point là un récit fabriqué. C'est au contraire la confirmation de ce qui existait déjà avant lui, un exposé détaillé de toute chose, un guide et une miséricorde pour des gens qui croient.
+ph: Laqad Kāna Fī Qaşaşihim `Ibratun Li'wlī Al-'Albābi Mā Kāna Ĥadīthāan Yuftará Wa Lakin Taşdīqa Al-Ladhī Bayna Yadayhi Wa Tafşīla Kulli Shay'in Wa Hudáan Wa Raĥmatan Liqawmin Yu'uminūna 
+
 # ---------- Sourate 18 · Al-Kahf ----------
 
 18:1
@@ -1288,6 +1845,568 @@ ph: Wa Law 'Annā 'Ahlaknāhum Bi`adhābin Min Qablihi Laqālū Rabbanā Lawlā 
 ar: قُلْ كُلٌّۭ مُّتَرَبِّصٌۭ فَتَرَبَّصُوا۟ ۖ فَسَتَعْلَمُونَ مَنْ أَصْحَٰبُ ٱلصِّرَٰطِ ٱلسَّوِىِّ وَمَنِ ٱهْتَدَىٰ
 fr: Dis: « Chacun attend. Attendez donc ! Vous saurez bientôt qui sont les gens du droit chemin et qui sont les bien-guidés. »
 ph: Qul Kullun Mutarabbişun Fatarabbaşū Fasata`lamūna Man 'Aşĥābu Aş-Şirāţi As-Sawīyi Wa Mani Ahtadá
+
+# ---------- Sourate 21 · Al-Anbiyā ----------
+
+21:1
+ar: ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍۢ مُّعْرِضُونَ
+fr: [L'échéance] du règlement de leur compte approche pour les hommes, alors que dans leur insouciance ils s'en détournent.
+ph: Aqtaraba Lilnnāsi Ĥisābuhum Wa Hum Fī Ghaflatin Mu`riđūna
+
+21:2
+ar: مَا يَأْتِيهِم مِّن ذِكْرٍۢ مِّن رَّبِّهِم مُّحْدَثٍ إِلَّا ٱسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ
+fr: Aucun rappel [de révélation] récente ne leur vient de leur Seigneur, sans qu'ils ne l'entendent en s'amusant,
+ph: Mā Ya'tīhim Min Dhikrin Min Rabbihim Muĥdathin 'Illā Astama`ūhu Wa Hum Yal`abūna
+
+21:3
+ar: لَاهِيَةًۭ قُلُوبُهُمْ ۗ وَأَسَرُّوا۟ ٱلنَّجْوَى ٱلَّذِينَ ظَلَمُوا۟ هَلْ هَٰذَآ إِلَّا بَشَرٌۭ مِّثْلُكُمْ ۖ أَفَتَأْتُونَ ٱلسِّحْرَ وَأَنتُمْ تُبْصِرُونَ
+fr: leurs cœurs distraits; et les injustes tiennent des conversations secrètes et disent: « Ce n'est là qu'un être humain semblable à vous ? Allez-vous donc vous adonner à la magie alors que vous voyez clair ? »
+ph: Lāhiyatan Qulūbuhum Wa 'Asarrū An-Najwá Al-Ladhīna Žalamū Hal Hādhā 'Illā Basharun Mithlukum 'Afata'tūna As-Siĥra Wa 'Antum Tubşirūna
+
+21:4
+ar: قَالَ رَبِّى يَعْلَمُ ٱلْقَوْلَ فِى ٱلسَّمَآءِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+fr: Il a répondu: « Mon Seigneur sait tout ce qui se dit au ciel et sur la terre; et Il est l'Audient, l'Omniscient. »
+ph: Qāla Rabbī Ya`lamu Al-Qawla Fī As-Samā'i Wa Al-'Arđi Wa Huwa As-Samī`u Al-`Alīmu
+
+21:5
+ar: بَلْ قَالُوٓا۟ أَضْغَٰثُ أَحْلَٰمٍۭ بَلِ ٱفْتَرَىٰهُ بَلْ هُوَ شَاعِرٌۭ فَلْيَأْتِنَا بِـَٔايَةٍۢ كَمَآ أُرْسِلَ ٱلْأَوَّلُونَ
+fr: Mais ils dirent: « Voilà plutôt un amas de rêves ! Ou bien il l'a inventé. Ou, c'est plutôt un poète. Qu'il nous apporte donc un signe [identique] à celui dont furent chargés les premiers envoyés. »
+ph: Bal Qālū 'Ađghāthu 'Aĥlāmin Bal Aftarāhu Bal Huwa Shā`irun Falya'tinā Bi'āyatin Kamā 'Ursila Al-'Awwalūna
+
+21:6
+ar: مَآ ءَامَنَتْ قَبْلَهُم مِّن قَرْيَةٍ أَهْلَكْنَٰهَآ ۖ أَفَهُمْ يُؤْمِنُونَ
+fr: Pas une seule cité parmi celles que Nous avons fait périr avant eux n'avait cru [à la vue des miracles]. Ceux-ci croiront-ils donc ?
+ph: Mā 'Āmanat Qablahum Min Qaryatin 'Ahlaknāhā 'Afahum Yu'uminūna
+
+21:7
+ar: وَمَآ أَرْسَلْنَا قَبْلَكَ إِلَّا رِجَالًۭا نُّوحِىٓ إِلَيْهِمْ ۖ فَسْـَٔلُوٓا۟ أَهْلَ ٱلذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ
+fr: Nous n'avons envoyé avant toi que des hommes à qui Nous faisions des révélations. Demandez donc aux érudits du Livre, si vous ne savez pas.
+ph: Wa Mā 'Arsalnā Qablaka 'Illā Rijālāan Nūĥī 'Ilayhim Fās'alū 'Ahla Adh-Dhikri 'In Kuntum Lā Ta`lamūna
+
+21:8
+ar: وَمَا جَعَلْنَٰهُمْ جَسَدًۭا لَّا يَأْكُلُونَ ٱلطَّعَامَ وَمَا كَانُوا۟ خَٰلِدِينَ
+fr: Et Nous n'en avons pas fait des corps qui ne consommaient pas de nourriture. Et ils n'étaient pas éternels.
+ph: Wa Mā Ja`alnāhum Jasadāan Lā Ya'kulūna Aţ-Ţa`āma Wa Mā Kānū Khālidīna
+
+21:9
+ar: ثُمَّ صَدَقْنَٰهُمُ ٱلْوَعْدَ فَأَنجَيْنَٰهُمْ وَمَن نَّشَآءُ وَأَهْلَكْنَا ٱلْمُسْرِفِينَ
+fr: Puis Nous réalisâmes la promesse (qui leur avait été faite). Nous les sauvâmes avec ceux que Nous voulûmes [sauver]. Et Nous fîmes périr les outranciers.
+ph: Thumma Şadaqnāhumu Al-Wa`da Fa'anjaynāhum Wa Man Nashā'u Wa 'Ahlaknā Al-Musrifīna
+
+21:10
+ar: لَقَدْ أَنزَلْنَآ إِلَيْكُمْ كِتَٰبًۭا فِيهِ ذِكْرُكُمْ ۖ أَفَلَا تَعْقِلُونَ
+fr: Nous avons assurément fait descendre vers vous un livre où se trouve votre rappel [ou votre renom]. Ne comprenez-vous donc pas ?
+ph: Laqad 'Anzalnā 'Ilaykum Kitābāan Fīhi Dhikrukum 'Afalā Ta`qilūna
+
+21:11
+ar: وَكَمْ قَصَمْنَا مِن قَرْيَةٍۢ كَانَتْ ظَالِمَةًۭ وَأَنشَأْنَا بَعْدَهَا قَوْمًا ءَاخَرِينَ
+fr: Et que de cités qui ont commis des injustices, Nous avons brisées; et Nous avons créé d'autres peuples après eux.
+ph: Wa Kam Qaşamnā Min Qaryatin Kānat Žālimatan Wa 'Ansha'nā Ba`dahā Qawmāan 'Ākharīna
+
+21:12
+ar: فَلَمَّآ أَحَسُّوا۟ بَأْسَنَآ إِذَا هُم مِّنْهَا يَرْكُضُونَ
+fr: Quand [ces gens] sentirent Notre rigueur ils s'en enfuirent hâtivement.
+ph: Falammā 'Aĥassū Ba'sanā 'Idhā Hum Minhā Yarkuđūna
+
+21:13
+ar: لَا تَرْكُضُوا۟ وَٱرْجِعُوٓا۟ إِلَىٰ مَآ أُتْرِفْتُمْ فِيهِ وَمَسَٰكِنِكُمْ لَعَلَّكُمْ تُسْـَٔلُونَ
+fr: Ne galopez point. Retournez plutôt au grand luxe où vous étiez et dans vos demeures, afin que vous soyez interrogés.
+ph: Lā Tarkuđū Wa Arji`ū 'Ilá Mā 'Utriftum Fīhi Wa Masākinikum La`allakum Tus'alūna
+
+21:14
+ar: قَالُوا۟ يَٰوَيْلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ
+fr: Ils dirent: « Malheur à nous ! Nous étions vraiment injustes. »
+ph: Qālū Yā Waylanā 'Innā Kunnā Žālimīna
+
+21:15
+ar: فَمَا زَالَت تِّلْكَ دَعْوَىٰهُمْ حَتَّىٰ جَعَلْنَٰهُمْ حَصِيدًا خَٰمِدِينَ
+fr: Telle ne cessa d'être leur lamentation jusqu'à ce que Nous les eûmes moissonnés et éteints.
+ph: Famā Zālat Tilka Da`wāhum Ĥattá Ja`alnāhum Ĥaşīdāan Khāmidīna
+
+21:16
+ar: وَمَا خَلَقْنَا ٱلسَّمَآءَ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا لَٰعِبِينَ
+fr: Ce n'est pas par jeu que Nous avons créé le ciel et la terre et ce qui est entre eux.
+ph: Wa Mā Khalaqnā As-Samā'a Wa Al-'Arđa Wa Mā Baynahumā Lā`ibīna
+
+21:17
+ar: لَوْ أَرَدْنَآ أَن نَّتَّخِذَ لَهْوًۭا لَّٱتَّخَذْنَٰهُ مِن لَّدُنَّآ إِن كُنَّا فَٰعِلِينَ
+fr: Si Nous avions voulu prendre une distraction, Nous l'aurions prise de Nous-mêmes, si vraiment Nous avions voulu le faire.
+ph: Law 'Aradnā 'An Nattakhidha Lahwan Lāttakhadhnāhu Min Ladunnā 'In Kunnā Fā`ilīna
+
+21:18
+ar: بَلْ نَقْذِفُ بِٱلْحَقِّ عَلَى ٱلْبَٰطِلِ فَيَدْمَغُهُۥ فَإِذَا هُوَ زَاهِقٌۭ ۚ وَلَكُمُ ٱلْوَيْلُ مِمَّا تَصِفُونَ
+fr: Bien au contraire, Nous lançons contre le faux la vérité qui le subjugue, et le voilà qui disparaît. Et malheur à vous pour ce que vous attribuez [injustement à Allah].
+ph: Bal Naqdhifu Bil-Ĥaqqi `Alá Al-Bāţili Fayadmaghuhu Fa'idhā Huwa Zāhiqun Wa Lakumu Al-Waylu Mimmā Taşifūna
+
+21:19
+ar: وَلَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَمَنْ عِندَهُۥ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَلَا يَسْتَحْسِرُونَ
+fr: À Lui seul appartiennent tous ceux qui sont dans les cieux et sur la terre. Ceux qui sont auprès de Lui [les Anges] ne se considèrent point trop grands pour L'adorer et ne s'en lassent pas.
+ph: Wa Lahu Man Fī As-Samāwāti Wa Al-'Arđi Wa Man `Indahu Lā Yastakbirūna `An `Ibādatihi Wa Lā Yastaĥsirūna
+
+21:20
+ar: يُسَبِّحُونَ ٱلَّيْلَ وَٱلنَّهَارَ لَا يَفْتُرُونَ
+fr: Ils exaltent Sa Gloire nuit et jour et ne s'interrompent point.
+ph: Yusabbiĥūna Al-Layla Wa An-Nahāra Lā Yafturūna
+
+21:21
+ar: أَمِ ٱتَّخَذُوٓا۟ ءَالِهَةًۭ مِّنَ ٱلْأَرْضِ هُمْ يُنشِرُونَ
+fr: Ont-ils pris des divinités qui peuvent ressusciter (les morts) de la terre ?
+ph: 'Am Attakhadhū 'Ālihatan Mina Al-'Arđi Hum Yunshirūna
+
+21:22
+ar: لَوْ كَانَ فِيهِمَآ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَا ۚ فَسُبْحَٰنَ ٱللَّهِ رَبِّ ٱلْعَرْشِ عَمَّا يَصِفُونَ
+fr: S'il y avait dans le ciel et la terre des divinités autre qu'Allah, tous deux seraient certes dans le désordre. Gloire, donc à Allah, Seigneur du Trône; Il est au-dessus de ce qu'ils Lui attribuent !
+ph: Law Kāna Fīhimā 'Ālihatun 'Illā Allāhu Lafasadatā Fasubĥāna Allāhi Rabbi Al-`Arshi `Ammā Yaşifūna
+
+21:23
+ar: لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ
+fr: Il n'est pas interrogé sur ce qu'Il fait, mais ce sont eux qui devront rendre compte [de leurs actes].
+ph: Lā Yus'alu `Ammā Yaf`alu Wa Hum Yus'alūna
+
+21:24
+ar: أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةًۭ ۖ قُلْ هَاتُوا۟ بُرْهَٰنَكُمْ ۖ هَٰذَا ذِكْرُ مَن مَّعِىَ وَذِكْرُ مَن قَبْلِى ۗ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ ٱلْحَقَّ ۖ فَهُم مُّعْرِضُونَ
+fr: Ont-ils pris des divinités en dehors de Lui ? Dis: « Apportez votre preuve. » Ceci est la révélation de ceux qui sont avec moi et de ceux qui étaient avant moi. Mais la plupart d'entre eux ne connaissent pas la vérité et s'en écartent.
+ph: 'Am Attakhadhū Min Dūnihi 'Ālihatan Qul Hātū Burhānakum Hādhā Dhikru Man Ma`iya Wa Dhikru Man Qablī Bal 'Aktharuhum Lā Ya`lamūna Al-Ĥaqqa Fahum Mu`riđūna
+
+21:25
+ar: وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِىٓ إِلَيْهِ أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعْبُدُونِ
+fr: Et Nous n'avons envoyé avant toi aucun Messager à qui Nous n'ayons révélé: « Point de divinité en dehors de Moi. Adorez-Moi donc. »
+ph: Wa Mā 'Arsalnā Min Qablika Min Rasūl 'Iinillā Nūĥī 'Ilayhi 'Annahu Lā 'Ilāha 'Illā 'Anā Fā`budūni
+
+21:26
+ar: وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًۭا ۗ سُبْحَٰنَهُۥ ۚ بَلْ عِبَادٌۭ مُّكْرَمُونَ
+fr: Et ils dirent: « Le Tout Miséricordieux s'est donné un enfant. » Pureté à Lui ! Mais ce sont plutôt des serviteurs honorés.
+ph: Wa Qālū Attakhadha Ar-Raĥmānu Waladāan Subĥānahu Bal `Ibādun Mukramūna
+
+21:27
+ar: لَا يَسْبِقُونَهُۥ بِٱلْقَوْلِ وَهُم بِأَمْرِهِۦ يَعْمَلُونَ
+fr: Ils ne devancent pas Son Commandement et agissent selon Ses ordres.
+ph: Lā Yasbiqūnahu Bil-Qawli Wa Hum Bi'amrihi Ya`malūna
+
+21:28
+ar: يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ٱرْتَضَىٰ وَهُم مِّنْ خَشْيَتِهِۦ مُشْفِقُونَ
+fr: Il sait ce qui est devant eux et ce qui est derrière eux. Et ils n'intercèdent qu'en faveur de ceux qu'Il a agréés [tout en étant] pénétrés de Sa crainte.
+ph: Ya`lamu Mā Bayna 'Aydīhim Wa Mā Khalfahum Wa Lā Yashfa`ūna 'Illā Limani Artađá Wa Hum Min Khashyatihi Mushfiqūna
+
+21:29
+ar: ۞ وَمَن يَقُلْ مِنْهُمْ إِنِّىٓ إِلَٰهٌۭ مِّن دُونِهِۦ فَذَٰلِكَ نَجْزِيهِ جَهَنَّمَ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ
+fr: Et quiconque d'entre eux dirait: « Je suis une divinité en dehors de Lui. » Nous le rétribuerons de l'Enfer. C'est ainsi que Nous rétribuons les injustes.
+ph: Wa Man Yaqul Minhum 'Innī 'Ilahun Min Dūnihi Fadhālika Najzīhi Jahannama Kadhālika Najzī Až-Žālimīna
+
+21:30
+ar: أَوَلَمْ يَرَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ كَانَتَا رَتْقًۭا فَفَتَقْنَٰهُمَا ۖ وَجَعَلْنَا مِنَ ٱلْمَآءِ كُلَّ شَىْءٍ حَىٍّ ۖ أَفَلَا يُؤْمِنُونَ
+fr: Ceux qui ont mécru, n'ont-ils pas vu que les cieux et la terre formaient une masse compacte ? Ensuite Nous les avons séparés et fait de l'eau toute chose vivante. Ne croiront-ils donc pas ?
+ph: 'Awalam Yará Al-Ladhīna Kafarū 'Anna As-Samāwāti Wa Al-'Arđa Kānatā Ratqāan Fafataqnāhumā Wa Ja`alnā Mina Al-Mā'i Kulla Shay'in Ĥayyin 'Afalā Yu'uminūna
+
+21:31
+ar: وَجَعَلْنَا فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِهِمْ وَجَعَلْنَا فِيهَا فِجَاجًۭا سُبُلًۭا لَّعَلَّهُمْ يَهْتَدُونَ
+fr: Et Nous avons placé des montagnes fermes dans la terre, afin qu'elle ne s'ébranle pas en les [entraînant]. Et Nous y avons placé des défilés servant de chemins afin qu'ils se guident.
+ph: Wa Ja`alnā Fī Al-'Arđi Rawāsiya 'An Tamīda Bihim Wa Ja`alnā Fīhā Fijājāan Subulāan La`allahum Yahtadūna
+
+21:32
+ar: وَجَعَلْنَا ٱلسَّمَآءَ سَقْفًۭا مَّحْفُوظًۭا ۖ وَهُمْ عَنْ ءَايَٰتِهَا مُعْرِضُونَ
+fr: Et Nous avons fait du ciel un toit protégé. Et cependant ils se détournent de ses merveilles.
+ph: Wa Ja`alnā As-Samā'a Saqfāan Maĥfūžāan Wa Hum `An 'Āyātihā Mu`riđūna
+
+21:33
+ar: وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّۭ فِى فَلَكٍۢ يَسْبَحُونَ
+fr: Et c'est Lui qui a créé la nuit et le jour, le soleil et la lune; chacun voguant dans une orbite.
+ph: Wa Huwa Al-Ladhī Khalaqa Al-Layla Wa An-Nahāra Wa Ash-Shamsa Wa Al-Qamara Kullun Fī Falakin Yasbaĥūna
+
+21:34
+ar: وَمَا جَعَلْنَا لِبَشَرٍۢ مِّن قَبْلِكَ ٱلْخُلْدَ ۖ أَفَإِي۟ن مِّتَّ فَهُمُ ٱلْخَٰلِدُونَ
+fr: Et Nous n'avons attribué l'immortalité à nul homme avant toi. Est-ce que si tu meurs, toi, ils seront, eux, éternels ?
+ph: Wa Mā Ja`alnā Libasharin Min Qablika Al-Khulda 'Afa'īn Mitta Fahumu Al-Khālidūna
+
+21:35
+ar: كُلُّ نَفْسٍۢ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةًۭ ۖ وَإِلَيْنَا تُرْجَعُونَ
+fr: Toute âme doit goûter la mort. Nous vous éprouverons par le mal et par le bien [à titre] de tentation. Et c'est à Nous que vous serez ramenés.
+ph: Kullu Nafsin Dhā'iqatu Al-Mawti Wa Nablūkum Bish-Sharri Wa Al-Khayri Fitnatan Wa 'Ilaynā Turja`ūna
+
+21:36
+ar: وَإِذَا رَءَاكَ ٱلَّذِينَ كَفَرُوٓا۟ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِى يَذْكُرُ ءَالِهَتَكُمْ وَهُم بِذِكْرِ ٱلرَّحْمَٰنِ هُمْ كَٰفِرُونَ
+fr: Quand les mécréants te voient, ils ne te prennent qu'en dérision (disant): « Quoi ! Est-ce-là celui qui médit de vos divinités ? » Et ils nient [tout] rappel du Tout Miséricordieux.
+ph: Wa 'Idhā Ra'āka Al-Ladhīna Kafarū 'In Yattakhidhūnaka 'Illā Huzūan 'Ahadhā Al-Ladhī Yadhkuru 'Ālihatakum Wa Hum Bidhikri Ar-Raĥmāni Hum Kāfirūna
+
+21:37
+ar: خُلِقَ ٱلْإِنسَٰنُ مِنْ عَجَلٍۢ ۚ سَأُو۟رِيكُمْ ءَايَٰتِى فَلَا تَسْتَعْجِلُونِ
+fr: L'homme a été créé prompt dans sa nature. Je vous montrerai Mes signes [la réalisation de Mes menaces]. Ne me hâtez donc pas.
+ph: Khuliqa Al-'Insānu Min `Ajalin Sa'urīkum 'Āyātī Falā Tasta`jilūni
+
+21:38
+ar: وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
+fr: Et ils disent: « À quand cette promesse si vous êtes véridiques ? »
+ph: Wa Yaqūlūna Matá Hādhā Al-Wa`du 'In Kuntum Şādiqīna
+
+21:39
+ar: لَوْ يَعْلَمُ ٱلَّذِينَ كَفَرُوا۟ حِينَ لَا يَكُفُّونَ عَن وُجُوهِهِمُ ٱلنَّارَ وَلَا عَن ظُهُورِهِمْ وَلَا هُمْ يُنصَرُونَ
+fr: Si [seulement] les mécréants connaissaient le moment où ils ne pourront empêcher le feu de leur visage ni de leur dos, et où ils ne seront point secourus.
+ph: Law Ya`lamu Al-Ladhīna Kafarū Ĥīna Lā Yakuffūna `An Wujūhihimu An-Nāra Wa Lā `An Žuhūrihim Wa Lā Hum Yunşarūna
+
+21:40
+ar: بَلْ تَأْتِيهِم بَغْتَةًۭ فَتَبْهَتُهُمْ فَلَا يَسْتَطِيعُونَ رَدَّهَا وَلَا هُمْ يُنظَرُونَ
+fr: Mais non, cela leur viendra subitement et ils seront alors stupéfaits; ils ne pourront pas le repousser et on ne leur donnera pas de répit.
+ph: Bal Ta'tīhim Baghtatan Fatabhatuhum Falā Yastaţī`ūna Raddahā Wa Lā Hum Yunžarūna
+
+21:41
+ar: وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍۢ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
+fr: On s'est moqué de messagers venus avant toi. Et ceux qui se sont moqués d'eux, se virent frapper de toutes parts par l'objet même de leurs moqueries.
+ph: Wa Laqadi Astuhzi'a Birusulin Min Qablika Faĥāqa Bial-Ladhīna Sakhirū Minhum Mā Kānū Bihi Yastahzi'ūn
+
+21:42
+ar: قُلْ مَن يَكْلَؤُكُم بِٱلَّيْلِ وَٱلنَّهَارِ مِنَ ٱلرَّحْمَٰنِ ۗ بَلْ هُمْ عَن ذِكْرِ رَبِّهِم مُّعْرِضُونَ
+fr: Dis: « Qui vous protège la nuit et le jour, contre le [châtiment] du Tout Miséricordieux ? » Pourtant ils se détournent du rappel de leur Seigneur.
+ph: Qul Man Yakla'uukum Bil-Layli Wa An-Nahāri Mina Ar-Raĥmāni Bal Hum `An Dhikri Rabbihim Mu`riđūna
+
+21:43
+ar: أَمْ لَهُمْ ءَالِهَةٌۭ تَمْنَعُهُم مِّن دُونِنَا ۚ لَا يَسْتَطِيعُونَ نَصْرَ أَنفُسِهِمْ وَلَا هُم مِّنَّا يُصْحَبُونَ
+fr: Ont-ils donc des divinités en dehors de Nous, qui peuvent les protéger ? Mais celles-ci ne peuvent ni se secourir elles-mêmes, ni se faire assister contre Nous.
+ph: 'Am Lahum 'Ālihatun Tamna`uhum Min Dūninā Lā Yastaţī`ūna Naşra 'Anfusihim Wa Lā Hum Minnā Yuşĥabūna
+
+21:44
+ar: بَلْ مَتَّعْنَا هَٰٓؤُلَآءِ وَءَابَآءَهُمْ حَتَّىٰ طَالَ عَلَيْهِمُ ٱلْعُمُرُ ۗ أَفَلَا يَرَوْنَ أَنَّا نَأْتِى ٱلْأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَآ ۚ أَفَهُمُ ٱلْغَٰلِبُونَ
+fr: Au contraire Nous avons accordé une jouissance [temporaire] à ceux-là comme à leurs ancêtres jusqu'à un âge avancé. Ne voient-ils pas que Nous venons à la terre que Nous réduisons de tous côtés ? Seront-ils alors les vainqueurs ?
+ph: Bal Matta`nā Hā'uulā' Wa 'Ābā'ahum Ĥattá Ţāla `Alayhimu Al-`Umuru 'Afalā Yarawna 'Annā Na'tī Al-'Arđa Nanquşuhā Min 'Aţrāfihā 'Afahumu Al-Ghālibūna
+
+21:45
+ar: قُلْ إِنَّمَآ أُنذِرُكُم بِٱلْوَحْىِ ۚ وَلَا يَسْمَعُ ٱلصُّمُّ ٱلدُّعَآءَ إِذَا مَا يُنذَرُونَ
+fr: Dis: « Je vous avertis par ce qui m'est révélé. » Les sourds, cependant, n'entendent pas l'appel quand on les avertit.
+ph: Qul 'Innamā 'Undhirukum Bil-Waĥyi Wa Lā Yasma`u Aş-Şummu Ad-Du`ā'a 'Idhā Mā Yundharūna
+
+21:46
+ar: وَلَئِن مَّسَّتْهُمْ نَفْحَةٌۭ مِّنْ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَٰوَيْلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ
+fr: Si un souffle du châtiment de ton Seigneur les effleurait, ils diraient alors: « Malheur à nous ! Nous étions vraiment injustes. »
+ph: Wa La'in Massat/hum Nafĥatun Min `Adhābi Rabbika Layaqūlunna Yā Waylanā 'Innā Kunnā Žālimīna
+
+21:47
+ar: وَنَضَعُ ٱلْمَوَٰزِينَ ٱلْقِسْطَ لِيَوْمِ ٱلْقِيَٰمَةِ فَلَا تُظْلَمُ نَفْسٌۭ شَيْـًۭٔا ۖ وَإِن كَانَ مِثْقَالَ حَبَّةٍۢ مِّنْ خَرْدَلٍ أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَٰسِبِينَ
+fr: Au Jour de la Résurrection, Nous placerons les balances exactes. Nulle âme ne sera lésée en rien, fût-ce du poids d'un grain de moutarde que Nous ferons venir. Nous suffisons largement pour dresser les comptes.
+ph: Wa Nađa`u Al-Mawāzīna Al-Qisţa Liyawmi Al-Qiyāmati Falā Tužlamu Nafsun Shay'āan Wa 'In Kāna Mithqāla Ĥabbatin Min Khardalin 'Ataynā Bihā Wa Kafá Binā Ĥāsibīna
+
+21:48
+ar: وَلَقَدْ ءَاتَيْنَا مُوسَىٰ وَهَٰرُونَ ٱلْفُرْقَانَ وَضِيَآءًۭ وَذِكْرًۭا لِّلْمُتَّقِينَ
+fr: Nous avons déjà apporté à Musa (Moïse) et Harun (Aaron) le Livre du discernement (la Thora) ainsi qu'une lumière et un rappel pour les gens pieux,
+ph: Wa Laqad 'Ātaynā Mūsá Wa Hārūna Al-Furqāna Wa Điyā'an Wa Dhikrāan Lilmuttaqīna
+
+21:49
+ar: ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَهُم مِّنَ ٱلسَّاعَةِ مُشْفِقُونَ
+fr: qui craignent leur Seigneur malgré qu'ils ne Le voient pas, et redoutent l'Heure (la fin du monde).
+ph: Al-Ladhīna Yakhshawna Rabbahum Bil-Ghaybi Wa Hum Mina As-Sā`ati Mushfiqūna
+
+21:50
+ar: وَهَٰذَا ذِكْرٌۭ مُّبَارَكٌ أَنزَلْنَٰهُ ۚ أَفَأَنتُمْ لَهُۥ مُنكِرُونَ
+fr: Et ceci [le Coran] est un rappel béni que Nous avons fait descendre. Allez-vous donc le renier ?
+ph: Wa Hadhā Dhikrun Mubārakun 'Anzalnāhu 'Afa'antum Lahu Munkirūna
+
+21:51
+ar: ۞ وَلَقَدْ ءَاتَيْنَآ إِبْرَٰهِيمَ رُشْدَهُۥ مِن قَبْلُ وَكُنَّا بِهِۦ عَٰلِمِينَ
+fr: En effet, Nous avons mis auparavant Ibrahim (Abraham) sur le droit chemin. Et Nous en avions bonne connaissance.
+ph: Wa Laqad 'Ātaynā 'Ibrāhīma Rushdahu Min Qablu Wa Kunnā Bihi `Ālimīna
+
+21:52
+ar: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَٰكِفُونَ
+fr: Quand il dit à son père et à son peuple: « Que sont ces statues auxquelles vous vous attachez ? »
+ph: 'Idh Qāla Li'abīhi Wa Qawmihi Mā Hadhihi At-Tamāthīlu Allatī 'Antum Lahā `Ākifūna
+
+21:53
+ar: قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ
+fr: ils dirent: « Nous avons trouvé nos ancêtres les adorant. »
+ph: Qālū Wajadnā 'Ābā'anā Lahā `Ābidīna
+
+21:54
+ar: قَالَ لَقَدْ كُنتُمْ أَنتُمْ وَءَابَآؤُكُمْ فِى ضَلَٰلٍۢ مُّبِينٍۢ
+fr: Il dit: « Certainement, vous avez été, vous et vos ancêtres, dans un égarement évident. »
+ph: Qāla Laqad Kuntum 'Antum Wa 'Ābā'uukum Fī Đalālin Mubīnin
+
+21:55
+ar: قَالُوٓا۟ أَجِئْتَنَا بِٱلْحَقِّ أَمْ أَنتَ مِنَ ٱللَّٰعِبِينَ
+fr: Ils dirent: « Viens-tu à nous avec la vérité ou plaisantes-tu ? »
+ph: Qālū 'Aji'tanā Bil-Ĥaqqi 'Am 'Anta Mina Al-Lā`ibīna
+
+21:56
+ar: قَالَ بَل رَّبُّكُمْ رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ٱلَّذِى فَطَرَهُنَّ وَأَنَا۠ عَلَىٰ ذَٰلِكُم مِّنَ ٱلشَّٰهِدِينَ
+fr: Il dit: « Mais votre Seigneur est plutôt le Seigneur des cieux et de la terre, et c'est Lui qui les a créés. Et je suis un de ceux qui en témoignent.
+ph: Qāla Bal Rabbukum Rabbu As-Samāwāti Wa Al-'Arđi Al-Ladhī Faţarahunna Wa 'Anā `Alá Dhālikum Mina Ash-Shāhidīna
+
+21:57
+ar: وَتَٱللَّهِ لَأَكِيدَنَّ أَصْنَٰمَكُم بَعْدَ أَن تُوَلُّوا۟ مُدْبِرِينَ
+fr: Et par Allah ! Je ruserai certes contre vos idoles une fois que vous serez partis. »
+ph: Wa Tālllahi La'akīdanna 'Aşnāmakum Ba`da 'An Tuwallū Mudbirīna
+
+21:58
+ar: فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًۭا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ
+fr: Il les mit en pièces, hormis [la statue] la plus grande. Peut-être qu'ils reviendraient vers elle.
+ph: Faja`alahum Judhādhāan 'Illā Kabīrāan Lahum La`allahum 'Ilayhi Yarji`ūna
+
+21:59
+ar: قَالُوا۟ مَن فَعَلَ هَٰذَا بِـَٔالِهَتِنَآ إِنَّهُۥ لَمِنَ ٱلظَّٰلِمِينَ
+fr: Ils dirent: « Qui a fait cela à nos divinités ? Il est certes parmi les injustes. »
+ph: Qālū Man Fa`ala Hādhā Bi'ālihatinā 'Innahu Lamina Až-Žālimīna
+
+21:60
+ar: قَالُوا۟ سَمِعْنَا فَتًۭى يَذْكُرُهُمْ يُقَالُ لَهُۥٓ إِبْرَٰهِيمُ
+fr: (Certains) dirent: « Nous avons entendu un jeune homme médire d'elles; il s'appelle Ibrahim (Abraham). »
+ph: Qālū Sami`nā Fatáan Yadhkuruhum Yuqālu Lahu 'Ibrāhīmu
+
+21:61
+ar: قَالُوا۟ فَأْتُوا۟ بِهِۦ عَلَىٰٓ أَعْيُنِ ٱلنَّاسِ لَعَلَّهُمْ يَشْهَدُونَ
+fr: Ils dirent: « Amenez-le sous les yeux des gens afin qu'ils puissent témoigner. »
+ph: Qālū Fa'tū Bihi `Alá 'A`yuni An-Nāsi La`allahum Yash/hadūna
+
+21:62
+ar: قَالُوٓا۟ ءَأَنتَ فَعَلْتَ هَٰذَا بِـَٔالِهَتِنَا يَٰٓإِبْرَٰهِيمُ
+fr: (Alors) ils dirent: « Est-ce toi qui as fait cela à nos divinités, Ibrahim (Abraham) ? »
+ph: Qālū 'A'anta Fa`alta Hādhā Bi'ālihatinā Yā 'Ibrāhīmu
+
+21:63
+ar: قَالَ بَلْ فَعَلَهُۥ كَبِيرُهُمْ هَٰذَا فَسْـَٔلُوهُمْ إِن كَانُوا۟ يَنطِقُونَ
+fr: Il dit: « C'est la plus grande d'entre elles que voici, qui l'a fait. Demandez-leur donc, si elles peuvent parler. »
+ph: Qāla Bal Fa`alahu Kabīruhum Hādhā Fās'alūhum 'In Kānū Yanţiqūna
+
+21:64
+ar: فَرَجَعُوٓا۟ إِلَىٰٓ أَنفُسِهِمْ فَقَالُوٓا۟ إِنَّكُمْ أَنتُمُ ٱلظَّٰلِمُونَ
+fr: Se ravisant alors, ils se dirent entre eux: « C'est vous qui êtes les vrais injustes. »
+ph: Faraja`ū 'Ilá 'Anfusihim Faqālū 'Innakum 'Antumu Až-Žālimūna
+
+21:65
+ar: ثُمَّ نُكِسُوا۟ عَلَىٰ رُءُوسِهِمْ لَقَدْ عَلِمْتَ مَا هَٰٓؤُلَآءِ يَنطِقُونَ
+fr: Puis ils firent volte-face et dirent: « Tu sais bien que celles-ci ne parlent pas. »
+ph: Thumma Nukisū `Alá Ru'ūsihim Laqad `Alimta Mā Hā'uulā' Yanţiqūna
+
+21:66
+ar: قَالَ أَفَتَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكُمْ شَيْـًۭٔا وَلَا يَضُرُّكُمْ
+fr: Il dit: « Adorez-vous donc, en dehors d'Allah, ce qui ne saurait en rien vous être utile ni vous nuire non plus.
+ph: Qāla 'Afata`budūna Min Dūni Allāhi Mā Lā Yanfa`ukum Shay'āan Wa Lā Yađurrukum
+
+21:67
+ar: أُفٍّۢ لَّكُمْ وَلِمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ ۖ أَفَلَا تَعْقِلُونَ
+fr: Fi de vous et de ce que vous adorez en dehors d'Allah ! Ne raisonnez-vous pas ? »
+ph: 'Uffin Lakum Wa Limā Ta`budūna Min Dūni Allāhi 'Afalā Ta`qilūna
+
+21:68
+ar: قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَٰعِلِينَ
+fr: Ils dirent: « Brûlez-le. Secourez vos divinités si vous voulez faire quelque chose (pour elles). »
+ph: Qālū Ĥarriqūhu Wa Anşurū 'Ālihatakum 'In Kuntum Fā`ilīna
+
+21:69
+ar: قُلْنَا يَٰنَارُ كُونِى بَرْدًۭا وَسَلَٰمًا عَلَىٰٓ إِبْرَٰهِيمَ
+fr: Nous dîmes: « Ô feu, sois pour Ibrahim (Abraham) une fraîcheur salutaire. »
+ph: Qulnā Yā Nāru Kūnī Bardāan Wa Salāmāan `Alá 'Ibrāhīma
+
+21:70
+ar: وَأَرَادُوا۟ بِهِۦ كَيْدًۭا فَجَعَلْنَٰهُمُ ٱلْأَخْسَرِينَ
+fr: Ils voulaient ruser contre lui, mais ce sont eux que Nous rendîmes les plus grands perdants.
+ph: Wa 'Arādū Bihi Kaydāan Faja`alnāhumu Al-'Akhsarīna
+
+21:71
+ar: وَنَجَّيْنَٰهُ وَلُوطًا إِلَى ٱلْأَرْضِ ٱلَّتِى بَٰرَكْنَا فِيهَا لِلْعَٰلَمِينَ
+fr: Et Nous le sauvâmes, ainsi que Lut (Loth), vers une terre que Nous avions bénie pour tout l'univers.
+ph: Wa Najjaynāhu Wa Lūţāan 'Ilá Al-'Arđi Allatī Bāraknā Fīhā Lil`ālamīna
+
+21:72
+ar: وَوَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ نَافِلَةًۭ ۖ وَكُلًّۭا جَعَلْنَا صَٰلِحِينَ
+fr: Et Nous lui donnâmes Ishaq (Isaac) et, de surcroît Ya'qub (Jacob), desquels Nous fîmes des gens de bien.
+ph: Wa Wahabnā Lahu 'Isĥāqa Wa Ya`qūba Nāfilatan Wa Kullāan Ja`alnā Şāliĥīna
+
+21:73
+ar: وَجَعَلْنَٰهُمْ أَئِمَّةًۭ يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَآ إِلَيْهِمْ فِعْلَ ٱلْخَيْرَٰتِ وَإِقَامَ ٱلصَّلَوٰةِ وَإِيتَآءَ ٱلزَّكَوٰةِ ۖ وَكَانُوا۟ لَنَا عَٰبِدِينَ
+fr: Nous les fîmes des dirigeants qui guidaient par Notre ordre. Et Nous leur révélâmes de faire le bien, d'accomplir la prière et d'acquitter la Zakat. Et ils étaient Nos adorateurs.
+ph: Wa Ja`alnāhum 'A'immatan Yahdūna Bi'amrinā Wa 'Awĥaynā 'Ilayhim Fi`la Al-Khayrāti Wa 'Iqāma Aş-Şalāati Wa 'Ītā'a Az-Zakāati Wa Kānū Lanā `Ābidīna
+
+21:74
+ar: وَلُوطًا ءَاتَيْنَٰهُ حُكْمًۭا وَعِلْمًۭا وَنَجَّيْنَٰهُ مِنَ ٱلْقَرْيَةِ ٱلَّتِى كَانَت تَّعْمَلُ ٱلْخَبَٰٓئِثَ ۗ إِنَّهُمْ كَانُوا۟ قَوْمَ سَوْءٍۢ فَٰسِقِينَ
+fr: Et Lut (Loth) ! Nous lui avons apporté la capacité de juger et le savoir, et Nous l'avons sauvé de la cité où se commettaient les vices; ces gens étaient vraiment des gens du mal, des pervers.
+ph: Wa Lūţāan 'Ātaynāhu Ĥukmāan Wa `Ilmāan Wa Najjaynāhu Mina Al-Qaryati Allatī Kānat Ta`malu Al-Khabā'itha 'Innahum Kānū Qawma Saw'in Fāsiqīna
+
+21:75
+ar: وَأَدْخَلْنَٰهُ فِى رَحْمَتِنَآ ۖ إِنَّهُۥ مِنَ ٱلصَّٰلِحِينَ
+fr: Et Nous l'avons fait entrer en Notre miséricorde. Il était vraiment du nombre des gens de bien.
+ph: Wa 'Adkhalnāhu Fī Raĥmatinā 'Innahu Mina Aş-Şāliĥīna
+
+21:76
+ar: وَنُوحًا إِذْ نَادَىٰ مِن قَبْلُ فَٱسْتَجَبْنَا لَهُۥ فَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ
+fr: Et Nuh (Noé), quand auparavant il fit son appel. Nous l'exauçâmes et Nous le sauvâmes, ainsi que sa famille, de la grande angoisse,
+ph: Wa Nūĥāan 'Idh Nādá Min Qablu Fāstajabnā Lahu Fanajjaynāhu Wa 'Ahlahu Mina Al-Karbi Al-`Ažīmi
+
+21:77
+ar: وَنَصَرْنَٰهُ مِنَ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَآ ۚ إِنَّهُمْ كَانُوا۟ قَوْمَ سَوْءٍۢ فَأَغْرَقْنَٰهُمْ أَجْمَعِينَ
+fr: et Nous le secourûmes contre le peuple qui traitait Nos prodiges de mensonges. Ils furent vraiment des gens du Mal. Nous les noyâmes donc tous.
+ph: Wa Naşarnāhu Mina Al-Qawmi Al-Ladhīna Kadhabū Bi'āyātinā 'Innahum Kānū Qawma Saw'in Fa'aghraqnāhum 'Ajma`īna
+
+21:78
+ar: وَدَاوُۥدَ وَسُلَيْمَٰنَ إِذْ يَحْكُمَانِ فِى ٱلْحَرْثِ إِذْ نَفَشَتْ فِيهِ غَنَمُ ٱلْقَوْمِ وَكُنَّا لِحُكْمِهِمْ شَٰهِدِينَ
+fr: Et Dawud (David), et Sulayman (Salomon), quand ils eurent à juger au sujet d'un champ cultivé où des moutons appartenant à une peuplade étaient allés paître, la nuit. Et Nous étions témoin de leur jugement.
+ph: Wa Dāwūda Wa Sulaymāna 'Idh Yaĥkumāni Fī Al-Ĥarthi 'Idh Nafashat Fīhi Ghanamu Al-Qawmi Wa Kunnā Liĥukmihim Shāhidīna
+
+21:79
+ar: فَفَهَّمْنَٰهَا سُلَيْمَٰنَ ۚ وَكُلًّا ءَاتَيْنَا حُكْمًۭا وَعِلْمًۭا ۚ وَسَخَّرْنَا مَعَ دَاوُۥدَ ٱلْجِبَالَ يُسَبِّحْنَ وَٱلطَّيْرَ ۚ وَكُنَّا فَٰعِلِينَ
+fr: Nous la fîmes comprendre à Sulayman (Salomon). Et à chacun Nous donnâmes la faculté de juger et le savoir. Et Nous asservîmes les montagnes à exalter Notre Gloire en compagnie de Dawud (David), ainsi que les oiseaux. Et c'est Nous qui sommes le Faiseur.
+ph: Fafahhamnāhā Sulaymāna Wa Kullāan 'Ātaynā Ĥukmāan Wa `Ilmāan Wa Sakhkharnā Ma`a Dāwūda Al-Jibāla Yusabbiĥna Wa Aţ-Ţayra Wa Kunnā Fā`ilīna
+
+21:80
+ar: وَعَلَّمْنَٰهُ صَنْعَةَ لَبُوسٍۢ لَّكُمْ لِتُحْصِنَكُم مِّنۢ بَأْسِكُمْ ۖ فَهَلْ أَنتُمْ شَٰكِرُونَ
+fr: Nous lui (Dawud (David)) apprîmes la fabrication des cottes de mailles afin qu'elles vous protègent contre vos violences mutuelles (la guerre). En êtes-vous donc reconnaissants ?
+ph: Wa `Allamnāhu Şan`ata Labūsin Lakum Lituĥşinakum Min Ba'sikum Fahal 'Antum Shākirūna
+
+21:81
+ar: وَلِسُلَيْمَٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَٰلِمِينَ
+fr: Et (Nous avons soumis) à Sulayman (Salomon) le vent impétueux qui, par son ordre, se dirigea vers la terre que Nous avions bénie. Et Nous sommes à même de tout savoir,
+ph: Wa Lisulaymāna Ar-Rīĥa `Āşifatan Tajrī Bi'amrihi 'Ilá Al-'Arđi Allatī Bāraknā Fīhā Wa Kunnā Bikulli Shay'in `Ālimīna
+
+21:82
+ar: وَمِنَ ٱلشَّيَٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعْمَلُونَ عَمَلًۭا دُونَ ذَٰلِكَ ۖ وَكُنَّا لَهُمْ حَٰفِظِينَ
+fr: et parmi les diables il en était qui plongeaient pour lui et faisaient d'autres travaux encore, et Nous les surveillions Nous-mêmes.
+ph: Wa Mina Ash-Shayāţīni Man Yaghūşūna Lahu Wa Ya`malūna `Amalāan Dūna Dhālika Wa Kunnā Lahum Ĥāfižīna
+
+21:83
+ar: ۞ وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلضُّرُّ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ
+fr: Et Ayyub (Job), quand il implora son Seigneur: « Le mal m'a touché. Mais Toi, tu es le plus miséricordieux des miséricordieux » !
+ph: Wa 'Ayyūba 'Idh Nādá Rabbahu 'Annī Massanī Ađ-Đurru Wa 'Anta 'Arĥamu Ar-Rāĥimīna
+
+21:84
+ar: فَٱسْتَجَبْنَا لَهُۥ فَكَشَفْنَا مَا بِهِۦ مِن ضُرٍّۢ ۖ وَءَاتَيْنَٰهُ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنْ عِندِنَا وَذِكْرَىٰ لِلْعَٰبِدِينَ
+fr: Nous l'exauçâmes, enlevâmes le mal qu'il avait, lui rendîmes les siens et autant qu'eux avec eux, par miséricorde de Notre part et en tant que rappel aux adorateurs.
+ph: Fāstajabnā Lahu Fakashafnā Mā Bihi Min Đurrin Wa 'Ātaynāhu 'Ahlahu Wa Mithlahum Ma`ahum Raĥmatan Min `Indinā Wa Dhikrá Lil`ābidīna
+
+21:85
+ar: وَإِسْمَٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّٰبِرِينَ
+fr: Et Isma'il (Ismaël), Idris, et Dhul-Kifl ! Qui étaient tous endurants;
+ph: Wa 'Ismā`īla Wa 'Idrīsa Wa Dhā Al-Kifli Kullun Mina Aş-Şābirīna
+
+21:86
+ar: وَأَدْخَلْنَٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّٰلِحِينَ
+fr: que Nous fîmes entrer en Notre miséricorde car ils étaient vraiment du nombre des gens de bien.
+ph: Wa 'Adkhalnāhum Fī Raĥmatinā 'Innahum Mina Aş-Şāliĥīna
+
+21:87
+ar: وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًۭا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ
+fr: Et Dhun-Nun (Yunus (Jonas)) quand il partit, irrité. Il pensa que Nous n'allions pas l'éprouver. Puis il fit, dans les ténèbres, l'appel que voici: « Pas de divinité à part Toi ! Pureté à Toi ! J'ai été vraiment du nombre des injustes. »
+ph: Wa Dhā An-Nūni 'Idh Dhahaba Mughāđibāan Fažanna 'An Lan Naqdira `Alayhi Fanādá Fī Až-Žulumāti 'An Lā 'Ilāha 'Illā 'Anta Subĥānaka 'Innī Kuntu Mina Až-Žālimīna
+
+21:88
+ar: فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَٰهُ مِنَ ٱلْغَمِّ ۚ وَكَذَٰلِكَ نُۨجِى ٱلْمُؤْمِنِينَ
+fr: Nous l'exauçâmes et le sauvâmes de son angoisse. Et c'est ainsi que Nous sauvons les croyants.
+ph: Fāstajabnā Lahu Wa Najjaynāhu Mina Al-Ghammi Wa Kadhalika Nunjī Al-Mu'uminīna
+
+21:89
+ar: وَزَكَرِيَّآ إِذْ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرْنِى فَرْدًۭا وَأَنتَ خَيْرُ ٱلْوَٰرِثِينَ
+fr: Et Zakariyya (Zacharie), quand il implora son Seigneur: « Ne me laisse pas seul, Seigneur, alors que Tu es le meilleur des héritiers. »
+ph: Wa Zakarīyā 'Idh Nādá Rabbahu Rabbi Lā Tadharnī Fardāan Wa 'Anta Khayru Al-Wārithīna
+
+21:90
+ar: فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ ۚ إِنَّهُمْ كَانُوا۟ يُسَٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًۭا وَرَهَبًۭا ۖ وَكَانُوا۟ لَنَا خَٰشِعِينَ
+fr: Nous l'exauçâmes, lui donnâmes Yahya (Jean Baptiste) et guérîmes son épouse. Ils concouraient au bien et Nous invoquaient par amour et par crainte. Et ils étaient humbles devant Nous.
+ph: Fāstajabnā Lahu Wa Wahabnā Lahu Yaĥyá Wa 'Aşlaĥnā Lahu Zawjahu 'Innahum Kānū Yusāri`ūna Fī Al-Khayrāti Wa Yad`ūnanā Raghabāan Wa Rahabāan Wa Kānū Lanā Khāshi`īna
+
+21:91
+ar: وَٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهَا مِن رُّوحِنَا وَجَعَلْنَٰهَا وَٱبْنَهَآ ءَايَةًۭ لِّلْعَٰلَمِينَ
+fr: Et celle [la vierge Maryam (Marie)] qui avait préservé sa chasteté ! Nous insufflâmes en elle un souffle (de vie) venant de Nous et fîmes d'elle ainsi que de son fils, un signe [miracle] pour l'univers.
+ph: Wa A-Atī 'Aĥşanat Farjahā Fanafakhnā Fīhā Min Rūĥinā Wa Ja`alnāhā Wa Abnahā 'Āyatan Lil`ālamīna
+
+21:92
+ar: إِنَّ هَٰذِهِۦٓ أُمَّتُكُمْ أُمَّةًۭ وَٰحِدَةًۭ وَأَنَا۠ رَبُّكُمْ فَٱعْبُدُونِ
+fr: Certes, cette communauté qui est la vôtre est une communauté unique, et Je suis votre Seigneur. Adorez-Moi donc.
+ph: 'Inna Hadhihi 'Ummatukum 'Ummatan Wāĥidatan Wa 'Anā Rabbukum Fā`budūni
+
+21:93
+ar: وَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ ۖ كُلٌّ إِلَيْنَا رَٰجِعُونَ
+fr: Ils se sont divisés en sectes. Mais tous, retourneront à Nous.
+ph: Wa Taqaţţa`ū 'Amrahum Baynahum Kullun 'Ilaynā Rāji`ūna
+
+21:94
+ar: فَمَن يَعْمَلْ مِنَ ٱلصَّٰلِحَٰتِ وَهُوَ مُؤْمِنٌۭ فَلَا كُفْرَانَ لِسَعْيِهِۦ وَإِنَّا لَهُۥ كَٰتِبُونَ
+fr: Quiconque fait de bonnes œuvres tout en étant croyant, on ne méconnaîtra pas son effort, et Nous le lui inscrivons [à son actif].
+ph: Faman Ya`mal Mina Aş-Şāliĥāti Wa Huwa Mu'uminun Falā Kufrāna Lisa`yihi Wa 'Innā Lahu Kātibūna
+
+21:95
+ar: وَحَرَٰمٌ عَلَىٰ قَرْيَةٍ أَهْلَكْنَٰهَآ أَنَّهُمْ لَا يَرْجِعُونَ
+fr: Il est défendu [aux habitants] d'une cité que Nous avons fait périr de revenir [à la vie d'ici-bas] !
+ph: Wa Ĥarāmun `Alá Qaryatin 'Ahlaknāhā 'Annahum Lā Yarji`ūna
+
+21:96
+ar: حَتَّىٰٓ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍۢ يَنسِلُونَ
+fr: Jusqu'à ce que soient relâchés les Yaʾjuj (Gog) et les Maʾjuj (Magog) et qu'ils se précipiteront de chaque hauteur;
+ph: Ĥattá 'Idhā Futiĥat Ya'jūju Wa Ma'jūju Wa Hum Min Kulli Ĥadabin Yansilūna
+
+21:97
+ar: وَٱقْتَرَبَ ٱلْوَعْدُ ٱلْحَقُّ فَإِذَا هِىَ شَٰخِصَةٌ أَبْصَٰرُ ٱلَّذِينَ كَفَرُوا۟ يَٰوَيْلَنَا قَدْ كُنَّا فِى غَفْلَةٍۢ مِّنْ هَٰذَا بَلْ كُنَّا ظَٰلِمِينَ
+fr: c'est alors que la vraie promesse s'approchera, tandis que les regards de ceux qui ont mécru se figent: « Malheur à nous ! Nous y avons été inattentifs. Bien plus, nous étions des injustes. »
+ph: Wāqtaraba Al-Wa`du Al-Ĥaqqu Fa'idhā Hiya Shākhişatun 'Abşāru Al-Ladhīna Kafarū Yā Waylanā Qad Kunnā Fī Ghaflatin Min Hādhā Bal Kunnā Žālimīna
+
+21:98
+ar: إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ حَصَبُ جَهَنَّمَ أَنتُمْ لَهَا وَٰرِدُونَ
+fr: « Vous serez, vous et ce que vous adoriez en dehors d'Allah, le combustible de l'Enfer, vous vous y rendrez tous.
+ph: 'Innakum Wa Mā Ta`budūna Min Dūni Allāhi Ĥaşabu Jahannama 'Antum Lahā Wa Aridūna
+
+21:99
+ar: لَوْ كَانَ هَٰٓؤُلَآءِ ءَالِهَةًۭ مَّا وَرَدُوهَا ۖ وَكُلٌّۭ فِيهَا خَٰلِدُونَ
+fr: Si ceux-là étaient vraiment des divinités, ils n'y entreraient pas; et tous y demeureront éternellement.
+ph: Law Kāna Hā'uulā' 'Ālihatan Mā Waradūhā Wa Kullun Fīhā Khālidūna
+
+21:100
+ar: لَهُمْ فِيهَا زَفِيرٌۭ وَهُمْ فِيهَا لَا يَسْمَعُونَ
+fr: Ils y pousseront des gémissements, et n'y entendront rien.
+ph: Lahum Fīhā Zafīrun Wa Hum Fīhā Lā Yasma`ūna
+
+21:101
+ar: إِنَّ ٱلَّذِينَ سَبَقَتْ لَهُم مِّنَّا ٱلْحُسْنَىٰٓ أُو۟لَٰٓئِكَ عَنْهَا مُبْعَدُونَ
+fr: En seront écartés, ceux à qui étaient précédemment promises de belles récompenses de Notre part.
+ph: 'Inna Al-Ladhīna Sabaqat Lahum Minnā Al-Ĥusná 'Ūlā'ika `Anhā Mub`adūna
+
+21:102
+ar: لَا يَسْمَعُونَ حَسِيسَهَا ۖ وَهُمْ فِى مَا ٱشْتَهَتْ أَنفُسُهُمْ خَٰلِدُونَ
+fr: Ils n'entendront pas son sifflement et jouiront éternellement de ce que leurs âmes désirent.
+ph: Lā Yasma`ūna Ĥasīsahā Wa Hum Fī Mā Ashtahat 'Anfusuhum Khālidūna
+
+21:103
+ar: لَا يَحْزُنُهُمُ ٱلْفَزَعُ ٱلْأَكْبَرُ وَتَتَلَقَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ هَٰذَا يَوْمُكُمُ ٱلَّذِى كُنتُمْ تُوعَدُونَ
+fr: La grande terreur ne les affligera pas, et les Anges les accueilleront: « Voici le jour qui vous a été promis. »
+ph: Lā Yaĥzunuhumu Al-Faza`u Al-'Akbaru Wa Tatalaqqāhumu Al-Malā'ikatu Hādhā Yawmukumu Al-Ladhī Kuntum Tū`adūna
+
+21:104
+ar: يَوْمَ نَطْوِى ٱلسَّمَآءَ كَطَىِّ ٱلسِّجِلِّ لِلْكُتُبِ ۚ كَمَا بَدَأْنَآ أَوَّلَ خَلْقٍۢ نُّعِيدُهُۥ ۚ وَعْدًا عَلَيْنَآ ۚ إِنَّا كُنَّا فَٰعِلِينَ
+fr: Le jour où Nous plierons le ciel comme on plie le rouleau des livres. Tout comme Nous avons commencé la première création, ainsi Nous la répéterons; c'est une promesse qui Nous incombe et Nous l'accomplirons !
+ph: Yawma Naţwī As-Samā'a Kaţayyi As-Sijilli Lilkutubi Kamā Bada'nā 'Awwala Khalqin Nu`īduhu Wa`dāan `Alaynā 'Innā Kunnā Fā`ilīna
+
+21:105
+ar: وَلَقَدْ كَتَبْنَا فِى ٱلزَّبُورِ مِنۢ بَعْدِ ٱلذِّكْرِ أَنَّ ٱلْأَرْضَ يَرِثُهَا عِبَادِىَ ٱلصَّٰلِحُونَ
+fr: Et Nous avons certes écrit dans le Zabur, après l'avoir mentionné (dans le Livre céleste), que la terre sera héritée par Mes bons serviteurs ».
+ph: Wa Laqad Katabnā Fī Az-Zabūri Min Ba`di Adh-Dhikri 'Anna Al-'Arđa Yarithuhā `Ibādiya Aş-Şāliĥūna
+
+21:106
+ar: إِنَّ فِى هَٰذَا لَبَلَٰغًۭا لِّقَوْمٍ عَٰبِدِينَ
+fr: Il y a en cela [ces enseignements] une communication à un peuple d'adorateurs !
+ph: 'Inna Fī Hādhā Labalāghāan Liqawmin `Ābidīna
+
+21:107
+ar: وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةًۭ لِّلْعَٰلَمِينَ
+fr: Et Nous ne t'avons envoyé qu'en miséricorde pour l'univers.
+ph: Wa Mā 'Arsalnāka 'Illā Raĥmatan Lil`ālamīna
+
+21:108
+ar: قُلْ إِنَّمَا يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ ۖ فَهَلْ أَنتُم مُّسْلِمُونَ
+fr: Dis: « Voilà ce qui m'est révélé: Votre Dieu est un Dieu unique; Êtes-vous Soumis ? » [décidés à embrasser l'Islam]
+ph: Qul 'Innamā Yūĥá 'Ilayya 'Annamā 'Ilahukum 'Ilahun Wāĥidun Fahal 'Antum Muslimūna
+
+21:109
+ar: فَإِن تَوَلَّوْا۟ فَقُلْ ءَاذَنتُكُمْ عَلَىٰ سَوَآءٍۢ ۖ وَإِنْ أَدْرِىٓ أَقَرِيبٌ أَم بَعِيدٌۭ مَّا تُوعَدُونَ
+fr: Si ensuite ils se détournent dis alors: « Je vous ai avertis en toute équité; je ne sais si ce qui vous est promis est proche ou lointain.
+ph: Fa'in Tawallaw Faqul 'Ādhantukum `Alá Sawā'in Wa 'In 'Adrī 'Aqarībun 'Am Ba`īdun Mā Tū`adūna
+
+21:110
+ar: إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ مِنَ ٱلْقَوْلِ وَيَعْلَمُ مَا تَكْتُمُونَ
+fr: Il connaît ce que vous dites à haute voix et ce que vous cachez.
+ph: 'Innahu Ya`lamu Al-Jahra Mina Al-Qawli Wa Ya`lamu Mā Taktumūna
+
+21:111
+ar: وَإِنْ أَدْرِى لَعَلَّهُۥ فِتْنَةٌۭ لَّكُمْ وَمَتَٰعٌ إِلَىٰ حِينٍۢ
+fr: Et je ne sais pas; ceci est peut-être une tentation pour vous et une jouissance pour un certain temps ! »
+ph: Wa 'In 'Adrī La`allahu Fitnatun Lakum Wa Matā`un 'Ilá Ĥīnin
+
+21:112
+ar: قَٰلَ رَبِّ ٱحْكُم بِٱلْحَقِّ ۗ وَرَبُّنَا ٱلرَّحْمَٰنُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ
+fr: Il dit: « Seigneur, juge en toute justice ! Et Notre Seigneur le Tout Miséricordieux, c'est Lui dont le secours est imploré contre vos assertions ».
+ph: Qāla Rabbi Aĥkum Bil-Ĥaqqi Wa Rabbunā Ar-Raĥmānu Al-Musta`ānu `Alá Mā Taşifūna 
 
 # ---------- Sourate 50 · Qāf ----------
 
