@@ -33,19 +33,19 @@ body{
 }
 
 header{ text-align:center; margin-bottom:12px; }
-#compteur{ font-size:14px; opacity:.5; margin:6px 0 0; font-style:italic; }
+#compteur{ font-size:14px; margin:6px 0 0; font-style:italic; color:rgba(234,224,203,.6); }
 #compteur .c-sourate{
-  display:block; font-style:normal; font-size:16px; opacity:.9;
-  font-family:'EB Garamond', Georgia, serif;
+  display:block; font-style:normal; font-size:16px;
+  font-family:'EB Garamond', Georgia, serif; color:rgba(234,224,203,.82);
 }
 #compteur .c-sourate em{
   font-family:'Cormorant Garamond','EB Garamond',serif;
-  font-style:italic; color:var(--or-clair); opacity:.85;
+  font-style:italic; color:var(--or-clair);
 }
 #compteur .c-verset{
   display:block; font-family:'Cinzel',serif; font-style:normal;
   font-size:9.5px; letter-spacing:.22em; text-transform:uppercase;
-  opacity:.45; margin-top:5px;
+  color:rgba(234,224,203,.45); margin-top:5px;
 }
 
 nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-bottom:14px; }
@@ -253,8 +253,8 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 .titre-appli{
   font-family:'Cormorant Garamond','EB Garamond',serif;
   font-style:italic; font-weight:400; text-transform:none; text-align:center;
-  font-size:clamp(33px,9vw,48px); letter-spacing:.015em;
-  color:var(--or-clair); margin:44px 0 0; line-height:1.16;
+  font-size:clamp(30px,8vw,42px); letter-spacing:.015em;
+  color:var(--or-clair); margin:96px 0 0; line-height:1.16;
   text-shadow:0 2px 32px rgba(201,162,39,.3);
 }
 .basmala{
@@ -315,7 +315,7 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 
 
 /* ---------- décor de l'accueil ---------- */
-.hero{ position:relative; min-height:414px; padding:0 0 118px; overflow:hidden; }
+.hero{ position:relative; min-height:466px; padding:0 0 118px; overflow:hidden; }
 .hero > *{ position:relative; z-index:7; }
 
 .hero .lueur{
@@ -379,7 +379,7 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 }
 .hero .arche{
   position:absolute; left:50%; top:0; transform:translateX(-50%);
-  width:min(344px,94%); height:100%; z-index:3;
+  width:min(430px,100%); height:100%; z-index:3;
 }
 .hero .arche-fond{ fill:rgba(4,10,22,.3); }
 .hero .arche-trait{ fill:none; stroke:url(#gArche); stroke-width:1.6; }
@@ -452,10 +452,10 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 }
 .ligne .nom{ flex:1 1 auto; display:flex; flex-direction:column; gap:2px; min-width:0; }
 .ligne .nom b{ font-weight:400; font-size:18.5px; letter-spacing:.01em; }
-.ligne .nom small{ font-size:12.5px; opacity:.45; }
+.ligne .nom small{ font-size:12.5px; color:rgba(234,224,203,.45); }
 .ligne .nom small em{
   font-style:italic; font-family:'Cormorant Garamond','EB Garamond',serif;
-  font-size:14.5px; color:var(--or-clair); opacity:.85;
+  font-size:14.5px; color:var(--or-clair);
 }
 .ligne .nom small .pt{ margin:0 6px; opacity:.5; }
 .ligne .chev{ flex:0 0 auto; display:flex; opacity:.38; }
@@ -632,8 +632,12 @@ body[data-theme="clair"] .separateur i:last-of-type{
 body[data-theme="clair"] .quat{ fill:#96751A; }
 body[data-theme="clair"] .etoile{ color:#96751A; }
 body[data-theme="clair"] .etoile em{ color:#6E5608; }
-body[data-theme="clair"] .ligne .nom small em{ color:#7E620F; opacity:.95; }
-body[data-theme="clair"] #compteur .c-sourate em{ color:#8A6C10; }
+body[data-theme="clair"] #compteur{ color:rgba(26,42,68,.7); }
+body[data-theme="clair"] #compteur .c-sourate{ color:rgba(26,42,68,.85); }
+body[data-theme="clair"] #compteur .c-verset{ color:rgba(26,42,68,.5); }
+body[data-theme="clair"] #compteur .c-sourate em{ color:#6B5309; }
+body[data-theme="clair"] .ligne .nom small{ color:rgba(26,42,68,.55); }
+body[data-theme="clair"] .ligne .nom small em{ color:#6B5309; }
 </style>
 </head>
 <body>
@@ -724,7 +728,7 @@ body[data-theme="clair"] #compteur .c-sourate em{ color:#8A6C10; }
         </g>
       </svg>
 
-      <svg class="arche" viewBox="0 0 320 300" preserveAspectRatio="xMidYMin meet" aria-hidden="true">
+      <svg class="arche" viewBox="0 0 360 300" preserveAspectRatio="xMidYMin meet" aria-hidden="true">
         <defs>
           <linearGradient id="gArche" x1="0" y1="0" x2="0" y2="1">
             <stop offset="0" stop-color="#F0DDA0" stop-opacity=".9"/>
@@ -732,9 +736,9 @@ body[data-theme="clair"] #compteur .c-sourate em{ color:#8A6C10; }
             <stop offset="1" stop-color="#C9A227" stop-opacity="0"/>
           </linearGradient>
         </defs>
-        <path class="arche-fond" d="M46 300 L46 132 C46 96 70 70 100 56 C126 44 146 30 160 6 C174 30 194 44 220 56 C250 70 274 96 274 132 L274 300 Z"/>
-        <path class="arche-trait" d="M46 300 L46 132 C46 96 70 70 100 56 C126 44 146 30 160 6 C174 30 194 44 220 56 C250 70 274 96 274 132 L274 300"/>
-        <path class="arche-trait fin" d="M58 300 L58 134 C58 103 80 80 107 67 C130 56 148 42 160 22 C172 42 190 56 213 67 C240 80 262 103 262 134 L262 300"/>
+        <path class="arche-fond" d="M16 300 L16 138 C16 100 44 74 78 58 C108 45 152 30 180 6 C208 30 252 45 282 58 C316 74 344 100 344 138 L344 300 Z"/>
+        <path class="arche-trait" d="M16 300 L16 138 C16 100 44 74 78 58 C108 45 152 30 180 6 C208 30 252 45 282 58 C316 74 344 100 344 138 L344 300"/>
+        <path class="arche-trait fin" d="M30 300 L30 140 C30 106 56 82 88 68 C116 56 156 42 180 22 C204 42 244 56 272 68 C304 82 330 106 330 140 L330 300"/>
       </svg>
 
       <svg class="lune" viewBox="0 0 56 56" aria-hidden="true">
