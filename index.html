@@ -105,8 +105,25 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
   -webkit-mask-image:linear-gradient(to bottom, #000 0, #000 86%, transparent 100%);
   mask-image:linear-gradient(to bottom, #000 0, #000 86%, transparent 100%);
 }
-/* marges automatiques : centrées quand ça tient, sans overflow inatteignable sinon */
-.texte{ margin:auto 0; width:100%; text-align:center; }
+/* marges automatiques : centré quand ça tient, sans overflow inatteignable sinon */
+.bloc{ margin:auto 0; width:100%; }
+.texte{ margin:0; width:100%; text-align:center; }
+.phonetique{
+  font-family:'EB Garamond', Georgia, serif; font-style:italic; direction:ltr;
+  text-align:center; margin:16px 0 0; line-height:1.5;
+  color:rgba(201,162,39,.62); display:none;
+}
+#outils{
+  width:100%; max-width:560px; display:flex; justify-content:flex-end; margin-bottom:8px;
+}
+.onglet.ph{
+  text-transform:none; font-family:'EB Garamond',serif; font-size:14px;
+  letter-spacing:.06em; padding:4px 15px;
+}
+.onglet.ph[data-actif="true"]{
+  background:rgba(201,162,39,.16); border-color:var(--or); color:var(--or-clair);
+}
+.onglet.ph[disabled]{ opacity:.22; }
 .curseur{
   position:absolute; right:12px; top:64px; bottom:64px; width:2px; border-radius:2px;
   background:rgba(201,162,39,.12); opacity:0; transition:opacity .3s; pointer-events:none;
@@ -293,6 +310,10 @@ body[data-theme="clair"] .face::after{ border-color:rgba(156,123,20,.3); }
 body[data-theme="clair"] .eyebrow{ color:#96751A; }
 body[data-theme="clair"] .texte.ar{ color:#4A3A14; text-shadow:none; }
 body[data-theme="clair"] .texte.fr{ color:#3B2F1C; }
+body[data-theme="clair"] .phonetique{ color:rgba(126,98,20,.78); }
+body[data-theme="clair"] .onglet.ph[data-actif="true"]{
+  background:rgba(156,123,20,.18); border-color:#9C7B14; color:#6E5608;
+}
 body[data-theme="clair"] .indice{ color:rgba(74,58,20,.5); }
 body[data-theme="clair"] .curseur{ background:rgba(150,117,26,.15); }
 body[data-theme="clair"] .curseur i{ background:rgba(150,117,26,.7); }
@@ -362,11 +383,15 @@ body[data-theme="clair"] #champ{ color:#6E5608; border-bottom-color:rgba(156,123
   <button class="onglet pm" id="taille-plus" aria-label="Agrandir le texte">+</button>
 </div>
 
+<div id="outils">
+  <button class="onglet ph" id="btn-ph" aria-label="Afficher la phonétique">ph</button>
+</div>
+
 <div id="scene" role="button" tabindex="0" aria-label="Carte : glisse à l’horizontale pour retourner">
   <div id="carte">
     <div class="face" id="recto">
       <div class="eyebrow"><span id="r-sourate"></span><span class="ar" id="r-ar"></span></div>
-      <div class="corps"><p id="t-recto" class="texte ar"></p></div>
+      <div class="corps"><div class="bloc"><p id="t-recto" class="texte ar"></p><p id="ph-recto" class="phonetique"></p></div></div>
       <div class="curseur"><i></i></div>
       <div class="pied">
         <svg id="med-or" width="62" height="45" viewBox="0 0 100 72" aria-hidden="true"></svg>
@@ -375,7 +400,7 @@ body[data-theme="clair"] #champ{ color:#6E5608; border-bottom-color:rgba(156,123
     </div>
     <div class="face" id="verso">
       <div class="eyebrow"><span id="v-sourate"></span><span id="v-ref"></span></div>
-      <div class="corps"><p id="t-verso" class="texte fr"></p></div>
+      <div class="corps"><div class="bloc"><p id="t-verso" class="texte fr"></p><p id="ph-verso" class="phonetique"></p></div></div>
       <div class="curseur"><i></i></div>
       <div class="pied">
         <svg id="med-vert" width="52" height="38" viewBox="0 0 100 72" aria-hidden="true"></svg>
@@ -508,18 +533,20 @@ function analyser(texte){
     const s = +ref[1], a = +ref[2];
     if (s < 1 || s > 114) { erreurs.push("Numéro de sourate hors limites : " + s); return; }
 
-    let champ = null, ar = [], fr = [];
+    let champ = null, ar = [], fr = [], ph = [];
     for (let k = 1; k < lignes.length; k++){
       const l = lignes[k];
       if (/^ar\s*:/i.test(l))      { champ = "ar"; ar.push(l.replace(/^ar\s*:/i, "").trim()); }
       else if (/^fr\s*:/i.test(l)) { champ = "fr"; fr.push(l.replace(/^fr\s*:/i, "").trim()); }
+      else if (/^ph\s*:/i.test(l)) { champ = "ph"; ph.push(l.replace(/^ph\s*:/i, "").trim()); }
       else if (champ === "ar")     { ar.push(l); }
       else if (champ === "fr")     { fr.push(l); }
+      else if (champ === "ph")     { ph.push(l); }
     }
-    const A = ar.join(" ").trim(), F = fr.join(" ").trim();
+    const A = ar.join(" ").trim(), F = fr.join(" ").trim(), P = ph.join(" ").trim();
     if (!A) { erreurs.push(s + ":" + a + " — ligne « ar: » manquante ou vide"); return; }
     if (!F) { erreurs.push(s + ":" + a + " — ligne « fr: » manquante ou vide"); return; }
-    versets.push({ s:s, a:a, ar:A, fr:F });
+    versets.push({ s:s, a:a, ar:A, fr:F, ph:P });
   });
   return { versets: versets, erreurs: erreurs };
 }
@@ -531,7 +558,7 @@ const CLE_REGL = "coran:reglages";
 const $ = function(id){ return document.getElementById(id); };
 const reduit = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-let reglages = { clair: false, inverse: false, echelle: 1 };
+let reglages = { clair: false, inverse: false, echelle: 1, phonetique: false };
 try { Object.assign(reglages, JSON.parse(localStorage.getItem(CLE_REGL) || "{}")); } catch(e) {}
 document.body.dataset.theme = reglages.clair ? "clair" : "nuit";
 
@@ -562,6 +589,7 @@ function medaillon(svg, n, couleur){
 /* Taille identique pour tous les versets : elle ne dépend que du réglage.
    Un verset trop long défile alors à l'intérieur du cadre. */
 const BASE_AR = 0.115, BASE_FR = 0.055;
+const corpsDe = function(p){ return p.parentElement.parentElement; };
 
 function majDefilement(boite){
   const trop = boite.scrollHeight > boite.clientHeight + 2;
@@ -579,18 +607,23 @@ function majDefilement(boite){
 function ajusterTout(){
   const l = Math.min($("scene").clientWidth, 560);
   const e = reglages.echelle || 1;
-  [$("t-recto"), $("t-verso")].forEach(function(p){
+  [["t-recto", "ph-recto"], ["t-verso", "ph-verso"]].forEach(function(paire){
+    const p = $(paire[0]), ph = $(paire[1]);
     const arabe = p.classList.contains("ar");
     p.style.fontSize = Math.round(l * (arabe ? BASE_AR : BASE_FR) * e) + "px";
-    majDefilement(p.parentElement);
+    ph.style.fontSize = Math.max(12, Math.round(l * BASE_AR * e * 0.4)) + "px";
+    majDefilement(corpsDe(p));
   });
 }
 
-function poser(p, texte, langue){
+function poser(p, ph, texte, langue, phonetique){
   p.textContent = texte;
   p.className = "texte " + langue;
   p.setAttribute("lang", langue === "ar" ? "ar" : "fr");
-  p.parentElement.scrollTop = 0;
+  const montrer = langue === "ar" && reglages.phonetique && !!phonetique;
+  ph.textContent = montrer ? phonetique : "";
+  ph.style.display = montrer ? "block" : "none";
+  corpsDe(p).scrollTop = 0;
 }
 
 function appliquer(){
@@ -636,8 +669,10 @@ function rendre(){
   $("r-ar").textContent = nomAr(c.s);
   $("v-sourate").textContent = nomFr(c.s);
   $("v-ref").textContent = c.s + ":" + c.a;
-  poser($("t-recto"), inv ? c.fr : c.ar, inv ? "fr" : "ar");
-  poser($("t-verso"), inv ? c.ar : c.fr, inv ? "ar" : "fr");
+  poser($("t-recto"), $("ph-recto"), inv ? c.fr : c.ar, inv ? "fr" : "ar", c.ph);
+  poser($("t-verso"), $("ph-verso"), inv ? c.ar : c.fr, inv ? "ar" : "fr", c.ph);
+  $("btn-ph").disabled = !c.ph;
+  $("btn-ph").dataset.actif = (reglages.phonetique && c.ph) ? "true" : "false";
   medaillon($("med-or"), c.a, reglages.clair ? "#96751A" : "#C9A227");
   medaillon($("med-vert"), c.a, reglages.clair ? "#96751A" : "#C9A227");
   $("btn-inverse").dataset.actif = inv ? "true" : "false";
@@ -712,6 +747,11 @@ $("taille-moins").onclick = function(){ changerTaille(-0.1); };
 $("taille-plus").onclick  = function(){ changerTaille(0.1); };
 majTaille();
 
+$("btn-ph").onclick = function(){
+  reglages.phonetique = !reglages.phonetique;
+  sauver(); rendre();
+};
+
 $("btn-inverse").onclick = function(){
   reglages.inverse = !reglages.inverse;
   retourne = false;
@@ -737,7 +777,7 @@ document.addEventListener("keydown", function(e){
 const scene = $("scene");
 let p0 = { x:0, y:0, axe:null, boite:null, top:0, aDefile:false };
 const boiteVisible = function(){
-  return (retourne ? $("t-verso") : $("t-recto")).parentElement;
+  return corpsDe(retourne ? $("t-verso") : $("t-recto"));
 };
 const defilable = function(b){ return b.scrollHeight > b.clientHeight + 2; };
 
@@ -764,7 +804,7 @@ scene.addEventListener("touchmove", function(e){
   if (enCours) e.preventDefault();
 }, { passive:false });
 [$("t-recto"), $("t-verso")].forEach(function(p){
-  p.parentElement.addEventListener("scroll", function(){ majDefilement(p.parentElement); });
+  corpsDe(p).addEventListener("scroll", function(){ majDefilement(corpsDe(p)); });
 });
 function relacher(e){
   if (!enCours) return;

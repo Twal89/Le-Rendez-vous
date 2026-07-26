@@ -6,6 +6,7 @@
        50:37
        ar: le texte arabe collé depuis ta source
        fr: la traduction française
+       ph: la phonétique
 
    Règles :
    - la première ligne du bloc est la référence  sourate:verset
@@ -26,6 +27,8 @@ window.VERSETS = `
 1:1
 ar: بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 fr: Au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux.
+ph: Bismi Allāhi Ar-Raĥmāni Ar-Raĥīmi
+
 
 1:2
 ar: ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
