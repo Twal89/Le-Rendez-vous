@@ -588,7 +588,7 @@ function medaillon(svg, n, couleur){
 
 /* Taille identique pour tous les versets : elle ne dépend que du réglage.
    Un verset trop long défile alors à l'intérieur du cadre. */
-const BASE_AR = 0.115, BASE_FR = 0.055;
+const BASE_AR = 0.115, BASE_FR = 0.055, RATIO_PH = 0.52;
 const corpsDe = function(p){ return p.parentElement.parentElement; };
 
 function majDefilement(boite){
@@ -611,7 +611,7 @@ function ajusterTout(){
     const p = $(paire[0]), ph = $(paire[1]);
     const arabe = p.classList.contains("ar");
     p.style.fontSize = Math.round(l * (arabe ? BASE_AR : BASE_FR) * e) + "px";
-    ph.style.fontSize = Math.max(12, Math.round(l * BASE_AR * e * 0.4)) + "px";
+    ph.style.fontSize = Math.max(14, Math.round(l * BASE_AR * e * RATIO_PH)) + "px";
     majDefilement(corpsDe(p));
   });
 }
