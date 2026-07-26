@@ -1491,6 +1491,1008 @@ ar: لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُس�
 fr: Allah n'impose à aucune âme une charge supérieure à sa capacité. Elle sera récompensée du bien qu'elle aura fait, punie du mal qu'elle aura fait. Seigneur, ne nous châtie pas s'il nous arrive d'oublier ou de commettre une erreur. Seigneur ! Ne nous charge pas d'un fardeau lourd comme Tu as chargé ceux qui vécurent avant nous. Seigneur ! Ne nous impose pas ce que nous ne pouvons supporter, efface nos fautes, pardonne-nous et fais nous miséricorde. Tu es Notre Maître, accorde-nous donc la victoire sur les peuples infidèles.
 ph: Lā Yukallifu Allāhu Nafsāan 'Illā Wus`ahā Lahā Mā Kasabat Wa `Alayhā Mā Aktasabat Rabbanā Lā Tu'uākhidhnā 'In Nasīnā 'Aw 'Akhţa'nā Rabbanā Wa Lā Taĥmil `Alaynā 'Işrāan Kamā Ĥamaltahu `Alá Al-Ladhīna Min Qablinā Rabbanā Wa Lā Tuĥammilnā Mā Lā Ţāqata Lanā Bihi Wa A`fu `Annā Wa Aghfir Lanā Wa Arĥamnā 'Anta Mawlānā Fānşurnā `Alá Al-Qawmi Al-Kāfirīna 
 
+# ---------- Sourate 3 · Āl-ʿImrān ----------
+
+3:1
+ar: الٓمٓ
+fr: Alif, Lam, Mim.
+ph: 'Alif-Lām-Mīm
+
+3:2
+ar: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ
+fr: Allah ! Pas de divinité à part Lui, le Vivant, Celui qui subsiste par Lui-même: « al-Qayyum ».
+ph: Allāhu Lā 'Ilāha 'Illā Huwa Al-Ĥayyu Al-Qayyūmu
+
+3:3
+ar: نَزَّلَ عَلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ
+fr: Il a fait descendre sur toi le Livre avec la vérité, confirmant les Livres descendus avant lui. Et Il fit descendre la Thora et l'Évangile.
+ph: Nazzala `Alayka Al-Kitāba Bil-Ĥaqqi Muşaddiqāan Limā Bayna Yadayhi Wa 'Anzala At-Tawrāata Wa Al-'Injīla
+
+3:4
+ar: مِن قَبْلُ هُدًۭى لِّلنَّاسِ وَأَنزَلَ ٱلْفُرْقَانَ ۗ إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِ ٱللَّهِ لَهُمْ عَذَابٌۭ شَدِيدٌۭ ۗ وَٱللَّهُ عَزِيزٌۭ ذُو ٱنتِقَامٍ
+fr: auparavant, en tant que guide pour les gens. Et Il a fait descendre le Discernement. Ceux qui ne croient pas aux Révélations d'Allah auront, certes, un dur châtiment ! Et, Allah est Puissant, Détenteur du pouvoir de punir.
+ph: Min Qablu Hudáan Lilnnāsi Wa 'Anzala Al-Furqāna 'Inna Al-Ladhīna Kafarū Bi'āyāti Allāhi Lahum `Adhābun Shadīdun Wa Allāhu `Azīzun Dhū Antiqāmin
+
+3:5
+ar: إِنَّ ٱللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَىْءٌۭ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ
+fr: Rien, vraiment, ne se cache d'Allah de ce qui existe sur la terre ou dans le ciel.
+ph: 'Inna Allāha Lā Yakhfá `Alayhi Shay'un Fī Al-'Arđi Wa Lā Fī As-Samā'i
+
+3:6
+ar: هُوَ ٱلَّذِى يُصَوِّرُكُمْ فِى ٱلْأَرْحَامِ كَيْفَ يَشَآءُ ۚ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+fr: C'est Lui qui vous donne forme dans les matrices comme Il veut. Point de divinité à part Lui, le Puissant, le Sage.
+ph: Huwa Al-Ladhī Yuşawwirukum Fī Al-'Arĥāmi Kayfa Yashā'u Lā 'Ilāha 'Illā Huwa Al-`Azīzu Al-Ĥakīmu
+
+3:7
+ar: هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَٰبَ مِنْهُ ءَايَٰتٌۭ مُّحْكَمَٰتٌ هُنَّ أُمُّ ٱلْكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٌۭ ۖ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌۭ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ ۗ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّۭ مِّنْ عِندِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
+fr: C'est Lui qui a fait descendre sur toi le Livre: il s'y trouve des versets sans équivoque, qui sont la base du Livre, et d'autres versets qui peuvent prêter à d'interprétations diverses. Les gens, donc, qui ont au cœur une inclination vers l'égarement, mettent l'accent sur les versets à équivoque cherchant la dissension en essayant de leur trouver une interprétation, alors que nul n'en connaît l'interprétation, à part Allah. Mais ceux qui sont bien enracinés dans la science disent: « Nous y croyons: tout est de la part de notre Seigneur ! » Mais, seuls les doués d'intelligence s'en rappellent.
+ph: Huwa Al-Ladhī 'Anzala `Alayka Al-Kitāba Minhu 'Āyātun Muĥkamātun Hunna 'Ummu Al-Kitābi Wa 'Ukharu Mutashābihātun Fa'ammā Al-Ladhīna Fī Qulūbihim Zayghun Fayattabi`ūna Mā Tashābaha Minhu Abtighā'a Al-Fitnati Wa Abtighā'a Ta'wīlihi Wa Mā Ya`lamu Ta'wīlahu 'Illā Allāhu Wa Ar-Rāsikhūna Fī Al-`Ilmi Yaqūlūna 'Āmannā Bihi Kullun Min `Indi Rabbinā Wa Mā Yadhakkaru 'Illā 'Ūlū Al-'Albābi
+
+3:8
+ar: رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ ٱلْوَهَّابُ
+fr: « Seigneur ! Ne laisse pas dévier nos cœurs après que Tu nous aies guidés; et accorde-nous Ta miséricorde. C'est Toi, certes, le Grand Donateur !
+ph: Rabbanā Lā Tuzigh Qulūbanā Ba`da 'Idh Hadaytanā Wa Hab Lanā Min Ladunka Raĥmatan 'Innaka 'Anta Al-Wahhābu
+
+3:9
+ar: رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍۢ لَّا رَيْبَ فِيهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ
+fr: Seigneur ! C'est Toi qui rassembleras les gens, un jour -en quoi il n'y a point de doute -Allah, vraiment, ne manque jamais à Sa promesse. »
+ph: Rabbanā 'Innaka Jāmi`u An-Nāsi Liyawmin Lā Rayba Fīhi 'Inna Allāha Lā Yukhlifu Al-Mī`āda
+
+3:10
+ar: إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُم مِّنَ ٱللَّهِ شَيْـًۭٔا ۖ وَأُو۟لَٰٓئِكَ هُمْ وَقُودُ ٱلنَّارِ
+fr: Ceux qui ne croient pas, ni leurs biens ni leurs enfants ne les mettront aucunement à l'abri de la punition d'Allah. Ils seront du combustible pour le Feu,
+ph: 'Inna Al-Ladhīna Kafarū Lan Tughniya `Anhum 'Amwāluhum Wa Lā 'Awlāduhum Mina Allāhi Shay'āan Wa 'Ūlā'ika Hum Wa Qūdu An-Nāri
+
+3:11
+ar: كَدَأْبِ ءَالِ فِرْعَوْنَ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا۟ بِـَٔايَٰتِنَا فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ ۗ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ
+fr: comme les gens de Fir'awn (Pharaon) et ceux qui vécurent avant eux. Ils avaient traité de mensonges Nos preuves. Allah les saisit donc, pour leurs péchés. Et Allah est dur en punition.
+ph: Kada'bi 'Āli Fir`awna Wa Al-Ladhīna Min Qablihim Kadhabū Bi'āyātinā Fa'akhadhahumu Allāhu Bidhunūbihim Wa Allāhu Shadīdu Al-`Iqābi
+
+3:12
+ar: قُل لِّلَّذِينَ كَفَرُوا۟ سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ جَهَنَّمَ ۚ وَبِئْسَ ٱلْمِهَادُ
+fr: Dis à ceux qui ne croient pas: « Vous serez vaincus bientôt; et vous serez rassemblés vers l'Enfer. Et quel mauvais endroit pour se reposer ! »
+ph: Qul Lilladhīna Kafarū Satughlabūna Wa Tuĥsharūna 'Ilá Jahannama Wa Bi'sa Al-Mihādu
+
+3:13
+ar: قَدْ كَانَ لَكُمْ ءَايَةٌۭ فِى فِئَتَيْنِ ٱلْتَقَتَا ۖ فِئَةٌۭ تُقَٰتِلُ فِى سَبِيلِ ٱللَّهِ وَأُخْرَىٰ كَافِرَةٌۭ يَرَوْنَهُم مِّثْلَيْهِمْ رَأْىَ ٱلْعَيْنِ ۚ وَٱللَّهُ يُؤَيِّدُ بِنَصْرِهِۦ مَن يَشَآءُ ۗ إِنَّ فِى ذَٰلِكَ لَعِبْرَةًۭ لِّأُو۟لِى ٱلْأَبْصَٰرِ
+fr: Il y eut déjà pour vous un signe dans ces deux troupes qui s'affrontèrent: l'une combattait dans le sentier d'Allah; et l'autre, était mécréante. Ces derniers voyaient (les croyants) de leurs propres yeux, deux fois plus nombreux qu'eux-mêmes. Or Allah secourt qui Il veut de Son aide. Voilà bien là un exemple pour les doués de clairvoyance !
+ph: Qad Kāna Lakum 'Āyatun Fī Fi'atayni At-Taqatā Fi'atun Tuqātilu Fī Sabīli Allāhi Wa 'Ukhrá Kāfiratun Yarawnahum Mithlayhim Ra'ya Al-`Ayni Wa Allāhu Yu'uayyidu Binaşrihi Man Yashā'u 'Inna Fī Dhālika La`ibratan Li'wlī Al-'Abşāri
+
+3:14
+ar: زُيِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَٰتِ مِنَ ٱلنِّسَآءِ وَٱلْبَنِينَ وَٱلْقَنَٰطِيرِ ٱلْمُقَنطَرَةِ مِنَ ٱلذَّهَبِ وَٱلْفِضَّةِ وَٱلْخَيْلِ ٱلْمُسَوَّمَةِ وَٱلْأَنْعَٰمِ وَٱلْحَرْثِ ۗ ذَٰلِكَ مَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلْمَـَٔابِ
+fr: On a enjolivé aux gens l'amour des choses qu'ils désirent: femmes, enfants, trésors thésaurisés d'or et d'argent, chevaux marqués, bétail et champs; tout cela est l'objet de jouissance pour la vie présente, alors que c'est près d'Allah qu'il y a bon retour.
+ph: Zuyyina Lilnnāsi Ĥubbu Ash-Shahawāti Mina An-Nisā' Wa Al-Banīna Wa Al-Qanāţīri Al-Muqanţarati Mina Adh-Dhahabi Wa Al-Fiđđati Wa Al-Khayli Al-Musawwamati Wa Al-'An`āmi Wa Al-Ĥarthi Dhālika Matā`u Al-Ĥayāati Ad-Dunyā Wa Allāhu `Indahu Ĥusnu Al-Ma'ābi
+
+3:15
+ar: ۞ قُلْ أَؤُنَبِّئُكُم بِخَيْرٍۢ مِّن ذَٰلِكُمْ ۚ لِلَّذِينَ ٱتَّقَوْا۟ عِندَ رَبِّهِمْ جَنَّٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَأَزْوَٰجٌۭ مُّطَهَّرَةٌۭ وَرِضْوَٰنٌۭ مِّنَ ٱللَّهِ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ
+fr: Dis: « Puis-je vous apprendre quelque chose de meilleur que tout cela ? Pour les pieux, il y a, auprès de leur Seigneur, des jardins sous lesquels coulent les ruisseaux, pour y demeurer éternellement, et aussi, des épouses purifiées, et l'agrément d'Allah. » Et Allah est Clairvoyant sur [Ses] serviteurs,
+ph: Qul 'A'uunabbi'ukum Bikhayrin Min Dhālikum Lilladhīna Attaqaw `Inda Rabbihim Jannātun Tajrī Min Taĥtihā Al-'Anhāru Khālidīna Fīhā Wa 'Azwājun Muţahharatun Wa Riđwānun Mina Allāhi Wa Allāhu Başīrun Bil-`Ibādi
+
+3:16
+ar: ٱلَّذِينَ يَقُولُونَ رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ
+fr: qui disent: « Ô notre Seigneur, nous avons la foi; pardonne-nous donc nos péchés, et protège-nous du châtiment du Feu »,
+ph: Al-Ladhīna Yaqūlūna Rabbanā 'Innanā 'Āmannā Fāghfir Lanā Dhunūbanā Wa Qinā `Adhāba An-Nāri
+
+3:17
+ar: ٱلصَّٰبِرِينَ وَٱلصَّٰدِقِينَ وَٱلْقَٰنِتِينَ وَٱلْمُنفِقِينَ وَٱلْمُسْتَغْفِرِينَ بِٱلْأَسْحَارِ
+fr: ce sont les endurants, les véridiques, les obéissants, ceux qui dépensent [dans le sentier d'Allah] et ceux qui implorent pardon juste avant l'aube.
+ph: Aş-Şābirīna Wa Aş-Şādiqīna Wa Al-Qānitīna Wa Al-Munfiqīna Wa Al-Mustaghfirīna Bil-'Asĥāri
+
+3:18
+ar: شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا هُوَ وَٱلْمَلَٰٓئِكَةُ وَأُو۟لُوا۟ ٱلْعِلْمِ قَآئِمًۢا بِٱلْقِسْطِ ۚ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+fr: Allah atteste, et aussi les Anges et les doués de science, qu'il n'y a point de divinité à part Lui, le Mainteneur de la justice. Point de divinité à part Lui, le Puissant, le Sage !
+ph: Shahida Allāhu 'Annahu Lā 'Ilāha 'Illā Huwa Wa Al-Malā'ikatu Wa 'Ūlū Al-`Ilmi Qā'imāan Bil-Qisţi Lā 'Ilāha 'Illā Huwa Al-`Azīzu Al-Ĥakīmu
+
+3:19
+ar: إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلْإِسْلَٰمُ ۗ وَمَا ٱخْتَلَفَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۗ وَمَن يَكْفُرْ بِـَٔايَٰتِ ٱللَّهِ فَإِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
+fr: Certes, la religion acceptée d'Allah, c'est l'Islam. Ceux auxquels le Livre a été apporté ne se sont disputés, par agressivité entre eux, qu'après avoir reçu la science. Et quiconque ne croit pas aux signes d'Allah... alors Allah est prompt à demander compte !
+ph: 'Inna Ad-Dīna `Inda Allāhi Al-'Islāmu Wa Mā Akhtalafa Al-Ladhīna 'Ūtū Al-Kitāba 'Illā Min Ba`di Mā Jā'ahumu Al-`Ilmu Baghyāan Baynahum Wa Man Yakfur Bi'āyāti Allāhi Fa'inna Allāha Sarī`u Al-Ĥisābi
+
+3:20
+ar: فَإِنْ حَآجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِىَ لِلَّهِ وَمَنِ ٱتَّبَعَنِ ۗ وَقُل لِّلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَٱلْأُمِّيِّۦنَ ءَأَسْلَمْتُمْ ۚ فَإِنْ أَسْلَمُوا۟ فَقَدِ ٱهْتَدَوا۟ ۖ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْكَ ٱلْبَلَٰغُ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ
+fr: S'ils te contredisent, dis leur: « Je me suis entièrement soumis à Allah, moi et ceux qui m'ont suivi. » Et dis à ceux à qui le Livre a été donné, ainsi qu'aux illettrés: « Avez-vous embrassé l'Islam ? » S'ils embrassent l'Islam, ils seront bien guidés. Mais, s'ils tournent le dos... Ton devoir n'est que la transmission (du message). Allah, sur [Ses] serviteurs est Clairvoyant. »
+ph: Fa'in Ĥājjūka Faqul 'Aslamtu Wajhiya Lillāhi Wa Mani Attaba`ani Wa Qul Lilladhīna 'Ūtū Al-Kitāba Wa Al-'Ummīyīna 'A'aslamtum Fa'in 'Aslamū Faqadi Ahtadaw Wa 'In Tawallaw Fa'innamā `Alayka Al-Balāghu Wa Allāhu Başīrun Bil-`Ibādi
+
+3:21
+ar: إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ حَقٍّۢ وَيَقْتُلُونَ ٱلَّذِينَ يَأْمُرُونَ بِٱلْقِسْطِ مِنَ ٱلنَّاسِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
+fr: Ceux qui ne croient pas aux signes d'Allah, tuent sans droit les prophètes et tuent les gens qui commandent la justice, annonce-leur un châtiment douloureux.
+ph: 'Inna Al-Ladhīna Yakfurūna Bi'āyāti Allāhi Wa Yaqtulūna An-Nabīyīna Bighayri Ĥaqqin Wa Yaqtulūna Al-Ladhīna Ya'murūna Bil-Qisţi Mina An-Nāsi Fabashirhum Bi`adhābin 'Alīmin
+
+3:22
+ar: أُو۟لَٰٓئِكَ ٱلَّذِينَ حَبِطَتْ أَعْمَٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمَا لَهُم مِّن نَّٰصِرِينَ
+fr: Ce sont eux dont les œuvres sont devenues vaines, ici-bas comme dans l'au-delà. Et pour eux, pas de secoureurs !
+ph: 'Ūlā'ika Al-Ladhīna Ĥabiţat 'A`māluhum Fī Ad-Dunyā Wa Al-'Ākhirati Wa Mā Lahum Min Nāşirīna
+
+3:23
+ar: أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًۭا مِّنَ ٱلْكِتَٰبِ يُدْعَوْنَ إِلَىٰ كِتَٰبِ ٱللَّهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلَّىٰ فَرِيقٌۭ مِّنْهُمْ وَهُم مُّعْرِضُونَ
+fr: N'as-tu pas vu comment agissent ceux qui ont reçu une part du Livre, et qui sont maintenant invités au Livre d'Allah pour trancher leurs différends; comment un groupe des leurs tourne le dos et s'esquive ?
+ph: 'Alam Tara 'Ilá Al-Ladhīna 'Ūtū Naşībāan Mina Al-Kitābi Yud`awna 'Ilá Kitābi Allāhi Liyaĥkuma Baynahum Thumma Yatawallá Farīqun Minhum Wa Hum Mu`riđūna
+
+3:24
+ar: ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًۭا مَّعْدُودَٰتٍۢ ۖ وَغَرَّهُمْ فِى دِينِهِم مَّا كَانُوا۟ يَفْتَرُونَ
+fr: C'est parce qu'ils disent: « Le Feu ne nous touchera que pour un nombre de jours déterminés. » Et leurs mensonges les trompent en religion.
+ph: Dhālika Bi'annahum Qālū Lan Tamassanā An-Nāru 'Illā 'Ayyāmāan Ma`dūdātin Wa Gharrahum Fī Dīnihim Mā Kānū Yaftarūna
+
+3:25
+ar: فَكَيْفَ إِذَا جَمَعْنَٰهُمْ لِيَوْمٍۢ لَّا رَيْبَ فِيهِ وَوُفِّيَتْ كُلُّ نَفْسٍۢ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
+fr: Eh bien comment seront-ils, quand Nous les aurons rassemblés, en un jour sur quoi il n'y a point de doute, et que chaque âme sera pleinement rétribuée selon ce qu'elle aura acquis ? Et ils ne seront point lésés.
+ph: Fakayfa 'Idhā Jama`nāhum Liyawmin Lā Rayba Fīhi Wa Wuffiyat Kullu Nafsin Mā Kasabat Wa Hum Lā Yužlamūna
+
+3:26
+ar: قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ ۖ بِيَدِكَ ٱلْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
+fr: -Dis: « Ô Allah, Maître de l'autorité absolue. Tu donnes l'autorité à qui Tu veux, et Tu arraches l'autorité à qui Tu veux; et Tu donnes la puissance à qui Tu veux, et Tu humilies qui Tu veux. Le bien est en Ta main et Tu es Omnipotent.
+ph: Quli Al-Lahumma Mālika Al-Mulki Tu'utī Al-Mulka Man Tashā'u Wa Tanzi`u Al-Mulka Mimman Tashā'u Wa Tu`izzu Man Tashā'u Wa Tudhillu Man Tashā'u Biyadika Al-Khayru 'Innaka `Alá Kulli Shay'in Qadīrun
+
+3:27
+ar: تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ ۖ وَتُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَتُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ ۖ وَتَرْزُقُ مَن تَشَآءُ بِغَيْرِ حِسَابٍۢ
+fr: Tu fais pénétrer la nuit dans le jour, et Tu fais pénétrer le jour dans la nuit, et Tu fais sortir le vivant du mort, et Tu fais sortir le mort du vivant. Et Tu accordes attribution à qui Tu veux, sans compter. »
+ph: Tūliju Al-Layla Fī An-Nahāri Wa Tūliju An-Nahāra Fī Al-Layli Wa Tukhriju Al-Ĥayya Mina Al-Mayyiti Wa Tukhriju Al-Mayyita Mina Al-Ĥayyi Wa Tarzuqu Man Tashā'u Bighayri Ĥisābin
+
+3:28
+ar: لَّا يَتَّخِذِ ٱلْمُؤْمِنُونَ ٱلْكَٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۖ وَمَن يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ ٱللَّهِ فِى شَىْءٍ إِلَّآ أَن تَتَّقُوا۟ مِنْهُمْ تُقَىٰةًۭ ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ
+fr: Que les croyants ne prennent pas, pour alliés, des infidèles, au lieu de croyants. Quiconque le fait contredit la religion d'Allah, à moins que vous ne cherchiez à vous protéger d'eux. Allah vous met en garde à l'égard de Lui-même. Et c'est à Allah le retour.
+ph: Lā Yattakhidhi Al-Mu'uminūna Al-Kāfirīna 'Awliyā'a Min Dūni Al-Mu'uminīna Wa Man Yaf`al Dhālika Falaysa Mina Allāhi Fī Shay'in 'Illā 'An Tattaqū Minhum Tuqāatan Wa Yuĥadhirukumu Allāhu Nafsahu Wa 'Ilá Allāhi Al-Maşīru
+
+3:29
+ar: قُلْ إِن تُخْفُوا۟ مَا فِى صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ ٱللَّهُ ۗ وَيَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
+fr: Dis: « Que vous cachiez ce qui est dans vos poitrines ou bien vous le divulguiez, Allah le sait. Il connaît tout ce qui est dans les cieux et sur la terre. Et Allah est Omnipotent.
+ph: Qul 'In Tukhfū Mā Fī Şudūrikum 'Aw Tubdūhu Ya`lamhu Allāhu Wa Ya`lamu Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa Allāhu `Alá Kulli Shay'in Qadīrun
+
+3:30
+ar: يَوْمَ تَجِدُ كُلُّ نَفْسٍۢ مَّا عَمِلَتْ مِنْ خَيْرٍۢ مُّحْضَرًۭا وَمَا عَمِلَتْ مِن سُوٓءٍۢ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُۥٓ أَمَدًۢا بَعِيدًۭا ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَٱللَّهُ رَءُوفٌۢ بِٱلْعِبَادِ
+fr: Le jour où chaque âme se trouvera confrontée avec ce qu'elle aura fait de bien et ce qu'elle aura fait de mal; elle souhaitera qu'il y ait entre elle et ce mal une longue distance ! Allah vous met en garde à l'égard de Lui-même. Allah est Compatissant envers [Ses] serviteurs.
+ph: Yawma Tajidu Kullu Nafsin Mā `Amilat Min Khayrin Muĥđarāan Wa Mā `Amilat Min Sū'in Tawaddu Law 'Anna Baynahā Wa Baynahu 'Amadāan Ba`īdāan Wa Yuĥadhirukumu Allāhu Nafsahu Wa Allāhu Ra'ūfun Bil-`Ibādi
+
+3:31
+ar: قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ
+fr: Dis: « Si vous aimez vraiment Allah, suivez-moi, Allah vous aimera alors et vous pardonnera vos péchés. Allah est Pardonneur et Miséricordieux.
+ph: Qul 'In Kuntum Tuĥibbūna Allāha Fa Attabi`ūnī Yuĥbibkumu Allāhu Wa Yaghfir Lakum Dhunūbakum Wa Allāhu Ghafūrun Raĥīmun
+
+3:32
+ar: قُلْ أَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ ۖ فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْكَٰفِرِينَ
+fr: Dis: « Obéissez à Allah et au Messager. Et si vous tournez le dos... alors Allah n'aime pas les infidèles !
+ph: Qul 'Aţī`ū Allāha Wa Ar-Rasūla Fa'in Tawallaw Fa'inna Allāha Lā Yuĥibbu Al-Kāfirīna
+
+3:33
+ar: ۞ إِنَّ ٱللَّهَ ٱصْطَفَىٰٓ ءَادَمَ وَنُوحًۭا وَءَالَ إِبْرَٰهِيمَ وَءَالَ عِمْرَٰنَ عَلَى ٱلْعَٰلَمِينَ
+fr: Certes, Allah a élu Adam, Nuh (Noé), la famille d'Ibrahim (Abraham) et la famille de 'Imran au-dessus de tout le monde.
+ph: 'Inna Allāha Aşţafá 'Ādama Wa Nūĥāan Wa 'Āla 'Ibrāhīma Wa 'Āla `Imrān `Alá Al-`Ālamīna
+
+3:34
+ar: ذُرِّيَّةًۢ بَعْضُهَا مِنۢ بَعْضٍۢ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
+fr: En tant que descendants les uns des autres, et Allah est Audient et Omniscient.
+ph: Dhurrīyatan Ba`đuhā Min Ba`đin Wa Allāhu Samī`un `Alīmun
+
+3:35
+ar: إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+fr: (Rappelle-toi) quand la femme de 'Imran dit: « Seigneur, je T'ai voué en toute exclusivité ce qui est dans mon ventre. Accepte-le donc, de moi. C'est Toi certes l'Audient et l'Omniscient.
+ph: 'Idh Qālati Amra'atu `Imrāna Rabbi 'Innī Nadhartu Laka Mā Fī Baţnī Muĥarrarāan Fataqabbal Minnī 'Innaka 'Anta As-Samī`u Al-`Alīmu
+
+3:36
+ar: فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ ۖ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيْطَٰنِ ٱلرَّجِيمِ
+fr: Puis, lorsqu'elle en eut accouché, elle dit: « Seigneur, voilà que j'ai accouché d'une fille » or Allah savait mieux ce dont elle avait accouché ! Le garçon n'est pas comme la fille. « Je l'ai nommée Maryam (Marie), et je la place, ainsi que sa descendance, sous Ta protection contre le Diable, le banni ».
+ph: Falammā Wađa`at/hā Qālat Rabbi 'Innī Wađa`tuhā 'Unthá Wa Allāhu 'A`lamu Bimā Wađa`at Wa Laysa Adh-Dhakaru Kāl'unthá Wa 'Innī Sammaytuhā Maryama Wa 'Innī 'U`īdhuhā Bika Wa Dhurrīyatahā Mina Ash-Shayţāni Ar-Rajīmi
+
+3:37
+ar: فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍۢ وَأَنۢبَتَهَا نَبَاتًا حَسَنًۭا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًۭا ۖ قَالَ يَٰمَرْيَمُ أَنَّىٰ لَكِ هَٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ
+fr: Son Seigneur l'agréa alors du bon agrément, la fit croître en belle croissance. Et Il en confia la garde à Zakariyya (Zacharie). Chaque fois que celui-ci entrait auprès d'elle dans le Sanctuaire, il trouvait près d'elle de la nourriture. Il dit: « Ô Maryam (Marie), d'où te vient cette nourriture ? » -Elle dit: « Cela me vient d'Allah. » Il donne certes la nourriture à qui Il veut sans compter.
+ph: Fataqabbalahā Rabbuhā Biqabūlin Ĥasanin Wa 'Anbatahā Nabātāan Ĥasanāan Wa Kaffalahā Zakarīyā Kullamā Dakhala `Alayhā Zakarīyā Al-Miĥrāba Wajada `Indahā Rizqāan Qāla Yā Maryamu 'Anná Laki Hādhā Qālat Huwa Min `Indi Allāhi 'Inna Allāha Yarzuqu Man Yashā'u Bighayri Ĥisābin
+
+3:38
+ar: هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥ ۖ قَالَ رَبِّ هَبْ لِى مِن لَّدُنكَ ذُرِّيَّةًۭ طَيِّبَةً ۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ
+fr: Alors, Zakariyya (Zacharie) pria son Seigneur, et dit: « Ô mon Seigneur, donne-moi, venant de Toi, une excellente descendance. Car Tu es Celui qui entend bien la prière. »
+ph: Hunālika Da`ā Zakarīyā Rabbahu Qāla Rabbi Hab Lī Min Ladunka Dhurrīyatan Ţayyibatan 'Innaka Samī`u Ad-Du`ā'i
+
+3:39
+ar: فَنَادَتْهُ ٱلْمَلَٰٓئِكَةُ وَهُوَ قَآئِمٌۭ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍۢ مِّنَ ٱللَّهِ وَسَيِّدًۭا وَحَصُورًۭا وَنَبِيًّۭا مِّنَ ٱلصَّٰلِحِينَ
+fr: Alors, les Anges l'appelèrent pendant que, debout, il priait dans le Sanctuaire: « Voilà qu'Allah t'annonce la naissance de Yahya (Jean Baptiste), confirmateur d'une parole d'Allah. Il sera un chef, un chaste, un prophète et du nombre des gens de bien. »
+ph: Fanādat/hu Al-Malā'ikatu Wa Huwa Qā'imun Yuşallī Fī Al-Miĥrābi 'Anna Allāha Yubashiruka Biyaĥyá Muşaddiqāan Bikalimatin Mina Allāhi Wa Sayyidāan Wa Ĥaşūrāan Wa Nabīyāan Mina Aş-Şāliĥīna
+
+3:40
+ar: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌۭ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌۭ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
+fr: Il dit: « Ô mon Seigneur, comment aurais-je un garçon maintenant que la vieillesse m'a atteint et que ma femme est stérile ? » Allah dit: « Comme cela ! », Allah fait ce qu'Il veut.
+ph: Qāla Rabbi 'Anná Yakūnu Lī Ghulāmun Wa Qad Balaghaniya Al-Kibaru Wa Amra'atī `Āqirun Qāla Kadhālika Allāhu Yaf`alu Mā Yashā'u
+
+3:41
+ar: قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةًۭ ۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَةَ أَيَّامٍ إِلَّا رَمْزًۭا ۗ وَٱذْكُر رَّبَّكَ كَثِيرًۭا وَسَبِّحْ بِٱلْعَشِىِّ وَٱلْإِبْكَٰرِ
+fr: « Seigneur, dit Zakariyya (Zacharie), donne-moi un signe. » « Ton signe, dit Allah, c'est que pendant trois jours tu ne pourras parler aux gens que par geste. Invoque beaucoup Ton Seigneur; et, glorifie-Le, en fin et en début de journée. »
+ph: Qāla Rabbi Aj`al Lī 'Āyatan Qāla 'Āyatuka 'Allā Tukallima An-Nāsa Thalāthata 'Ayyāmin 'Illā Ramzāan Wa Adhkur Rabbaka Kathīrāan Wa Sabbiĥ Bil-`Ashīyi Wa Al-'Ibkāri
+
+3:42
+ar: وَإِذْ قَالَتِ ٱلْمَلَٰٓئِكَةُ يَٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَٰلَمِينَ
+fr: (Rappelle-toi) quand les Anges dirent: « Ô Maryam (Marie), certes Allah t'a élue et purifiée; et Il t'a élue au-dessus des femmes des mondes.
+ph: Wa 'Idh Qālati Al-Malā'ikatu Yā Maryamu 'Inna Allāha Aşţafāki Wa Ţahharaki Wa Aşţafāki `Alá Nisā'i Al-`Ālamīna
+
+3:43
+ar: يَٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ
+fr: « Ô Maryam (Marie), obéis à Ton Seigneur, prosterne-toi, et incline-toi avec ceux qui s'inclinent ».
+ph: Yā Maryamu Aqnutī Lirabbiki Wa Asjudī Wa Arka`ī Ma`a Ar-Rāki`īna
+
+3:44
+ar: ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ ۚ وَمَا كُنتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَٰمَهُمْ أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ
+fr: -Ce sont là des nouvelles de l'Inconnaissable que Nous te révélons. Car tu n'étais pas là lorsqu'ils jetaient leurs calames pour décider qui se chargerait de Maryam (Marie) ! Tu n'étais pas là non plus lorsqu'ils se disputaient !
+ph: Dhālika Min 'Nbā'i Al-Ghaybi Nūĥīhi 'Ilayka Wa Mā Kunta Ladayhim 'Idh Yulqūna 'Aqlāmahum 'Ayyuhum Yakfulu Maryama Wa Mā Kunta Ladayhim 'Idh Yakhtaşimūna
+
+3:45
+ar: إِذْ قَالَتِ ٱلْمَلَٰٓئِكَةُ يَٰمَرْيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٍۢ مِّنْهُ ٱسْمُهُ ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ وَجِيهًۭا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمِنَ ٱلْمُقَرَّبِينَ
+fr: (Rappelle-toi) quand les Anges dirent: « Ô Maryam (Marie), voilà qu'Allah t'annonce une parole de Sa part: son nom sera: « Al-Masîh »,: « 'Isa (Jésus) », fils de Maryam (Marie), illustre ici-bas comme dans l'au-delà, et l'un des rapprochés d'Allah.
+ph: 'Idh Qālati Al-Malā'ikatu Yā Maryamu 'Inna Allāha Yubashiruki Bikalimatin Minhu Asmuhu Al-Masīĥu `Īsá Abnu Maryama Wajīhāan Fī Ad-Dunyā Wa Al-'Ākhirati Wa Mina Al-Muqarrabīna
+
+3:46
+ar: وَيُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًۭا وَمِنَ ٱلصَّٰلِحِينَ
+fr: Il parlera aux gens, dans le berceau et en son âge mûr et il sera du nombre des gens de bien. »
+ph: Wa Yukallimu An-Nāsa Fī Al-Mahdi Wa Kahlāan Wa Mina Aş-Şāliĥīna
+
+3:47
+ar: قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌۭ وَلَمْ يَمْسَسْنِى بَشَرٌۭ ۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ ۚ إِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
+fr: -Elle dit: « Seigneur ! Comment aurais-je un enfant, alors qu'aucun homme ne m'a touchée ? » « C'est ainsi ! » dit-Il. Allah crée ce qu'Il veut. Quand Il décide d'une chose, Il lui dit seulement: « Sois » et elle est aussitôt.
+ph: Qālat Rabbi 'Anná Yakūnu Lī Waladun Wa Lam Yamsasnī Basharun Qāla Kadhāliki Allāhu Yakhluqu Mā Yashā'u 'Idhā Qađá 'Amrāan Fa'innamā Yaqūlu Lahu Kun Fayakūnu
+
+3:48
+ar: وَيُعَلِّمُهُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ
+fr: Et (Allah) lui enseignera l'écriture, la sagesse , la Thora et l'Évangile,
+ph: Wa Yu`allimuhu Al-Kitāba Wa Al-Ĥikmata Wa At-Tawrāata Wa Al-'Injīla
+
+3:49
+ar: وَرَسُولًا إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنِّى قَدْ جِئْتُكُم بِـَٔايَةٍۢ مِّن رَّبِّكُمْ ۖ أَنِّىٓ أَخْلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ فَأَنفُخُ فِيهِ فَيَكُونُ طَيْرًۢا بِإِذْنِ ٱللَّهِ ۖ وَأُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ وَأُحْىِ ٱلْمَوْتَىٰ بِإِذْنِ ٱللَّهِ ۖ وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِى بُيُوتِكُمْ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
+fr: et Il sera le messager aux enfants d'Israʾil (Israël), [et leur dira]: « En vérité, je viens à vous avec un signe de la part de votre Seigneur. Pour vous, je forme de la glaise comme la figure d'un oiseau, puis je souffle dedans: et, par la permission d'Allah, cela devient un oiseau. Et je guéris l'aveugle-né et le lépreux, et je ressuscite les morts, par la permission d'Allah. Et je vous apprends ce que vous mangez et ce que vous amassez dans vos maisons. Voilà bien là un signe, pour vous, si vous êtes croyants !
+ph: Wa Rasūlāan 'Ilá Banī 'Isrā'īla 'Annī Qad Ji'tukum Bi'āyatin Min Rabbikum 'Annī 'Akhluqu Lakum Mina Aţ-Ţīni Kahay'ati Aţ-Ţayri Fa'anfukhu Fīhi Fayakūnu Ţayrāan Bi'idhni Allāhi Wa 'Ubri'u Al-'Akmaha Wa Al-'Abraşa Wa 'Uĥyi Al-Mawtá Bi'idhni Allāhi Wa 'Unabbi'ukum Bimā Ta'kulūna Wa Mā Taddakhirūna Fī Buyūtikum 'Inna Fī Dhālika La'āyatan Lakum 'In Kuntum Mu'uminyna
+
+3:50
+ar: وَمُصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَلِأُحِلَّ لَكُم بَعْضَ ٱلَّذِى حُرِّمَ عَلَيْكُمْ ۚ وَجِئْتُكُم بِـَٔايَةٍۢ مِّن رَّبِّكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ
+fr: Et je confirme ce qu'il y a dans la Thora révélée avant moi, et je vous rends licite une partie de ce qui vous était interdit. Et j'ai certes apporté un signe de votre Seigneur. Craignez Allah donc, et obéissez-moi.
+ph: Wa Muşaddiqāan Limā Bayna Yadayya Mina At-Tawrāati Wa Li'uĥilla Lakum Ba`đa Al-Ladhī Ĥurrima `Alaykum Wa Ji'tukum Bi'āyatin Min Rabbikum Fa Attaqū Allāha Wa 'Aţī`ūni
+
+3:51
+ar: إِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۗ هَٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ
+fr: Allah est mon Seigneur et votre Seigneur. Adorez-Le donc: voilà le chemin droit. »
+ph: 'Inna Allāha Rabbī Wa Rabbukum Fā`budūhu Hādhā Şirāţun Mustaqīmun
+
+3:52
+ar: ۞ فَلَمَّآ أَحَسَّ عِيسَىٰ مِنْهُمُ ٱلْكُفْرَ قَالَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ءَامَنَّا بِٱللَّهِ وَٱشْهَدْ بِأَنَّا مُسْلِمُونَ
+fr: Puis, quand 'Isa (Jésus) ressentit de l'incrédulité, de leur part, il dit: « Qui sont mes alliés dans la voie d'Allah ? » Les apôtres dirent: « Nous sommes les alliés d'Allah. Nous croyons en Allah. Et sois témoin que nous lui sommes soumis.
+ph: Falammā 'Aĥassa `Īsá Minhumu Al-Kufra Qāla Man 'Anşārī 'Ilá Allāhi Qāla Al-Ĥawārīyūna Naĥnu 'Anşāru Allāhi 'Āmannā Billāhi Wa Ash/had Bi'annā Muslimūna
+
+3:53
+ar: رَبَّنَآ ءَامَنَّا بِمَآ أَنزَلْتَ وَٱتَّبَعْنَا ٱلرَّسُولَ فَٱكْتُبْنَا مَعَ ٱلشَّٰهِدِينَ
+fr: Seigneur ! Nous avons cru à ce que Tu as fait descendre et suivi le messager. Inscris-nous donc parmi ceux qui témoignent ».
+ph: Rabbanā 'Āmannā Bimā 'Anzalta Wa Attaba`nā Ar-Rasūla Fāktubnā Ma`a Ash-Shāhidīna
+
+3:54
+ar: وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ ۖ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ
+fr: Et ils [les autres] se mirent à comploter. Allah a fait échouer leur complot. Et c'est Allah qui sait le mieux leur machination !
+ph: Wa Makarū Wa Makara Allāhu Wa Allāhu Khayru Al-Mākirīna
+
+3:55
+ar: إِذْ قَالَ ٱللَّهُ يَٰعِيسَىٰٓ إِنِّى مُتَوَفِّيكَ وَرَافِعُكَ إِلَىَّ وَمُطَهِّرُكَ مِنَ ٱلَّذِينَ كَفَرُوا۟ وَجَاعِلُ ٱلَّذِينَ ٱتَّبَعُوكَ فَوْقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۖ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأَحْكُمُ بَيْنَكُمْ فِيمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
+fr: (Rappelle-toi) quand Allah dit: « Ô 'Isa (Jésus), certes, Je vais mettre fin à ta vie terrestre t'élever vers Moi, te débarrasser de ceux qui n'ont pas cru et mettre jusqu'au Jour de la Résurrection, ceux qui te suivent au-dessus de ceux qui ne croient pas. Puis, c'est vers Moi que sera votre retour, et Je jugerai, entre vous, ce sur quoi vous vous opposiez.
+ph: 'Idh Qāla Allāhu Yā `Īsá 'Innī Mutawaffīka Wa Rāfi`uka 'Ilayya Wa Muţahhiruka Mina Al-Ladhīna Kafarū Wa Jā`ilu Al-Ladhīna Attaba`ūka Fawqa Al-Ladhīna Kafarū 'Ilá Yawmi Al-Qiyā Mati Thumma 'Ilayya Marji`ukum Fa'aĥkumu Baynakum Fīmā Kuntum Fīhi Takhtalifūna
+
+3:56
+ar: فَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَأُعَذِّبُهُمْ عَذَابًۭا شَدِيدًۭا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمَا لَهُم مِّن نَّٰصِرِينَ
+fr: Quant à ceux qui n'ont pas cru, Je les châtierai d'un dur châtiment, ici-bas tout comme dans l'au-delà; et pour eux, pas de secoureurs.
+ph: Fa'ammā Al-Ladhīna Kafarū Fa'u`adhibuhum `Adhābāan Shadīdāan Fī Ad-Dunyā Wa Al-'Ākhirati Wa Mā Lahum Min Nāşirīna
+
+3:57
+ar: وَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ
+fr: Et quant à ceux qui ont la foi et font de bonnes œuvres, Il leur donnera leurs récompenses. Et Allah n'aime pas les injustes.
+ph: Wa 'Ammā Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti Fayuwaffīhim 'Ujūrahum Wa Allāhu Lā Yuĥibbu Až-Žālimīna
+
+3:58
+ar: ذَٰلِكَ نَتْلُوهُ عَلَيْكَ مِنَ ٱلْءَايَٰتِ وَٱلذِّكْرِ ٱلْحَكِيمِ
+fr: Voilà ce que Nous te récitons des versets et de la révélation précise.
+ph: Dhālika Natlūhu `Alayka Mina Al-'Āyāti Wa Adh-Dhikri Al-Ĥakīmi
+
+3:59
+ar: إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍۢ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ
+fr: Pour Allah, 'Isa (Jésus) est comme Adam qu'Il créa de poussière, puis Il lui dit: « Sois »: et il fut.
+ph: 'Inna Mathala `Īsá `Inda Allāhi Kamathali 'Ādama Khalaqahu Min Turābin Thumma Qāla Lahu Kun Fayakūnu
+
+3:60
+ar: ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلْمُمْتَرِينَ
+fr: La vérité vient de ton Seigneur. Ne sois donc pas du nombre des sceptiques.
+ph: Al-Ĥaqqu Min Rabbika Falā Takun Mina Al-Mumtarīna
+
+3:61
+ar: فَمَنْ حَآجَّكَ فِيهِ مِنۢ بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ فَقُلْ تَعَالَوْا۟ نَدْعُ أَبْنَآءَنَا وَأَبْنَآءَكُمْ وَنِسَآءَنَا وَنِسَآءَكُمْ وَأَنفُسَنَا وَأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَتَ ٱللَّهِ عَلَى ٱلْكَٰذِبِينَ
+fr: À ceux qui te contredisent à son propos, maintenant que tu en es bien informé, tu n'as qu'à dire: « Venez, appelons nos fils et les vôtres, nos femmes et les vôtres, nos propres personnes et les vôtres, puis proférons exécration réciproque en appelant la malédiction d'Allah sur les menteurs.
+ph: Faman Ĥājjaka Fīhi Min Ba`di Mā Jā'aka Mina Al-`Ilmi Faqul Ta`ālaw Nad`u 'Abnā'anā Wa 'Abnā'akum Wa Nisā'anā Wa Nisā'akum Wa 'Anfusanā Wa 'Anfusakum Thumma Nabtahil Fanaj`al La`nata Allāhi `Alá Al-Kādhibīna
+
+3:62
+ar: إِنَّ هَٰذَا لَهُوَ ٱلْقَصَصُ ٱلْحَقُّ ۚ وَمَا مِنْ إِلَٰهٍ إِلَّا ٱللَّهُ ۚ وَإِنَّ ٱللَّهَ لَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+fr: Voilà, certes, le récit véridique. Et il n'y a pas de divinité à part Allah. En vérité, c'est Allah qui est le Puissant, le Sage.
+ph: 'Inna Hādhā Lahuwa Al-Qaşaşu Al-Ĥaqqu Wa Mā Min 'Ilahin 'Illā Allāhu Wa 'Inna Allāha Lahuwa Al-`Azīzu Al-Ĥakīmu
+
+3:63
+ar: فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ عَلِيمٌۢ بِٱلْمُفْسِدِينَ
+fr: Si donc ils tournent le dos... alors Allah connaît bien les semeurs de corruption !
+ph: Fa'in Tawallaw Fa'inna Allāha `Alīmun Bil-Mufsidīna
+
+3:64
+ar: قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍۢ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًۭٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًۭا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ
+fr: -Dis: « Ô gens du Livre, venez à une parole commune entre nous et vous: que nous n'adorions qu'Allah, sans rien Lui associer, et que nous ne prenions point les uns les autres pour seigneurs en dehors d'Allah. » Puis, s'ils tournent le dos, dites: « Soyez témoins que nous, nous sommes soumis. »
+ph: Qul Yā 'Ahla Al-Kitābi Ta`ālaw 'Ilá Kalimatin Sawā'in Baynanā Wa Baynakum 'Allā Na`buda 'Illā Allāha Wa Lā Nushrika Bihi Shay'āan Wa Lā Yattakhidha Ba`đunā Ba`đāan 'Arbābāan Min Dūni Allāhi Fa'in Tawallaw Faqūlū Ash/hadū Bi'annā Muslimūna
+
+3:65
+ar: يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تُحَآجُّونَ فِىٓ إِبْرَٰهِيمَ وَمَآ أُنزِلَتِ ٱلتَّوْرَىٰةُ وَٱلْإِنجِيلُ إِلَّا مِنۢ بَعْدِهِۦٓ ۚ أَفَلَا تَعْقِلُونَ
+fr: Ô gens du Livre, pourquoi disputez-vous au sujet d'Ibrahim (Abraham), alors que la Thora et l'Évangile ne sont descendus qu'après lui ? Ne raisonnez-vous donc pas ?
+ph: Yā 'Ahla Al-Kitābi Lima Tuĥājjūna Fī 'Ibrāhīma Wa Mā 'Unzilati At-Tawrāatu Wa Al-'Injīlu 'Illā Min Ba`dihi 'Afalā Ta`qilūna
+
+3:66
+ar: هَٰٓأَنتُمْ هَٰٓؤُلَآءِ حَٰجَجْتُمْ فِيمَا لَكُم بِهِۦ عِلْمٌۭ فَلِمَ تُحَآجُّونَ فِيمَا لَيْسَ لَكُم بِهِۦ عِلْمٌۭ ۚ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
+fr: Vous avez bel et bien disputé à propos d'une chose dont vous avez connaissance. Mais pourquoi disputez-vous des choses dont vous n'avez pas connaissance ? Or Allah sait, tandis que vous ne savez pas.
+ph: Hā'antum Hā'uulā' Ĥājajtum Fīmā Lakum Bihi `Ilmun Falima Tuĥājjūna Fīmā Laysa Lakum Bihi `Ilmun Wa Allāhu Ya`lamu Wa 'Antum Lā Ta`lamūna
+
+3:67
+ar: مَا كَانَ إِبْرَٰهِيمُ يَهُودِيًّۭا وَلَا نَصْرَانِيًّۭا وَلَٰكِن كَانَ حَنِيفًۭا مُّسْلِمًۭا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
+fr: Ibrahim (Abraham) n'était ni Juif ni Chrétien. Il était entièrement soumis à Allah (Musulman). Et il n'était point du nombre des Associateurs.
+ph: Mā Kāna 'Ibrāhīmu Yahūdīyāan Wa Lā Naşrānīyāan Wa Lakin Kāna Ĥanīfāan Muslimāan Wa Mā Kāna Mina Al-Mushrikīna
+
+3:68
+ar: إِنَّ أَوْلَى ٱلنَّاسِ بِإِبْرَٰهِيمَ لَلَّذِينَ ٱتَّبَعُوهُ وَهَٰذَا ٱلنَّبِىُّ وَٱلَّذِينَ ءَامَنُوا۟ ۗ وَٱللَّهُ وَلِىُّ ٱلْمُؤْمِنِينَ
+fr: Certes les hommes les plus dignes de se réclamer d'Ibrahim (Abraham), sont ceux qui l'ont suivi, ainsi que ce Prophète-ci, et ceux qui ont la foi. Et Allah est l'allié des croyants.
+ph: 'Inna 'Awlá An-Nāsi Bi'ibrāhīma Lalladhīna Attaba`ūhu Wa Hadhā An-Nabīyu Wa Al-Ladhīna 'Āmanū Wa Allāhu Wa Līyu Al-Mu'uminīna
+
+3:69
+ar: وَدَّت طَّآئِفَةٌۭ مِّنْ أَهْلِ ٱلْكِتَٰبِ لَوْ يُضِلُّونَكُمْ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ
+fr: Une partie des gens du Livre aurait bien voulu vous égarer. Or ils n'égarent qu'eux-mêmes; et ils n'en sont pas conscients.
+ph: Waddat Ţā'ifatun Min 'Ahli Al-Kitābi Law Yuđillūnakum Wa Mā Yuđillūna 'Illā 'Anfusahum Wa Mā Yash`urūn
+
+3:70
+ar: يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَأَنتُمْ تَشْهَدُونَ
+fr: Ô gens du Livre, pourquoi ne croyez vous pas aux versets d'Allah (le Coran), cependant que vous en êtes témoins ?
+ph: Yā 'Ahla Al-Kitābi Lima Takfurūna Bi'āyāti Allāhi Wa 'Antum Tash/hadūna
+
+3:71
+ar: يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَٰطِلِ وَتَكْتُمُونَ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ
+fr: Ô gens du Livre, pourquoi mêlez-vous le faux au vrai et cachez-vous sciemment la vérité ?
+ph: Yā 'Ahla Al-Kitābi Lima Talbisūna Al-Ĥaqqa Bil-Bāţili Wa Taktumūna Al-Ĥaqqa Wa 'Antum Ta`lamūna
+
+3:72
+ar: وَقَالَت طَّآئِفَةٌۭ مِّنْ أَهْلِ ٱلْكِتَٰبِ ءَامِنُوا۟ بِٱلَّذِىٓ أُنزِلَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَجْهَ ٱلنَّهَارِ وَٱكْفُرُوٓا۟ ءَاخِرَهُۥ لَعَلَّهُمْ يَرْجِعُونَ
+fr: Ainsi dit une partie des gens du Livre: « Au début du jour, croyez à ce qui a été révélé aux Musulmans, mais, à la fin du jour, rejetez-le, afin qu'ils retournent (à leur ancienne religion). »
+ph: Wa Qālat Ţā'ifatun Min 'Ahli Al-Kitābi 'Āminū Bial-Ladhī 'Unzila `Alá Al-Ladhīna 'Āmanū Wajha An-Nahāri Wa Akfurū 'Ākhirahu La`allahum Yarji`ūna
+
+3:73
+ar: وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌۭ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ
+fr: [Et les gens du Livre disent à leurs coreligionnaires]: « Ne croyez que ceux qui suivent votre religion... » Dis: « La vraie direction est la direction d'Allah » -[et ils disent encore: Vous ne devez ni approuver ni reconnaître] que quelqu'un d'autre que vous puisse recevoir comme ce que vous avez reçu de sorte qu'ils (les Musulmans) ne puissent argumenter contre vous auprès de votre Seigneur. Dis-[leur]: En vérité, la grâce est en la main d'Allah. Il la donne à qui Il veut. La grâce d'Allah est immense et Il est Omniscient.
+ph: Wa Lā Tu'uminū 'Illā Liman Tabi`a Dīnakum Qul 'Inna Al-Hudá Hudá Allāhi 'An Yu'utá 'Aĥadun Mithla Mā 'Ūtītum 'Aw Yuĥājjūkum `Inda Rabbikum Qul 'Inna Al-Fađla Biyadi Allāhi Yu'utīhi Man Yashā'u Wa Allāhu Wāsi`un `Alīmun
+
+3:74
+ar: يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
+fr: Il réserve à qui Il veut sa miséricorde. Et Allah est Détenteur d'une grâce immense.
+ph: Yakhtaşşu Biraĥmatihi Man Yashā'u Wa Allāhu Dhū Al-Fađli Al-`Ažīmi
+
+3:75
+ar: ۞ وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنطَارٍۢ يُؤَدِّهِۦٓ إِلَيْكَ وَمِنْهُم مَّنْ إِن تَأْمَنْهُ بِدِينَارٍۢ لَّا يُؤَدِّهِۦٓ إِلَيْكَ إِلَّا مَا دُمْتَ عَلَيْهِ قَآئِمًۭا ۗ ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَيْسَ عَلَيْنَا فِى ٱلْأُمِّيِّۦنَ سَبِيلٌۭ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ
+fr: Et parmi les gens du Livre, il y en a qui, si tu lui confies un qintâr, te le rend. Mais il y en a aussi qui, si tu lui confies un dinâr, ne te le rendra que si tu l'y contrains sans relâche. Tout cela parce qu'ils disent: « Ces (arabes) qui n'ont pas de livre n'ont aucun chemin pour nous contraindre. » Ils profèrent des mensonges contre Allah alors qu'ils savent.
+ph: Wa Min 'Ahli Al-Kitābi Man 'In Ta'manhu Biqinţārin Yu'uaddihi 'Ilayka Wa Minhum Man 'In Ta'manhu Bidīnārin Lā Yu'uaddihi 'Ilayka 'Illā Mā Dumta `Alayhi Qā'imāan Dhālika Bi'annahum Qālū Laysa `Alaynā Fī Al-'Ummīyīna Sabīlun Wa Yaqūlūna `Alá Allāhi Al-Kadhiba Wa Hum Ya`lamūna
+
+3:76
+ar: بَلَىٰ مَنْ أَوْفَىٰ بِعَهْدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ
+fr: Au contraire, quiconque remplit sa promesse et craint Allah... Allah aime les pieux.
+ph: Balá Man 'Awfá Bi`ahdihi Wa Attaqá Fa'inna Allāha Yuĥibbu Al-Muttaqīna
+
+3:77
+ar: إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَٰنِهِمْ ثَمَنًۭا قَلِيلًا أُو۟لَٰٓئِكَ لَا خَلَٰقَ لَهُمْ فِى ٱلْءَاخِرَةِ وَلَا يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌۭ
+fr: Ceux qui vendent à vil prix leur engagement avec Allah ainsi que leurs serments n'auront aucune part dans l'au-delà, et Allah ne leur parlera pas, ni les regardera, au Jour de la Résurrection, ni ne les purifiera; et ils auront un châtiment douloureux.
+ph: 'Inna Al-Ladhīna Yashtarūna Bi`ahdi Allāhi Wa 'Aymānihim Thamanāan Qalīlāan 'Ūlā'ika Lā Khalāqa Lahum Fī Al-'Ākhirati Wa Lā Yukallimuhumu Allāhu Wa Lā Yanžuru 'Ilayhim Yawma Al-Qiyāmati Wa Lā Yuzakkīhim Wa Lahum `Adhābun 'Alīmun
+
+3:78
+ar: وَإِنَّ مِنْهُمْ لَفَرِيقًۭا يَلْوُۥنَ أَلْسِنَتَهُم بِٱلْكِتَٰبِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَٰبِ وَمَا هُوَ مِنَ ٱلْكِتَٰبِ وَيَقُولُونَ هُوَ مِنْ عِندِ ٱللَّهِ وَمَا هُوَ مِنْ عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ
+fr: Et il y a parmi eux certains qui roulent leurs langues en lisant le Livre pour vous faire croire que cela provient du Livre, alors qu'il n'est point du Livre; et ils disent: « Ceci vient d'Allah », alors qu'il ne vient point d'Allah. Ils disent sciemment des mensonges contre Allah.
+ph: Wa 'Inna Minhum Lafarīqāan Yalwūna 'Alsinatahum Bil-Kitābi Litaĥsabūhu Mina Al-Kitābi Wa Mā Huwa Mina Al-Kitābi Wa Yaqūlūna Huwa Min `Indi Allāhi Wa Mā Huwa Min `Indi Allāhi Wa Yaqūlūna `Alá Allāhi Al-Kadhiba Wa Hum Ya`lamūna
+
+3:79
+ar: مَا كَانَ لِبَشَرٍ أَن يُؤْتِيَهُ ٱللَّهُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُوا۟ عِبَادًۭا لِّى مِن دُونِ ٱللَّهِ وَلَٰكِن كُونُوا۟ رَبَّٰنِيِّۦنَ بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ وَبِمَا كُنتُمْ تَدْرُسُونَ
+fr: Il ne conviendrait pas à un être humain à qui Allah a donné le Livre, la Compréhension et la Prophétie, de dire ensuite aux gens: « Soyez mes adorateurs, à l'exclusion d'Allah; mais au contraire, [il devra dire]: « Devenez des savants, obéissant au Seigneur, puisque vous enseignez le Livre et vous l'étudiez. »
+ph: Mā Kāna Libasharin 'An Yu'utiyahu Allāhu Al-Kitāba Wa Al-Ĥukma Wa An-Nubūwata Thumma Yaqūla Lilnnāsi Kūnū `Ibādāan Lī Min Dūni Allāhi Wa Lakin Kūnū Rabbānīyīna Bimā Kuntum Tu`allimūna Al-Kitāba Wa Bimā Kuntum Tadrusūna
+
+3:80
+ar: وَلَا يَأْمُرَكُمْ أَن تَتَّخِذُوا۟ ٱلْمَلَٰٓئِكَةَ وَٱلنَّبِيِّۦنَ أَرْبَابًا ۗ أَيَأْمُرُكُم بِٱلْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ
+fr: Et il ne va pas vous commander de prendre pour seigneurs anges et prophètes. Vous commanderait-il de rejeter la foi, vous qui êtes Musulmans ?
+ph: Wa Lā Ya'murakum 'An Tattakhidhū Al-Malā'ikata Wa An-Nabīyīna 'Arbābāan 'Aya'murukum Bil-Kufri Ba`da 'Idh 'Antum Muslimūna
+
+3:81
+ar: وَإِذْ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلنَّبِيِّۦنَ لَمَآ ءَاتَيْتُكُم مِّن كِتَٰبٍۢ وَحِكْمَةٍۢ ثُمَّ جَآءَكُمْ رَسُولٌۭ مُّصَدِّقٌۭ لِّمَا مَعَكُمْ لَتُؤْمِنُنَّ بِهِۦ وَلَتَنصُرُنَّهُۥ ۚ قَالَ ءَأَقْرَرْتُمْ وَأَخَذْتُمْ عَلَىٰ ذَٰلِكُمْ إِصْرِى ۖ قَالُوٓا۟ أَقْرَرْنَا ۚ قَالَ فَٱشْهَدُوا۟ وَأَنَا۠ مَعَكُم مِّنَ ٱلشَّٰهِدِينَ
+fr: Et lorsqu'Allah prit cet engagement des prophètes: « Chaque fois que Je vous accorderai un Livre et de la Sagesse, et qu'ensuite un messager vous viendra confirmer ce qui est avec vous, vous devez croire en lui, et vous devrez lui porter secours. » Il leur dit: « Consentez-vous et acceptez-vous Mon pacte à cette condition ? » « Nous consentons », dirent-ils.: « Soyez-en donc témoins, dit Allah. Et Me voici, avec vous, parmi les témoins.
+ph: Wa 'Idh 'Akhadha Allāhu Mīthāqa An-Nabīyīna Lamā 'Ātaytukum Min Kitābin Wa Ĥikmatin Thumma Jā'akum Rasūlun Muşaddiqun Limā Ma`akum Latu'uminunna Bihi Wa Latanşurunnahu Qāla 'A'aqrartum Wa 'Akhadhtum `Alá Dhālikum 'Işrī Qālū 'Aqrarnā Qāla Fāsh/hadū Wa 'Anā Ma`akum Mina Ash-Shāhidīna
+
+3:82
+ar: فَمَن تَوَلَّىٰ بَعْدَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ
+fr: Quiconque ensuite tournera le dos... alors ce sont eux qui seront les pervers. »
+ph: Faman Tawallá Ba`da Dhālika Fa'ūlā'ika Humu Al-Fāsiqūna
+
+3:83
+ar: أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ وَلَهُۥٓ أَسْلَمَ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًۭا وَكَرْهًۭا وَإِلَيْهِ يُرْجَعُونَ
+fr: Désirent-ils une autre religion que celle d'Allah, alors que se soumet à Lui, bon gré, mal gré, tout ce qui existe dans les cieux et sur la terre, et que c'est vers Lui qu'ils seront ramenés ?
+ph: 'Afaghayra Dīni Allāhi Yabghūna Wa Lahu 'Aslama Man Fī As-Samāwāti Wa Al-'Arđi Ţaw`āan Wa Karhāan Wa 'Ilayhi Yurja`ūna
+
+3:84
+ar: قُلْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ عَلَيْنَا وَمَآ أُنزِلَ عَلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍۢ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ
+fr: Dis: « Nous croyons en Allah, à ce qu'on a fait descendre sur nous, à ce qu'on a fait descendre sur Ibrahim (Abraham), Isma'il (Ismaël), Ishaq (Isaac), Ya'qub (Jacob) et les Tribus, et à ce qui a été apporté à Musa (Moïse), à 'Isa (Jésus) et aux prophètes, de la part de leur Seigneur: nous ne faisons aucune différence entre eux; et c'est à Lui que nous sommes Soumis. »
+ph: Qul 'Āmannā Billāhi Wa Mā 'Unzila `Alaynā Wa Mā 'Unzila `Alá 'Ibrāhīma Wa 'Ismā`īla Wa 'Isĥāqa Wa Ya`qūba Wa Al-'Asbāţi Wa Mā 'Ūtiya Mūsá Wa `Īsá Wa An-Nabīyūna Min Rabbihim Lā Nufarriqu Bayna 'Aĥadin Minhum Wa Naĥnu Lahu Muslimūna
+
+3:85
+ar: وَمَن يَبْتَغِ غَيْرَ ٱلْإِسْلَٰمِ دِينًۭا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِى ٱلْءَاخِرَةِ مِنَ ٱلْخَٰسِرِينَ
+fr: Et quiconque désire une religion autre que l'Islam, ne sera point agréé, et il sera, dans l'au-delà, parmi les perdants.
+ph: Wa Man Yabtaghi Ghayra Al-'Islāmi Dīnāan Falan Yuqbala Minhu Wa Huwa Fī Al-'Ākhirati Mina Al-Khāsirīna
+
+3:86
+ar: كَيْفَ يَهْدِى ٱللَّهُ قَوْمًۭا كَفَرُوا۟ بَعْدَ إِيمَٰنِهِمْ وَشَهِدُوٓا۟ أَنَّ ٱلرَّسُولَ حَقٌّۭ وَجَآءَهُمُ ٱلْبَيِّنَٰتُ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
+fr: Comment Allah guiderait-Il des gens qui n'ont plus la foi après avoir cru et témoigné que le Messager est véridique, et après que les preuves leur sont venues ? Allah ne guide pas les gens injustes.
+ph: Kayfa Yahdī Allāhu Qawmāan Kafarū Ba`da 'Īmānihim Wa Shahidū 'Anna Ar-Rasūla Ĥaqqun Wa Jā'ahumu Al-Bayyinātu Wa Allāhu Lā Yahdī Al-Qawma Až-Žālimīna
+
+3:87
+ar: أُو۟لَٰٓئِكَ جَزَآؤُهُمْ أَنَّ عَلَيْهِمْ لَعْنَةَ ٱللَّهِ وَٱلْمَلَٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ
+fr: Ceux là, leur rétribution sera qu'ils auront sur eux la malédiction d'Allah, des Anges et de tous les êtres humains.
+ph: 'Ūlā'ika Jazā'uuhum 'Anna `Alayhim La`nata Allāhi Wa Al-Malā'ikati Wa An-Nāsi 'Ajma`īna
+
+3:88
+ar: خَٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ
+fr: Ils y demeureront éternellement. Le châtiment ne leur sera pas allégé, et ils n'auront aucun répit,
+ph: Khālidīna Fīhā Lā Yukhaffafu `Anhumu Al-`Adhābu Wa Lā Hum Yunžarūna
+
+3:89
+ar: إِلَّا ٱلَّذِينَ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ
+fr: excepté ceux qui par la suite se repentiront et se réformeront: car Allah est certes Pardonneur et Miséricordieux.
+ph: 'Illā Al-Ladhīna Tābū Min Ba`di Dhālika Wa 'Aşlaĥū Fa'inna Allāha Ghafūrun Raĥīmun
+
+3:90
+ar: إِنَّ ٱلَّذِينَ كَفَرُوا۟ بَعْدَ إِيمَٰنِهِمْ ثُمَّ ٱزْدَادُوا۟ كُفْرًۭا لَّن تُقْبَلَ تَوْبَتُهُمْ وَأُو۟لَٰٓئِكَ هُمُ ٱلضَّآلُّونَ
+fr: En vérité, ceux qui ne croient plus après avoir eu la foi, et laissent augmenter encore leur mécréance, leur repentir ne sera jamais accepté. Ceux-là sont vraiment les égarés.
+ph: 'Inna Al-Ladhīna Kafarū Ba`da 'Īmānihim Thumma Azdādū Kufrāan Lan Tuqbala Tawbatuhum Wa 'Ūlā'ika Humu Ađ-Đāllūna
+
+3:91
+ar: إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌۭ فَلَن يُقْبَلَ مِنْ أَحَدِهِم مِّلْءُ ٱلْأَرْضِ ذَهَبًۭا وَلَوِ ٱفْتَدَىٰ بِهِۦٓ ۗ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌۭ وَمَا لَهُم مِّن نَّٰصِرِينَ
+fr: Ceux qui ne croient pas et qui meurent mécréants, il ne sera jamais accepté, d'aucun d'eux de se racheter même si pour cela il (donnait) le contenu, en or, de la terre. Ils auront un châtiment douloureux, et ils n'auront point de secoureurs.
+ph: 'Inna Al-Ladhīna Kafarū Wa Mātū Wa Hum Kuffārun Falan Yuqbala Min 'Aĥadihim Mil'u Al-'Arđi Dhahabāan Wa Law Aftadá Bihi 'Ūlā'ika Lahum `Adhābun 'Alīmun Wa Mā Lahum Min Nāşirīna
+
+3:92
+ar: لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ ۚ وَمَا تُنفِقُوا۟ مِن شَىْءٍۢ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌۭ
+fr: Vous n'atteindrez la (vraie) piété, que si vous faites largesses de ce que vous chérissez. Tout ce dont vous faites largesses, Allah le sait certainement bien.
+ph: Lan Tanālū Al-Birra Ĥattá Tunfiqū Mimmā Tuĥibbūna Wa Mā Tunfiqū Min Shay'in Fa'inna Allāha Bihi `Alīmun
+
+3:93
+ar: ۞ كُلُّ ٱلطَّعَامِ كَانَ حِلًّۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ إِلَّا مَا حَرَّمَ إِسْرَٰٓءِيلُ عَلَىٰ نَفْسِهِۦ مِن قَبْلِ أَن تُنَزَّلَ ٱلتَّوْرَىٰةُ ۗ قُلْ فَأْتُوا۟ بِٱلتَّوْرَىٰةِ فَٱتْلُوهَآ إِن كُنتُمْ صَٰدِقِينَ
+fr: Toute nourriture était licite aux enfants d'Israʾil (Israël), sauf celle qu'Israël lui-même s'interdit avant que ne descendît la Thora. Dis-[leur]: « Apportez la Thora et lisez-la, si ce que vous dites est vrai ! »
+ph: Kullu Aţ-Ţa`āmi Kāna Ĥillāan Libanī 'Isrā'īla 'Illā Mā Ĥarrama 'Isrā'īlu `Alá Nafsihi Min Qabli 'An Tunazzala At-Tawrāatu Qul Fa'tū Bit-Tawrāati Fātlūhā 'In Kuntum Şādiqīna
+
+3:94
+ar: فَمَنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ مِنۢ بَعْدِ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
+fr: Donc, quiconque, après cela, invente des mensonges contre Allah... ceux-là sont, donc, les vrais injustes.
+ph: Famani Aftará `Alá Allāhi Al-Kadhiba Min Ba`di Dhālika Fa'ūlā'ika Humu Až-Žālimūna
+
+3:95
+ar: قُلْ صَدَقَ ٱللَّهُ ۗ فَٱتَّبِعُوا۟ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًۭا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
+fr: Dis: « C'est Allah qui dit la vérité. Suivez donc la religion d'Ibrahim (Abraham), Musulman droit. Et il n'était point des associateurs. »
+ph: Qul Şadaqa Allāhu Fa Attabi`ū Millata 'Ibrāhīma Ĥanīfāan Wa Mā Kāna Mina Al-Mushrikīna
+
+3:96
+ar: إِنَّ أَوَّلَ بَيْتٍۢ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكًۭا وَهُدًۭى لِّلْعَٰلَمِينَ
+fr: La première Maison qui ait été édifiée pour les gens, c'est bien celle de Bakka (la Mecque) bénie et une bonne direction pour l'univers.
+ph: 'Inna 'Awwala Baytin Wuđi`a Lilnnāsi Lalladhī Bibakkata Mubārakāan Wa Hudáan Lil`ālamīna
+
+3:97
+ar: فِيهِ ءَايَٰتٌۢ بَيِّنَٰتٌۭ مَّقَامُ إِبْرَٰهِيمَ ۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنًۭا ۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًۭا ۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَٰلَمِينَ
+fr: Là sont des signes évidents, parmi lesquels l'endroit où Ibrahim (Abraham) s'est tenu debout; et quiconque y entre est en sécurité. Et c'est un devoir envers Allah pour les gens qui ont les moyens, d'aller faire le pèlerinage de la Maison. Et quiconque ne croit pas... Allah Se passe largement des mondes.
+ph: Fīhi 'Āyātun Bayyinātun Maqāmu 'Ibrāhīma Wa Man Dakhalahu Kāna 'Āmināan Wa Lillahi `Alá An-Nāsi Ĥijju Al-Bayti Mani Astaţā`a 'Ilayhi Sabīlāan Wa Man Kafara Fa'inna Allāha Ghanīyun `Ani Al-`Ālamīna
+
+3:98
+ar: قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَٱللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ
+fr: -Dis: « Ô gens du Livre, pourquoi ne croyez-vous pas aux versets d'Allah (al-Qur'ân), alors qu'Allah est témoin de ce que vous faites ? »
+ph: Qul Yā 'Ahla Al-Kitābi Lima Takfurūna Bi'āyāti Allāhi Wa Allāhu Shahīdun `Alá Mā Ta`malūna
+
+3:99
+ar: قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ تَبْغُونَهَا عِوَجًۭا وَأَنتُمْ شُهَدَآءُ ۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ
+fr: -Dis: « Ô gens du Livre, pourquoi obstruez-vous la voie d'Allah à celui qui a la foi, et pourquoi voulez-vous rendre cette voie tortueuse, alors que vous êtes témoins de la vérité ! » Et Allah n'est pas inattentif à ce que vous faites.
+ph: Qul Yā 'Ahla Al-Kitābi Lima Taşuddūna `An Sabīli Allāhi Man 'Āmana Tabghūnahā `Iwajāan Wa 'Antum Shuhadā'u Wa Mā Allāhu Bighāfilin `Ammā Ta`malūna
+
+3:100
+ar: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ فَرِيقًۭا مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ يَرُدُّوكُم بَعْدَ إِيمَٰنِكُمْ كَٰفِرِينَ
+fr: Ô les croyants ! Si vous obéissez à un groupe de ceux auxquels on a donné le Livre, il vous rendra mécréants après que vous ayez eu la foi.
+ph: Yā 'Ayyuhā Al-Ladhīna 'Āmanū 'In Tuţī`ū Farīqāan Mina Al-Ladhīna 'Ūtū Al-Kitāba Yaruddūkum Ba`da 'Īmānikum Kāfirīna
+
+3:101
+ar: وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ ءَايَٰتُ ٱللَّهِ وَفِيكُمْ رَسُولُهُۥ ۗ وَمَن يَعْتَصِم بِٱللَّهِ فَقَدْ هُدِىَ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ
+fr: Et comment pouvez-vous ne pas croire, alors que les versets d'Allah vous sont récités, et qu'au milieu de vous se tient Son messager ? Quiconque s'attache fortement à Allah, il est certes guidé vers un droit chemin.
+ph: Wa Kayfa Takfurūna Wa 'Antum Tutlá `Alaykum 'Āyātu Allāhi Wa Fīkum Rasūluhu Wa Man Ya`taşim Billāhi Faqad Hudiya 'Ilá Şirāţin Mustaqīmin
+
+3:102
+ar: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ حَقَّ تُقَاتِهِۦ وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ
+fr: Ô les croyants ! Craignez Allah comme Il doit être craint. Et ne mourez qu'en pleine soumission.
+ph: Yā 'Ayyuhā Al-Ladhīna 'Āmanū Attaqū Allāha Ĥaqqa Tuqātihi Wa Lā Tamūtunna 'Illā Wa 'Antum Muslimūna
+
+3:103
+ar: وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًۭا وَلَا تَفَرَّقُوا۟ ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَآءًۭ فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًۭا وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍۢ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنْهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَهْتَدُونَ
+fr: Et cramponnez-vous tous ensemble au: « Habl » (câble) d'Allah et ne soyez pas divisés; et rappelez-vous le bienfait d'Allah sur vous: lorsque vous étiez ennemis, c'est Lui qui réconcilia vos cœurs. Puis, par Son bienfait, vous êtes devenus frères. Et alors que vous étiez au bord d'un abîme de Feu, c'est Lui qui vous en a sauvés. Ainsi Allah vous montre Ses signes afin que vous soyez bien guidés.
+ph: Wa A`taşimū Biĥabli Allāhi Jamī`āan Wa Lā Tafarraqū Wa Adhkurū Ni`mata Allāhi `Alaykum 'Idh Kuntum 'A`dā'an Fa'allafa Bayna Qulūbikum Fa'aşbaĥtum Bini`matihi 'Ikhwānāan Wa Kuntum `Alá Shafā Ĥufratin Mina An-Nāri Fa'anqadhakum Minhā Kadhālika Yubayyinu Allāhu Lakum 'Āyātihi La`allakum Tahtadūna
+
+3:104
+ar: وَلْتَكُن مِّنكُمْ أُمَّةٌۭ يَدْعُونَ إِلَى ٱلْخَيْرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ ۚ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+fr: Que soit issue de vous une communauté qui appelle au bien, ordonne le convenable, et interdit le blâmable. Car ce seront eux qui réussiront.
+ph: Wa Ltakun Minkum 'Ummatun Yad`ūna 'Ilá Al-Khayri Wa Ya'murūna Bil-Ma`rūfi Wa Yanhawna `Ani Al-Munkari Wa 'Ūlā'ika Humu Al-Mufliĥūna
+
+3:105
+ar: وَلَا تَكُونُوا۟ كَٱلَّذِينَ تَفَرَّقُوا۟ وَٱخْتَلَفُوا۟ مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْبَيِّنَٰتُ ۚ وَأُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ عَظِيمٌۭ
+fr: Et ne soyez pas comme ceux qui se sont divisés et se sont mis à disputer, après que les preuves leur furent venues, et ceux-là auront un énorme châtiment.
+ph: Wa Lā Takūnū Kālladhīna Tafarraqū Wa Akhtalafū Min Ba`di Mā Jā'ahumu Al-Bayyinātu Wa 'Ūlā'ika Lahum `Adhābun `Ažīmun
+
+3:106
+ar: يَوْمَ تَبْيَضُّ وُجُوهٌۭ وَتَسْوَدُّ وُجُوهٌۭ ۚ فَأَمَّا ٱلَّذِينَ ٱسْوَدَّتْ وُجُوهُهُمْ أَكَفَرْتُم بَعْدَ إِيمَٰنِكُمْ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
+fr: Au jour où certains visages s'éclaireront, et que d'autres s'assombriront. A ceux dont les visages seront assombris (il sera dit): « Avez-vous mécru après avoir eu la foi ? » Eh bien, goûtez au châtiment, pour avoir renié la foi.
+ph: Yawma Tabyađđu Wujūhun Wa Taswaddu Wujūhun Fa'ammā Al-Ladhīna Aswaddat Wujūhuhum 'Akafartum Ba`da 'Īmānikum Fadhūqū Al-`Adhāba Bimā Kuntum Takfurūna
+
+3:107
+ar: وَأَمَّا ٱلَّذِينَ ٱبْيَضَّتْ وُجُوهُهُمْ فَفِى رَحْمَةِ ٱللَّهِ هُمْ فِيهَا خَٰلِدُونَ
+fr: Et quant à ceux dont les visages s'éclaireront, ils seront dans la miséricorde d'Allah, où ils demeureront éternellement.
+ph: Wa 'Ammā Al-Ladhīna Abyađđat Wujūhuhum Fafī Raĥmati Allāhi Hum Fīhā Khālidūna
+
+3:108
+ar: تِلْكَ ءَايَٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ ۗ وَمَا ٱللَّهُ يُرِيدُ ظُلْمًۭا لِّلْعَٰلَمِينَ
+fr: Tels sont les versets d'Allah; Nous te (Muhammad) les récitons avec vérité. Et Allah ne veut point léser les mondes.
+ph: Tilka 'Āyātu Allāhi Natlūhā `Alayka Bil-Ĥaqqi Wa Mā Allāhu Yurīdu Žulmāan Lil`ālamīna
+
+3:109
+ar: وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
+fr: À Allah appartient tout ce qui est dans les cieux et sur la terre. Et c'est vers Allah que toute chose sera ramenée.
+ph: Wa Lillahi Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa 'Ilá Allāhi Turja`u Al-'Umūru
+
+3:110
+ar: كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِٱلْمَعْرُوفِ وَتَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَتُؤْمِنُونَ بِٱللَّهِ ۗ وَلَوْ ءَامَنَ أَهْلُ ٱلْكِتَٰبِ لَكَانَ خَيْرًۭا لَّهُم ۚ مِّنْهُمُ ٱلْمُؤْمِنُونَ وَأَكْثَرُهُمُ ٱلْفَٰسِقُونَ
+fr: Vous êtes la meilleure communauté, qu'on ait fait surgir pour les hommes. Vous ordonnez le convenable, interdisez le blâmable et croyez à Allah. Si les gens du Livre croyaient, ce serait meilleur pour eux, il y en a qui ont la foi, mais la plupart d'entre eux sont des pervers.
+ph: Kuntum Khayra 'Ummatin 'Ukhrijat Lilnnāsi Ta'murūna Bil-Ma`rūfi Wa Tanhawna `Ani Al-Munkari Wa Tu'uminūna Billāhi Wa Law 'Āmana 'Ahlu Al-Kitābi Lakāna Khayrāan Lahum Minhumu Al-Mu'uminūna Wa 'Aktharuhumu Al-Fāsiqūna
+
+3:111
+ar: لَن يَضُرُّوكُمْ إِلَّآ أَذًۭى ۖ وَإِن يُقَٰتِلُوكُمْ يُوَلُّوكُمُ ٱلْأَدْبَارَ ثُمَّ لَا يُنصَرُونَ
+fr: Ils ne sauront jamais vous causer de grand mal, seulement une nuisance (par la langue); et s'ils vous combattent, ils vous tourneront le dos, et ils n'auront alors point de secours.
+ph: Lan Yađurrūkum 'Illā 'Adháan Wa 'In Yuqātilūkum Yuwallūkumu Al-'Adbāra Thumma Lā Yunşarūna
+
+3:112
+ar: ضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ أَيْنَ مَا ثُقِفُوٓا۟ إِلَّا بِحَبْلٍۢ مِّنَ ٱللَّهِ وَحَبْلٍۢ مِّنَ ٱلنَّاسِ وَبَآءُو بِغَضَبٍۢ مِّنَ ٱللَّهِ وَضُرِبَتْ عَلَيْهِمُ ٱلْمَسْكَنَةُ ۚ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّۢ ۚ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
+fr: Où qu'ils se trouvent, ils sont frappés d'avilissement, à moins d'un secours providentiel d'Allah ou d'un pacte conclu avec les hommes. Ils ont encouru la colère d'Allah, et les voilà frappés de malheur, pour n'avoir pas cru aux signes d'Allah, et assassiné injustement les prophètes, et aussi pour avoir désobéi et transgressé.
+ph: Đuribat `Alayhimu Adh-Dhillatu 'Ayna Mā Thuqifū 'Illā Biĥablin Mina Allāhi Wa Ĥablin Mina An-Nāsi Wa Bā'ū Bighađabin Mina Allāhi Wa Đuribat `Alayhimu Al-Maskanatu Dhālika Bi'annahum Kānū Yakfurūna Bi'āyāti Allāhi Wa Yaqtulūna Al-'Anbiyā'a Bighayri Ĥaqqin Dhālika Bimā `Aşaw Wa Kānū Ya`tadūna
+
+3:113
+ar: ۞ لَيْسُوا۟ سَوَآءًۭ ۗ مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌۭ قَآئِمَةٌۭ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ
+fr: Mais ils ne sont pas tous pareils. Il est, parmi les gens du Livre, une communauté droite qui, aux heures de la nuit, récite les versets d'Allah en se prosternant.
+ph: Laysū Sawā'an Min 'Ahli Al-Kitābi 'Ummatun Qā'imatun Yatlūna 'Āyāti Allāhi 'Ānā'a Al-Layli Wa Hum Yasjudūna
+
+3:114
+ar: يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَيُسَٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَأُو۟لَٰٓئِكَ مِنَ ٱلصَّٰلِحِينَ
+fr: Ils croient en Allah et au Jour dernier, ordonnent le convenable, interdisent le blâmable et concourent aux bonnes œuvres. Ceux-là sont parmi les gens de bien.
+ph: Yu'uminūna Billāhi Wa Al-Yawmi Al-'Ākhiri Wa Ya'murūna Bil-Ma`rūfi Wa Yanhawna `Ani Al-Munkari Wa Yusāri`ūna Fī Al-Khayrāti Wa 'Ūlā'ika Mina Aş-Şāliĥīna
+
+3:115
+ar: وَمَا يَفْعَلُوا۟ مِنْ خَيْرٍۢ فَلَن يُكْفَرُوهُ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلْمُتَّقِينَ
+fr: Et quelque bien qu'ils fassent, il ne leur sera pas dénié. Car Allah connaît bien les pieux.
+ph: Wa Mā Yaf`alū Min Khayrin Falan Yukfarūhu Wa Allāhu `Alīmun Bil-Muttaqīna
+
+3:116
+ar: إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُم مِّنَ ٱللَّهِ شَيْـًۭٔا ۖ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۚ هُمْ فِيهَا خَٰلِدُونَ
+fr: Quant à ceux qui ne croient pas, ni leurs biens, ni leurs enfants ne pourront jamais leur servir contre la punition d'Allah. Et ce sont les gens du Feu: ils y demeureront éternellement.
+ph: 'Inna Al-Ladhīna Kafarū Lan Tughniya `Anhum 'Amwāluhum Wa Lā 'Awlāduhum Mina Allāhi Shay'āan Wa 'Ūlā'ika 'Aşĥābu An-Nāri Hum Fīhā Khālidūna
+
+3:117
+ar: مَثَلُ مَا يُنفِقُونَ فِى هَٰذِهِ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَثَلِ رِيحٍۢ فِيهَا صِرٌّ أَصَابَتْ حَرْثَ قَوْمٍۢ ظَلَمُوٓا۟ أَنفُسَهُمْ فَأَهْلَكَتْهُ ۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَٰكِنْ أَنفُسَهُمْ يَظْلِمُونَ
+fr: Ce qu'ils dépensent dans la vie présente ressemble à un vent glacial qui s'abat sur un champ appartenant à des gens qui se sont lésés eux-mêmes, et le détruit. Car ce n'est pas Allah qui leur cause du mal, mais ils se font du mal à eux-mêmes.
+ph: Mathalu Mā Yunfiqūna Fī Hadhihi Al-Ĥayāati Ad-Dunyā Kamathali Rīĥin Fīhā Şirrun 'Aşābat Ĥartha Qawmin Žalamū 'Anfusahum Fa'ahlakat/hu Wa Mā Žalamahumu Allāhu Wa Lakin 'Anfusahum Yažlimūna
+
+3:118
+ar: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ بِطَانَةًۭ مِّن دُونِكُمْ لَا يَأْلُونَكُمْ خَبَالًۭا وَدُّوا۟ مَا عَنِتُّمْ قَدْ بَدَتِ ٱلْبَغْضَآءُ مِنْ أَفْوَٰهِهِمْ وَمَا تُخْفِى صُدُورُهُمْ أَكْبَرُ ۚ قَدْ بَيَّنَّا لَكُمُ ٱلْءَايَٰتِ ۖ إِن كُنتُمْ تَعْقِلُونَ
+fr: Ô les croyants, ne prenez pas de confidents en dehors de vous-mêmes: ils ne failliront pas à vous bouleverser. Ils souhaiteraient que vous soyez en difficulté. La haine certes s'est manifestée dans leurs bouches, mais ce que leurs poitrines cachent est encore plus énorme. Voilà que Nous vous exposons les signes. Si vous pouviez raisonner !
+ph: Yā 'Ayyuhā Al-Ladhīna 'Āmanū Lā Tattakhidhū Biţānatan Min Dūnikum Lā Ya'lūnakum Khabālāan Wa Ddū Mā `Anittum Qad Badati Al-Baghđā'u Min 'Afwāhihim Wa Mā Tukhfī Şudūruhum 'Akbaru Qad Bayyannā Lakumu Al-'Āyāti 'In Kuntum Ta`qilūna
+
+3:119
+ar: هَٰٓأَنتُمْ أُو۟لَآءِ تُحِبُّونَهُمْ وَلَا يُحِبُّونَكُمْ وَتُؤْمِنُونَ بِٱلْكِتَٰبِ كُلِّهِۦ وَإِذَا لَقُوكُمْ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ عَضُّوا۟ عَلَيْكُمُ ٱلْأَنَامِلَ مِنَ ٱلْغَيْظِ ۚ قُلْ مُوتُوا۟ بِغَيْظِكُمْ ۗ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+fr: Vous, (Musulmans) vous les aimez, alors qu'ils ne vous aiment pas; et vous avez foi dans le Livre tout entier. Et lorsqu'ils vous rencontrent, ils disent: « Nous croyons » et une fois seuls, de rage contre vous, ils se mordent les bouts des doigts. Dis: « Mourez de votre rage. » En vérité, Allah connaît fort bien le contenu des cœurs.
+ph: Hā'antum 'Ūlā'i Tuĥibbūnahum Wa Lā Yuĥibbūnakum Wa Tu'uminūna Bil-Kitābi Kullihi Wa 'Idhā Laqūkum Qālū 'Āmannā Wa 'Idhā Khalaw `Ađđū `Alaykumu Al-'Anāmila Mina Al-Ghayži Qul Mūtū Bighayžikum 'Inna Allāha `Alīmun Bidhāti Aş-Şudūri
+
+3:120
+ar: إِن تَمْسَسْكُمْ حَسَنَةٌۭ تَسُؤْهُمْ وَإِن تُصِبْكُمْ سَيِّئَةٌۭ يَفْرَحُوا۟ بِهَا ۖ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْـًٔا ۗ إِنَّ ٱللَّهَ بِمَا يَعْمَلُونَ مُحِيطٌۭ
+fr: Qu'un bien vous touche, ils s'en affligent. Qu'un mal vous atteigne, ils s'en réjouissent. Mais si vous êtes endurants et pieux, leur manigance ne vous causera aucun mal. Allah connaît parfaitement tout ce qu'ils font.
+ph: 'In Tamsaskum Ĥasanatun Tasu'uhum Wa 'In Tuşibkum Sayyi'atun Yafraĥū Bihā Wa 'In Taşbirū Wa Tattaqū Lā Yađurrukum Kayduhum Shay'āan 'Inna Allāha Bimā Ya`malūna Muĥīţun
+
+3:121
+ar: وَإِذْ غَدَوْتَ مِنْ أَهْلِكَ تُبَوِّئُ ٱلْمُؤْمِنِينَ مَقَٰعِدَ لِلْقِتَالِ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
+fr: Lorsqu'un matin, tu (Muhammad) quittas ta famille, pour assigner aux croyants les postes de combat et Allah est Audient et Omniscient.
+ph: Wa 'Idh Ghadawta Min 'Ahlika Tubawwi'u Al-Mu'uminīna Maqā`ida Lilqitāli Wa Allāhu Samī`un `Alīmun
+
+3:122
+ar: إِذْ هَمَّت طَّآئِفَتَانِ مِنكُمْ أَن تَفْشَلَا وَٱللَّهُ وَلِيُّهُمَا ۗ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
+fr: Quand deux de vos groupes songèrent à fléchir ! Alors qu'Allah est leur allié à tous deux ! Car, c'est en Allah que les croyants doivent placer leur confiance.
+ph: 'Idh Hammat Ţā'ifatāni Minkum 'An Tafshalā Wa Allāhu Walīyuhumā Wa `Alá Allāhi Falyatawakkali Al-Mu'uminūna
+
+3:123
+ar: وَلَقَدْ نَصَرَكُمُ ٱللَّهُ بِبَدْرٍۢ وَأَنتُمْ أَذِلَّةٌۭ ۖ فَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تَشْكُرُونَ
+fr: Allah vous a donné la victoire, à Badr, alors que vous étiez humiliés. Craignez Allah donc. Afin que vous soyez reconnaissants !
+ph: Wa Laqad Naşarakumu Allāhu Bibadrin Wa 'Antum 'Adhillatun Fa Attaqū Allāha La`allakum Tashkurūna
+
+3:124
+ar: إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَن يَكْفِيَكُمْ أَن يُمِدَّكُمْ رَبُّكُم بِثَلَٰثَةِ ءَالَٰفٍۢ مِّنَ ٱلْمَلَٰٓئِكَةِ مُنزَلِينَ
+fr: (Allah vous a bien donné la victoire) lorsque tu disais aux croyants: « Ne vous suffit-il pas que votre Seigneur vous fasse descendre en aide trois milliers d'Anges ? »
+ph: 'Idh Taqūlu Lilmu'uminīna 'Alan Yakfiyakum 'An Yumiddakum Rabbukum Bithalāthati 'Ālāfin Mina Al-Malā'ikati Munzalīna
+
+3:125
+ar: بَلَىٰٓ ۚ إِن تَصْبِرُوا۟ وَتَتَّقُوا۟ وَيَأْتُوكُم مِّن فَوْرِهِمْ هَٰذَا يُمْدِدْكُمْ رَبُّكُم بِخَمْسَةِ ءَالَٰفٍۢ مِّنَ ٱلْمَلَٰٓئِكَةِ مُسَوِّمِينَ
+fr: Mais oui ! Si vous êtes endurants et pieux, et qu'ils [les ennemis] vous assaillent immédiatement, votre Seigneur vous enverra en renfort cinq mille Anges marqués distinctement.
+ph: Balá 'In Taşbirū Wa Tattaqū Wa Ya'tūkum Min Fawrihim Hādhā Yumdidkum Rabbukum Bikhamsati 'Ālāfin Mina Al-Malā'ikati Musawwimīna
+
+3:126
+ar: وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشْرَىٰ لَكُمْ وَلِتَطْمَئِنَّ قُلُوبُكُم بِهِۦ ۗ وَمَا ٱلنَّصْرُ إِلَّا مِنْ عِندِ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ
+fr: Et Allah ne le fit que (pour vous annoncer) une bonne nouvelle, et pour que vos cœurs s'en rassurent. La victoire ne peut venir que d'Allah, le Puissant, le Sage;
+ph: Wa Mā Ja`alahu Allāhu 'Illā Bushrá Lakum Wa Litaţma'inna Qulūbukum Bihi Wa Mā An-Naşru 'Illā Min `Indi Allāhi Al-`Azīzi Al-Ĥakīmi
+
+3:127
+ar: لِيَقْطَعَ طَرَفًۭا مِّنَ ٱلَّذِينَ كَفَرُوٓا۟ أَوْ يَكْبِتَهُمْ فَيَنقَلِبُوا۟ خَآئِبِينَ
+fr: pour anéantir une partie des mécréants ou pour les humilier (par la défaite) et qu'ils en retournent donc déçus.
+ph: Liyaqţa`a Ţarafāan Mina Al-Ladhīna Kafarū 'Aw Yakbitahum Fayanqalibū Khā'ibīna
+
+3:128
+ar: لَيْسَ لَكَ مِنَ ٱلْأَمْرِ شَىْءٌ أَوْ يَتُوبَ عَلَيْهِمْ أَوْ يُعَذِّبَهُمْ فَإِنَّهُمْ ظَٰلِمُونَ
+fr: -Tu n'as (Muhammad) aucune part dans l'ordre (divin) -qu'Il (Allah) accepte leur repentir (en embrassant l'Islam) ou qu'Il les châtie, car ils sont bien des injustes.
+ph: Laysa Laka Mina Al-'Amri Shay'un 'Aw Yatūba `Alayhim 'Aw Yu`adhibahum Fa'innahum Žālimūna
+
+3:129
+ar: وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ
+fr: À Allah appartient tout ce qui est dans les cieux et sur la terre. Il pardonne à qui Il veut, et Il châtie qui Il veut... Et Allah est Pardonneur et Miséricordieux.
+ph: Wa Lillahi Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Yaghfiru Liman Yashā'u Wa Yu`adhibu Man Yashā'u Wa Allāhu Ghafūrun Raĥīmun
+
+3:130
+ar: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوا۟ ٱلرِّبَوٰٓا۟ أَضْعَٰفًۭا مُّضَٰعَفَةًۭ ۖ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
+fr: Ô les croyants ! Ne pratiquez pas l'usure en multipliant démesurément votre capital. Et craignez Allah afin que vous réussissiez !
+ph: Yā 'Ayyuhā Al-Ladhīna 'Āmanū Lā Ta'kulū Ar-Ribā 'Ađ`āfāan Muđā`afatan Wa Attaqū Allāha La`allakum Tufliĥūna
+
+3:131
+ar: وَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِىٓ أُعِدَّتْ لِلْكَٰفِرِينَ
+fr: Et craignez le Feu préparé pour les mécréants.
+ph: Wa Attaqū An-Nāra Allatī 'U`iddat Lilkāfirīna
+
+3:132
+ar: وَأَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ
+fr: Et obéissez à Allah et au Messager afin qu'il vous soit fait miséricorde !
+ph: Wa 'Aţī`ū Allāha Wa Ar-Rasūla La`allakum Turĥamūna
+
+3:133
+ar: ۞ وَسَارِعُوٓا۟ إِلَىٰ مَغْفِرَةٍۢ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا ٱلسَّمَٰوَٰتُ وَٱلْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ
+fr: Et concourez au pardon de votre Seigneur, et à un Jardin (paradis) large comme les cieux et la terre, préparé pour les pieux,
+ph: Wa Sāri`ū 'Ilá Maghfiratin Min Rabbikum Wa Jannatin `Arđuhā As-Samāwātu Wa Al-'Arđu 'U`iddat Lilmuttaqīna
+
+3:134
+ar: ٱلَّذِينَ يُنفِقُونَ فِى ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَٰظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ
+fr: qui dépensent dans l'aisance et dans l'adversité, qui dominent leur rage et pardonnent à autrui -car Allah aime les bienfaisants -
+ph: Al-Ladhīna Yunfiqūna Fī As-Sarrā'i Wa Ađ-Đarrā'i Wa Al-Kāžimīna Al-Ghayža Wa Al-`Āfīna `Ani An-Nāsi Wa Allāhu Yuĥibbu Al-Muĥsinīna
+
+3:135
+ar: وَٱلَّذِينَ إِذَا فَعَلُوا۟ فَٰحِشَةً أَوْ ظَلَمُوٓا۟ أَنفُسَهُمْ ذَكَرُوا۟ ٱللَّهَ فَٱسْتَغْفَرُوا۟ لِذُنُوبِهِمْ وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ وَلَمْ يُصِرُّوا۟ عَلَىٰ مَا فَعَلُوا۟ وَهُمْ يَعْلَمُونَ
+fr: et pour ceux qui, s'ils ont commis quelque turpitude ou causé quelque préjudice à leurs propres âmes (en désobéissant à Allah), se souviennent d'Allah et demandent pardon pour leurs péchés -et qui est-ce qui pardonne les péchés sinon Allah ? -et qui ne persistent pas sciemment dans le mal qu'ils ont fait.
+ph: Wa Al-Ladhīna 'Idhā Fa`alū Fāĥishatan 'Aw Žalamū 'Anfusahum Dhakarū Allāha Fāstaghfarū Lidhunūbihim Wa Man Yaghfiru Adh-Dhunūba 'Illā Allāhu Wa Lam Yuşirrū `Alá Mā Fa`alū Wa Hum Ya`lamūna
+
+3:136
+ar: أُو۟لَٰٓئِكَ جَزَآؤُهُم مَّغْفِرَةٌۭ مِّن رَّبِّهِمْ وَجَنَّٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ۚ وَنِعْمَ أَجْرُ ٱلْعَٰمِلِينَ
+fr: Ceux-là ont pour récompense le pardon de leur Seigneur, ainsi que les Jardins sous lesquels coulent les ruisseaux, pour y demeurer éternellement. Comme est beau le salaire de ceux qui font le bien !
+ph: 'Ūlā'ika Jazā'uuhum Maghfiratun Min Rabbihim Wa Jannātun Tajrī Min Taĥtihā Al-'Anhāru Khālidīna Fīhā Wa Ni`ma 'Ajru Al-`Āmilīna
+
+3:137
+ar: قَدْ خَلَتْ مِن قَبْلِكُمْ سُنَنٌۭ فَسِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُكَذِّبِينَ
+fr: Avant vous, certes, beaucoup d'événements se sont passés. Or, parcourez la terre, et voyez ce qu'il est advenu de ceux qui traitaient (les prophètes) de menteurs.
+ph: Qad Khalat Min Qablikum Sunanun Fasīrū Fī Al-'Arđi Fānžurū Kayfa Kāna `Āqibatu Al-Mukadhibīna
+
+3:138
+ar: هَٰذَا بَيَانٌۭ لِّلنَّاسِ وَهُدًۭى وَمَوْعِظَةٌۭ لِّلْمُتَّقِينَ
+fr: Voilà un exposé pour les gens, un guide, et une exhortation pour les pieux.
+ph: Hādhā Bayānun Lilnnāsi Wa Hudáan Wa Maw`ižatun Lilmuttaqīna
+
+3:139
+ar: وَلَا تَهِنُوا۟ وَلَا تَحْزَنُوا۟ وَأَنتُمُ ٱلْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ
+fr: Ne vous laissez pas battre, ne vous affligez pas alors que vous êtes les supérieurs, si vous êtes de vrais croyants.
+ph: Wa Lā Tahinū Wa Lā Taĥzanū Wa 'Antumu Al-'A`lawna 'In Kuntum Mu'uminīna
+
+3:140
+ar: إِن يَمْسَسْكُمْ قَرْحٌۭ فَقَدْ مَسَّ ٱلْقَوْمَ قَرْحٌۭ مِّثْلُهُۥ ۚ وَتِلْكَ ٱلْأَيَّامُ نُدَاوِلُهَا بَيْنَ ٱلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَتَّخِذَ مِنكُمْ شُهَدَآءَ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ
+fr: Si une blessure vous atteint, pareille blessure atteint aussi l'ennemi. Ainsi faisons-Nous alterner les jours (bons et mauvais) parmi les gens, afin qu'Allah reconnaisse ceux qui ont cru, et qu'Il choisisse parmi vous des martyrs -et Allah n'aime pas les injustes,
+ph: 'In Yamsaskum Qarĥun Faqad Massa Al-Qawma Qarĥun Mithluhu Wa Tilka Al-'Ayyāmu Nudāwiluhā Bayna An-Nāsi Wa Liya`lama Allāhu Al-Ladhīna 'Āmanū Wa Yattakhidha Minkum Shuhadā'a Wa Allāhu Lā Yuĥibbu Až-Žālimīna
+
+3:141
+ar: وَلِيُمَحِّصَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَمْحَقَ ٱلْكَٰفِرِينَ
+fr: et afin qu'Allah purifie ceux qui ont cru, et anéantisse les mécréants.
+ph: Wa Liyumaĥĥişa Allāhu Al-Ladhīna 'Āmanū Wa Yamĥaqa Al-Kāfirīna
+
+3:142
+ar: أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَعْلَمِ ٱللَّهُ ٱلَّذِينَ جَٰهَدُوا۟ مِنكُمْ وَيَعْلَمَ ٱلصَّٰبِرِينَ
+fr: Comptez-vous entrer au Paradis sans qu'Allah ne distingue parmi vous ceux qui luttent et qui sont endurants ?
+ph: 'Am Ĥasibtum 'An Tadkhulū Al-Jannata Wa Lammā Ya`lami Allāhu Al-Ladhīna Jāhadū Minkum Wa Ya`lama Aş-Şābirīna
+
+3:143
+ar: وَلَقَدْ كُنتُمْ تَمَنَّوْنَ ٱلْمَوْتَ مِن قَبْلِ أَن تَلْقَوْهُ فَقَدْ رَأَيْتُمُوهُ وَأَنتُمْ تَنظُرُونَ
+fr: Bien sûr, vous souhaitiez la mort avant de la rencontrer. Or vous l'avez vue, certes, tandis que vous regardiez !
+ph: Wa Laqad Kuntum Tatamannawn Al-Mawta Min Qabli 'An Talqawhu Faqad Ra'aytumūhu Wa 'Antum Tanžurūna
+
+3:144
+ar: وَمَا مُحَمَّدٌ إِلَّا رَسُولٌۭ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ ۚ أَفَإِي۟ن مَّاتَ أَوْ قُتِلَ ٱنقَلَبْتُمْ عَلَىٰٓ أَعْقَٰبِكُمْ ۚ وَمَن يَنقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَن يَضُرَّ ٱللَّهَ شَيْـًۭٔا ۗ وَسَيَجْزِى ٱللَّهُ ٱلشَّٰكِرِينَ
+fr: Muhammad n'est qu'un messager -des messagers avant lui sont passés -. S'il mourait, donc, ou s'il était tué, retourneriez-vous sur vos talons ? Quiconque retourne sur ses talons ne nuira en rien à Allah; et Allah récompensera bientôt les reconnaissants.
+ph: Wa Mā Muĥammadun 'Illā Rasūlun Qad Khalat Min Qablihi Ar-Rusulu 'Afa'īn Māta 'Aw Qutila Anqalabtum `Alá 'A`qābikum Wa Man Yanqalib `Alá `Aqibayhi Falan Yađurra Allāha Shay'āan Wa Sayajzī Allāhu Ash-Shākirīna
+
+3:145
+ar: وَمَا كَانَ لِنَفْسٍ أَن تَمُوتَ إِلَّا بِإِذْنِ ٱللَّهِ كِتَٰبًۭا مُّؤَجَّلًۭا ۗ وَمَن يُرِدْ ثَوَابَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَن يُرِدْ ثَوَابَ ٱلْءَاخِرَةِ نُؤْتِهِۦ مِنْهَا ۚ وَسَنَجْزِى ٱلشَّٰكِرِينَ
+fr: Personne ne peut mourir que par la permission d'Allah, et au moment prédéterminé. Quiconque veut la récompense d'ici-bas, Nous lui en donnons. Quiconque veut la récompense de l'au-delà, Nous lui en donnons, et Nous récompenserons bientôt les reconnaissants.
+ph: Wa Mā Kāna Linafsin 'An Tamūta 'Illā Bi'idhni Allāhi Kitābāan Mu'uajjalāan Wa Man Yurid Thawāba Ad-Dunyā Nu'utihi Minhā Wa Man Yurid Thawāba Al-'Ākhirati Nu'utihi Minhā Wa Sanajzī Ash-Shākirīna
+
+3:146
+ar: وَكَأَيِّن مِّن نَّبِىٍّۢ قَٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٌۭ فَمَا وَهَنُوا۟ لِمَآ أَصَابَهُمْ فِى سَبِيلِ ٱللَّهِ وَمَا ضَعُفُوا۟ وَمَا ٱسْتَكَانُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلصَّٰبِرِينَ
+fr: Combien de prophètes ont combattu, en compagnie de beaucoup de disciples, ceux-ci ne fléchirent pas à cause de ce qui les atteignit dans le sentier d'Allah. Ils ne faiblirent pas et ils ne cédèrent point. Et Allah aime les endurants.
+ph: Wa Ka'ayyin Min Nabīyin Qātala Ma`ahu Ribbīyūna Kathīrun Famā Wahanū Limā 'Aşābahum Fī Sabīli Allāhi Wa Mā Đa`ufū Wa Mā Astakānū Wa Allāhu Yuĥibbu Aş-Şābirīna
+
+3:147
+ar: وَمَا كَانَ قَوْلَهُمْ إِلَّآ أَن قَالُوا۟ رَبَّنَا ٱغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِىٓ أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
+fr: Et ils n'eurent que cette parole: « Seigneur, pardonne-nous nos péchés ainsi que nos excès dans nos comportements, affermis nos pas et donne-nous la victoire sur les gens mécréants. »
+ph: Wa Mā Kāna Qawlahum 'Illā 'An Qālū Rabbanā Aghfir Lanā Dhunūbanā Wa 'Isrāfanā Fī 'Amrinā Wa Thabbit 'Aqdāmanā Wa Anşurnā `Alá Al-Qawmi Al-Kāfirīna
+
+3:148
+ar: فَـَٔاتَىٰهُمُ ٱللَّهُ ثَوَابَ ٱلدُّنْيَا وَحُسْنَ ثَوَابِ ٱلْءَاخِرَةِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ
+fr: Allah, donc, leur donna la récompense d'ici-bas, ainsi que la belle récompense de l'au-delà. Et Allah aime les gens bienfaisants.
+ph: Fa'ātāhumu Allāhu Thawāba Ad-Dunyā Wa Ĥusna Thawābi Al-'Ākhirati Wa Allāhu Yuĥibbu Al-Muĥsinīna
+
+3:149
+ar: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ ٱلَّذِينَ كَفَرُوا۟ يَرُدُّوكُمْ عَلَىٰٓ أَعْقَٰبِكُمْ فَتَنقَلِبُوا۟ خَٰسِرِينَ
+fr: Ô les croyants ! Si vous obéissez à ceux qui ne croient pas, ils vous feront retourner en arrière. Et vous reviendrez perdants.
+ph: Yā 'Ayyuhā Al-Ladhīna 'Āmanū 'In Tuţī`ū Al-Ladhīna Kafarū Yaruddūkum `Alá 'A`qābikum Fatanqalibū Khāsirīna
+
+3:150
+ar: بَلِ ٱللَّهُ مَوْلَىٰكُمْ ۖ وَهُوَ خَيْرُ ٱلنَّٰصِرِينَ
+fr: Mais c'est Allah votre Maître. Il est le meilleur des secoureurs.
+ph: Bali Allāhu Mawlākum Wa Huwa Khayru An-Nāşirīna
+
+3:151
+ar: سَنُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ بِمَآ أَشْرَكُوا۟ بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَٰنًۭا ۖ وَمَأْوَىٰهُمُ ٱلنَّارُ ۚ وَبِئْسَ مَثْوَى ٱلظَّٰلِمِينَ
+fr: Nous allons jeter l'effroi dans les cœurs des mécréants. Car ils ont associé à Allah (des idoles) sans aucune preuve descendue de Sa part. Le Feu sera leur refuge. Quel mauvais séjour, que celui des injustes !
+ph: Sanulqī Fī Qulūbi Al-Ladhīna Kafarū Ar-Ru`ba Bimā 'Ashrakū Billāhi Mā Lam Yunazzil Bihi Sulţānāan Wa Ma'wāhumu An-Nāru Wa Bi'sa Mathwá Až-Žālimīna
+
+3:152
+ar: وَلَقَدْ صَدَقَكُمُ ٱللَّهُ وَعْدَهُۥٓ إِذْ تَحُسُّونَهُم بِإِذْنِهِۦ ۖ حَتَّىٰٓ إِذَا فَشِلْتُمْ وَتَنَٰزَعْتُمْ فِى ٱلْأَمْرِ وَعَصَيْتُم مِّنۢ بَعْدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَ ۚ مِنكُم مَّن يُرِيدُ ٱلدُّنْيَا وَمِنكُم مَّن يُرِيدُ ٱلْءَاخِرَةَ ۚ ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ ۖ وَلَقَدْ عَفَا عَنكُمْ ۗ وَٱللَّهُ ذُو فَضْلٍ عَلَى ٱلْمُؤْمِنِينَ
+fr: Et certes, Allah a tenu Sa promesse envers vous, quand par Sa permission vous les tuiez sans relâche, jusqu'au moment où vous avez fléchi, où vous vous êtes disputés à propos de l'ordre donné, et vous avez désobéi après qu'Il vous eut montré (la victoire) que vous aimez ! Il en était parmi vous qui désiraient la vie d'ici-bas et il en était parmi vous qui désiraient l'au-delà. Puis Il vous a fait reculer devant eux, afin de vous éprouver. Et certes Il vous a pardonné. Et Allah est Détenteur de la grâce envers les croyants.
+ph: Wa Laqad Şadaqakumu Allāhu Wa`dahu 'Idh Taĥussūnahum Bi'idhnihi Ĥattá 'Idhā Fashiltum Wa Tanāza`tum Fī Al-'Amri Wa `Aşaytum Min Ba`di Mā 'Arākum Mā Tuĥibbūna Minkum Man Yurīdu Ad-Dunyā Wa Minkum Man Yurīdu Al-'Ākhirata Thumma Şarafakum `Anhum Liyabtaliyakum Wa Laqad `Afā `Ankum Wa Allāhu Dhū Fađlin `Alá Al-Mu'uminīna
+
+3:153
+ar: ۞ إِذْ تُصْعِدُونَ وَلَا تَلْوُۥنَ عَلَىٰٓ أَحَدٍۢ وَٱلرَّسُولُ يَدْعُوكُمْ فِىٓ أُخْرَىٰكُمْ فَأَثَٰبَكُمْ غَمًّۢا بِغَمٍّۢ لِّكَيْلَا تَحْزَنُوا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا مَآ أَصَٰبَكُمْ ۗ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ
+fr: (Rappelez-vous) quand vous fuyiez sans vous retourner vers personne, cependant que, derrière vous, le Messager vous appelait. Alors Il vous infligea angoisse sur angoisse, afin que vous n'ayez pas de chagrin pour ce qui vous a échappé ni pour les revers que vous avez subis. Et Allah est Parfaitement Connaisseur de ce que vous faites.
+ph: 'Idh Tuş`idūna Wa Lā Talwūna `Alá 'Aĥadin Wa Ar-Rasūlu Yad`ūkum Fī 'Ukhrākum Fa'athābakum Ghammāan Bighammin Likaylā Taĥzanū `Alá Mā Fātakum Wa Lā Mā 'Aşābakum Wa Allāhu Khabīrun Bimā Ta`malūna
+
+3:154
+ar: ثُمَّ أَنزَلَ عَلَيْكُم مِّنۢ بَعْدِ ٱلْغَمِّ أَمَنَةًۭ نُّعَاسًۭا يَغْشَىٰ طَآئِفَةًۭ مِّنكُمْ ۖ وَطَآئِفَةٌۭ قَدْ أَهَمَّتْهُمْ أَنفُسُهُمْ يَظُنُّونَ بِٱللَّهِ غَيْرَ ٱلْحَقِّ ظَنَّ ٱلْجَٰهِلِيَّةِ ۖ يَقُولُونَ هَل لَّنَا مِنَ ٱلْأَمْرِ مِن شَىْءٍۢ ۗ قُلْ إِنَّ ٱلْأَمْرَ كُلَّهُۥ لِلَّهِ ۗ يُخْفُونَ فِىٓ أَنفُسِهِم مَّا لَا يُبْدُونَ لَكَ ۖ يَقُولُونَ لَوْ كَانَ لَنَا مِنَ ٱلْأَمْرِ شَىْءٌۭ مَّا قُتِلْنَا هَٰهُنَا ۗ قُل لَّوْ كُنتُمْ فِى بُيُوتِكُمْ لَبَرَزَ ٱلَّذِينَ كُتِبَ عَلَيْهِمُ ٱلْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ ۖ وَلِيَبْتَلِىَ ٱللَّهُ مَا فِى صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِى قُلُوبِكُمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+fr: Puis Il fit descendre sur vous, après l'angoisse, la tranquillité, un sommeil qui enveloppa une partie d'entre vous, tandis qu'une autre partie était soucieuse pour elle-même et avait des pensées sur Allah non conformes à la vérité, des pensées dignes de l'époque de l'Ignorance. -Ils disaient: « Est-ce que nous avons une part dans cette affaire ? » Dis: « L'affaire toute entière est à Allah. » Ce qu'ils ne te révèlent pas, ils le cachent en eux-mêmes: « Si nous avions eu un choix quelconque dans cette affaire, disent-ils, nous n'aurions pas été tués ici. » Dis: « Eussiez-vous été dans vos maisons, ceux pour qui la mort était décrétée seraient sortis pour l'endroit où la mort les attendait. Ceci afin qu'Allah éprouve ce que vous avez dans vos poitrines, et qu'Il purifie ce que vous avez dans vos cœurs. Et Allah connaît ce qu'il y a dans les cœurs.
+ph: Thumma 'Anzala `Alaykum Min Ba`di Al-Ghammi 'Amanatan Nu`āsāan Yaghshá Ţā'ifatan Minkum Wa Ţā'ifatun Qad 'Ahammat/hum 'Anfusuhum Yažunnūna Billāhi Ghayra Al-Ĥaqqi Žanna Al-Jāhilīyati Yaqūlūna Hal Lanā Mina Al-'Amri Min Shay'in Qul 'Inna Al-'Amra Kullahu Lillāhi Yukhfūna Fī 'Anfusihim Mā Lā Yubdūna Laka Yaqūlūna Law Kāna Lanā Mina Al-'Amri Shay'un Mā Qutilnā Hāhunā Qul Law Kuntum Fī Buyūtikum Labaraza Al-Ladhīna Kutiba `Alayhimu Al-Qatlu 'Ilá Mađāji`ihim Wa Liyabtaliya Allāhu Mā Fī Şudūrikum Wa Liyumaĥĥişa Mā Fī Qulūbikum Wa Allāhu `Alīmun Bidhāti Aş-Şudūri
+
+3:155
+ar: إِنَّ ٱلَّذِينَ تَوَلَّوْا۟ مِنكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ إِنَّمَا ٱسْتَزَلَّهُمُ ٱلشَّيْطَٰنُ بِبَعْضِ مَا كَسَبُوا۟ ۖ وَلَقَدْ عَفَا ٱللَّهُ عَنْهُمْ ۗ إِنَّ ٱللَّهَ غَفُورٌ حَلِيمٌۭ
+fr: Ceux d'entre vous qui ont tourné le dos, le jour où les deux armées se rencontrèrent, c'est seulement le Diable qui les a fait broncher, à cause d'une partie de leurs (mauvaises) actions. Mais, certes, Allah leur a pardonné. Car vraiment Allah est Pardonneur et Indulgent !
+ph: 'Inna Al-Ladhīna Tawallaw Minkum Yawma At-Taqá Al-Jam`āni 'Innamā Astazallahumu Ash-Shayţānu Biba`đi Mā Kasabū Wa Laqad `Afā Allāhu `Anhum 'Inna Allāha Ghafūrun Ĥalīmun
+
+3:156
+ar: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ كَفَرُوا۟ وَقَالُوا۟ لِإِخْوَٰنِهِمْ إِذَا ضَرَبُوا۟ فِى ٱلْأَرْضِ أَوْ كَانُوا۟ غُزًّۭى لَّوْ كَانُوا۟ عِندَنَا مَا مَاتُوا۟ وَمَا قُتِلُوا۟ لِيَجْعَلَ ٱللَّهُ ذَٰلِكَ حَسْرَةًۭ فِى قُلُوبِهِمْ ۗ وَٱللَّهُ يُحْىِۦ وَيُمِيتُ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ
+fr: Ô les croyants ! Ne soyez pas comme ces mécréants qui dirent à propos de leurs frères partis en voyage ou pour combattre: « S'ils étaient chez nous, ils ne seraient pas morts, et ils n'auraient pas été tués. » Allah en fit un sujet de regret dans leurs cœurs. C'est Allah qui donne la vie et la mort. Et Allah observe bien ce que vous faites.
+ph: Yā 'Ayyuhā Al-Ladhīna 'Āmanū Lā Takūnū Kālladhīna Kafarū Wa Qālū Li'khwānihim 'Idhā Đarabū Fī Al-'Arđi 'Aw Kānū Ghuzzáan Law Kānū `Indanā Mā Mātū Wa Mā Qutilū Liyaj`ala Allāhu Dhālika Ĥasratan Fī Qulūbihim Wa Allāhu Yuĥyī Wa Yumītu Wa Allāhu Bimā Ta`malūna Başīrun
+
+3:157
+ar: وَلَئِن قُتِلْتُمْ فِى سَبِيلِ ٱللَّهِ أَوْ مُتُّمْ لَمَغْفِرَةٌۭ مِّنَ ٱللَّهِ وَرَحْمَةٌ خَيْرٌۭ مِّمَّا يَجْمَعُونَ
+fr: Et si vous êtes tués dans le sentier d'Allah ou si vous mourez, un pardon de la part d'Allah et une miséricorde valent mieux que ce qu'ils amassent.
+ph: Wa La'in Qutiltum Fī Sabīli Allāhi 'Aw Muttum Lamaghfiratun Mina Allāhi Wa Raĥmatun Khayrun Mimmā Yajma`ūna
+
+3:158
+ar: وَلَئِن مُّتُّمْ أَوْ قُتِلْتُمْ لَإِلَى ٱللَّهِ تُحْشَرُونَ
+fr: Que vous mouriez ou que vous soyez tués, c'est vers Allah que vous serez rassemblés.
+ph: Wa La'in Muttum 'Aw Qutiltum La'ilá Allāhi Tuĥsharūna
+
+3:159
+ar: فَبِمَا رَحْمَةٍۢ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ ۖ فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى ٱلْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ
+fr: C'est par quelque miséricorde de la part d'Allah que tu (Muhammad) as été si doux envers eux ! Mais si tu étais rude, au cœur dur, ils se seraient enfuis de ton entourage. Pardonne-leur donc, et implore pour eux le pardon (d'Allah). Et consulte-les à propos des affaires; puis une fois que tu t'es décidé, confie-toi donc à Allah, Allah aime, en vérité, ceux qui Lui font confiance.
+ph: Fabimā Raĥmatin Mina Allāhi Linta Lahum Wa Law Kunta Fažžāan Ghalīža Al-Qalbi Lānfađđū Min Ĥawlika Fā`fu `Anhum Wa Astaghfir Lahum Wa Shāwirhum Fī Al-'Amri Fa'idhā `Azamta Fatawakkal `Alá Allāhi 'Inna Allāha Yuĥibbu Al-Mutawakkilīna
+
+3:160
+ar: إِن يَنصُرْكُمُ ٱللَّهُ فَلَا غَالِبَ لَكُمْ ۖ وَإِن يَخْذُلْكُمْ فَمَن ذَا ٱلَّذِى يَنصُرُكُم مِّنۢ بَعْدِهِۦ ۗ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
+fr: Si Allah vous donne Son secours, nul ne peut vous vaincre. S'Il vous abandonne, qui donc après Lui vous donnera secours ? C'est à Allah que les croyants doivent faire confiance.
+ph: 'In Yanşurkumu Allāhu Falā Ghāliba Lakum Wa 'In Yakhdhulkum Faman Dhā Al-Ladhī Yanşurukum Min Ba`dihi Wa `Alá Allāhi Falyatawakkali Al-Mu'uminūna
+
+3:161
+ar: وَمَا كَانَ لِنَبِىٍّ أَن يَغُلَّ ۚ وَمَن يَغْلُلْ يَأْتِ بِمَا غَلَّ يَوْمَ ٱلْقِيَٰمَةِ ۚ ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍۢ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
+fr: Un prophète n'est pas quelqu'un à s'approprier du butin. Quiconque s'en approprie, viendra avec ce qu'il se sera approprié le Jour de la Résurrection. Alors, à chaque individu on rétribuera pleinement ce qu'il aura acquis. Et ils ne seront point lésés.
+ph: Wa Mā Kāna Linabīyin 'An Yaghulla Wa Man Yaghlul Ya'ti Bimā Ghalla Yawma Al-Qiyāmati Thumma Tuwaffá Kullu Nafsin Mā Kasabat Wa Hum Lā Yužlamūna
+
+3:162
+ar: أَفَمَنِ ٱتَّبَعَ رِضْوَٰنَ ٱللَّهِ كَمَنۢ بَآءَ بِسَخَطٍۢ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ جَهَنَّمُ ۚ وَبِئْسَ ٱلْمَصِيرُ
+fr: Est-ce que celui qui se conforme à l'agrément d'Allah ressemble à celui qui encourt le courroux d'Allah ? Son refuge sera l'Enfer; et quelle mauvaise destination !
+ph: 'Afamani Attaba`a Riđwāna Allāhi Kaman Bā'a Bisakhaţin Mina Allāhi Wa Ma'wāhu Jahannamu Wa Bi'sa Al-Maşīru
+
+3:163
+ar: هُمْ دَرَجَٰتٌ عِندَ ٱللَّهِ ۗ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
+fr: Ils ont des grades (différents) auprès d'Allah et Allah observe bien ce qu'ils font.
+ph: Hum Darajātun `Inda Allāhi Wa Allāhu Başīrun Bimā Ya`malūna
+
+3:164
+ar: لَقَدْ مَنَّ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًۭا مِّنْ أَنفُسِهِمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَٰلٍۢ مُّبِينٍ
+fr: Allah a très certainement fait une faveur aux croyants lorsqu'Il a envoyé chez eux un messager de parmi eux-mêmes, qui leur récite Ses versets, les purifie et leur enseigne le Livre et la Sagesse, bien qu'ils fussent auparavant dans un égarement évident.
+ph: Laqad Manna Allāhu `Alá Al-Mu'uminīna 'Idh Ba`atha Fīhim Rasūlāan Min 'Anfusihim Yatlū `Alayhim 'Āyātihi Wa Yuzakkīhim Wa Yu`allimuhumu Al-Kitāba Wa Al-Ĥikmata Wa 'In Kānū Min Qablu Lafī Đalālin Mubīnin
+
+3:165
+ar: أَوَلَمَّآ أَصَٰبَتْكُم مُّصِيبَةٌۭ قَدْ أَصَبْتُم مِّثْلَيْهَا قُلْتُمْ أَنَّىٰ هَٰذَا ۖ قُلْ هُوَ مِنْ عِندِ أَنفُسِكُمْ ۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ
+fr: Quoi ! Quand un malheur vous atteint -mais vous en avez jadis infligé le double -vous dites: « D'où vient cela ? » Réponds-leur: « Il vient de vous-mêmes. » Certes Allah est Omnipotent.
+ph: 'Awalammā 'Aşābatkum Muşībatun Qad 'Aşabtum Mithlayhā Qultum 'Anná Hādhā Qul Huwa Min `Indi 'Anfusikum 'Inna Allāha `Alá Kulli Shay'in Qadīrun
+
+3:166
+ar: وَمَآ أَصَٰبَكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ فَبِإِذْنِ ٱللَّهِ وَلِيَعْلَمَ ٱلْمُؤْمِنِينَ
+fr: Et tout ce que vous avez subi, le jour où les deux troupes se rencontrèrent, c'est par permission d'Allah, et afin qu'Il distingue les croyants,
+ph: Wa Mā 'Aşābakum Yawma At-Taqá Al-Jam`āni Fabi'idhni Allāhi Wa Liya`lama Al-Mu'uminīna
+
+3:167
+ar: وَلِيَعْلَمَ ٱلَّذِينَ نَافَقُوا۟ ۚ وَقِيلَ لَهُمْ تَعَالَوْا۟ قَٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَوِ ٱدْفَعُوا۟ ۖ قَالُوا۟ لَوْ نَعْلَمُ قِتَالًۭا لَّٱتَّبَعْنَٰكُمْ ۗ هُمْ لِلْكُفْرِ يَوْمَئِذٍ أَقْرَبُ مِنْهُمْ لِلْإِيمَٰنِ ۚ يَقُولُونَ بِأَفْوَٰهِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۗ وَٱللَّهُ أَعْلَمُ بِمَا يَكْتُمُونَ
+fr: et qu'Il distingue les hypocrites. On avait dit à ceux-ci: « Venez combattre dans le sentier d'Allah, ou repoussez [l'ennemi] », ils dirent: « Bien sûr que nous vous suivrions si nous étions sûrs qu'il y aurait une guerre. » Ils étaient, ce jour-là, plus près de la mécréance que de la foi. Ils disaient de leurs bouches ce qui n'était pas dans leurs cœurs. Et Allah sait fort bien ce qu'ils cachaient.
+ph: Wa Liya`lama Al-Ladhīna Nāfaqū Wa Qīla Lahum Ta`ālaw Qātilū Fī Sabīli Allāhi 'Aw Adfa`ū Qālū Law Na`lamu Qitālāan Lāttaba`nākum Hum Lilkufri Yawma'idhin 'Aqrabu Minhum Lil'īmāni Yaqūlūna Bi'afwhihim Mā Laysa Fī Qulūbihim Wa Allāhu 'A`lamu Bimā Yaktumūna
+
+3:168
+ar: ٱلَّذِينَ قَالُوا۟ لِإِخْوَٰنِهِمْ وَقَعَدُوا۟ لَوْ أَطَاعُونَا مَا قُتِلُوا۟ ۗ قُلْ فَٱدْرَءُوا۟ عَنْ أَنفُسِكُمُ ٱلْمَوْتَ إِن كُنتُمْ صَٰدِقِينَ
+fr: Ceux qui sont restés dans leurs foyers dirent à leurs frères: « S'ils nous avaient obéi, ils n'auraient pas été tués. » Dis: « Ecartez donc de vous la mort, si vous êtes véridiques. »
+ph: Al-Ladhīna Qālū Li'khwānihim Wa Qa`adū Law 'Aţā`ūnā Mā Qutilū Qul Fādra'ū `An 'Anfusikumu Al-Mawta 'In Kuntum Şādiqīna
+
+3:169
+ar: وَلَا تَحْسَبَنَّ ٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتًۢا ۚ بَلْ أَحْيَآءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ
+fr: Ne pense pas que ceux qui ont été tués dans le sentier d'Allah, soient morts. Au contraire, ils sont vivants, auprès de leur Seigneur, bien pourvus
+ph: Wa Lā Taĥsabanna Al-Ladhīna Qutilū Fī Sabīli Allāhi 'Amwātāan Bal 'Aĥyā'un `Inda Rabbihim Yurzaqūna
+
+3:170
+ar: فَرِحِينَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَيَسْتَبْشِرُونَ بِٱلَّذِينَ لَمْ يَلْحَقُوا۟ بِهِم مِّنْ خَلْفِهِمْ أَلَّا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+fr: et joyeux de la faveur qu'Allah leur a accordée, et ravis que ceux qui sont restés derrière eux et ne les ont pas encore rejoints, ne connaîtront aucune crainte et ne seront point affligés.
+ph: Fariĥīna Bimā 'Ātāhumu Allāhu Min Fađlihi Wa Yastabshirūna Bial-Ladhīna Lam Yalĥaqū Bihim Min Khalfihim 'Allā Khawfun `Alayhim Wa Lā Hum Yaĥzanūna
+
+3:171
+ar: ۞ يَسْتَبْشِرُونَ بِنِعْمَةٍۢ مِّنَ ٱللَّهِ وَفَضْلٍۢ وَأَنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُؤْمِنِينَ
+fr: Ils sont ravis d'un bienfait d'Allah et d'une faveur, et du fait qu'Allah ne laisse pas perdre la récompense des croyants.
+ph: Yastabshirūna Bini`matin Mina Allāhi Wa Fađlin Wa 'Anna Allāha Lā Yuđī`u 'Ajra Al-Mu'uminīna
+
+3:172
+ar: ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ
+fr: Ceux qui, quoiqu'atteints de blessure, répondirent à l'appel d'Allah et du Messager, il y aura une énorme récompense pour ceux d'entre eux qui ont agi en bien et pratiqué la piété.
+ph: Al-Ladhīna Astajābū Lillāhi Wa Ar-Rasūli Min Ba`di Mā 'Aşābahumu Al-Qarĥu Lilladhīna 'Aĥsanū Minhum Wa Attaqaw 'Ajrun `Ažīmun
+
+3:173
+ar: ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَٰنًۭا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ
+fr: Certes ceux auxquels l'on disait: « Les gens se sont rassemblés contre vous; craignez-les » -cela accrut leur foi -et ils dirent: « Allah nous suffit; Il est notre meilleur garant. »
+ph: Al-Ladhīna Qāla Lahumu An-Nāsu 'Inna An-Nāsa Qad Jama`ū Lakum Fākhshawhum Fazādahum 'Īmānāan Wa Qālū Ĥasbunā Allāhu Wa Ni`ma Al-Wakīlu
+
+3:174
+ar: فَٱنقَلَبُوا۟ بِنِعْمَةٍۢ مِّنَ ٱللَّهِ وَفَضْلٍۢ لَّمْ يَمْسَسْهُمْ سُوٓءٌۭ وَٱتَّبَعُوا۟ رِضْوَٰنَ ٱللَّهِ ۗ وَٱللَّهُ ذُو فَضْلٍ عَظِيمٍ
+fr: Ils revinrent donc avec un bienfait de la part d'Allah et une grâce. Nul mal ne les toucha et ils suivirent ce qui satisfait Allah. Et Allah est Détenteur d'une grâce immense.
+ph: Fānqalabū Bini`matin Mina Allāhi Wa Fađlin Lam Yamsas/hum Sū'un Wa Attaba`ū Riđwāna Allāhi Wa Allāhu Dhū Fađlin `Ažīmin
+
+3:175
+ar: إِنَّمَا ذَٰلِكُمُ ٱلشَّيْطَٰنُ يُخَوِّفُ أَوْلِيَآءَهُۥ فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ
+fr: C'est le Diable qui vous fait peur de ses adhérents. N'ayez donc pas peur d'eux. Mais ayez peur de Moi, si vous êtes croyants.
+ph: 'Innamā Dhalikumu Ash-Shayţānu Yukhawwifu 'Awliyā'ahu Falā Takhāfūhum Wa Khāfūni 'In Kuntum Mu'uminīna
+
+3:176
+ar: وَلَا يَحْزُنكَ ٱلَّذِينَ يُسَٰرِعُونَ فِى ٱلْكُفْرِ ۚ إِنَّهُمْ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًۭٔا ۗ يُرِيدُ ٱللَّهُ أَلَّا يَجْعَلَ لَهُمْ حَظًّۭا فِى ٱلْءَاخِرَةِ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ
+fr: N'aie (Ô Muhammad) aucun chagrin pour ceux qui se jettent rapidement dans la mécréance. En vérité, ils ne nuiront en rien à Allah. Allah tient à ne leur assigner aucune part de biens dans l'au-delà. Et pour eux il y aura un énorme châtiment.
+ph: Wa Lā Yaĥzunka Al-Ladhīna Yusāri`ūna Fī Al-Kufri 'Innahum Lan Yađurrū Allāha Shay'āan Yurīdu Allāhu 'Allā Yaj`ala Lahum Ĥažžāan Fī Al-'Ākhirati Wa Lahum `Adhābun `Ažīmun
+
+3:177
+ar: إِنَّ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلْكُفْرَ بِٱلْإِيمَٰنِ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًۭٔا وَلَهُمْ عَذَابٌ أَلِيمٌۭ
+fr: Ceux qui auront troqué la croyance contre la mécréance ne nuiront en rien à Allah. Et pour eux un châtiment douloureux.
+ph: 'Inna Al-Ladhīna Ashtaraw Al-Kufra Bil-'Īmāni Lan Yađurrū Allāha Shay'āan Wa Lahum `Adhābun 'Alīmun
+
+3:178
+ar: وَلَا يَحْسَبَنَّ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّمَا نُمْلِى لَهُمْ خَيْرٌۭ لِّأَنفُسِهِمْ ۚ إِنَّمَا نُمْلِى لَهُمْ لِيَزْدَادُوٓا۟ إِثْمًۭا ۚ وَلَهُمْ عَذَابٌۭ مُّهِينٌۭ
+fr: Que ceux qui n'ont pas cru ne comptent pas que ce délai que Nous leur accordons soit à leur avantage. Si Nous leur accordons un délai, c'est seulement pour qu'ils augmentent leurs péchés. Et pour eux un châtiment avilissant.
+ph: Wa Lā Yaĥsabanna Al-Ladhīna Kafarū 'Annamā Numlī Lahum Khayrun Li'anfusihim 'Innamā Numlī Lahum Liyazdādū 'Ithmāan Wa Lahum `Adhābun Muhīnun
+
+3:179
+ar: مَّا كَانَ ٱللَّهُ لِيَذَرَ ٱلْمُؤْمِنِينَ عَلَىٰ مَآ أَنتُمْ عَلَيْهِ حَتَّىٰ يَمِيزَ ٱلْخَبِيثَ مِنَ ٱلطَّيِّبِ ۗ وَمَا كَانَ ٱللَّهُ لِيُطْلِعَكُمْ عَلَى ٱلْغَيْبِ وَلَٰكِنَّ ٱللَّهَ يَجْتَبِى مِن رُّسُلِهِۦ مَن يَشَآءُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ فَلَكُمْ أَجْرٌ عَظِيمٌۭ
+fr: Allah n'est point tel qu'Il laisse les croyants dans l'état où vous êtes jusqu'à ce qu'Il distingue le mauvais du bon. Et Allah n'est point tel qu'Il vous dévoile l'Inconnaissable. Mais Allah choisit parmi Ses messagers qui Il veut. Croyez donc en Allah et en Ses messagers. Et si vous avez la foi et la piété, vous aurez alors une récompense énorme.
+ph: Mā Kāna Allāhu Liyadhara Al-Mu'uminīna `Alá Mā 'Antum `Alayhi Ĥattá Yamīza Al-Khabītha Mina Aţ-Ţayyibi Wa Mā Kāna Allāhu Liyuţli`akum `Alá Al-Ghaybi Wa Lakinna Allāha Yajtabī Min Rusulihi Man Yashā'u Fa'āminū Billāhi Wa Rusulihi Wa 'In Tu'uminū Wa Tattaqū Falakum 'Ajrun `Ažīmun
+
+3:180
+ar: وَلَا يَحْسَبَنَّ ٱلَّذِينَ يَبْخَلُونَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ هُوَ خَيْرًۭا لَّهُم ۖ بَلْ هُوَ شَرٌّۭ لَّهُمْ ۖ سَيُطَوَّقُونَ مَا بَخِلُوا۟ بِهِۦ يَوْمَ ٱلْقِيَٰمَةِ ۗ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ
+fr: Que ceux qui gardent avec avarice ce qu'Allah leur donne par Sa grâce, ne comptent point cela comme bon pour eux. Au contraire, c'est mauvais pour eux: au Jour de la Résurrection, on leur attachera autour du cou ce qu'ils ont gardé avec avarice. C'est Allah qui a l'héritage des cieux et de la terre. Et Allah est Parfaitement Connaisseur de ce que vous faites.
+ph: Wa Lā Yaĥsabanna Al-Ladhīna Yabkhalūna Bimā 'Ātāhumu Allāhu Min Fađlihi Huwa Khayrāan Lahum Bal Huwa Sharrun Lahum Sayuţawwaqūna Mā Bakhilū Bihi Yawma Al-Qiyāmati Wa Lillahi Mīrāthu As-Samāwāti Wa Al-'Arđi Wa Allāhu Bimā Ta`malūna Khabīrun
+
+3:181
+ar: لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌۭ وَنَحْنُ أَغْنِيَآءُ ۘ سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّۢ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
+fr: Allah a certainement entendu la parole de ceux qui ont dit: « Allah est pauvre et nous sommes riches. » Nous enregistrons leur parole, ainsi que leur meurtre, sans droit, des prophètes. Et Nous leur dirons: « Goûtez au châtiment de la fournaise.
+ph: Laqad Sami`a Allāhu Qawla Al-Ladhīna Qālū 'Inna Allāha Faqīrun Wa Naĥnu 'Aghniyā'u Sanaktubu Mā Qālū Wa Qatlahumu Al-'Anbiyā'a Bighayri Ĥaqqin Wa Naqūlu Dhūqū `Adhāba Al-Ĥarīqi
+
+3:182
+ar: ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّامٍۢ لِّلْعَبِيدِ
+fr: Cela, à cause de ce que vos mains ont accompli (antérieurement) ! » Car Allah ne fait point de tort aux serviteurs.
+ph: Dhālika Bimā Qaddamat 'Aydīkum Wa 'Anna Allāha Laysa Bižallāmin Lil`abīdi
+
+3:183
+ar: ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍۢ تَأْكُلُهُ ٱلنَّارُ ۗ قُلْ قَدْ جَآءَكُمْ رُسُلٌۭ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ
+fr: Ceux-là mêmes qui ont dit: « Vraiment Allah nous a enjoint de ne pas croire en un messager tant qu'Il ne nous a pas apporté une offrande que le feu consume. » -Dis: « Des messagers avant moi vous sont, certes, venus avec des preuves, et avec ce que vous avez dit [demandé]. Pourquoi donc les avez-vous tués, si vous êtes véridiques ? »
+ph: Al-Ladhīna Qālū 'Inna Allāha `Ahida 'Ilaynā 'Allā Nu'umina Lirasūlin Ĥattá Ya'tiyanā Biqurbānin Ta'kuluhu An-Nāru Qul Qad Jā'akum Rusulun Min Qablī Bil-Bayyināti Wa Bial-Ladhī Qultum Falima Qataltumūhum 'In Kuntum Şādiqīna
+
+3:184
+ar: فَإِن كَذَّبُوكَ فَقَدْ كُذِّبَ رُسُلٌۭ مِّن قَبْلِكَ جَآءُو بِٱلْبَيِّنَٰتِ وَٱلزُّبُرِ وَٱلْكِتَٰبِ ٱلْمُنِيرِ
+fr: S'ils te (Muhammad) traitent de menteur, des prophètes avant toi, ont certes été traités de menteurs. Ils étaient venus avec les preuves claires, les Psaumes et le Livre lumineux.
+ph: Fa'in Kadhabūka Faqad Kudhiba Rusulun Min Qablika Jā'ū Bil-Bayyināti Wa Az-Zuburi Wa Al-Kitābi Al-Munīri
+
+3:185
+ar: كُلُّ نَفْسٍۢ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَٰمَةِ ۖ فَمَن زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ
+fr: Toute âme goûtera la mort. Mais c'est seulement au Jour de la Résurrection que vous recevrez votre entière rétribution. Quiconque donc est écarté du Feu et introduit au Paradis, a certes réussi. Et la vie présente n'est qu'un objet de jouissance trompeuse.
+ph: Kullu Nafsin Dhā'iqatu Al-Mawti Wa 'Innamā Tuwaffawna 'Ujūrakum Yawma Al-Qiyāmati Faman Zuĥziĥa `Ani An-Nāri Wa 'Udkhila Al-Jannata Faqad Fāza Wa Mā Al-Ĥayāatu Ad-Dunyā 'Illā Matā`u Al-Ghurūri
+
+3:186
+ar: ۞ لَتُبْلَوُنَّ فِىٓ أَمْوَٰلِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ وَمِنَ ٱلَّذِينَ أَشْرَكُوٓا۟ أَذًۭى كَثِيرًۭا ۚ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ
+fr: Certes vous serez éprouvés dans vos biens et vos personnes; et certes vous entendrez de la part de ceux à qui le Livre a été donné avant vous, et de la part des Associateurs, beaucoup de propos désagréables. Mais si vous êtes endurants et pieux... voilà bien la meilleure résolution à prendre.
+ph: Latublawunna Fī 'Amwālikum Wa 'Anfusikum Wa Latasma`unna Mina Al-Ladhīna 'Ūtū Al-Kitāba Min Qablikum Wa Mina Al-Ladhīna 'Ashrakū 'Adháan Kathīrāan Wa 'In Taşbirū Wa Tattaqū Fa'inna Dhālika Min `Azmi Al-'Umūri
+
+3:187
+ar: وَإِذْ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًۭا قَلِيلًۭا ۖ فَبِئْسَ مَا يَشْتَرُونَ
+fr: Allah prit, de ceux auxquels le Livre était donné, cet engagement: « Exposez-le, certes, aux gens et ne le cachez pas. » Mais ils l'ont jeté derrière leur dos et l'ont vendu à vil prix. Quel mauvais commerce ils ont fait !
+ph: Wa 'Idh 'Akhadha Allāhu Mīthāqa Al-Ladhīna 'Ūtū Al-Kitāba Latubayyinunnahu Lilnnāsi Wa Lā Taktumūnahu Fanabadhūhu Warā'a Žuhūrihim Wa Ashtaraw Bihi Thamanāan Qalīlāan Fabi'sa Mā Yashtarūna
+
+3:188
+ar: لَا تَحْسَبَنَّ ٱلَّذِينَ يَفْرَحُونَ بِمَآ أَتَوا۟ وَّيُحِبُّونَ أَن يُحْمَدُوا۟ بِمَا لَمْ يَفْعَلُوا۟ فَلَا تَحْسَبَنَّهُم بِمَفَازَةٍۢ مِّنَ ٱلْعَذَابِ ۖ وَلَهُمْ عَذَابٌ أَلِيمٌۭ
+fr: Ne pense point que ceux-là qui exultent de ce qu'ils ont fait, et qui aiment qu'on les loue pour ce qu'ils n'ont pas fait, ne pense point donc, qu'ils trouvent une échappatoire au châtiment. Pour eux, il y aura un châtiment douloureux !
+ph: Lā Taĥsabanna Al-Ladhīna Yafraĥūna Bimā 'Ataw Wa Yuĥibbūna 'An Yuĥmadū Bimā Lam Yaf`alū Falā Taĥsabannahum Bimafāzatin Mina Al-`Adhābi Wa Lahum `Adhābun 'Alīmun
+
+3:189
+ar: وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ
+fr: À Allah appartient le royaume des cieux et de la terre. Et Allah est Omnipotent.
+ph: Wa Lillahi Mulku As-Samāwāti Wa Al-'Arđi Wa Allāhu `Alá Kulli Shay'in Qadīrun
+
+3:190
+ar: إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَءَايَٰتٍۢ لِّأُو۟لِى ٱلْأَلْبَٰبِ
+fr: En vérité, dans la création des cieux et de la terre, et dans l'alternance de la nuit et du jour, il y a certes des signes pour les doués d'intelligence,
+ph: 'Inna Fī Khalqi As-Samāwāti Wa Al-'Arđi Wa Akhtilāfi Al-Layli Wa An-Nahāri La'āyātin Li'wlī Al-'Albābi
+
+3:191
+ar: ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَٰمًۭا وَقُعُودًۭا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَٰطِلًۭا سُبْحَٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ
+fr: qui, debout, assis, couchés sur leurs côtés, invoquent Allah et méditent sur la création des cieux et de la terre (disant): « Notre Seigneur ! Tu n'as pas créé cela en vain. Gloire à Toi ! Garde-nous du châtiment du Feu.
+ph: Al-Ladhīna Yadhkurūna Allāha Qiyāmāan Wa Qu`ūdāan Wa `Alá Junūbihim Wa Yatafakkarūna Fī Khalqi As-Samāwāti Wa Al-'Arđi Rabbanā Mā Khalaqta Hādhā Bāţilāan Subĥānaka Faqinā `Adhāba An-Nāri
+
+3:192
+ar: رَبَّنَآ إِنَّكَ مَن تُدْخِلِ ٱلنَّارَ فَقَدْ أَخْزَيْتَهُۥ ۖ وَمَا لِلظَّٰلِمِينَ مِنْ أَنصَارٍۢ
+fr: Seigneur ! Quiconque Tu fais entrer dans le Feu, Tu le couvres vraiment d'ignominie. Et pour les injustes, il n'y a pas de secoureurs !
+ph: Rabbanā 'Innaka Man Tudkhili An-Nāra Faqad 'Akhzaytahu Wa Mā Lilžžālimīna Min 'Anşārin
+
+3:193
+ar: رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًۭا يُنَادِى لِلْإِيمَٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ
+fr: Seigneur ! Nous avons entendu l'appel de celui qui a appelé ainsi à la foi: « Croyez en votre Seigneur » et dès lors nous avons cru. Seigneur, pardonne-nous nos péchés, efface de nous nos méfaits, et place nous, à notre mort, avec les gens de bien.
+ph: Rabbanā 'Innanā Sami`nā Munādīāan Yunādī Lil'īmāni 'An 'Āminū Birabbikum Fa'āmannā Rabbanā Fāghfir Lanā Dhunūbanā Wa Kaffir `Annā Sayyi'ātinā Wa Tawaffanā Ma`a Al-'Abrāri
+
+3:194
+ar: رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ ٱلْقِيَٰمَةِ ۗ إِنَّكَ لَا تُخْلِفُ ٱلْمِيعَادَ
+fr: Seigneur ! Donne-nous ce que Tu nous as promis par Tes messagers. Et ne nous couvre pas d'ignominie au Jour de la Résurrection. Car Toi, Tu ne manques pas à Ta promesse. »
+ph: Rabbanā Wa 'Ātinā Mā Wa`adtanā `Alá Rusulika Wa Lā Tukhzinā Yawma Al-Qiyāmati 'Innaka Lā Tukhlifu Al-Mī`āda
+
+3:195
+ar: فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَٰمِلٍۢ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍۢ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ثَوَابًۭا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ
+fr: Leur Seigneur les a alors exaucés (disant): « En vérité, Je ne laisse pas perdre le bien que quiconque parmi vous a fait, homme ou femme, car vous êtes les uns des autres. Ceux donc qui ont émigré, qui ont été expulsés de leurs demeures, qui ont été persécutés dans Mon chemin, qui ont combattu, qui ont été tués, Je tiendrai certes pour expiées leurs mauvaises actions, et les ferai entrer dans les Jardins sous lesquels coulent les ruisseaux, comme récompense de la part d'Allah. » Quant à Allah, c'est auprès de Lui qu'est la plus belle récompense.
+ph: Fāstajāba Lahum Rabbuhum 'Annī Lā 'Uđī`u `Amala `Āmilin Minkum Min Dhakarin 'Aw 'Unthá Ba`đukum Min Ba`đin Fa-Al-Ladhīna Hājarū Wa 'Ukhrijū Min Diyārihim Wa 'Ūdhū Fī Sabīlī Wa Qātalū Wa Qutilū La'ukaffiranna `Anhum Sayyi'ātihim Wa La'udkhilannahum Jannātin Tajrī Min Taĥtihā Al-'Anhāru Thawābāan Min `Indi Allāhi Wa Allāhu `Indahu Ĥusnu Ath-Thawābi
+
+3:196
+ar: لَا يَغُرَّنَّكَ تَقَلُّبُ ٱلَّذِينَ كَفَرُوا۟ فِى ٱلْبِلَٰدِ
+fr: Que ne t'abuse point la versatilité [pour la prospérité] dans le pays, de ceux qui sont infidèles.
+ph: Lā Yaghurrannaka Taqallubu Al-Ladhīna Kafarū Fī Al-Bilādi
+
+3:197
+ar: مَتَٰعٌۭ قَلِيلٌۭ ثُمَّ مَأْوَىٰهُمْ جَهَنَّمُ ۚ وَبِئْسَ ٱلْمِهَادُ
+fr: Piètre jouissance ! Puis leur refuge sera l'Enfer. Et quelle détestable couche !
+ph: Matā`un Qalīlun Thumma Ma'wāhum Jahannamu Wa Bi'sa Al-Mihādu
+
+3:198
+ar: لَٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ جَنَّٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا نُزُلًۭا مِّنْ عِندِ ٱللَّهِ ۗ وَمَا عِندَ ٱللَّهِ خَيْرٌۭ لِّلْأَبْرَارِ
+fr: Mais quant à ceux qui craignent leur Seigneur, ils auront des Jardins sous lesquels coulent les ruisseaux, pour y demeurer éternellement, un lieu d'accueil de la part d'Allah. Et ce qu'il y a auprès d'Allah est meilleur, pour les pieux.
+ph: Lakini Al-Ladhīna Attaqaw Rabbahum Lahum Jannātun Tajrī Min Taĥtihā Al-'Anhāru Khālidīna Fīhā Nuzulāan Min `Indi Allāhi Wa Mā `Inda Allāhi Khayrun Lil'abrāri
+
+3:199
+ar: وَإِنَّ مِنْ أَهْلِ ٱلْكِتَٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَٰشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِـَٔايَٰتِ ٱللَّهِ ثَمَنًۭا قَلِيلًا ۗ أُو۟لَٰٓئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ ۗ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
+fr: Il y a certes, parmi les gens du Livre ceux qui croient en Allah et en ce qu'on a fait descendre vers vous et en ce qu'on a fait descendre vers eux. Ils sont humbles envers Allah, et ne vendent point les versets d'Allah à vil prix. Voilà ceux dont la récompense est auprès de leur Seigneur. En vérité, Allah est prompt à faire les comptes.
+ph: Wa 'Inna Min 'Ahli Al-Kitābi Laman Yu'uminu Billāhi Wa Mā 'Unzila 'Ilaykum Wa Mā 'Unzila 'Ilayhim Khāshi`īna Lillāhi Lā Yashtarūna Bi'āyāti Allāhi Thamanāan Qalīlāan 'Ūlā'ika Lahum 'Ajruhum `Inda Rabbihim 'Inna Allāha Sarī`u Al-Ĥisābi
+
+3:200
+ar: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
+fr: Ô les croyants ! Soyez endurants. Incitez-vous à l'endurance. Luttez constamment (contre l'ennemi) et craignez Allah, afin que vous réussissiez !
+ph: Yā 'Ayyuhā Al-Ladhīna 'Āmanū Aşbirū Wa Şābirū Wa Rābiţū Wa Attaqū Allāha La`allakum Tufliĥūna 
+
 # ---------- Sourate 12 · Yusuf ----------
 
 12:1
