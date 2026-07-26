@@ -17,6 +17,10 @@
   --parchemin:#EAE0CB; --encre:#241C12; --vert:#2F6B52;
 }
 *{ box-sizing:border-box; -webkit-tap-highlight-color:transparent; }
+button{
+  touch-action:manipulation;
+  -webkit-user-select:none; user-select:none;
+}
 html,body{ margin:0; padding:0; }
 body{
   min-height:100dvh;
@@ -98,6 +102,13 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 .corps{
   flex:1 1 auto; min-height:0; display:flex; align-items:center; justify-content:center;
   overflow-y:auto; overscroll-behavior:contain; padding:10px 0;
+  scrollbar-width:none;
+}
+.corps::-webkit-scrollbar{ width:0; height:0; }
+.corps.defile{
+  align-items:flex-start;
+  -webkit-mask-image:linear-gradient(to bottom, #000 0, #000 84%, transparent 100%);
+  mask-image:linear-gradient(to bottom, #000 0, #000 84%, transparent 100%);
 }
 .texte{ margin:0; width:100%; text-align:center; }
 .texte.ar{
@@ -533,23 +544,21 @@ function medaillon(svg, n, couleur){
     'style="font-family:\'Cinzel\',serif;letter-spacing:1px">' + n + '</text>';
 }
 
-function ajuster(p, max, min){
-  const boite = p.parentElement;
-  let t = max, garde = 0;
-  p.style.fontSize = t + "px";
-  while (t > min && garde++ < 300 &&
-        (p.scrollHeight > boite.clientHeight - 2 || p.scrollWidth > boite.clientWidth)){
-    t -= 1; p.style.fontSize = t + "px";
-  }
-  /* le facteur ne peut que réduire une taille déjà validée : jamais de débordement */
-  const e = reglages.echelle || 1;
-  if (e < 1) p.style.fontSize = Math.max(11, Math.round(t * e)) + "px";
+/* Taille identique pour tous les versets : elle ne dépend que du réglage.
+   Un verset trop long défile alors à l'intérieur du cadre. */
+const BASE_AR = 0.115, BASE_FR = 0.055;
+
+function majDefilement(boite){
+  boite.classList.toggle("defile", boite.scrollHeight > boite.clientHeight + 2);
 }
+
 function ajusterTout(){
   const l = Math.min($("scene").clientWidth, 560);
+  const e = reglages.echelle || 1;
   [$("t-recto"), $("t-verso")].forEach(function(p){
     const arabe = p.classList.contains("ar");
-    ajuster(p, Math.round(l * (arabe ? 0.185 : 0.075)), arabe ? 18 : 14);
+    p.style.fontSize = Math.round(l * (arabe ? BASE_AR : BASE_FR) * e) + "px";
+    majDefilement(p.parentElement);
   });
 }
 
@@ -557,6 +566,7 @@ function poser(p, texte, langue){
   p.textContent = texte;
   p.className = "texte " + langue;
   p.setAttribute("lang", langue === "ar" ? "ar" : "fr");
+  p.parentElement.scrollTop = 0;
 }
 
 function appliquer(){
@@ -661,11 +671,11 @@ function basculerTheme(){
 }
 function majTaille(){
   $("taille-valeur").textContent = Math.round((reglages.echelle || 1) * 100) + " %";
-  $("taille-moins").disabled = (reglages.echelle <= 0.6);
-  $("taille-plus").disabled = (reglages.echelle >= 1);
+  $("taille-moins").disabled = (reglages.echelle <= 0.5);
+  $("taille-plus").disabled = (reglages.echelle >= 1.5);
 }
 function changerTaille(d){
-  const e = Math.min(1, Math.max(0.6, Math.round(((reglages.echelle || 1) + d) * 10) / 10));
+  const e = Math.min(1.5, Math.max(0.5, Math.round(((reglages.echelle || 1) + d) * 10) / 10));
   if (e === reglages.echelle) return;
   reglages.echelle = e;
   sauver(); majTaille(); ajusterTout();
@@ -701,9 +711,15 @@ document.addEventListener("keydown", function(e){
 
 /* ---- gestes sur la carte ---- */
 const scene = $("scene");
-let p0 = { x:0, y:0, axe:null };
+let p0 = { x:0, y:0, axe:null, boite:null, top:0, aDefile:false };
+const boiteVisible = function(){
+  return (retourne ? $("t-verso") : $("t-recto")).parentElement;
+};
+const defilable = function(b){ return b.scrollHeight > b.clientHeight + 2; };
+
 scene.addEventListener("pointerdown", function(e){
-  p0 = { x:e.clientX, y:e.clientY, axe:null };
+  const b = boiteVisible();
+  p0 = { x:e.clientX, y:e.clientY, axe:null, boite:b, top:b.scrollTop, aDefile:false };
   enCours = true;
   $("carte").classList.remove("anime");
   scene.setPointerCapture(e.pointerId);
@@ -713,6 +729,10 @@ scene.addEventListener("pointermove", function(e){
   const dx = e.clientX - p0.x, dy = e.clientY - p0.y;
   if (!p0.axe && Math.hypot(dx, dy) > 10) p0.axe = Math.abs(dx) > Math.abs(dy) ? "x" : "y";
   if (p0.axe === "x"){ drag = Math.max(-175, Math.min(175, dx * 0.55)); appliquer(); }
+  else if (p0.axe === "y" && defilable(p0.boite)){
+    p0.boite.scrollTop = p0.top - dy;
+    p0.aDefile = true;
+  }
 });
 function relacher(e){
   if (!enCours) return;
@@ -720,7 +740,7 @@ function relacher(e){
   const dx = e.clientX - p0.x, dy = e.clientY - p0.y, axe = p0.axe;
   drag = 0;
   if (!reduit) $("carte").classList.add("anime");
-  if (axe === "y" && Math.abs(dy) > 60) aller(dy < 0 ? 1 : -1);
+  if (axe === "y" && !p0.aDefile && Math.abs(dy) > 60) aller(dy < 0 ? 1 : -1);
   else if (axe === "x" && Math.abs(dx) > 55) basculer();
   else if (Math.hypot(dx, dy) < 10) basculer();
   else appliquer();
