@@ -73,6 +73,7 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
   position:relative; width:100%; max-width:560px;
   height:clamp(380px, 62dvh, 620px); flex:0 0 auto;
   perspective:1600px; touch-action:none; cursor:grab;
+  -webkit-user-select:none; user-select:none;
 }
 #scene:active{ cursor:grabbing; }
 #carte{ position:absolute; inset:0; transform-style:preserve-3d; }
@@ -100,17 +101,26 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 .eyebrow .ar{ font-family:'Amiri', serif; font-size:18px; letter-spacing:0; }
 
 .corps{
-  flex:1 1 auto; min-height:0; display:flex; align-items:center; justify-content:center;
+  flex:1 1 auto; min-height:0; display:flex; flex-direction:column;
   overflow-y:auto; overscroll-behavior:contain; padding:10px 0;
-  scrollbar-width:none;
+  scrollbar-width:none; -webkit-overflow-scrolling:touch;
 }
 .corps::-webkit-scrollbar{ width:0; height:0; }
 .corps.defile{
-  align-items:flex-start;
-  -webkit-mask-image:linear-gradient(to bottom, #000 0, #000 84%, transparent 100%);
-  mask-image:linear-gradient(to bottom, #000 0, #000 84%, transparent 100%);
+  -webkit-mask-image:linear-gradient(to bottom, #000 0, #000 86%, transparent 100%);
+  mask-image:linear-gradient(to bottom, #000 0, #000 86%, transparent 100%);
 }
-.texte{ margin:0; width:100%; text-align:center; }
+/* marges automatiques : centrées quand ça tient, sans overflow inatteignable sinon */
+.texte{ margin:auto 0; width:100%; text-align:center; }
+.curseur{
+  position:absolute; right:12px; top:64px; bottom:64px; width:2px; border-radius:2px;
+  background:rgba(201,162,39,.12); opacity:0; transition:opacity .3s; pointer-events:none;
+}
+.curseur.actif{ opacity:1; }
+.curseur i{
+  position:absolute; left:0; width:100%; border-radius:2px;
+  background:rgba(201,162,39,.7); display:block;
+}
 .texte.ar{
   font-family:'Amiri','Scheherazade New','Geeza Pro','Traditional Arabic',serif;
   direction:rtl; line-height:1.95; color:#F7F1E3;
@@ -283,6 +293,8 @@ body[data-theme="clair"] .eyebrow{ color:#96751A; }
 body[data-theme="clair"] .texte.ar{ color:#4A3A14; text-shadow:none; }
 body[data-theme="clair"] .texte.fr{ color:#3B2F1C; }
 body[data-theme="clair"] .indice{ color:rgba(74,58,20,.5); }
+body[data-theme="clair"] .curseur{ background:rgba(150,117,26,.15); }
+body[data-theme="clair"] .curseur i{ background:rgba(150,117,26,.7); }
 body[data-theme="clair"] .perle{ border-color:rgba(156,123,20,.5); }
 body[data-theme="clair"] .perle[data-courant="true"]{ border-color:#6E5608; }
 body[data-theme="clair"] .cmd{ border-color:rgba(26,42,68,.22); color:rgba(26,42,68,.7); }
@@ -354,6 +366,7 @@ body[data-theme="clair"] #champ{ color:#6E5608; border-bottom-color:rgba(156,123
     <div class="face" id="recto">
       <div class="eyebrow"><span id="r-sourate"></span><span class="ar" id="r-ar"></span></div>
       <div class="corps"><p id="t-recto" class="texte ar"></p></div>
+      <div class="curseur"><i></i></div>
       <div class="pied">
         <svg id="med-or" width="62" height="45" viewBox="0 0 100 72" aria-hidden="true"></svg>
         <span class="indice">Glisse pour retourner</span>
@@ -362,6 +375,7 @@ body[data-theme="clair"] #champ{ color:#6E5608; border-bottom-color:rgba(156,123
     <div class="face" id="verso">
       <div class="eyebrow"><span id="v-sourate"></span><span id="v-ref"></span></div>
       <div class="corps"><p id="t-verso" class="texte fr"></p></div>
+      <div class="curseur"><i></i></div>
       <div class="pied">
         <svg id="med-vert" width="52" height="38" viewBox="0 0 100 72" aria-hidden="true"></svg>
       </div>
@@ -549,7 +563,16 @@ function medaillon(svg, n, couleur){
 const BASE_AR = 0.115, BASE_FR = 0.055;
 
 function majDefilement(boite){
-  boite.classList.toggle("defile", boite.scrollHeight > boite.clientHeight + 2);
+  const trop = boite.scrollHeight > boite.clientHeight + 2;
+  boite.classList.toggle("defile", trop);
+  const c = boite.parentElement.querySelector(".curseur");
+  if (!c) return;
+  if (!trop){ c.classList.remove("actif"); return; }
+  c.classList.add("actif");
+  const h = boite.clientHeight, sh = boite.scrollHeight;
+  const hauteur = Math.max(16, (h / sh) * 100);
+  c.firstElementChild.style.height = hauteur + "%";
+  c.firstElementChild.style.top = (boite.scrollTop / (sh - h)) * (100 - hauteur) + "%";
 }
 
 function ajusterTout(){
@@ -732,7 +755,15 @@ scene.addEventListener("pointermove", function(e){
   else if (p0.axe === "y" && defilable(p0.boite)){
     p0.boite.scrollTop = p0.top - dy;
     p0.aDefile = true;
+    majDefilement(p0.boite);
   }
+});
+/* garde-fou : tant que le geste nous appartient, la page ne bouge pas */
+scene.addEventListener("touchmove", function(e){
+  if (enCours) e.preventDefault();
+}, { passive:false });
+[$("t-recto"), $("t-verso")].forEach(function(p){
+  p.parentElement.addEventListener("scroll", function(){ majDefilement(p.parentElement); });
 });
 function relacher(e){
   if (!enCours) return;
