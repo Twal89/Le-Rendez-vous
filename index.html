@@ -34,6 +34,19 @@ body{
 
 header{ text-align:center; margin-bottom:12px; }
 #compteur{ font-size:14px; opacity:.5; margin:6px 0 0; font-style:italic; }
+#compteur .c-sourate{
+  display:block; font-style:normal; font-size:16px; opacity:.9;
+  font-family:'EB Garamond', Georgia, serif;
+}
+#compteur .c-sourate em{
+  font-family:'Cormorant Garamond','EB Garamond',serif;
+  font-style:italic; color:var(--or-clair); opacity:.85;
+}
+#compteur .c-verset{
+  display:block; font-family:'Cinzel',serif; font-style:normal;
+  font-size:9.5px; letter-spacing:.22em; text-transform:uppercase;
+  opacity:.45; margin-top:5px;
+}
 
 nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-bottom:14px; }
 .onglet{
@@ -440,6 +453,11 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 .ligne .nom{ flex:1 1 auto; display:flex; flex-direction:column; gap:2px; min-width:0; }
 .ligne .nom b{ font-weight:400; font-size:18.5px; letter-spacing:.01em; }
 .ligne .nom small{ font-size:12.5px; opacity:.45; }
+.ligne .nom small em{
+  font-style:italic; font-family:'Cormorant Garamond','EB Garamond',serif;
+  font-size:14.5px; color:var(--or-clair); opacity:.85;
+}
+.ligne .nom small .pt{ margin:0 6px; opacity:.5; }
 .ligne .chev{ flex:0 0 auto; display:flex; opacity:.38; }
 .ligne .chev svg{ width:15px; height:15px; }
 
@@ -614,6 +632,8 @@ body[data-theme="clair"] .separateur i:last-of-type{
 body[data-theme="clair"] .quat{ fill:#96751A; }
 body[data-theme="clair"] .etoile{ color:#96751A; }
 body[data-theme="clair"] .etoile em{ color:#6E5608; }
+body[data-theme="clair"] .ligne .nom small em{ color:#7E620F; opacity:.95; }
+body[data-theme="clair"] #compteur .c-sourate em{ color:#8A6C10; }
 </style>
 </head>
 <body>
@@ -860,17 +880,29 @@ const SOURATES = [null,
 ];
 const nomFr = function(s){ return SOURATES[s] ? SOURATES[s][0] : "Sourate " + s; };
 const nomAr = function(s){ return SOURATES[s] ? SOURATES[s][1] : ""; };
+let NOMS_TRAD = {};
+const nomTrad = function(s){ return NOMS_TRAD[s] || ""; };
 
 /* =================================================================
    2. Lecture du fichier versets.js
    ================================================================= */
 function analyser(texte){
-  const versets = [], erreurs = [];
+  const versets = [], erreurs = [], noms = {};
   const blocs = String(texte || "").split(/\n\s*\n/);
   blocs.forEach(function(bloc){
     const lignes = bloc.split("\n").map(function(l){ return l.trim(); })
                        .filter(function(l){ return l && l.charAt(0) !== "#"; });
     if (!lignes.length) return;
+
+    /* bloc de noms français : une ligne « 3 = La famille de ʿImrān » par sourate */
+    if (/^\d{1,3}\s*=/.test(lignes[0])){
+      lignes.forEach(function(l){
+        const m = l.match(/^(\d{1,3})\s*=\s*(.+)$/);
+        if (m && +m[1] >= 1 && +m[1] <= 114) noms[+m[1]] = m[2].trim();
+        else erreurs.push("Nom de sourate illisible : « " + l.slice(0, 40) + " »");
+      });
+      return;
+    }
 
     const ref = lignes[0].match(/^(\d{1,3})\s*[:.\-\s]\s*(\d{1,3})$/);
     if (!ref) { erreurs.push("Référence illisible : « " + lignes[0].slice(0, 40) + " »"); return; }
@@ -892,7 +924,7 @@ function analyser(texte){
     if (!F) { erreurs.push(s + ":" + a + " — ligne « fr: » manquante ou vide"); return; }
     versets.push({ s:s, a:a, ar:A, fr:F, ph:P });
   });
-  return { versets: versets, erreurs: erreurs };
+  return { versets: versets, erreurs: erreurs, noms: noms };
 }
 
 /* =================================================================
@@ -906,7 +938,7 @@ let reglages = { clair: false, inverse: false, echelle: 1, phonetique: false };
 try { Object.assign(reglages, JSON.parse(localStorage.getItem(CLE_REGL) || "{}")); } catch(e) {}
 document.body.dataset.theme = reglages.clair ? "clair" : "nuit";
 
-let lu = { versets: [], erreurs: [] };
+let lu = { versets: [], erreurs: [], noms: {} };
 let PAR_SOURATE = {}, NUMEROS = [];
 let sCourante = null, session = [], i = 0;
 let retourne = false, drag = 0, enCours = false;
@@ -1021,8 +1053,10 @@ function rendre(){
   medaillon($("med-vert"), c.a, reglages.clair ? "#96751A" : "#C9A227");
   $("btn-inverse").dataset.actif = inv ? "true" : "false";
 
-  $("compteur").textContent = nomFr(c.s) + " · verset " + c.a + " sur " +
-                              session[session.length - 1].a;
+  $("compteur").innerHTML =
+    '<span class="c-sourate">' + nomFr(c.s) +
+      (nomTrad(c.s) ? ' <em>· ' + nomTrad(c.s) + '</em>' : '') + '</span>' +
+    '<span class="c-verset">verset ' + c.a + ' sur ' + session[session.length - 1].a + '</span>';
   $("btn-theme").textContent = reglages.clair ? "☾" : "☀";
   $("prec").disabled = (i === 0);
   $("suiv").disabled = (i === session.length - 1);
@@ -1208,7 +1242,8 @@ function ouvrirListe(){
           '<rect x="10.5" y="10.5" width="23" height="23" transform="rotate(45 22 22)"/>' +
         '</svg><em>' + s + '</em></span>' +
       '<span class="nom"><b>' + nomFr(s) + '</b>' +
-        '<small>' + n + ' verset' + (n > 1 ? 's' : '') + '</small></span>' +
+        '<small>' + (nomTrad(s) ? '<em>' + nomTrad(s) + '</em><span class="pt">·</span>' : '') +
+          n + ' verset' + (n > 1 ? 's' : '') + '</small></span>' +
       '<span class="ar">' + nomAr(s) + '</span>' +
       '<span class="chev"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" ' +
         'stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">' +
@@ -1255,6 +1290,7 @@ function chargerContenu(){
 
 function demarrer(texte){
   lu = analyser(texte);
+  NOMS_TRAD = lu.noms || {};
   PAR_SOURATE = {};
   lu.versets.forEach(function(v){ (PAR_SOURATE[v.s] = PAR_SOURATE[v.s] || []).push(v); });
   NUMEROS = Object.keys(PAR_SOURATE).map(Number).sort(function(a, b){ return a - b; });
