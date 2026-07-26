@@ -6,8 +6,8 @@
 <meta name="theme-color" content="#0A1120">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="Mémoriser">
-<title>Mémoriser · حِفْظ</title>
+<meta name="apple-mobile-web-app-title" content="Le Rendez-vous">
+<title>Le Rendez-vous</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
@@ -32,12 +32,7 @@ body{
   font-family:'EB Garamond', Georgia, serif;
 }
 
-header{ text-align:center; margin-bottom:10px; }
-h1{
-  font-family:'Cinzel', serif; font-size:12px; letter-spacing:.34em;
-  text-transform:uppercase; color:var(--or); opacity:.85; margin:0; font-weight:600;
-}
-h1 .ar{ font-family:'Amiri', serif; font-size:17px; letter-spacing:0; }
+header{ text-align:center; margin-bottom:12px; }
 #compteur{ font-size:14px; opacity:.5; margin:6px 0 0; font-style:italic; }
 
 nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-bottom:14px; }
@@ -213,10 +208,17 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
     radial-gradient(1.3px 1.3px at 61% 93%, rgba(201,162,39,.4),  transparent 62%),
     radial-gradient(1px 1px    at 91% 84%,  rgba(234,224,203,.3),  transparent 62%);
 }
+.f-tete.droite{ justify-content:flex-end; }
+.titre-appli{
+  font-family:'Cinzel',serif; font-weight:600; text-align:center;
+  font-size:clamp(27px,7.6vw,41px); letter-spacing:.13em; text-transform:uppercase;
+  color:var(--or-clair); margin:14px 0 0; line-height:1.24;
+  text-shadow:0 2px 28px rgba(201,162,39,.25);
+}
 .basmala{
-  font-family:'Amiri',serif; direction:rtl; text-align:center; color:var(--or-clair);
-  font-size:clamp(21px,5.6vw,29px); margin:4px 0 16px; opacity:.9;
-  text-shadow:0 1px 20px rgba(201,162,39,.2);
+  font-family:'Amiri',serif; direction:rtl; text-align:center; color:var(--or);
+  font-size:clamp(18px,4.8vw,25px); margin:30px 0 24px; opacity:.78;
+  text-shadow:0 1px 20px rgba(201,162,39,.16);
 }
 .ornement{
   display:block; margin:0 auto 22px; width:min(300px,78%); height:auto;
@@ -273,7 +275,6 @@ body[data-theme="clair"]{
   background:radial-gradient(120% 80% at 50% -10%, #FCF6E8 0%, #F1E6CF 55%, #E2D4B5 100%);
   background-attachment:fixed; color:#1A2A44;
 }
-body[data-theme="clair"] h1{ color:#9C7B14; opacity:1; }
 body[data-theme="clair"] .onglet{ border-color:rgba(26,42,68,.22); color:rgba(26,42,68,.6); }
 body[data-theme="clair"] .onglet:hover{ border-color:#9C7B14; color:#6E5608; }
 body[data-theme="clair"] .onglet.principal{
@@ -328,6 +329,7 @@ body[data-theme="clair"] .fenetre::before{
     radial-gradient(1.3px 1.3px at 61% 93%, rgba(150,117,26,.3), transparent 62%),
     radial-gradient(1px 1px    at 91% 84%,  rgba(120,92,20,.22), transparent 62%);
 }
+body[data-theme="clair"] .titre-appli{ color:#8A6C10; text-shadow:none; }
 body[data-theme="clair"] .basmala{ color:#96751A; text-shadow:none; }
 body[data-theme="clair"] .ornement{ color:#96751A; opacity:.85; }
 body[data-theme="clair"] .pied-verset .ar{ color:#96751A; opacity:.7; }
@@ -342,7 +344,6 @@ body[data-theme="clair"] #champ{ color:#6E5608; border-bottom-color:rgba(156,123
 <body>
 
 <header>
-  <h1>Mémoriser · <span class="ar">حِفْظ</span></h1>
   <p id="compteur"></p>
 </header>
 
@@ -404,14 +405,14 @@ body[data-theme="clair"] #champ{ color:#6E5608; border-bottom-color:rgba(156,123
 
 <!-- ---- choix de la sourate ---- -->
 <div id="f-sourates" class="fenetre" role="dialog" aria-modal="true" aria-label="Choisir la sourate">
-  <div class="f-tete">
-    <span class="f-titre">Mémoriser · <span style="font-family:Amiri,serif;letter-spacing:0">حِفْظ</span></span>
+  <div class="f-tete droite">
     <span style="display:flex;gap:8px">
       <button class="onglet" id="btn-theme-accueil" aria-label="Changer de fond">☀</button>
       <button class="onglet" data-fermer="f-sourates">Fermer</button>
     </span>
   </div>
   <div class="f-corps">
+    <h2 class="titre-appli">Le Rendez-vous</h2>
     <p class="basmala">بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</p>
 
     <svg class="ornement" viewBox="0 0 300 54" fill="none" aria-hidden="true">
