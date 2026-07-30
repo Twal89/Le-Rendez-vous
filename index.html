@@ -401,6 +401,7 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
   position:absolute; left:0; right:0; bottom:0; width:100%; height:128px; z-index:6;
 }
 .hero .skyline.loin{ height:104px; z-index:5; opacity:.72; }
+.hero .skyline.large{ display:none; }
 .hero .skyline .sil{ fill:#060D1A; opacity:.95; }
 .hero .skyline.loin .sil{ fill:#101D31; opacity:.9; }
 .hero .skyline .fil{ stroke:#E3C365; stroke-width:1; opacity:.55; fill:none; }
@@ -656,17 +657,23 @@ body[data-theme="clair"] .ligne .nom small em{ color:#6B5309; }
 
   /* accueil : deux colonnes de sourates */
   .f-tete, .f-corps{ max-width:1020px; }
+  .f-corps{ scrollbar-width:none; }
+  .f-corps::-webkit-scrollbar{ width:0; height:0; }
   #liste-sourates{
     display:grid; grid-template-columns:repeat(2, minmax(0,1fr)); gap:8px 14px;
   }
   #liste-sourates .ligne{ margin-bottom:0; }
 
   /* le décor respire davantage */
-  .hero{ min-height:508px; padding-bottom:126px; }
+  .hero{ min-height:560px; padding-bottom:min(calc(14vw + 20px), 190px); }
   .hero .arche{ width:min(560px, 62%); }
-  .hero .etoiles{ inset:0 0 126px; }
-  .hero .skyline{ height:150px; }
-  .hero .skyline.loin{ height:122px; }
+  .hero .etoiles{ inset:0 0 min(calc(14vw + 20px), 190px); }
+  .hero .skyline{ display:none; }
+  .hero .skyline.large{
+    display:block; height:auto; aspect-ratio:900 / 122;
+  }
+  .hero .skyline.loin.large{ display:block; height:auto; aspect-ratio:900 / 122; }
+  .hero .brume{ height:74px; }
   .separateur{ margin:10px 0 20px; }
   .pied-verset{ margin-top:34px; }
 }
@@ -827,6 +834,53 @@ body[data-theme="clair"] .ligne .nom small em{ color:#6B5309; }
           <path d="M408 112 C406 96 405 84 407 72"/>
           <path d="M407 72 C414 66 418 62 420 56"/><path d="M407 72 C412 62 412 55 410 48"/>
           <path d="M407 72 C404 62 400 57 394 53"/><path d="M407 72 C400 68 394 67 388 68"/>
+        </g>
+      </svg>
+
+      <svg class="skyline loin large" viewBox="0 0 900 122" preserveAspectRatio="xMidYMax meet" aria-hidden="true">
+        <g class="sil">
+          <path d="M0 116 H900 V122 H0 Z"/>
+          <path d="M186 116 V98 h6 V92 h3 V98 h6 v18 Z"/>
+          <path d="M187 92 C187 86 195 86 195 81 C195 86 203 86 203 92 Z"/>
+          <path d="M694 116 V98 h6 V92 h3 V98 h6 v18 Z"/>
+          <path d="M695 92 C695 86 703 86 703 81 C703 86 711 86 711 92 Z"/>
+          <path d="M336 116 V102 C336 95 344 91 348 84 C352 91 360 95 360 102 v14 Z"/>
+          <path d="M540 116 V102 C540 95 548 91 552 84 C556 91 564 95 564 102 v14 Z"/>
+          <path d="M424 116 V96 C424 86 438 80 450 68 C462 80 476 86 476 96 v20 Z"/>
+          <path d="M240 116 V106 h420 v10 Z"/>
+        </g>
+      </svg>
+
+      <svg class="skyline large" viewBox="0 0 900 122" preserveAspectRatio="xMidYMax meet" aria-hidden="true">
+        <g class="sil">
+          <path d="M0 112 H900 V122 H0 Z"/>
+          <path d="M96 112 V58 h8 V51 h4 V58 h8 v54 Z"/>
+          <path d="M98 51 C98 44 108 44 108 38 C108 44 118 44 118 51 Z"/>
+          <path d="M782 112 V58 h8 V51 h4 V58 h8 v54 Z"/>
+          <path d="M784 51 C784 44 794 44 794 38 C794 44 804 44 804 51 Z"/>
+          <path d="M150 112 V92 C150 84 158 79 164 71 C170 79 178 84 178 92 v20 Z"/>
+          <path d="M722 112 V92 C722 84 730 79 736 71 C742 79 750 84 750 92 v20 Z"/>
+          <path d="M266 112 V52 h9 V44 h4 V52 h9 v60 Z"/>
+          <path d="M268 44 C268 36 279.5 36 279.5 30 C279.5 36 291 36 291 44 Z"/>
+          <path d="M611 112 V52 h9 V44 h4 V52 h9 v60 Z"/>
+          <path d="M613 44 C613 36 624.5 36 624.5 30 C624.5 36 636 36 636 44 Z"/>
+          <path d="M312 112 V88 C312 78 322 72 328 62 C334 72 344 78 344 88 v24 Z"/>
+          <path d="M556 112 V88 C556 78 566 72 572 62 C578 72 588 78 588 88 v24 Z"/>
+          <path d="M360 112 V80 C360 68 373 61 380 48 C387 61 400 68 400 80 v32 Z"/>
+          <path d="M500 112 V80 C500 68 513 61 520 48 C527 61 540 68 540 80 v32 Z"/>
+          <path d="M412 112 V72 C412 54 434 44 450 22 C466 44 488 54 488 72 v40 Z"/>
+          <path d="M240 112 V96 h420 v16 Z"/>
+        </g>
+        <g class="fil">
+          <path d="M450 22 V10"/><path d="M279.5 30 V20"/><path d="M624.5 30 V20"/>
+        </g>
+        <g class="palme">
+          <path d="M40 112 C42 96 43 84 41 72"/>
+          <path d="M41 72 C34 66 30 62 28 56"/><path d="M41 72 C36 62 36 55 38 48"/>
+          <path d="M41 72 C44 62 48 57 54 53"/><path d="M41 72 C48 68 54 67 60 68"/>
+          <path d="M860 112 C858 96 857 84 859 72"/>
+          <path d="M859 72 C866 66 870 62 872 56"/><path d="M859 72 C864 62 864 55 862 48"/>
+          <path d="M859 72 C856 62 852 57 846 53"/><path d="M859 72 C852 68 846 67 840 68"/>
         </g>
       </svg>
 
