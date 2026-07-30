@@ -23615,13 +23615,1533 @@ ph: Naĥnu 'A`lamu Bimā Yaqūlūna Wa Mā 'Anta `Alayhim Bijabbārin Fadhakkir 
 
 # ---------- Sourate 51 · Adh-Dhāriyāt ----------
 
+51:1
+ar: وَٱلذَّٰرِيَٰتِ ذَرْوًۭا
+fr: Par les vents qui éparpillent !
+ph: Wa Adh-Dhāriyāti Dharwan
+
+51:2
+ar: فَٱلْحَٰمِلَٰتِ وِقْرًۭا
+fr: Par les porteurs de fardeaux !
+ph: Fālĥāmilāti Wiqrāan
+
+51:3
+ar: فَٱلْجَٰرِيَٰتِ يُسْرًۭا
+fr: Par les glisseurs agiles !
+ph: Fāljāriyāti Yusrāan
+
+51:4
+ar: فَٱلْمُقَسِّمَٰتِ أَمْرًا
+fr: Par les distributeurs selon un commandement !
+ph: Fālmuqassimāti 'Amrāan
+
+51:5
+ar: إِنَّمَا تُوعَدُونَ لَصَادِقٌۭ
+fr: Ce qui vous est promis est certainement vrai.
+ph: 'Innamā Tū`adūna Laşādiqun
+
+51:6
+ar: وَإِنَّ ٱلدِّينَ لَوَٰقِعٌۭ
+fr: Et la Rétribution arrivera inévitablement.
+ph: Wa 'Inna Ad-Dīna Lawāqi`un
+
+51:7
+ar: وَٱلسَّمَآءِ ذَاتِ ٱلْحُبُكِ
+fr: Par le ciel aux voies parfaitement tracées !
+ph: Wa As-Samā'i Dhāti Al-Ĥubuki
+
+51:8
+ar: إِنَّكُمْ لَفِى قَوْلٍۢ مُّخْتَلِفٍۢ
+fr: Vous divergez sur ce que vous dites.
+ph: 'Innakum Lafī Qawlin Mukhtalifin
+
+51:9
+ar: يُؤْفَكُ عَنْهُ مَنْ أُفِكَ
+fr: Est détourné de lui quiconque a été détourné de la foi.
+ph: Yu'ufaku `Anhu Man 'Ufika
+
+51:10
+ar: قُتِلَ ٱلْخَرَّٰصُونَ
+fr: Maudits soient les menteurs,
+ph: Qutila Al-Kharrāşūna
+
+51:11
+ar: ٱلَّذِينَ هُمْ فِى غَمْرَةٍۢ سَاهُونَ
+fr: qui sont plongés dans l'insouciance.
+ph: Al-Ladhīna Hum Fī Ghamratin Sāhūna
+
+51:12
+ar: يَسْـَٔلُونَ أَيَّانَ يَوْمُ ٱلدِّينِ
+fr: Ils demandent: « À quand le jour de la Rétribution ? »
+ph: Yas'alūna 'Ayyāna Yawmu Ad-Dīni
+
+51:13
+ar: يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ
+fr: Le jour où ils seront éprouvés au Feu:
+ph: Yawma Hum `Alá An-Nāri Yuftanūna
+
+51:14
+ar: ذُوقُوا۟ فِتْنَتَكُمْ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَسْتَعْجِلُونَ
+fr: « Goûtez à votre épreuve [punition]; voici ce que vous cherchiez à hâter. »
+ph: Dhūqū Fitnatakum Hādhā Al-Ladhī Kuntum Bihi Tasta`jilūna
+
+51:15
+ar: إِنَّ ٱلْمُتَّقِينَ فِى جَنَّٰتٍۢ وَعُيُونٍ
+fr: Les pieux seront dans des Jardins et [parmi] des sources,
+ph: 'Inna Al-Muttaqīna Fī Jannātin Wa `Uyūnin
+
+51:16
+ar: ءَاخِذِينَ مَآ ءَاتَىٰهُمْ رَبُّهُمْ ۚ إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُحْسِنِينَ
+fr: recevant ce que leur Seigneur leur aura donné. Car ils ont été auparavant des bienfaisants:
+ph: 'Ākhidhīna Mā 'Ātāhum Rabbuhum 'Innahum Kānū Qabla Dhālika Muĥsinīna
+
+51:17
+ar: كَانُوا۟ قَلِيلًۭا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ
+fr: ils dormaient peu, la nuit,
+ph: Kānū Qalīlāan Mina Al-Layli Mā Yahja`ūna
+
+51:18
+ar: وَبِٱلْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ
+fr: et aux dernières heures de la nuit ils imploraient le pardon [d'Allah];
+ph: Wa Bil-'Asĥāri Hum Yastaghfirūna
+
+51:19
+ar: وَفِىٓ أَمْوَٰلِهِمْ حَقٌّۭ لِّلسَّآئِلِ وَٱلْمَحْرُومِ
+fr: et dans leurs biens, il y avait un droit au mendiant et au déshérité.
+ph: Wa Fī 'Amwālihim Ĥaqqun Lilssā'ili Wa Al-Maĥrūmi
+
+51:20
+ar: وَفِى ٱلْأَرْضِ ءَايَٰتٌۭ لِّلْمُوقِنِينَ
+fr: Il y a sur terre des preuves pour ceux qui croient avec certitude;
+ph: Wa Fī Al-'Arđi 'Āyātun Lilmūqinīna
+
+51:21
+ar: وَفِىٓ أَنفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ
+fr: ainsi qu'en vous-mêmes. N'observez-vous donc pas ?
+ph: Wa Fī 'Anfusikum 'Afalā Tubşirūna
+
+51:22
+ar: وَفِى ٱلسَّمَآءِ رِزْقُكُمْ وَمَا تُوعَدُونَ
+fr: Et il y a dans le ciel votre subsistance et ce qui vous a été promis.
+ph: Wa Fī As-Samā'i Rizqukum Wa Mā Tū`adūna
+
+51:23
+ar: فَوَرَبِّ ٱلسَّمَآءِ وَٱلْأَرْضِ إِنَّهُۥ لَحَقٌّۭ مِّثْلَ مَآ أَنَّكُمْ تَنطِقُونَ
+fr: Par le Seigneur du ciel et de la terre ! Ceci est tout aussi vrai que le fait que vous parliez.
+ph: Fawarabbi As-Samā'i Wa Al-'Arđi 'Innahu Laĥaqqun Mithla Mā 'Annakum Tanţiqūna
+
+51:24
+ar: هَلْ أَتَىٰكَ حَدِيثُ ضَيْفِ إِبْرَٰهِيمَ ٱلْمُكْرَمِينَ
+fr: T'est-il parvenu le récit des visiteurs honorables d'Ibrahim (Abraham) ?
+ph: Hal 'Atāka Ĥadīthu Đayfi 'Ibrāhīma Al-Mukramīna
+
+51:25
+ar: إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَٰمًۭا ۖ قَالَ سَلَٰمٌۭ قَوْمٌۭ مُّنكَرُونَ
+fr: Quand ils entrèrent chez lui et dirent: « Paix ! », il [leur] dit: « Paix, visiteurs inconnus. »
+ph: 'Idh Dakhalū `Alayhi Faqālū Salāmāan Qāla Salāmun Qawmun Munkarūna
+
+51:26
+ar: فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍۢ سَمِينٍۢ
+fr: Puis il alla discrètement à sa famille et apporta un veau gras.
+ph: Farāgha 'Ilá 'Ahlihi Fajā'a Bi`ijlin Samīnin
+
+51:27
+ar: فَقَرَّبَهُۥٓ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ
+fr: Ensuite il l'approcha d'eux...: « Ne mangez-vous pas ? » dit-il.
+ph: Faqarrabahu 'Ilayhim Qāla 'Alā Ta'kulūna
+
+51:28
+ar: فَأَوْجَسَ مِنْهُمْ خِيفَةًۭ ۖ قَالُوا۟ لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍۢ
+fr: Il ressentit alors de la peur vis-à-vis d'eux. Ils dirent: « N'aie pas peur. » Et ils lui annoncèrent [la naissance] d'un garçon plein de savoir.
+ph: Fa'awjasa Minhum Khīfatan Qālū Lā Takhaf Wa Basharūhu Bighulāmin `Alīmin
+
+51:29
+ar: فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍۢ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌۭ
+fr: Alors sa femme s'avança en criant, se frappa le visage et dit: « Une vieille femme stérile... »
+ph: Fa'aqbalati Amra'atuhu Fī Şarratin Faşakkat Wajhahā Wa Qālat `Ajūzun `Aqīmun
+
+51:30
+ar: قَالُوا۟ كَذَٰلِكِ قَالَ رَبُّكِ ۖ إِنَّهُۥ هُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ
+fr: Ils dirent: « Ainsi a dit ton Seigneur. C'est Lui vraiment le Sage, l'Omniscient. »
+ph: Qālū Kadhāliki Qāla Rabbuki 'Innahu Huwa Al-Ĥakīmu Al-`Alīmu
+
+51:31
+ar: ۞ قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ
+fr: Alors [Ibrahim (Abraham)] dit: « Quelle est donc votre mission, Ô envoyés ? »
+ph: Qāla Famā Khaţbukum 'Ayyuhā Al-Mursalūna
+
+51:32
+ar: قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍۢ مُّجْرِمِينَ
+fr: Ils dirent: « Nous avons été envoyés vers des gens criminels,
+ph: Qālū 'Innā 'Ursilnā 'Ilá Qawmin Mujrimīna
+
+51:33
+ar: لِنُرْسِلَ عَلَيْهِمْ حِجَارَةًۭ مِّن طِينٍۢ
+fr: pour lancer sur eux des pierres de glaise,
+ph: Linursila `Alayhim Ĥijāratan Min Ţīnin
+
+51:34
+ar: مُّسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ
+fr: marquées auprès de ton Seigneur à l'intention des outranciers. »
+ph: Musawwamatan `Inda Rabbika Lilmusrifīna
+
+51:35
+ar: فَأَخْرَجْنَا مَن كَانَ فِيهَا مِنَ ٱلْمُؤْمِنِينَ
+fr: Nous en fîmes sortir alors ce qu'il y avait comme croyants,
+ph: Fa'akhrajnā Man Kāna Fīhā Mina Al-Mu'uminīna
+
+51:36
+ar: فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ
+fr: mais Nous n'y trouvâmes qu'une seule maison de gens soumis.
+ph: Famā Wajadnā Fīhā Ghayra Baytin Mina Al-Muslimīna
+
+51:37
+ar: وَتَرَكْنَا فِيهَآ ءَايَةًۭ لِّلَّذِينَ يَخَافُونَ ٱلْعَذَابَ ٱلْأَلِيمَ
+fr: Et Nous y laissâmes un signe pour ceux qui redoutent le douloureux châtiment;
+ph: Wa Taraknā Fīhā 'Āyatan Lilladhīna Yakhāfūna Al-`Adhāba Al-'Alīma
+
+51:38
+ar: وَفِى مُوسَىٰٓ إِذْ أَرْسَلْنَٰهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَٰنٍۢ مُّبِينٍۢ
+fr: [Il y a même un signe] en Musa (Moïse) quand Nous l'envoyâmes, avec une preuve évidente, vers Fir'awn (Pharaon).
+ph: Wa Fī Mūsá 'Idh 'Arsalnāhu 'Ilá Fir`awna Bisulţānin Mubīnin
+
+51:39
+ar: فَتَوَلَّىٰ بِرُكْنِهِۦ وَقَالَ سَٰحِرٌ أَوْ مَجْنُونٌۭ
+fr: Mais [celui-ci] se détourna confiant en sa puissance, et dit: « C'est un magicien ou un possédé ! »
+ph: Fatawallá Biruknihi Wa Qāla Sāĥirun 'Aw Majnūnun
+
+51:40
+ar: فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ
+fr: Nous le saisîmes ainsi que ses troupes, puis les jetâmes dans les flots, pour son comportement blâmable.
+ph: Fa'akhadhnāhu Wa Junūdahu Fanabadhnāhum Fī Al-Yammi Wa Huwa Mulīmun
+
+51:41
+ar: وَفِى عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ
+fr: De même pour les 'Ad, quand Nous envoyâmes contre eux le vent dévastateur
+ph: Wa Fī `Ādin 'Idh 'Arsalnā `Alayhimu Ar-Rīĥa Al-`Aqīma
+
+51:42
+ar: مَا تَذَرُ مِن شَىْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَٱلرَّمِيمِ
+fr: n'épargnant rien sur son passage sans le réduire en poussière.
+ph: Mā Tadharu Min Shay'in 'Atat `Alayhi 'Illā Ja`alat/hu Kālrramīmi
+
+51:43
+ar: وَفِى ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا۟ حَتَّىٰ حِينٍۢ
+fr: De même pour les Thamud, quand il leur fut dit: « Jouissez jusqu'à un certain temps ! »
+ph: Wa Fī Thamūda 'Idh Qīla Lahum Tamatta`ū Ĥattá Ĥīnin
+
+51:44
+ar: فَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ وَهُمْ يَنظُرُونَ
+fr: Ils défièrent le commandement de leur Seigneur. La foudre les saisit alors qu'ils regardaient.
+ph: Fa`ataw `An 'Amri Rabbihim Fa'akhadhat/humu Aş-Şā`iqatu Wa Hum Yanžurūna
+
+51:45
+ar: فَمَا ٱسْتَطَٰعُوا۟ مِن قِيَامٍۢ وَمَا كَانُوا۟ مُنتَصِرِينَ
+fr: Ils ne purent ni se mettre debout ni être secourus.
+ph: Famā Astaţā`ū Min Qiyāmin Wa Mā Kānū Muntaşirīna
+
+51:46
+ar: وَقَوْمَ نُوحٍۢ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ قَوْمًۭا فَٰسِقِينَ
+fr: De même, pour le peuple de Nuh (Noé) auparavant. Ils étaient des gens pervers.
+ph: Wa Qawma Nūĥin Min Qablu 'Innahum Kānū Qawmāan Fāsiqīna
+
+51:47
+ar: وَٱلسَّمَآءَ بَنَيْنَٰهَا بِأَيْي۟دٍۢ وَإِنَّا لَمُوسِعُونَ
+fr: Le ciel, Nous l'avons construit par Notre puissance: et Nous l'étendons [constamment] dans l'immensité.
+ph: Wa As-Samā'a Banaynāhā Bi'ayydin Wa 'Innā Lamūsi`ūna
+
+51:48
+ar: وَٱلْأَرْضَ فَرَشْنَٰهَا فَنِعْمَ ٱلْمَٰهِدُونَ
+fr: Et la terre, Nous l'avons étendue. Et de quelle excellente façon Nous l'avons nivelée !
+ph: Wa Al-'Arđa Farashnāhā Fani`ma Al-Māhidūna
+
+51:49
+ar: وَمِن كُلِّ شَىْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ
+fr: Et de toute chose Nous avons créé [deux éléments] de couple. Peut-être vous rappellerez-vous ?
+ph: Wa Min Kulli Shay'in Khalaqnā Zawjayni La`allakum Tadhakkarūna
+
+51:50
+ar: فَفِرُّوٓا۟ إِلَى ٱللَّهِ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌۭ مُّبِينٌۭ
+fr: « Fuyez donc vers Allah. Moi, je suis pour vous de Sa part, un avertisseur explicite.
+ph: Fafirrū 'Ilá Allāhi 'Innī Lakum Minhu Nadhīrun Mubīnun
+
+51:51
+ar: وَلَا تَجْعَلُوا۟ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌۭ مُّبِينٌۭ
+fr: Ne placez pas avec Allah une autre divinité. Je suis pour vous de Sa part, un avertisseur explicite. »
+ph: Wa Lā Taj`alū Ma`a Allāhi 'Ilahāan 'Ākhara 'Innī Lakum Minhu Nadhīrun Mubīnun
+
+51:52
+ar: كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا۟ سَاحِرٌ أَوْ مَجْنُونٌ
+fr: Ainsi, aucun Messager n'est venu à leurs prédécesseurs sans qu'ils n'aient dit: « C'est un magicien ou un possédé ! »
+ph: Kadhālika Mā 'Atá Al-Ladhīna Min Qablihim Min Rasūlin 'Illā Qālū Sāĥirun 'Aw Majnūnun
+
+51:53
+ar: أَتَوَاصَوْا۟ بِهِۦ ۚ بَلْ هُمْ قَوْمٌۭ طَاغُونَ
+fr: Est-ce qu'ils se sont transmis cette injonction ? Ils sont plutôt des gens transgresseurs.
+ph: 'Atawāşaw Bihi Bal Hum Qawmun Ţāghūna
+
+51:54
+ar: فَتَوَلَّ عَنْهُمْ فَمَآ أَنتَ بِمَلُومٍۢ
+fr: Détourne-toi d'eux, tu ne seras pas blâmé [à leur sujet].
+ph: Fatawalla `Anhum Famā 'Anta Bimalūmin
+
+51:55
+ar: وَذَكِّرْ فَإِنَّ ٱلذِّكْرَىٰ تَنفَعُ ٱلْمُؤْمِنِينَ
+fr: Et rappelle; car le rappel profite aux croyants.
+ph: Wa Dhakkir Fa'inna Adh-Dhikrá Tanfa`u Al-Mu'uminīna
+
+51:56
+ar: وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْإِنسَ إِلَّا لِيَعْبُدُونِ
+fr: Je n'ai créé les djinns et les hommes que pour qu'ils M'adorent.
+ph: Wa Mā Khalaqtu Al-Jinna Wa Al-'Insa 'Illā Liya`budūni
+
+51:57
+ar: مَآ أُرِيدُ مِنْهُم مِّن رِّزْقٍۢ وَمَآ أُرِيدُ أَن يُطْعِمُونِ
+fr: Je ne cherche pas d'eux une subsistance; et Je ne veux pas qu'ils me nourrissent.
+ph: Mā 'Urīdu Minhum Min Rizqin Wa Mā 'Urīdu 'An Yuţ`imūni
+
+51:58
+ar: إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ
+fr: En vérité, c'est Allah qui est le Grand Pourvoyeur, Le Détenteur de la force, l'Inébranlable.
+ph: 'Inna Allāha Huwa Ar-Razzāqu Dhū Al-Qūwati Al-Matīnu
+
+51:59
+ar: فَإِنَّ لِلَّذِينَ ظَلَمُوا۟ ذَنُوبًۭا مِّثْلَ ذَنُوبِ أَصْحَٰبِهِمْ فَلَا يَسْتَعْجِلُونِ
+fr: Ceux qui ont été injustes auront une part [de tourments] pareille à celle de leurs compagnons. Qu'ils ne soient pas trop pressés.
+ph: Fa'inna Lilladhīna Žalamū Dhanūbāan Mithla Dhanūbi 'Aşĥābihim Falā Yasta`jilūni
+
+51:60
+ar: فَوَيْلٌۭ لِّلَّذِينَ كَفَرُوا۟ مِن يَوْمِهِمُ ٱلَّذِى يُوعَدُونَ
+fr: Malheur donc à ceux qui ont mécru à cause du jour dont ils sont menacés !
+ph: Fawaylun Lilladhīna Kafarū Min Yawmihimu Al-Ladhī Yū`adūna
+
 # ---------- Sourate 52 · Aṭ-Ṭūr ----------
+
+52:1
+ar: وَٱلطُّورِ
+fr: Par At-Tûr !
+ph: Wa Aţ-Ţūri
+
+52:2
+ar: وَكِتَٰبٍۢ مَّسْطُورٍۢ
+fr: Et par un Livre écrit
+ph: Wa Kitābin Masţūrin
+
+52:3
+ar: فِى رَقٍّۢ مَّنشُورٍۢ
+fr: sur un parchemin déployé !
+ph: Fī Raqqin Manshūrin
+
+52:4
+ar: وَٱلْبَيْتِ ٱلْمَعْمُورِ
+fr: Et par la Maison peuplée !
+ph: Wa Al-Bayti Al-Ma`mūri
+
+52:5
+ar: وَٱلسَّقْفِ ٱلْمَرْفُوعِ
+fr: Et par la Voûte élevée !
+ph: Wa As-Saqfi Al-Marfū`i
+
+52:6
+ar: وَٱلْبَحْرِ ٱلْمَسْجُورِ
+fr: Et par la Mer portée à ébullition ! (au Jour dernier)
+ph: Wa Al-Baĥri Al-Masjūri
+
+52:7
+ar: إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٌۭ
+fr: Le châtiment de ton Seigneur aura lieu inévitablement.
+ph: 'Inna `Adhāba Rabbika Lawāqi`un
+
+52:8
+ar: مَّا لَهُۥ مِن دَافِعٍۢ
+fr: Nul ne pourra le repousser.
+ph: Mā Lahu Min Dāfi`in
+
+52:9
+ar: يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًۭا
+fr: Le jour où le ciel sera agité d'un tourbillonnement,
+ph: Yawma Tamūru As-Samā'u Mawrāan
+
+52:10
+ar: وَتَسِيرُ ٱلْجِبَالُ سَيْرًۭا
+fr: et les montagnes se mettront en marche.
+ph: Wa Tasīru Al-Jibālu Sayrāan
+
+52:11
+ar: فَوَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ
+fr: Ce jour-là, malheur à ceux qui traitent (les signes d'Allah) de mensonges,
+ph: Fawaylun Yawma'idhin Lilmukadhibīna
+
+52:12
+ar: ٱلَّذِينَ هُمْ فِى خَوْضٍۢ يَلْعَبُونَ
+fr: ceux qui s'ébattent dans des discours frivoles
+ph: Al-Ladhīna Hum Fī Khawđin Yal`abūna
+
+52:13
+ar: يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا
+fr: le jour où ils seront brutalement poussés au feu de l'Enfer:
+ph: Yawma Yuda``ūna 'Ilá Nāri Jahannama Da``āan
+
+52:14
+ar: هَٰذِهِ ٱلنَّارُ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ
+fr: Voilà le feu que vous traitiez de mensonge.
+ph: Hadhihi An-Nāru Allatī Kuntum Bihā Tukadhibūna
+
+52:15
+ar: أَفَسِحْرٌ هَٰذَآ أَمْ أَنتُمْ لَا تُبْصِرُونَ
+fr: Est-ce que cela est de la magie ? Ou bien ne voyez-vous pas clair ?
+ph: 'Afasiĥrun Hādhā 'Am 'Antum Lā Tubşirūna
+
+52:16
+ar: ٱصْلَوْهَا فَٱصْبِرُوٓا۟ أَوْ لَا تَصْبِرُوا۟ سَوَآءٌ عَلَيْكُمْ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ
+fr: Brûlez dedans ! Supportez ou ne supportez pas, ce sera égal pour vous: vous n'êtes rétribués que selon ce que vous faisiez.
+ph: Aşlawhā Fāşbirū 'Aw Lā Taşbirū Sawā'un `Alaykum 'Innamā Tujzawna Mā Kuntum Ta`malūna
+
+52:17
+ar: إِنَّ ٱلْمُتَّقِينَ فِى جَنَّٰتٍۢ وَنَعِيمٍۢ
+fr: Les pieux seront dans des Jardins et dans des délices,
+ph: 'Inna Al-Muttaqīna Fī Jannātin Wa Na`īmin
+
+52:18
+ar: فَٰكِهِينَ بِمَآ ءَاتَىٰهُمْ رَبُّهُمْ وَوَقَىٰهُمْ رَبُّهُمْ عَذَابَ ٱلْجَحِيمِ
+fr: se réjouissant de ce que leur Seigneur leur aura donné, et leur Seigneur les aura protégés du châtiment de la Fournaise.
+ph: Fākihīna Bimā 'Ātāhum Rabbuhum Wa Waqāhum Rabbuhum `Adhāba Al-Jaĥīmi
+
+52:19
+ar: كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ
+fr: « En récompense de ce que vous faisiez, mangez et buvez en toute sérénité,
+ph: Kulū Wa Ashrabū Hanī'āan Bimā Kuntum Ta`malūna
+
+52:20
+ar: مُتَّكِـِٔينَ عَلَىٰ سُرُرٍۢ مَّصْفُوفَةٍۢ ۖ وَزَوَّجْنَٰهُم بِحُورٍ عِينٍۢ
+fr: accoudés sur des lits bien rangés », et Nous leur ferons épouser des houris aux grands yeux noirs,
+ph: Muttaki'īna `Alá Sururin Maşfūfatin Wa Zawwajnāhum Biĥūrin `Īnin
+
+52:21
+ar: وَٱلَّذِينَ ءَامَنُوا۟ وَٱتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِإِيمَٰنٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَآ أَلَتْنَٰهُم مِّنْ عَمَلِهِم مِّن شَىْءٍۢ ۚ كُلُّ ٱمْرِئٍۭ بِمَا كَسَبَ رَهِينٌۭ
+fr: Ceux qui auront cru et que leurs descendants auront suivis dans la foi, Nous ferons que leurs descendants les rejoignent. Et Nous ne diminuerons en rien le mérite de leurs œuvres, chacun étant tenu responsable de ce qu'il aura acquis.
+ph: Wa Al-Ladhīna 'Āmanū Wa Attaba`at/hum Dhurrīyatuhum Bi'īmānin 'Alĥaqnā Bihim Dhurrīyatahum Wa Mā 'Alatnāhum Min `Amalihim Min Shay'in Kullu Amri'in Bimā Kasaba Rahīnun
+
+52:22
+ar: وَأَمْدَدْنَٰهُم بِفَٰكِهَةٍۢ وَلَحْمٍۢ مِّمَّا يَشْتَهُونَ
+fr: Nous les pourvoirons abondamment des fruits et des viandes qu'ils désireront.
+ph: Wa 'Amdadnāhum Bifākihatin Wa Laĥmin Mimmā Yashtahūna
+
+52:23
+ar: يَتَنَٰزَعُونَ فِيهَا كَأْسًۭا لَّا لَغْوٌۭ فِيهَا وَلَا تَأْثِيمٌۭ
+fr: Là, ils se passeront les uns les autres une coupe qui ne provoquera ni vanité ni incrimination.
+ph: Yatanāza`ūna Fīhā Ka'sāan Lā Laghwun Fīhā Wa Lā Ta'thīmun
+
+52:24
+ar: ۞ وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌۭ لَّهُمْ كَأَنَّهُمْ لُؤْلُؤٌۭ مَّكْنُونٌۭ
+fr: Et parmi eux circuleront des garçons à leur service, pareils à des perles bien conservées.
+ph: Wa Yaţūfu `Alayhim Ghilmānun Lahum Ka'annahum Lu'ulu'uun Maknūnun
+
+52:25
+ar: وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ
+fr: Et ils se tourneront les uns vers les autres s'interrogeant;
+ph: Wa 'Aqbala Ba`đuhum `Alá Ba`đin Yatasā'alūna
+
+52:26
+ar: قَالُوٓا۟ إِنَّا كُنَّا قَبْلُ فِىٓ أَهْلِنَا مُشْفِقِينَ
+fr: Ils diront: « Nous vivions au milieu des nôtres dans la crainte [d'Allah];
+ph: Qālū 'Innā Kunnā Qablu Fī 'Ahlinā Mushfiqīna
+
+52:27
+ar: فَمَنَّ ٱللَّهُ عَلَيْنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ
+fr: Puis Allah nous a favorisés et protégés du châtiment du Samûm.
+ph: Famanna Allāhu `Alaynā Wa Waqānā `Adhāba As-Samūmi
+
+52:28
+ar: إِنَّا كُنَّا مِن قَبْلُ نَدْعُوهُ ۖ إِنَّهُۥ هُوَ ٱلْبَرُّ ٱلرَّحِيمُ
+fr: Antérieurement, nous L'invoquions. C'est Lui certes, le Charitable, le Très Miséricordieux. »
+ph: 'Innā Kunnā Min Qablu Nad`ūhu 'Innahu Huwa Al-Barru Ar-Raĥīmu
+
+52:29
+ar: فَذَكِّرْ فَمَآ أَنتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍۢ وَلَا مَجْنُونٍ
+fr: Rappelle donc et par la grâce de ton Seigneur tu n'es ni un devin ni un possédé.
+ph: Fadhakkir Famā 'Anta Bini`mati Rabbika Bikāhinin Wa Lā Majnūnin
+
+52:30
+ar: أَمْ يَقُولُونَ شَاعِرٌۭ نَّتَرَبَّصُ بِهِۦ رَيْبَ ٱلْمَنُونِ
+fr: Ou bien ils disent: « C'est un poète ! Attendons pour lui le coup de la mort. »
+ph: 'Am Yaqūlūna Shā`irun Natarabbaşu Bihi Rayba Al-Manūni
+
+52:31
+ar: قُلْ تَرَبَّصُوا۟ فَإِنِّى مَعَكُم مِّنَ ٱلْمُتَرَبِّصِينَ
+fr: Dis: « Attendez ! Je suis avec vous parmi ceux qui attendent. »
+ph: Qul Tarabbaşū Fa'innī Ma`akum Mina Al-Mutarabbişīna
+
+52:32
+ar: أَمْ تَأْمُرُهُمْ أَحْلَٰمُهُم بِهَٰذَآ ۚ أَمْ هُمْ قَوْمٌۭ طَاغُونَ
+fr: Est-ce leur raison qui leur commande cela ? Ou sont-ils des gens outranciers ?
+ph: 'Am Ta'muruhum 'Aĥlāmuhum Bihadhā 'Am Hum Qawmun Ţāghūna
+
+52:33
+ar: أَمْ يَقُولُونَ تَقَوَّلَهُۥ ۚ بَل لَّا يُؤْمِنُونَ
+fr: Ou bien ils disent: « Il l'a inventé lui-même ? » Non... mais ils ne croient pas.
+ph: 'Am Yaqūlūna Taqawwalahu Bal Lā Yu'uminūna
+
+52:34
+ar: فَلْيَأْتُوا۟ بِحَدِيثٍۢ مِّثْلِهِۦٓ إِن كَانُوا۟ صَٰدِقِينَ
+fr: Eh bien, qu'ils produisent un récit pareil à lui (le Coran), s'ils sont véridiques.
+ph: Falya'tū Biĥadīthin Mithlihi 'In Kānū Şādiqīna
+
+52:35
+ar: أَمْ خُلِقُوا۟ مِنْ غَيْرِ شَىْءٍ أَمْ هُمُ ٱلْخَٰلِقُونَ
+fr: Ont-ils été créés à partir de rien ou sont-ils eux les créateurs ?
+ph: 'Am Khuliqū Min Ghayri Shay'in 'Am Humu Al-Khāliqūna
+
+52:36
+ar: أَمْ خَلَقُوا۟ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۚ بَل لَّا يُوقِنُونَ
+fr: Ou ont-ils créé les cieux et la terre ? Mais ils n'ont plutôt aucune conviction.
+ph: 'Am Khalaqū As-Samāwāti Wa Al-'Arđa Bal Lā Yūqinūna
+
+52:37
+ar: أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ
+fr: Possèdent-ils les trésors de ton Seigneur ? Ou sont-ils eux les maîtres souverains ?
+ph: 'Am `Indahum Khazā'inu Rabbika 'Am Humu Al-Musayţirūna
+
+52:38
+ar: أَمْ لَهُمْ سُلَّمٌۭ يَسْتَمِعُونَ فِيهِ ۖ فَلْيَأْتِ مُسْتَمِعُهُم بِسُلْطَٰنٍۢ مُّبِينٍ
+fr: Ont-ils une échelle d'où ils écoutent ? Que celui des leurs qui reste à l'écoute apporte une preuve évidente !
+ph: 'Am Lahum Sullamun Yastami`ūna Fīhi Falya'ti Mustami`uhum Bisulţānin Mubīnin
+
+52:39
+ar: أَمْ لَهُ ٱلْبَنَٰتُ وَلَكُمُ ٱلْبَنُونَ
+fr: [Allah] aurait-Il les filles, tandis que vous, les fils ?
+ph: 'Am Lahu Al-Banātu Wa Lakumu Al-Banūna
+
+52:40
+ar: أَمْ تَسْـَٔلُهُمْ أَجْرًۭا فَهُم مِّن مَّغْرَمٍۢ مُّثْقَلُونَ
+fr: Ou leur demandes-tu un salaire, de sorte qu'ils soient grevés d'une lourde dette ?
+ph: 'Am Tas'aluhum 'Ajrāan Fahum Min Maghramin Muthqalūna
+
+52:41
+ar: أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ
+fr: Ou bien détiennent-ils l'Inconnaissable pour le mentionner par écrit ?
+ph: 'Am `Indahumu Al-Ghaybu Fahum Yaktubūna
+
+52:42
+ar: أَمْ يُرِيدُونَ كَيْدًۭا ۖ فَٱلَّذِينَ كَفَرُوا۟ هُمُ ٱلْمَكِيدُونَ
+fr: Ou cherchent-ils un stratagème ? Mais ce sont ceux qui ont mécru qui sont victimes de leur propre stratagème.
+ph: 'Am Yurīdūna Kaydāan Fa-Al-Ladhīna Kafarū Humu Al-Makīdūna
+
+52:43
+ar: أَمْ لَهُمْ إِلَٰهٌ غَيْرُ ٱللَّهِ ۚ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ
+fr: Ou ont-ils une autre divinité à part Allah ? Qu'Allah soit glorifié et purifié de tout ce qu'ils associent !
+ph: 'Am Lahum 'Ilahun Ghayru Allāhi Subĥāna Allāhi `Ammā Yushrikūna
+
+52:44
+ar: وَإِن يَرَوْا۟ كِسْفًۭا مِّنَ ٱلسَّمَآءِ سَاقِطًۭا يَقُولُوا۟ سَحَابٌۭ مَّرْكُومٌۭ
+fr: Et s'ils voient tomber des fragments du ciel, ils disent: « Ce sont des nuages superposés. »
+ph: Wa 'In Yaraw Kisfāan Mina As-Samā'i Sāqiţāan Yaqūlū Saĥābun Markūmun
+
+52:45
+ar: فَذَرْهُمْ حَتَّىٰ يُلَٰقُوا۟ يَوْمَهُمُ ٱلَّذِى فِيهِ يُصْعَقُونَ
+fr: Laisse-les donc, jusqu'à ce qu'ils rencontrent leur jour où ils seront foudroyés,
+ph: Fadharhum Ĥattá Yulāqū Yawmahumu Al-Ladhī Fīhi Yuş`aqūna
+
+52:46
+ar: يَوْمَ لَا يُغْنِى عَنْهُمْ كَيْدُهُمْ شَيْـًۭٔا وَلَا هُمْ يُنصَرُونَ
+fr: le jour où leur ruse ne leur servira à rien, où ils ne seront pas secourus.
+ph: Yawma Lā Yughnī `Anhum Kayduhum Shay'āan Wa Lā Hum Yunşarūna
+
+52:47
+ar: وَإِنَّ لِلَّذِينَ ظَلَمُوا۟ عَذَابًۭا دُونَ ذَٰلِكَ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
+fr: Les injustes auront un châtiment préalable. Mais la plupart d'entre eux ne savent pas.
+ph: Wa 'Inna Lilladhīna Žalamū `Adhābāan Dūna Dhālika Wa Lakinna 'Aktharahum Lā Ya`lamūna
+
+52:48
+ar: وَٱصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا ۖ وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ
+fr: Et supporte patiemment la décision de ton Seigneur. Car en vérité, tu es sous Nos yeux. Et célèbre la gloire de ton Seigneur quand tu te lèves;
+ph: Wa Aşbir Liĥukmi Rabbika Fa'innaka Bi'a`yuninā Wa Sabbiĥ Biĥamdi Rabbika Ĥīna Taqūmu
+
+52:49
+ar: وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَإِدْبَٰرَ ٱلنُّجُومِ
+fr: Glorifie-Le une partie de la nuit et au déclin des étoiles.
+ph: Wa Mina Al-Layli Fasabbiĥhu Wa 'Idbāra An-Nujūmi
 
 # ---------- Sourate 53 · An-Najm ----------
 
+53:1
+ar: وَٱلنَّجْمِ إِذَا هَوَىٰ
+fr: Par l'étoile à son déclin !
+ph: Wa An-Najmi 'Idhā Hawá
+
+53:2
+ar: مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ
+fr: Votre compagnon ne s'est pas égaré et n'a pas été induit en erreur
+ph: Mā Đalla Şāĥibukum Wa Mā Ghawá
+
+53:3
+ar: وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ
+fr: et il ne prononce rien sous l'effet de la passion;
+ph: Wa Mā Yanţiqu `Ani Al-Hawá
+
+53:4
+ar: إِنْ هُوَ إِلَّا وَحْىٌۭ يُوحَىٰ
+fr: ce n'est rien d'autre qu'une révélation inspirée.
+ph: 'In Huwa 'Illā Waĥyun Yūĥá
+
+53:5
+ar: عَلَّمَهُۥ شَدِيدُ ٱلْقُوَىٰ
+fr: Que lui a enseigné [l'Ange Gabriel] à la force prodigieuse,
+ph: `Allamahu Shadīdu Al-Quwá
+
+53:6
+ar: ذُو مِرَّةٍۢ فَٱسْتَوَىٰ
+fr: doué de sagacité; c'est alors qu'il se montra sous sa forme réelle [angélique],
+ph: Dhū Mirratin Fāstawá
+
+53:7
+ar: وَهُوَ بِٱلْأُفُقِ ٱلْأَعْلَىٰ
+fr: alors qu'il se trouvait à l'horizon supérieur.
+ph: Wa Huwa Bil-'Ufuqi Al-'A`lá
+
+53:8
+ar: ثُمَّ دَنَا فَتَدَلَّىٰ
+fr: Puis il se rapprocha et descendit encore plus bas,
+ph: Thumma Danā Fatadallá
+
+53:9
+ar: فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ
+fr: et fut à deux portées d'arc, ou plus près encore.
+ph: Fakāna Qāba Qawsayni 'Aw 'Adná
+
+53:10
+ar: فَأَوْحَىٰٓ إِلَىٰ عَبْدِهِۦ مَآ أَوْحَىٰ
+fr: Il révéla à Son serviteur ce qu'Il révéla.
+ph: Fa'awĥá 'Ilá `Abdihi Mā 'Awĥá
+
+53:11
+ar: مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ
+fr: Le cœur n'a pas menti en ce qu'il a vu.
+ph: Mā Kadhaba Al-Fu'uādu Mā Ra'á
+
+53:12
+ar: أَفَتُمَٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ
+fr: Lui contestez-vous donc ce qu'il voit ?
+ph: 'Afatumārūnahu `Alá Mā Yará
+
+53:13
+ar: وَلَقَدْ رَءَاهُ نَزْلَةً أُخْرَىٰ
+fr: Il l'a pourtant vu, lors d'une autre descente,
+ph: Wa Laqad Ra'āhu Nazlatan 'Ukhrá
+
+53:14
+ar: عِندَ سِدْرَةِ ٱلْمُنتَهَىٰ
+fr: près de la Sidrat-ul-Muntahâ,
+ph: `Inda Sidrati Al-Muntahá
+
+53:15
+ar: عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ
+fr: près d'elle se trouve le jardin de Ma'wa :
+ph: `Indahā Jannatu Al-Ma'wá
+
+53:16
+ar: إِذْ يَغْشَى ٱلسِّدْرَةَ مَا يَغْشَىٰ
+fr: au moment où le lotus était couvert de ce qui le couvrait.
+ph: 'Idh Yaghshá As-Sidrata Mā Yaghshá
+
+53:17
+ar: مَا زَاغَ ٱلْبَصَرُ وَمَا طَغَىٰ
+fr: La vue n'a nullement dévié ni outrepassé la mesure.
+ph: Mā Zāgha Al-Başaru Wa Mā Ţaghá
+
+53:18
+ar: لَقَدْ رَأَىٰ مِنْ ءَايَٰتِ رَبِّهِ ٱلْكُبْرَىٰٓ
+fr: Il a bien vu certaines des grandes merveilles de son Seigneur.
+ph: Laqad Ra'á Min 'Āyāti Rabbihi Al-Kubrá
+
+53:19
+ar: أَفَرَءَيْتُمُ ٱللَّٰتَ وَٱلْعُزَّىٰ
+fr: Que vous en semble [des divinités], Lât et Uuzzâ
+ph: 'Afara'aytumu Al-Lāta Wa Al-`Uzzá
+
+53:20
+ar: وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلْأُخْرَىٰٓ
+fr: ainsi que Manât, cette troisième autre ?
+ph: Wa Manāata Ath-Thālithata Al-'Ukhrá
+
+53:21
+ar: أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلْأُنثَىٰ
+fr: Sera-ce à vous le garçon et à Lui la fille ?
+ph: 'Alakumu Adh-Dhakaru Wa Lahu Al-'Unthá
+
+53:22
+ar: تِلْكَ إِذًۭا قِسْمَةٌۭ ضِيزَىٰٓ
+fr: Que voilà donc un partage injuste !
+ph: Tilka 'Idhāan Qismatun Đīzá
+
+53:23
+ar: إِنْ هِىَ إِلَّآ أَسْمَآءٌۭ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهْوَى ٱلْأَنفُسُ ۖ وَلَقَدْ جَآءَهُم مِّن رَّبِّهِمُ ٱلْهُدَىٰٓ
+fr: Ce ne sont que des noms que vous avez inventés, vous et vos ancêtres. Allah n'a fait descendre aucune preuve à leur sujet. Ils ne suivent que la conjecture et les passions de [leurs] âmes, alors que la guidée leur est venue de leur Seigneur.
+ph: 'In Hiya 'Illā 'Asmā'un Sammaytumūhā 'Antum Wa 'Ābā'uukum Mā 'Anzala Allāhu Bihā Min Sulţānin 'In Yattabi`ūna 'Illā Až-Žanna Wa Mā Tahwá Al-'Anfusu Wa Laqad Jā'ahum Min Rabbihimu Al-Hudá
+
+53:24
+ar: أَمْ لِلْإِنسَٰنِ مَا تَمَنَّىٰ
+fr: Ou bien l'homme aura-t-il tout ce qu'il désire ?
+ph: 'Am Lil'insāni Mā Tamanná
+
+53:25
+ar: فَلِلَّهِ ٱلْءَاخِرَةُ وَٱلْأُولَىٰ
+fr: À Allah appartiennent la vie future et la vie d'ici-bas.
+ph: Falillāhi Al-'Ākhiratu Wa Al-'Ūlá
+
+53:26
+ar: ۞ وَكَم مِّن مَّلَكٍۢ فِى ٱلسَّمَٰوَٰتِ لَا تُغْنِى شَفَٰعَتُهُمْ شَيْـًٔا إِلَّا مِنۢ بَعْدِ أَن يَأْذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرْضَىٰٓ
+fr: Et que d'Anges dans les cieux dont l'intercession ne sert à rien, sinon qu'après qu'Allah l'aura permis, en faveur de qui Il veut et qu'Il agrée.
+ph: Wa Kam Min Malakin Fī As-Samāwāti Lā Tughnī Shafā`atuhum Shay'āan 'Illā Min Ba`di 'An Ya'dhana Allāhu Liman Yashā'u Wa Yarđá
+
+53:27
+ar: إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ لَيُسَمُّونَ ٱلْمَلَٰٓئِكَةَ تَسْمِيَةَ ٱلْأُنثَىٰ
+fr: Ceux qui ne croient pas en l'au-delà donnent aux Anges des noms de femmes,
+ph: 'Inna Al-Ladhīna Lā Yu'uminūna Bil-'Ākhirati Layusammūna Al-Malā'ikata Tasmiyata Al-'Unthá
+
+53:28
+ar: وَمَا لَهُم بِهِۦ مِنْ عِلْمٍ ۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ ۖ وَإِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًۭٔا
+fr: alors qu'ils n'en ont aucune science: ils ne suivent que la conjecture, alors que la conjecture ne sert à rien contre la vérité.
+ph: Wa Mā Lahum Bihi Min `Ilmin 'In Yattabi`ūna 'Illā Až-Žanna Wa 'Inna Až-Žanna Lā Yughnī Mina Al-Ĥaqqi Shay'āan
+
+53:29
+ar: فَأَعْرِضْ عَن مَّن تَوَلَّىٰ عَن ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا ٱلْحَيَوٰةَ ٱلدُّنْيَا
+fr: Ecarte-toi donc, de celui qui tourne le dos à Notre rappel et qui ne désire que la vie présente.
+ph: Fa'a`riđ `An Man Tawallá `An Dhikrinā Wa Lam Yurid 'Illā Al-Ĥayāata Ad-Dunyā
+
+53:30
+ar: ذَٰلِكَ مَبْلَغُهُم مِّنَ ٱلْعِلْمِ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِمَنِ ٱهْتَدَىٰ
+fr: Voilà toute la portée de leur savoir. Certes ton Seigneur connaît parfaitement celui qui s'égare de Son chemin et Il connaît parfaitement qui est bien guidé.
+ph: Dhālika Mablaghuhum Mina Al-`Ilmi 'Inna Rabbaka Huwa 'A`lamu Biman Đalla `An Sabīlihi Wa Huwa 'A`lamu Bimani Ahtadá
+
+53:31
+ar: وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ لِيَجْزِىَ ٱلَّذِينَ أَسَٰٓـُٔوا۟ بِمَا عَمِلُوا۟ وَيَجْزِىَ ٱلَّذِينَ أَحْسَنُوا۟ بِٱلْحُسْنَى
+fr: À Allah appartient ce qui est dans les cieux et sur la terre afin qu'Il rétribue ceux qui font le mal selon ce qu'ils œuvrent, et récompense ceux qui font le bien par la meilleure [récompense],
+ph: Wa Lillahi Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Liyajziya Al-Ladhīna 'Asā'ū Bimā `Amilū Wa Yajziya Al-Ladhīna 'Aĥsanū Bil-Ĥusná
+
+53:32
+ar: ٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ ۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ ۚ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌۭ فِى بُطُونِ أُمَّهَٰتِكُمْ ۖ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ
+fr: ceux qui évitent les plus grands péchés ainsi que les turpitudes et [qui ne commettent] que des fautes légères. Certes, le pardon de Ton Seigneur est immense. C'est Lui qui vous connaît le mieux quand Il vous a produits de terre, et aussi quand vous étiez des embryons dans les ventres de vos mères. Ne vantez pas vous-mêmes votre pureté; c'est Lui qui connaît mieux ceux qui [Le] craignent.
+ph: Al-Ladhīna Yajtanibūna Kabā'ira Al-'Ithmi Wa Al-Fawāĥisha 'Illā Al-Lamama 'Inna Rabbaka Wāsi`u Al-Maghfirati Huwa 'A`lamu Bikum 'Idh 'Ansha'akum Mina Al-'Arđi Wa 'Idh 'Antum 'Ajinnatun Fī Buţūni 'Ummahātikum Falā Tuzakkū 'Anfusakum Huwa 'A`lamu Bimani Attaqá
+
+53:33
+ar: أَفَرَءَيْتَ ٱلَّذِى تَوَلَّىٰ
+fr: Vois-tu celui qui s'est détourné,
+ph: 'Afara'ayta Al-Ladhī Tawallá
+
+53:34
+ar: وَأَعْطَىٰ قَلِيلًۭا وَأَكْدَىٰٓ
+fr: donné peu et a [finalement] cessé de donner ?
+ph: Wa 'A`ţá Qalīlāan Wa 'Akdá
+
+53:35
+ar: أَعِندَهُۥ عِلْمُ ٱلْغَيْبِ فَهُوَ يَرَىٰٓ
+fr: Détient-il la science de l'Inconnaissable en sorte qu'il voit ?
+ph: 'A`indahu `Ilmu Al-Ghaybi Fahuwa Yará
+
+53:36
+ar: أَمْ لَمْ يُنَبَّأْ بِمَا فِى صُحُفِ مُوسَىٰ
+fr: Ne lui a-t-on pas annoncé ce qu'il y avait dans les feuilles de Musa (Moïse)
+ph: 'Am Lam Yunabba' Bimā Fī Şuĥufi Mūsá
+
+53:37
+ar: وَإِبْرَٰهِيمَ ٱلَّذِى وَفَّىٰٓ
+fr: et celles d'Ibrahim (Abraham) qui a tenu parfaitement [sa promesse de transmettre]
+ph: Wa 'Ibrāhīma Al-Ladhī Wa Ffá
+
+53:38
+ar: أَلَّا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ
+fr: qu'aucune [âme] ne portera le fardeau (le péché) d'autrui,
+ph: 'Allā Taziru Wāziratun Wizra 'Ukhrá
+
+53:39
+ar: وَأَن لَّيْسَ لِلْإِنسَٰنِ إِلَّا مَا سَعَىٰ
+fr: et qu'en vérité, l'homme n'obtient que [le fruit] de ses efforts;
+ph: Wa 'An Laysa Lil'insāni 'Illā Mā Sa`á
+
+53:40
+ar: وَأَنَّ سَعْيَهُۥ سَوْفَ يُرَىٰ
+fr: et que son effort, en vérité, lui sera présenté (le jour du Jugement).
+ph: Wa 'Anna Sa`yahu Sawfa Yurá
+
+53:41
+ar: ثُمَّ يُجْزَىٰهُ ٱلْجَزَآءَ ٱلْأَوْفَىٰ
+fr: Ensuite il en sera récompensé pleinement,
+ph: Thumma Yujzāhu Al-Jazā'a Al-'Awfá
+
+53:42
+ar: وَأَنَّ إِلَىٰ رَبِّكَ ٱلْمُنتَهَىٰ
+fr: et que tout aboutit, en vérité, vers ton Seigneur,
+ph: Wa 'Anna 'Ilá Rabbika Al-Muntahá
+
+53:43
+ar: وَأَنَّهُۥ هُوَ أَضْحَكَ وَأَبْكَىٰ
+fr: et que c'est Lui qui a fait rire et qui a fait pleurer,
+ph: Wa 'Annahu Huwa 'Ađĥaka Wa 'Abká
+
+53:44
+ar: وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحْيَا
+fr: et que c'est Lui qui a fait mourir et qui a ramené à la vie,
+ph: Wa 'Annahu Huwa 'Amāta Wa 'Aĥyā
+
+53:45
+ar: وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ
+fr: et que c'est Lui qui a créé les deux éléments de couple, le mâle et la femelle,
+ph: Wa 'Annahu Khalaqa Az-Zawjayni Adh-Dhakara Wa Al-'Unthá
+
+53:46
+ar: مِن نُّطْفَةٍ إِذَا تُمْنَىٰ
+fr: d'une goutte de sperme quand elle est éjaculée
+ph: Min Nuţfatin 'Idhā Tumná
+
+53:47
+ar: وَأَنَّ عَلَيْهِ ٱلنَّشْأَةَ ٱلْأُخْرَىٰ
+fr: et que la seconde création Lui incombe,
+ph: Wa 'Anna `Alayhi An-Nash'ata Al-'Ukhrá
+
+53:48
+ar: وَأَنَّهُۥ هُوَ أَغْنَىٰ وَأَقْنَىٰ
+fr: et c'est Lui qui a enrichi et qui a fait acquérir.
+ph: Wa 'Annahu Huwa 'Aghná Wa 'Aqná
+
+53:49
+ar: وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ
+fr: Et c'est Lui qui est le Seigneur de Sirius,
+ph: Wa 'Annahu Huwa Rabbu Ash-Shi`rá
+
+53:50
+ar: وَأَنَّهُۥٓ أَهْلَكَ عَادًا ٱلْأُولَىٰ
+fr: et c'est Lui qui a fait périr les anciens 'Ad,
+ph: Wa 'Annahu 'Ahlaka `Ādāan Al-'Ūlá
+
+53:51
+ar: وَثَمُودَا۟ فَمَآ أَبْقَىٰ
+fr: ainsi que les Thamud, et Il fit que rien n'en subsistât,
+ph: Wa Thamūda Famā 'Abqá
+
+53:52
+ar: وَقَوْمَ نُوحٍۢ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ هُمْ أَظْلَمَ وَأَطْغَىٰ
+fr: ainsi que le peuple de Nuh (Noé) antérieurement, car ils étaient encore plus injustes et plus violents,
+ph: Wa Qawma Nūĥin Min Qablu 'Innahum Kānū Hum 'Ažlama Wa 'Aţghá
+
+53:53
+ar: وَٱلْمُؤْتَفِكَةَ أَهْوَىٰ
+fr: de même qu'Il anéantit les villes renversées.
+ph: Wa Al-Mu'utafikata 'Ahwá
+
+53:54
+ar: فَغَشَّىٰهَا مَا غَشَّىٰ
+fr: Et les recouvrit de ce dont Il les recouvrit.
+ph: Faghashāhā Mā Ghashá
+
+53:55
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ
+fr: Lequel donc des bienfaits de ton Seigneur mets-tu en doute ?
+ph: Fabi'ayyi 'Ālā'i Rabbika Tatamārá
+
+53:56
+ar: هَٰذَا نَذِيرٌۭ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ
+fr: Voici un avertisseur analogue aux avertisseurs anciens:
+ph: Hādhā Nadhīrun Mina An-Nudhuri Al-'Ūlá
+
+53:57
+ar: أَزِفَتِ ٱلْءَازِفَةُ
+fr: l'Imminente (L'heure du Jugement) s'approche.
+ph: 'Azifati Al-'Āzifahu
+
+53:58
+ar: لَيْسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ
+fr: Rien d'autre en dehors d'Allah ne peut la dévoiler.
+ph: Laysa Lahā Min Dūni Allāhi Kāshifahun
+
+53:59
+ar: أَفَمِنْ هَٰذَا ٱلْحَدِيثِ تَعْجَبُونَ
+fr: Quoi ! Vous étonnez-vous de ce discours (le Coran) ?
+ph: 'Afamin Hādhā Al-Ĥadīthi Ta`jabūna
+
+53:60
+ar: وَتَضْحَكُونَ وَلَا تَبْكُونَ
+fr: Et vous [en] riez et n'[en] pleurez point ?
+ph: Wa Tađĥakūna Wa Lā Tabkūna
+
+53:61
+ar: وَأَنتُمْ سَٰمِدُونَ
+fr: Absorbés [que vous êtes] par votre distraction.
+ph: Wa 'Antum Sāmidūna
+
+53:62
+ar: فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩
+fr: Prosternez-vous donc à Allah et adorez-Le.
+ph: Fāsjudū Lillāhi Wa A`budū
+
 # ---------- Sourate 54 · Al-Qamar ----------
 
+54:1
+ar: ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ
+fr: L'Heure approche et la Lune s'est fendue.
+ph: Aqtarabati As-Sā`atu Wa Anshaqqa Al-Qamaru
+
+54:2
+ar: وَإِن يَرَوْا۟ ءَايَةًۭ يُعْرِضُوا۟ وَيَقُولُوا۟ سِحْرٌۭ مُّسْتَمِرٌّۭ
+fr: Et s'ils voient un prodige, ils s'en détournent et disent: « Une magie persistante. »
+ph: Wa 'In Yaraw 'Āyatan Yu`riđū Wa Yaqūlū Siĥrun Mustamirrun
+
+54:3
+ar: وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ ۚ وَكُلُّ أَمْرٍۢ مُّسْتَقِرٌّۭ
+fr: Et ils [le] traitent de mensonge et suivent leurs propres impulsions, or chaque chose arrivera à son terme [et son but].
+ph: Wa Kadhabū Wa Attaba`ū 'Ahwā'ahum Wa Kullu 'Amrin Mustaqirrun
+
+54:4
+ar: وَلَقَدْ جَآءَهُم مِّنَ ٱلْأَنۢبَآءِ مَا فِيهِ مُزْدَجَرٌ
+fr: Ils ont pourtant reçu comme nouvelles de quoi les empêcher (du mal);
+ph: Wa Laqad Jā'ahum Mina Al-'Anbā'i Mā Fīhi Muzdajarun
+
+54:5
+ar: حِكْمَةٌۢ بَٰلِغَةٌۭ ۖ فَمَا تُغْنِ ٱلنُّذُرُ
+fr: [Cela est] une sagesse parfaite. Mais les avertissements ne [leur] servent à rien.
+ph: Ĥikmatun Bālighatun Famā Tughni An-Nudhuru
+
+54:6
+ar: فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍۢ نُّكُرٍ
+fr: Détourne-toi d'eux. Le jour où l'appeleur appellera vers une chose affreuse,
+ph: Fatawalla `Anhum Yawma Yad`u Ad-Dā`i 'Ilá Shay'in Nukurin
+
+54:7
+ar: خُشَّعًا أَبْصَٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌۭ مُّنتَشِرٌۭ
+fr: les regards baissés, ils sortiront des tombes comme des sauterelles éparpillées,
+ph: Khusha`āan 'Abşāruhum Yakhrujūna Mina Al-'Ajdāthi Ka'annahum Jarādun Muntashirun
+
+54:8
+ar: مُّهْطِعِينَ إِلَى ٱلدَّاعِ ۖ يَقُولُ ٱلْكَٰفِرُونَ هَٰذَا يَوْمٌ عَسِرٌۭ
+fr: courant, le cou tendu, vers l'appeleur. Les mécréants diront: « Voilà un jour difficile. »
+ph: Muhţi`īna 'Ilá Ad-Dā`i Yaqūlu Al-Kāfirūna Hādhā Yawmun `Asirun
+
+54:9
+ar: ۞ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ فَكَذَّبُوا۟ عَبْدَنَا وَقَالُوا۟ مَجْنُونٌۭ وَٱزْدُجِرَ
+fr: Avant eux, le peuple de Nuh (Noé) avait crié au mensonge. Ils traitèrent Notre serviteur de menteur et dirent: « C'est un possédé ! » et il fut repoussé.
+ph: Kadhabat Qablahum Qawmu Nūĥin Fakadhabū `Abdanā Wa Qālū Majnūnun Wa Azdujira
+
+54:10
+ar: فَدَعَا رَبَّهُۥٓ أَنِّى مَغْلُوبٌۭ فَٱنتَصِرْ
+fr: Il invoqua donc son Seigneur: « Moi, je suis vaincu. Fais triompher (Ta cause). »
+ph: Fada`ā Rabbahu 'Annī Maghlūbun Fāntaşir
+
+54:11
+ar: فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍۢ مُّنْهَمِرٍۢ
+fr: Nous ouvrîmes alors les portes du ciel à une eau torrentielle,
+ph: Fafataĥnā 'Abwāba As-Samā'i Bimā'in Munhamirin
+
+54:12
+ar: وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًۭا فَٱلْتَقَى ٱلْمَآءُ عَلَىٰٓ أَمْرٍۢ قَدْ قُدِرَ
+fr: et fîmes jaillir la terre en sources. Les eaux se rencontrèrent d'après un ordre qui était déjà décrété dans une chose [faite].
+ph: Wa Fajjarnā Al-'Arđa `Uyūnāan Fāltaqá Al-Mā'u `Alá 'Amrin Qad Qudira
+
+54:13
+ar: وَحَمَلْنَٰهُ عَلَىٰ ذَاتِ أَلْوَٰحٍۢ وَدُسُرٍۢ
+fr: Et Nous le portâmes sur un objet [fait] de planches et de clous [l'arche],
+ph: Wa Ĥamalnāhu `Alá Dhāti 'Alwāĥin Wa Dusurin
+
+54:14
+ar: تَجْرِى بِأَعْيُنِنَا جَزَآءًۭ لِّمَن كَانَ كُفِرَ
+fr: voguant sous Nos yeux: récompense pour celui qu'on avait renié [Nuh].
+ph: Tajrī Bi'a`yuninā Jazā'an Liman Kāna Kufira
+
+54:15
+ar: وَلَقَد تَّرَكْنَٰهَآ ءَايَةًۭ فَهَلْ مِن مُّدَّكِرٍۢ
+fr: Et Nous la laissâmes, comme un signe [d'avertissement]. Y a-t-il quelqu'un pour réfléchir ?
+ph: Wa Laqad Taraknāhā 'Āyatan Fahal Min Muddakirin
+
+54:16
+ar: فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ
+fr: Comment furent Mon châtiment et Mes avertissements ?
+ph: Fakayfa Kāna `Adhābī Wa Nudhuri
+
+54:17
+ar: وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍۢ
+fr: En effet, Nous avons rendu le Coran facile pour la méditation. Y a-t-il quelqu'un pour réfléchir ?
+ph: Wa Laqad Yassarnā Al-Qur'āna Lildhikri Fahal Min Muddakirin
+
+54:18
+ar: كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ
+fr: Les 'Ad ont traité de menteur (leur Messager). Comment furent Mon châtiment et Mes avertissements ?
+ph: Kadhabat `Ādun Fakayfa Kāna `Adhābī Wa Nudhuri
+
+54:19
+ar: إِنَّآ أَرْسَلْنَا عَلَيْهِمْ رِيحًۭا صَرْصَرًۭا فِى يَوْمِ نَحْسٍۢ مُّسْتَمِرٍّۢ
+fr: Nous avons envoyé contre eux un vent violent et glacial, en un jour néfaste et interminable;
+ph: 'Innā 'Arsalnā `Alayhim Rīĥāan Şarşarāan Fī Yawmi Naĥsin Mustamirrin
+
+54:20
+ar: تَنزِعُ ٱلنَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍۢ مُّنقَعِرٍۢ
+fr: il arrachait les gens comme des souches de palmiers déracinés.
+ph: Tanzi`u An-Nāsa Ka'annahum 'A`jāzu Nakhlin Munqa`irin
+
+54:21
+ar: فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ
+fr: Comment furent Mon châtiment et Mes avertissements ?
+ph: Fakayfa Kāna `Adhābī Wa Nudhuri
+
+54:22
+ar: وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍۢ
+fr: En effet, Nous avons rendu le Coran facile pour la méditation. Y a-t-il quelqu'un pour réfléchir ?
+ph: Wa Laqad Yassarnā Al-Qur'āna Lildhikri Fahal Min Muddakirin
+
+54:23
+ar: كَذَّبَتْ ثَمُودُ بِٱلنُّذُرِ
+fr: Les Thamud ont traité de mensonges les avertissements.
+ph: Kadhabat Thamūdu Bin-Nudhuri
+
+54:24
+ar: فَقَالُوٓا۟ أَبَشَرًۭا مِّنَّا وَٰحِدًۭا نَّتَّبِعُهُۥٓ إِنَّآ إِذًۭا لَّفِى ضَلَٰلٍۢ وَسُعُرٍ
+fr: Ils dirent: « Allons-nous suivre un seul homme (Salih) d'entre nous-mêmes ? Nous serions alors dans l'égarement et la folie.
+ph: Faqālū 'Abasharāan Minnā Wāĥidāan Nattabi`uhu 'Innā 'Idhāan Lafī Đalālin Wa Su`urin
+
+54:25
+ar: أَءُلْقِىَ ٱلذِّكْرُ عَلَيْهِ مِنۢ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌۭ
+fr: Est-ce que le message a été envoyé à Lui à l'exception de nous tous ? C'est plutôt un grand menteur, plein de prétention et d'orgueil. »
+ph: 'A'uulqiya Adh-Dhikru `Alayhi Min Bayninā Bal Huwa Kadhābun 'Ashirun
+
+54:26
+ar: سَيَعْلَمُونَ غَدًۭا مَّنِ ٱلْكَذَّابُ ٱلْأَشِرُ
+fr: Demain, ils sauront qui est le grand menteur plein de prétention et d'orgueil.
+ph: Saya`lamūna Ghadāan Mani Al-Kadhābu Al-'Ashiru
+
+54:27
+ar: إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةًۭ لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ
+fr: Nous leur enverrons la chamelle, comme épreuve. Surveille-les donc et sois patient.
+ph: 'Innā Mursilū An-Nāqati Fitnatan Lahum Fārtaqibhum Wa Aşţabir
+
+54:28
+ar: وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ ۖ كُلُّ شِرْبٍۢ مُّحْتَضَرٌۭ
+fr: Et informe-les que l'eau sera en partage entre eux [et la chamelle]; chacun boira à son tour.
+ph: Wa Nabbi'hum 'Anna Al-Mā'a Qismatun Baynahum Kullu Shirbin Muĥtađarun
+
+54:29
+ar: فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ
+fr: Puis ils appelèrent leur camarade qui prit [son épée] et [la] tua.
+ph: Fanādaw Şāĥibahum Fata`āţá Fa`aqara
+
+54:30
+ar: فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ
+fr: Comment furent donc Mon châtiment et Mes avertissements ?
+ph: Fakayfa Kāna `Adhābī Wa Nudhuri
+
+54:31
+ar: إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ
+fr: Nous lachâmes sur eux un seul Cri, et voilà qu'ils furent réduits à l'état de paille d'étable.
+ph: 'Innā 'Arsalnā `Alayhim Şayĥatan Wāĥidatan Fakānū Kahashīmi Al-Muĥtažiri
+
+54:32
+ar: وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍۢ
+fr: Et vraiment, Nous avons rendu le Coran facile pour la méditation. Y a-t-il quelqu'un pour réfléchir ?
+ph: Wa Laqad Yassarnā Al-Qur'āna Lildhikri Fahal Min Muddakirin
+
+54:33
+ar: كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ
+fr: Le peuple de Lut (Loth) traita de mensonges les avertissements.
+ph: Kadhabat Qawmu Lūţin Bin-Nudhuri
+
+54:34
+ar: إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍۢ ۖ نَّجَّيْنَٰهُم بِسَحَرٍۢ
+fr: Nous lachâmes sur eux un ouragan, excepté la famille de Lut (Loth) que Nous sauvâmes avant l'aube,
+ph: 'Innā 'Arsalnā `Alayhim Ĥāşibāan 'Illā 'Āla Lūţin Najjaynāhum Bisaĥarin
+
+54:35
+ar: نِّعْمَةًۭ مِّنْ عِندِنَا ۚ كَذَٰلِكَ نَجْزِى مَن شَكَرَ
+fr: à titre de bienfait de Notre part: ainsi récompensons-Nous celui qui est reconnaissant.
+ph: Ni`matan Min `Indinā Kadhālika Najzī Man Shakara
+
+54:36
+ar: وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ
+fr: Il les avait pourtant avertis de Nos représailles. Mais ils mirent les avertissements en doute.
+ph: Wa Laqad 'Andharahum Baţshatanā Fatamāraw Bin-Nudhuri
+
+54:37
+ar: وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ
+fr: En effet, ils voulaient séduire ses hôtes. Nous aveuglâmes leurs yeux: « Goûtez donc Mon châtiment et Mes avertissements. »
+ph: Wa Laqad Rāwadūhu `An Đayfihi Faţamasnā 'A`yunahum Fadhūqū `Adhābī Wa Nudhuri
+
+54:38
+ar: وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌۭ مُّسْتَقِرٌّۭ
+fr: En effet, au petit matin, un châtiment persistant les surprit.
+ph: Wa Laqad Şabbaĥahum Bukratan `Adhābun Mustaqirrun
+
+54:39
+ar: فَذُوقُوا۟ عَذَابِى وَنُذُرِ
+fr: Goûtez donc Mon châtiment et Mes avertissements.
+ph: Fadhūqū `Adhābī Wa Nudhuri
+
+54:40
+ar: وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍۢ
+fr: Et vraiment, Nous avons rendu le Coran facile pour la méditation. Y a-t-il quelqu'un pour réfléchir ?
+ph: Wa Laqad Yassarnā Al-Qur'āna Lildhikri Fahal Min Muddakirin
+
+54:41
+ar: وَلَقَدْ جَآءَ ءَالَ فِرْعَوْنَ ٱلنُّذُرُ
+fr: Les avertissements vinrent certes, aux gens de Fir'awn (Pharaon).
+ph: Wa Laqad Jā'a 'Āla Fir`awna An-Nudhuru
+
+54:42
+ar: كَذَّبُوا۟ بِـَٔايَٰتِنَا كُلِّهَا فَأَخَذْنَٰهُمْ أَخْذَ عَزِيزٍۢ مُّقْتَدِرٍ
+fr: Ils traitèrent de mensonges tous Nos prodiges. Nous les saisîmes donc, de la saisie d'un Puissant Omnipotent.
+ph: Kadhabū Bi'āyātinā Kullihā Fa'akhadhnāhum 'Akhdha `Azīzin Muqtadirin
+
+54:43
+ar: أَكُفَّارُكُمْ خَيْرٌۭ مِّنْ أُو۟لَٰٓئِكُمْ أَمْ لَكُم بَرَآءَةٌۭ فِى ٱلزُّبُرِ
+fr: Vos mécréants sont-ils meilleurs que ceux-là ? Ou bien y a-t-il dans les Ecritures une immunité pour vous ?
+ph: 'Akuffārukum Khayrun Min 'Ūla'ikum 'Am Lakum Barā'atun Fī Az-Zuburi
+
+54:44
+ar: أَمْ يَقُولُونَ نَحْنُ جَمِيعٌۭ مُّنتَصِرٌۭ
+fr: Ou bien ils disent: « Nous formons un groupe [fort] et nous vaincrons. »
+ph: 'Am Yaqūlūna Naĥnu Jamī`un Muntaşirun
+
+54:45
+ar: سَيُهْزَمُ ٱلْجَمْعُ وَيُوَلُّونَ ٱلدُّبُرَ
+fr: Leur rassemblement sera bientôt mis en déroute, et ils fuiront.
+ph: Sayuhzamu Al-Jam`u Wa Yuwallūna Ad-Dubura
+
+54:46
+ar: بَلِ ٱلسَّاعَةُ مَوْعِدُهُمْ وَٱلسَّاعَةُ أَدْهَىٰ وَأَمَرُّ
+fr: L'Heure, plutôt, sera leur rendez-vous, et l'Heure sera plus terrible et plus amère.
+ph: Bali As-Sā`atu Maw`iduhum Wa As-Sā`atu 'Ad/há Wa 'Amarru
+
+54:47
+ar: إِنَّ ٱلْمُجْرِمِينَ فِى ضَلَٰلٍۢ وَسُعُرٍۢ
+fr: Les criminels sont certes, dans l'égarement et la folie.
+ph: 'Inna Al-Mujrimīna Fī Đalālin Wa Su`urin
+
+54:48
+ar: يَوْمَ يُسْحَبُونَ فِى ٱلنَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا۟ مَسَّ سَقَرَ
+fr: Le jour où on les traînera dans le Feu sur leurs visages, (on leur dira): « Goûtez au contact de Saqar [la chaleur brûlante de l'Enfer]. »
+ph: Yawma Yusĥabūna Fī An-Nāri `Alá Wujūhihim Dhūqū Massa Saqara
+
+54:49
+ar: إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍۢ
+fr: Nous avons créé toute chose avec mesure,
+ph: 'Innā Kulla Shay'in Khalaqnāhu Biqadarin
+
+54:50
+ar: وَمَآ أَمْرُنَآ إِلَّا وَٰحِدَةٌۭ كَلَمْحٍۭ بِٱلْبَصَرِ
+fr: et Notre ordre est une seule [parole]; [il est prompt] comme un clin d'œil.
+ph: Wa Mā 'Amrunā 'Illā Wāĥidatun Kalamĥin Bil-Başari
+
+54:51
+ar: وَلَقَدْ أَهْلَكْنَآ أَشْيَاعَكُمْ فَهَلْ مِن مُّدَّكِرٍۢ
+fr: En effet, Nous avons fait périr des peuples semblables à vous. Y a-t-il quelqu'un pour s'en souvenir ?
+ph: Wa Laqad 'Ahlaknā 'Ashyā`akum Fahal Min Muddakirin
+
+54:52
+ar: وَكُلُّ شَىْءٍۢ فَعَلُوهُ فِى ٱلزُّبُرِ
+fr: Et tout ce qu'ils ont fait est mentionné dans les registres,
+ph: Wa Kullu Shay'in Fa`alūhu Fī Az-Zuburi
+
+54:53
+ar: وَكُلُّ صَغِيرٍۢ وَكَبِيرٍۢ مُّسْتَطَرٌ
+fr: et tout fait, petit et grand, est consigné.
+ph: Wa Kullu Şaghīrin Wa Kabīrin Mustaţarun
+
+54:54
+ar: إِنَّ ٱلْمُتَّقِينَ فِى جَنَّٰتٍۢ وَنَهَرٍۢ
+fr: Les pieux seront dans des Jardins et parmi des ruisseaux,
+ph: 'Inna Al-Muttaqīna Fī Jannātin Wa Naharin
+
+54:55
+ar: فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍۢ مُّقْتَدِرٍۭ
+fr: dans un séjour de vérité, auprès d'un Souverain Omnipotent.
+ph: Fī Maq`adi Şidqin `Inda Malīkin Muqtadirin
+
 # ---------- Sourate 55 · Ar-Raḥmān ----------
+
+55:1
+ar: ٱلرَّحْمَٰنُ
+fr: Le Tout Miséricordieux.
+ph: Ar-Raĥmānu
+
+55:2
+ar: عَلَّمَ ٱلْقُرْءَانَ
+fr: Il a enseigné le Coran.
+ph: `Allama Al-Qur'āna
+
+55:3
+ar: خَلَقَ ٱلْإِنسَٰنَ
+fr: Il a créé l'homme.
+ph: Khalaqa Al-'Insāna
+
+55:4
+ar: عَلَّمَهُ ٱلْبَيَانَ
+fr: Il lui a appris à s'exprimer clairement.
+ph: `Allamahu Al-Bayāna
+
+55:5
+ar: ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍۢ
+fr: Le soleil et la lune [évoluent] selon un calcul [minutieux].
+ph: Ash-Shamsu Wa Al-Qamaru Biĥusbānin
+
+55:6
+ar: وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ
+fr: Et l'herbe et les arbres se prosternent.
+ph: Wa An-Najmu Wa Ash-Shajaru Yasjudāni
+
+55:7
+ar: وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ
+fr: Et quant au ciel, Il l'a élevé bien haut. Et Il a établi la balance,
+ph: Wa As-Samā'a Rafa`ahā Wa Wađa`a Al-Mīzāna
+
+55:8
+ar: أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ
+fr: afin que vous ne transgressiez pas dans la pesée:
+ph: 'Allā Taţghaw Fī Al-Mīzāni
+
+55:9
+ar: وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ
+fr: Donnez [toujours] le poids exact et ne faussez pas la pesée.
+ph: Wa 'Aqīmū Al-Wazna Bil-Qisţi Wa Lā Tukhsirū Al-Mīzāna
+
+55:10
+ar: وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ
+fr: Quant à la terre, Il l'a étendue pour les êtres vivants:
+ph: Wa Al-'Arđa Wađa`ahā Lil'anāmi
+
+55:11
+ar: فِيهَا فَٰكِهَةٌۭ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ
+fr: il s'y trouve des fruits, et aussi les palmiers aux fruits recouverts d'enveloppes,
+ph: Fīhā Fākihatun Wa An-Nakhlu Dhātu Al-'Akmāmi
+
+55:12
+ar: وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ
+fr: tout comme les grains dans leurs balles, et les plantes aromatiques.
+ph: Wa Al-Ĥabbu Dhū Al-`Aşfi Wa Ar-Rayĥānu
+
+55:13
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:14
+ar: خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍۢ كَٱلْفَخَّارِ
+fr: Il a créé l'homme d'argile sonnante comme la poterie;
+ph: Khalaqa Al-'Insāna Min Şalşālin Kālfakhkhāri
+
+55:15
+ar: وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍۢ مِّن نَّارٍۢ
+fr: et Il a créé les djinns de la flamme d'un feu sans fumée.
+ph: Wa Khalaqa Al-Jānna Min Mārijin Min Nārin
+
+55:16
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:17
+ar: رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ
+fr: Seigneur des deux Levants et Seigneur des deux Couchants !
+ph: Rabbu Al-Mashriqayni Wa Rabbu Al-Maghribayni
+
+55:18
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:19
+ar: مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ
+fr: Il a donné libre cours aux deux mers pour se rencontrer ;
+ph: Maraja Al-Baĥrayni Yaltaqiyāni
+
+55:20
+ar: بَيْنَهُمَا بَرْزَخٌۭ لَّا يَبْغِيَانِ
+fr: il y a entre elles une barrière qu'elles ne dépassent pas.
+ph: Baynahumā Barzakhun Lā Yabghiyāni
+
+55:21
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:22
+ar: يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ
+fr: De ces deux [mers] sortent la perle et le corail.
+ph: Yakhruju Minhumā Al-Lu'ulu'uu Wa Al-Marjānu
+
+55:23
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:24
+ar: وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَٰمِ
+fr: À Lui appartiennent les vaisseaux élevés sur la mer comme des montagnes.
+ph: Wa Lahu Al-Jawāri Al-Munsha'ātu Fī Al-Baĥri Kāl'a`lāmi
+
+55:25
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:26
+ar: كُلُّ مَنْ عَلَيْهَا فَانٍۢ
+fr: Tout ce qui est sur elle [la terre] doit disparaître,
+ph: Kullu Man `Alayhā Fānin
+
+55:27
+ar: وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ
+fr: [Seule] subsistera La Face [Wajh] de ton Seigneur, plein de majesté et de noblesse.
+ph: Wa Yabqá Wajhu Rabbika Dhū Al-Jalāli Wa Al-'Ikrāmi
+
+55:28
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:29
+ar: يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍۢ
+fr: Ceux qui sont dans les cieux et la terre L'implorent. Chaque jour, Il accomplit une œuvre nouvelle.
+ph: Yas'aluhu Man Fī As-Samāwāti Wa Al-'Arđi Kulla Yawmin Huwa Fī Sha'nin
+
+55:30
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:31
+ar: سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ
+fr: Nous allons bientôt entreprendre votre jugement, Ô vous les deux charges [hommes et djinns].
+ph: Sanafrughu Lakum 'Ayyuhā Ath-Thaqalāni
+
+55:32
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:33
+ar: يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَٰنٍۢ
+fr: Ô peuple de djinns et d'hommes ! Si vous pouvez sortir du domaine des cieux et de la terre, alors faites-le. Mais vous ne pourrez en sortir qu'à l'aide d'un pouvoir [illimité].
+ph: Yā Ma`shara Al-Jinni Wa Al-'Insi 'Ini Astaţa`tum 'An Tanfudhū Min 'Aqţāri As-Samāwāti Wa Al-'Arđi Fānfudhū Lā Tanfudhūna 'Illā Bisulţānin
+
+55:34
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:35
+ar: يُرْسَلُ عَلَيْكُمَا شُوَاظٌۭ مِّن نَّارٍۢ وَنُحَاسٌۭ فَلَا تَنتَصِرَانِ
+fr: Il sera lancé contre vous un jet de feu et de fumée [ou de cuivre fondu], et vous ne serez pas secourus.
+ph: Yursalu `Alaykumā Shuwāžun Min Nārin Wa Nuĥāsun Falā Tantaşirāni
+
+55:36
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:37
+ar: فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةًۭ كَٱلدِّهَانِ
+fr: Puis quand le ciel se fendra et deviendra alors écarlate comme le cuir rouge.
+ph: Fa'idhā Anshaqqati As-Samā'u Fakānat Wardatan Kālddihāni
+
+55:38
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:39
+ar: فَيَوْمَئِذٍۢ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌۭ وَلَا جَآنٌّۭ
+fr: Alors, ni aux hommes ni aux djinns, on ne posera des questions à propos de leurs péchés.
+ph: Fayawma'idhin Lā Yus'alu `An Dhanbihi 'Insun Wa Lā Jānnun
+
+55:40
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:41
+ar: يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ
+fr: On reconnaîtra les criminels à leurs traits. Ils seront donc saisis par les toupets et les pieds.
+ph: Yu`rafu Al-Mujrimūna Bisīmāhum Fayu'ukhadhu Bin-Nawāşī Wa Al-'Aqdāmi
+
+55:42
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:43
+ar: هَٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ
+fr: Voilà l'Enfer que les criminels traitaient de mensonge.
+ph: Hadhihi Jahannamu Allatī Yukadhibu Bihā Al-Mujrimūna
+
+55:44
+ar: يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍۢ
+fr: Ils feront le va-et-vient entre lui (l'Enfer) et une eau bouillante extrêmement chaude.
+ph: Yaţūfūna Baynahā Wa Bayna Ĥamīmin 'Ānin
+
+55:45
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:46
+ar: وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ
+fr: Et pour celui qui aura craint de comparaître devant son Seigneur, il y aura deux jardins;
+ph: Wa Liman Khāfa Maqāma Rabbihi Jannatāni
+
+55:47
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:48
+ar: ذَوَاتَآ أَفْنَانٍۢ
+fr: Aux branches touffues.
+ph: Dhawātā 'Afnānin
+
+55:49
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:50
+ar: فِيهِمَا عَيْنَانِ تَجْرِيَانِ
+fr: Ils y trouveront deux sources courantes.
+ph: Fīhimā `Aynāni Tajriyāni
+
+55:51
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:52
+ar: فِيهِمَا مِن كُلِّ فَٰكِهَةٍۢ زَوْجَانِ
+fr: Ils contiennent deux espèces de chaque fruit.
+ph: Fīhimā Min Kulli Fākihatin Zawjāni
+
+55:53
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:54
+ar: مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍۢ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍۢ
+fr: Ils seront accoudés sur des tapis doublés de brocart, et les fruits des deux jardins seront à leur portée (pour être cueillis).
+ph: Muttaki'īna `Alá Furushin Baţā'inuhā Min 'Istabraqin Wa Janá Al-Jannatayni Dānin
+
+55:55
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:56
+ar: فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ
+fr: Ils y trouveront [les houris] aux regards chastes, qu'avant eux aucun homme ou djinn n'aura déflorées.
+ph: Fīhinna Qāşirātu Aţ-Ţarfi Lam Yaţmithhunna 'Insun Qablahum Wa Lā Jānnun
+
+55:57
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:58
+ar: كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ
+fr: Elles seront [aussi belles] que le rubis et le corail.
+ph: Ka'annahunna Al-Yāqūtu Wa Al-Marjānu
+
+55:59
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:60
+ar: هَلْ جَزَآءُ ٱلْإِحْسَٰنِ إِلَّا ٱلْإِحْسَٰنُ
+fr: Y a-t-il d'autre récompense pour le bien, que le bien ?
+ph: Hal Jazā'u Al-'Iĥsāni 'Illā Al-'Iĥsānu
+
+55:61
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:62
+ar: وَمِن دُونِهِمَا جَنَّتَانِ
+fr: En deçà de ces deux jardins il y aura deux autres jardins.
+ph: Wa Min Dūnihimā Jannatāni
+
+55:63
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:64
+ar: مُدْهَآمَّتَانِ
+fr: Ils sont d'un vert sombre.
+ph: Mud/hāmmatāni
+
+55:65
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:66
+ar: فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ
+fr: Dans lesquels il y aura deux sources jaillissantes.
+ph: Fīhimā `Aynāni Nađđākhatāni
+
+55:67
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:68
+ar: فِيهِمَا فَٰكِهَةٌۭ وَنَخْلٌۭ وَرُمَّانٌۭ
+fr: Ils contiennent des fruits, des palmiers, et des grenadiers.
+ph: Fīhimā Fākihatun Wa Nakhlun Wa Rummānun
+
+55:69
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:70
+ar: فِيهِنَّ خَيْرَٰتٌ حِسَانٌۭ
+fr: Là, il y aura des vertueuses et des belles.
+ph: Fīhinna Khayrātun Ĥisānun
+
+55:71
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:72
+ar: حُورٌۭ مَّقْصُورَٰتٌۭ فِى ٱلْخِيَامِ
+fr: Des houris cloîtrées dans les tentes,
+ph: Ĥūrun Maqşūrātun Fī Al-Khiyāmi
+
+55:73
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:74
+ar: لَمْ يَطْمِثْهُنَّ إِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ
+fr: qu'avant eux aucun homme ou djinn n'a déflorées.
+ph: Lam Yaţmithhunna 'Insun Qablahum Wa Lā Jānnun
+
+55:75
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:76
+ar: مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍۢ وَعَبْقَرِىٍّ حِسَانٍۢ
+fr: Ils seront accoudés sur des coussins verts et des tapis épais et jolis.
+ph: Muttaki'īna `Alá Rafrafin Khuđrin Wa `Abqarīyin Ĥisānin
+
+55:77
+ar: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+fr: Lequel donc des bienfaits de votre Seigneur nierez-vous ?
+ph: Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
+
+55:78
+ar: تَبَٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَٰلِ وَٱلْإِكْرَامِ
+fr: Béni soit le Nom de ton Seigneur, Plein de Majesté et de Munificence !
+ph: Tabāraka Asmu Rabbika Dhī Al-Jalāli Wa Al-'Ikrāmi
 
 # ---------- Sourate 56 · Al-Wāqiʿa ----------
 
