@@ -133,22 +133,14 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
   width:100%; max-width:560px; display:flex; justify-content:space-between;
   align-items:center; margin-bottom:8px;
 }
-.onglet.desc{
-  text-transform:none; font-family:'EB Garamond',serif; font-size:13.5px;
-  letter-spacing:.05em; padding:4px 15px;
-}
-.onglet.desc[data-actif="true"]{
-  background:rgba(201,162,39,.16); border-color:var(--or); color:var(--or-clair);
-}
-.onglet.desc[disabled]{ opacity:.22; }
-.onglet.ph{
+.onglet.desc, .onglet.ph{
   text-transform:none; font-family:'EB Garamond',serif; font-size:14px;
   letter-spacing:.06em; padding:4px 15px;
 }
-.onglet.ph[data-actif="true"]{
+.onglet.desc[data-actif="true"], .onglet.ph[data-actif="true"]{
   background:rgba(201,162,39,.16); border-color:var(--or); color:var(--or-clair);
 }
-.onglet.ph[disabled]{ opacity:.22; }
+.onglet.desc[disabled], .onglet.ph[disabled]{ opacity:.22; }
 .curseur{
   position:absolute; right:12px; top:64px; bottom:64px; width:2px; border-radius:2px;
   background:rgba(201,162,39,.12); opacity:0; transition:opacity .3s; pointer-events:none;
@@ -536,10 +528,9 @@ body[data-theme="clair"] .texte.descr blockquote{
 }
 body[data-theme="clair"] .texte.descr blockquote .src{ color:#7A5E0C; }
 body[data-theme="clair"] .texte.descr li::before{ color:rgba(126,98,20,.85); }
-body[data-theme="clair"] .onglet.desc[data-actif="true"]{
-  background:rgba(156,123,20,.18); border-color:#9C7B14; color:#6E5608;
-}
+
 body[data-theme="clair"] .phonetique{ color:rgba(126,98,20,.78); }
+body[data-theme="clair"] .onglet.desc[data-actif="true"],
 body[data-theme="clair"] .onglet.ph[data-actif="true"]{
   background:rgba(156,123,20,.18); border-color:#9C7B14; color:#6E5608;
 }
@@ -1231,7 +1222,7 @@ function poser(p, ph, texte, langue, phonetique){
   p.className = "texte " + langue;
   p.setAttribute("lang", langue === "ar" ? "ar" : "fr");
   const montrer = langue === "ar" && reglages.phonetique && !!phonetique;
-  ph.textContent = montrer ? phonetique : "";
+  ph.textContent = montrer ? String(phonetique).replace(/`/g, "\u02bf") : "";
   ph.style.display = montrer ? "block" : "none";
   corpsDe(p).scrollTop = 0;
 }
@@ -1554,8 +1545,14 @@ function chargerContenu(){
   return fetch("versets.js?t=" + Date.now(), { cache: "no-store" })
     .then(function(r){ return r.ok ? r.text() : ""; })
     .then(function(brut){
-      const d = brut.indexOf("`"), f = brut.lastIndexOf("`");
-      if (d !== -1 && f > d) return brut.slice(d + 1, f);
+      /* le contenu peut lui-même comporter des accents graves (la lettre ʿayn
+         dans la phonétique) : on repère donc l'ouverture après window.VERSETS
+         et la fermeture sur le motif « accent grave suivi d'un point-virgule ». */
+      const dep = brut.indexOf("`", brut.indexOf("window.VERSETS"));
+      let fin = -1, re = /`\s*;/g, m;
+      while ((m = re.exec(brut)) !== null) fin = m.index;
+      if (fin === -1) fin = brut.lastIndexOf("`");
+      if (dep !== -1 && fin > dep) return brut.slice(dep + 1, fin);
       throw new Error("format");
     })
     .catch(function(){ return window.VERSETS || ""; });

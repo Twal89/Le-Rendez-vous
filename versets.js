@@ -25961,8 +25961,6 @@ ar: مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ
 fr: qu'il soit d'entre les djinns ou les hommes. »
 ph: Mina Al-Jinnati Wa An-Nāsi
 
-`;
-
 [[desc 2]]
 
 La sourate Al Baqara (البقرة en arabe) est la deuxième sourate du Saint Livre suivant la sourate d'Ouverture Al-Fatiha. Traduite par « La Vache » (ou parfois « La Genisse ») en français, ce titre fait justement référence à un récit qui parle d’une vache dans la sourate en l’occurrence les versets 67 à 73, cette vache a été immolée par les fils d'Israël selon la prescription de Moïse inspiré par le Très- Haut, pour dévoiler l'auteur d'un crime.
@@ -26043,3 +26041,5 @@ Les bienfaits les plus marquants de la sourate Al Baqara sont entre autres la pr
 Dans l'ensemble, la sourate Al Baqara est un appel divin pour la bonne direction aux croyants, la bonne guidance. Ensuite, il y est clairement clarifié et défini toutes les règles de bonne conduite que les croyants doivent suivre en société, dans son environnement immédiat. Ainsi, la bonne guidance est clairement désignée comme une valeur fondamentale de l'Islam.
 
 [[/desc]]
+
+`;
