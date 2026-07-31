@@ -25961,6 +25961,91 @@ ar: مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ
 fr: qu'il soit d'entre les djinns ou les hommes. »
 ph: Mina Al-Jinnati Wa An-Nāsi
 
+[[desc 1]]
+
+La sourate El Fatiha, que l’on peut traduire littéralement par Le Prologue ou L’Ouverture est la première sourate en position dans le Coran, juste avant sourate El Baqara (La Vache). Elle est l’une des plus petites sourates du Saint Coran avec 7 versets. Malgré sa taille, elle revêt un caractère d’une haute importance puisqu’elle est une invocation, un échange entre le croyant et son Seigneur et bien-sûr, l’une des conditions à l’acceptation de la prière du musulman.
+
+## Une révélation particulière pour une sourate grandiose
+
+Celle que l’on appelle, parmi ses nombreux noms, La Mère du Coran, Le Prologue, ou les Sept répétés puisque les croyants la répètent au moins cinq fois par jour et tous les jours, a été révélée à La Mecque. Dans une parole prophétique rapportée par Ibn Abbas ( un des Compagnons du Prophète Mohamed ) : l’ange Jibril se trouvait auprès de Mohamed, l’Envoyé d’Allah, que la paix et le salut soient sur lui, quand celui-ci entendit un bruit venant d’au-dessus de lui. Jibril leva les yeux au ciel et dit : « C’est une porte du ciel qui s’est ouverte et elle ne l’a jamais été auparavant. » Un ange descendit et vint trouver le prophète et lui dit : 
+
+> « Réjouis-toi de recevoir deux lumières que nul prophète avant n’a reçues. Elles sont la sourate de L’Ouverture et les derniers versets de la sourate El Baqara (La Vache). Tu ne récites aucune de leurs lettres sans que tu ne sois exaucé. » 
+> [Rapporté par Muslim]
+
+El Fatiha est donc également une lumière et représente une sourate complète qui, contrairement aux autres sourates, doit être toujours récitée en entier alors qu’une autre partie du Coran peut être coupée ou récitée par morceaux choisis. C’est pourquoi on l’appelle aussi El Wafiyah, l’Intégrale.
+
+Lors de l’accomplissement de la prière, elle peut être récitée seule, sans rien lui rajouter comme versets du Coran, alors qu’aucune autre sourate ne peut être récitée sans el Fatiha pendant une unité de prière. Voilà pourquoi lui est aussi donné le nom de El Kafiyah qui veut dire La Suffisante. Elle suffit à elle seule pour prier chaque unité de prière alors qu’aucune autre sourate ne peut suffire sans réciter El Fatiha.
+
+Cela fait d’elle une sourate aux nombreuses particularités dont le croyant ne saurait se passer.
+
+> « Celui qui prie sans réciter la Mère du Coran (Oum El Quran), et dans une autre version « La Liminaire du Coran », sa prière est incomplète, incomplète et non valide. 
+> [Rapporté par les deux Sahih Boukhari et Muslim]
+
+## Un trésor de sagesses en sept versets
+
+Les circonstances de la révélation de cette sourate, comme on l’a vu précédemment, sont aussi grandioses que ce qu’elle contient comme sagesses. Cette intimité entre Allah et son serviteur est décrite par Allah lui-même comme suit.
+
+En effet, la sourate El Fatiha est une conversation intime entre Le Seigneur des Mondes et le fidèle. Lui-même, que Son Nom soit-exalté, nous apprend qu’elle est partagée en deux parties, comme le confirme ce Hadith Qoudoussi :
+(Qoudoussi veut dire que c’est une parole prophétique dans laquelle l’Envoyé d’Allah rapporte exactement une parole d’Allah, sans rien y ajouter. Qu’elle ait été révélée ou inspirée, le prophète en retranscrit l’essence.)
+
+> « J’ai divisé la prière entre Mon serviteur et Moi en deux parties, et Mon serviteur aura ce qu’il demande.»
+> Ainsi lorsqu’il dit : « Louange à Allah, Seigneur des mondes », Allah le Très-Haut répond : ‘‘Mon serviteur M’a loué.’’
+> Quand il dit : « Le Tout Miséricordieux, le Très Miséricordieux », Allah le Très-Haut réplique : ‘‘Mon serviteur a fait Mon éloge’’
+> et quand il dit : « Maître du Jour de la Rétribution », Il dit : ‘‘Mon serviteur M’a glorifié’’ – ou bien – : ‘‘Mon serviteur s’est fié à Moi’’.
+> Quand il dit : « C’est Toi que nous adorons et c’est Toi dont nous implorons secours », Il affirme : ‘‘Ceci est entre Mon serviteur et Moi, et Mon serviteur aura ce qu’il demande.’’
+> Quand il dit : « Guide-nous dans le droit chemin, le chemin de ceux que Tu as comblé de faveurs, non pas de ceux qui ont encouru Ta colère et ni des égarés ! », Il dit : ‘‘Ceci est pour Mon serviteur et Mon serviteur aura ce qu’il demande.’’ »
+> [Rapporté par Muslim]
+
+Ainsi, durant sept versets, et cette série d’invocations, c’est un dialogue dans lequel Dieu promet à son serviteur qu’il sera exaucé. Un échange qui a lieu à chaque unité de prière. Sa récitation est à ne pas négliger car à chaque prière c’est une conversation avec Le Très-Haut à laquelle il procède et ce même s’il n’entend pas sa réponse.
+
+Il commence par louer Le Seigneur des Mondes et reconnaître Sa Seigneurie, sa Toute Miséricorde, Sa Royauté Le Jour des Comptes, puis, il L’implore en reconnaissant qu’Il est Le Seul Digne d’être adoré, et lui demande secours. Enfin, il fait l’une des plus grandes et importantes invocations pour un croyant : il lui demande de le compter parmi les gens sur le Chemin Droit, parmi les bien-guidés qu’Il a comblés de Ses Bienfaits, et de le préserver de Sa Colère.
+
+Dans la première partie de la Fatiha, le serviteur en prière s’adresse donc à Allah en étant conscient et plein d’espoir qu’Il l’entende et lui réponde. Il Le loue, et Le reconnait dans tous Ses Attributs comme cités plus haut. Puis, dans la seconde partie, le croyant invoque pour sa guidance et son salut.
+
+En la récitant, le croyant témoigne de l’unicité de son Seigneur en utilisant les Noms d’Allah et il reconnaît que les Louanges appartiennent à Lui Seul, sans rien Lui associer. Les noms d’Allah que l’on retrouve dans cette sourate sont :
+
+- Allah
+- Al Rahman
+- A Rahim
+- Rabbi
+- Malik
+
+L’on remarque que les quatre derniers noms sont des attributs réunis dans le premier. Allah est en effet Le Miséricordieux, Le Très-Miséricordieux, Le Seigneur (des Mondes, Digne de toutes les louanges), et le Roi du Jour du Jugement Dernier.
+
+Cette sourate est une éducation à la servitude dans laquelle tout musulman reconnaît sa soumission à son Seigneur de la plus belle manière.
+
+En résumé, dans cette sourate, pour chaque verset le fidèle :
+
+- Reconnaît Allah par Ses Noms Sublimes.
+- Le loue avec dévouement, en reconnaissant que jusqu’à la Fin des Temps toutes les louanges Lui appartiennent. En disant cela, il admet qu’il a besoin d’Allah, alors qu’Allah n’a besoin de personne.
+- Il recherche la Miséricorde auprès du Tout-Miséricordieux, Le Très-Miséricordieux.
+- Reconnaît qu’Allah est le Maître du Jour Dernier, en cela il affirme croire au Jour Dernier.
+- Il témoigne qu’il adore Allah et recherche Son Secours auprès de Lui.
+- Il Lui demande la plus puissante des invocations qui est de le guider sur le Chemin Droit.
+- Et il Lui demande de faire partie de ceux qu’Allah a comblés de Ses Bienfaits et de lui épargner Sa Colère, et de ne pas faire de lui quelqu’un parmi les gens égarés.
+- La foi complète est concentrée dans cette sourate que le Prophète Mohamed paix et salut sur lui, a appelé sourate Suprême :
+
+Abou Said Ibn Mo’alla, qu’Allah l’agrée, a dit : Je priais dans la mosquée quand le Messager d’Allah m’appela, je ne répondis pas à son appel. Plus tard je lui dis, « Ô Messager d’Allah, j’étais en train de faire la prière ». Il dit : Allah n’a-t-il pas dit « Répondez à Allah et Son Messager lorsqu’Il vous appelle » Sourate 8 Verset 24 ? Puis il dit : Avant de quitter la mosquée je vais t’apprendre la sourate Suprême du Coran. Il prit ma main et s’apprêtait à quitter la mosquée. Je lui demandais : Ne m’as-tu pas dit que tu allais m’apprendre la plus grande sourate du Coran ? Il dit : « El HamdouliLahi Rabbi el’alamin », ce sont les sept versets fréquemment répétés, et le Grand Coran qui m’a été donné. Rapporté par Al Boukhari
+
+## Informations complémentaires sur la sourate Al Fatiha
+
+Les noms les plus répandus de cette sourate grandiose qui lui ont été donnés par Allah Lui-même, Glorifié soit-Il, le Prophète, paix et salut sur lui, ainsi que ses compagnons, qu’Allah les agrée tous sont :
+
+- Fatihatul Kitab, L’Ouverture du Livre (du Coran)
+- Oum El Kitab, la Mère du Livre (Coran)
+- AsSab’a Al Mathani, les Septs Répétés, car elle est composée de 7 versets que le musulman répète dans chaque unité de prière, tout au long de la journée
+- Al Hamd, car elle commence par El HamduliLahi Rabbi…, Louanges à Dieu, Seigneur…
+- El Wafiyah, L’Intégrale, car elle est la seule à avoir été révélée en une fois, et doit absolument être récitée en une fois sans la couper pendant la récitation
+- El Kafiyah, La Suffisante, elle réunit pour le croyant tout ce dont il a besoin de savoir et peut être récitée seule
+- ElShifa, La Guérison, car elle permet au croyant d’être protégé, de se soigner
+- AsSalat, La Prière
+- Al Assas, le Fondement, La base de la religion
+- La Fatiha est une sourate dont la récitation est primordiale à chaque moment de la journée mais aussi un enseignement dont le musulman ne cesse de méditer sur ses sens et ses sagesses durant toute sa vie.
+
+Source: le-coran.com
+
+[[desc 1]]
+
 [[desc 2]]
 
 La sourate Al Baqara (البقرة en arabe) est la deuxième sourate du Saint Livre suivant la sourate d'Ouverture Al-Fatiha. Traduite par « La Vache » (ou parfois « La Genisse ») en français, ce titre fait justement référence à un récit qui parle d’une vache dans la sourate en l’occurrence les versets 67 à 73, cette vache a été immolée par les fils d'Israël selon la prescription de Moïse inspiré par le Très- Haut, pour dévoiler l'auteur d'un crime.
@@ -25970,7 +26055,7 @@ La sourate Al Baqara a été révélée au Prophète Mohamed (sws) après sa Hij
 Le Prophète (sws) a mentionné :
 
 > D'après Abou Oumama Al Bahili (qu'Allah l'agrée), le Prophète (que la prière d'Allah et Son salut soient sur lui) a dit : « Lisez la sourate Al Baqara (*) car sa récitation est bénédiction, son délaissement est malheur et les sorciers ne peuvent rien contre elle ». 
-> (Rapporté par Mouslim dans son Sahih n°804
+> [Rapporté par Mouslim dans son Sahih n°804]
 
 ## Comment a été révélée la sourate Al Baqara ?
 
@@ -26040,6 +26125,457 @@ Les bienfaits les plus marquants de la sourate Al Baqara sont entre autres la pr
 
 Dans l'ensemble, la sourate Al Baqara est un appel divin pour la bonne direction aux croyants, la bonne guidance. Ensuite, il y est clairement clarifié et défini toutes les règles de bonne conduite que les croyants doivent suivre en société, dans son environnement immédiat. Ainsi, la bonne guidance est clairement désignée comme une valeur fondamentale de l'Islam.
 
+Source: le-coran.com
+
+
 [[/desc]]
+
+[[desc 3]]
+
+[[desc]]
+
+[[desc 4]]
+
+[[desc]]
+
+[[desc 5]]
+
+[[desc]]
+
+[[desc 6]]
+
+[[desc]]
+
+[[desc 7]]
+
+[[desc]]
+
+[[desc 8]]
+
+[[desc]]
+
+[[desc 9]]
+
+[[desc]]
+
+[[desc 10]]
+
+[[desc]]
+
+[[desc 11]]
+
+[[desc]]
+
+[[desc 12]]
+
+[[desc]]
+
+[[desc 13]]
+
+[[desc]]
+
+[[desc 14]]
+
+[[desc]]
+
+[[desc 15]]
+
+[[desc]]
+
+[[desc 16]]
+
+[[desc]]
+
+[[desc 17]]
+
+[[desc]]
+
+[[desc 18]]
+
+[[desc]]
+
+[[desc 19]]
+
+[[desc]]
+
+[[desc 20]]
+
+[[desc]]
+
+[[desc 21]]
+
+[[desc]]
+
+[[desc 22]]
+
+[[desc]]
+
+[[desc 23]]
+
+[[desc]]
+
+[[desc 24]]
+
+[[desc]]
+
+[[desc 25]]
+
+[[desc]]
+
+[[desc 26]]
+
+[[desc]]
+
+[[desc 27]]
+
+[[desc]]
+
+[[desc 28]]
+
+[[desc]]
+
+[[desc 29]]
+
+[[desc]]
+
+[[desc 30]]
+
+[[desc]]
+
+[[desc 31]]
+
+[[desc]]
+
+[[desc 32]]
+
+[[desc]]
+
+[[desc 33]]
+
+[[desc]]
+
+[[desc 34]]
+
+[[desc]]
+
+[[desc 35]]
+
+[[desc]]
+
+[[desc 36]]
+
+[[desc]]
+
+[[desc 37]]
+
+[[desc]]
+
+[[desc 38]]
+
+[[desc]]
+
+[[desc 39]]
+
+[[desc]]
+
+[[desc 40]]
+
+[[desc]]
+
+[[desc 41]]
+
+[[desc]]
+
+[[desc 42]]
+
+[[desc]]
+
+[[desc 43]]
+
+[[desc]]
+
+[[desc 44]]
+
+[[desc]]
+
+[[desc 45]]
+
+[[desc]]
+
+[[desc 46]]
+
+[[desc]]
+
+[[desc 47]]
+
+[[desc]]
+
+[[desc 48]]
+
+[[desc]]
+
+[[desc 49]]
+
+[[desc]]
+
+[[desc 50]]
+
+[[desc]]
+
+[[desc 51]]
+
+[[desc]]
+
+[[desc 52]]
+
+[[desc]]
+
+[[desc 53]]
+
+[[desc]]
+
+[[desc 54]]
+
+[[desc]]
+
+[[desc 55]]
+
+[[desc]]
+
+[[desc 56]]
+
+[[desc]]
+
+[[desc 57]]
+
+[[desc]]
+
+[[desc 58]]
+
+[[desc]]
+
+[[desc 59]]
+
+[[desc]]
+
+[[desc 60]]
+
+[[desc]]
+
+[[desc 61]]
+
+[[desc]]
+
+[[desc 62]]
+
+[[desc]]
+
+[[desc 63]]
+
+[[desc]]
+
+[[desc 64]]
+
+[[desc]]
+
+[[desc 65]]
+
+[[desc]]
+
+[[desc 66]]
+
+[[desc]]
+
+[[desc 67]]
+
+[[desc]]
+
+[[desc 68]]
+
+[[desc]]
+
+[[desc 69]]
+
+[[desc]]
+
+[[desc 70]]
+
+[[desc]]
+
+[[desc 71]]
+
+[[desc]]
+
+[[desc 72]]
+
+[[desc]]
+
+[[desc 73]]
+
+[[desc]]
+
+[[desc 74]]
+
+[[desc]]
+
+[[desc 75]]
+
+[[desc]]
+
+[[desc 76]]
+
+[[desc]]
+
+[[desc 77]]
+
+[[desc]]
+
+[[desc 78]]
+
+[[desc]]
+
+[[desc 79]]
+
+[[desc]]
+
+[[desc 80]]
+
+[[desc]]
+
+[[desc 81]]
+
+[[desc]]
+
+[[desc 82]]
+
+[[desc]]
+
+[[desc 83]]
+
+[[desc]]
+
+[[desc 84]]
+
+[[desc]]
+
+[[desc 85]]
+
+[[desc]]
+
+[[desc 86]]
+
+[[desc]]
+
+[[desc 87]]
+
+[[desc]]
+
+[[desc 88]]
+
+[[desc]]
+
+[[desc 89]]
+
+[[desc]]
+
+[[desc 90]]
+
+[[desc]]
+
+[[desc 91]]
+
+[[desc]]
+
+[[desc 92]]
+
+[[desc]]
+
+[[desc 93]]
+
+[[desc]]
+
+[[desc 94]]
+
+[[desc]]
+
+[[desc 95]]
+
+[[desc]]
+
+[[desc 96]]
+
+[[desc]]
+
+[[desc 97]]
+
+[[desc]]
+
+[[desc 98]]
+
+[[desc]]
+
+[[desc 99]]
+
+[[desc]]
+
+[[desc 100]]
+
+[[desc]]
+
+[[desc 101]]
+
+[[desc]]
+
+[[desc 102]]
+
+[[desc]]
+
+[[desc 103]]
+
+[[desc]]
+
+[[desc 104]]
+
+[[desc]]
+
+[[desc 105]]
+
+[[desc]]
+
+[[desc 106]]
+
+[[desc]]
+
+[[desc 107]]
+
+[[desc]]
+
+[[desc 108]]
+
+[[desc]]
+
+[[desc 109]]
+
+[[desc]]
+
+[[desc 110]]
+
+[[desc]]
+
+[[desc 111]]
+
+[[desc]]
+
+[[desc 112]]
+
+[[desc]]
+
+[[desc 113]]
+
+[[desc]]
+
+[[desc 114]]
+
+[[desc]]
 
 `;
