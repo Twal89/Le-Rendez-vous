@@ -130,8 +130,17 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
   color:rgba(201,162,39,.62); display:none;
 }
 #outils{
-  width:100%; max-width:560px; display:flex; justify-content:flex-end; margin-bottom:8px;
+  width:100%; max-width:560px; display:flex; justify-content:space-between;
+  align-items:center; margin-bottom:8px;
 }
+.onglet.desc{
+  text-transform:none; font-family:'EB Garamond',serif; font-size:13.5px;
+  letter-spacing:.05em; padding:4px 15px;
+}
+.onglet.desc[data-actif="true"]{
+  background:rgba(201,162,39,.16); border-color:var(--or); color:var(--or-clair);
+}
+.onglet.desc[disabled]{ opacity:.22; }
 .onglet.ph{
   text-transform:none; font-family:'EB Garamond',serif; font-size:14px;
   letter-spacing:.06em; padding:4px 15px;
@@ -157,6 +166,39 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 .texte.fr{
   font-family:'EB Garamond', Georgia, serif;
   direction:ltr; line-height:1.55; color:rgba(240,233,216,.92); text-shadow:none;
+}
+
+/* ---------- description de sourate ---------- */
+.texte.descr{ text-align:left; line-height:1.62; }
+.texte.descr p{ margin:0 0 .95em; }
+.texte.descr p:last-child{ margin-bottom:0; }
+.texte.descr h3{
+  font-family:'Cormorant Garamond','EB Garamond',serif;
+  font-style:italic; font-weight:600; font-size:1.22em; line-height:1.3;
+  color:var(--or-clair); margin:1.7em 0 .2em;
+}
+.texte.descr h3:first-child{ margin-top:0; }
+.texte.descr h3 + .filet-sec{
+  display:block; width:64px; height:1px; margin:0 0 .9em;
+  background:linear-gradient(to right, rgba(201,162,39,.7), transparent);
+}
+.texte.descr blockquote{
+  margin:1.15em 0; padding:.75em .9em .75em 1em;
+  border-left:2px solid rgba(201,162,39,.55);
+  background:rgba(201,162,39,.07); border-radius:0 10px 10px 0;
+  font-style:italic; color:rgba(245,236,214,.94);
+}
+.texte.descr blockquote p{ margin:0 0 .4em; }
+.texte.descr blockquote p:last-child{ margin-bottom:0; }
+.texte.descr blockquote .src{
+  display:block; font-style:normal; font-size:.78em; letter-spacing:.05em;
+  color:rgba(201,162,39,.8); margin-top:.5em; text-align:right;
+}
+.texte.descr ul{ margin:.85em 0; padding:0; list-style:none; }
+.texte.descr li{ margin:.4em 0; padding-left:1.1em; position:relative; }
+.texte.descr li::before{
+  content:'\25C6'; position:absolute; left:0; top:.1em;
+  font-size:.6em; color:rgba(201,162,39,.75);
 }
 
 .pied{ display:flex; flex-direction:column; align-items:center; gap:6px; flex:0 0 auto; }
@@ -488,6 +530,15 @@ body[data-theme="clair"] .face::after{ border-color:rgba(156,123,20,.3); }
 body[data-theme="clair"] .eyebrow{ color:#96751A; }
 body[data-theme="clair"] .texte.ar{ color:#4A3A14; text-shadow:none; }
 body[data-theme="clair"] .texte.fr{ color:#3B2F1C; }
+body[data-theme="clair"] .texte.descr h3{ color:#7A5E0C; }
+body[data-theme="clair"] .texte.descr blockquote{
+  background:rgba(156,123,20,.1); border-left-color:rgba(156,123,20,.6); color:#3B2F1C;
+}
+body[data-theme="clair"] .texte.descr blockquote .src{ color:#7A5E0C; }
+body[data-theme="clair"] .texte.descr li::before{ color:rgba(126,98,20,.85); }
+body[data-theme="clair"] .onglet.desc[data-actif="true"]{
+  background:rgba(156,123,20,.18); border-color:#9C7B14; color:#6E5608;
+}
 body[data-theme="clair"] .phonetique{ color:rgba(126,98,20,.78); }
 body[data-theme="clair"] .onglet.ph[data-actif="true"]{
   background:rgba(156,123,20,.18); border-color:#9C7B14; color:#6E5608;
@@ -711,6 +762,7 @@ body[data-theme="clair"] .ligne .nom small em{ color:#6B5309; }
 </div>
 
 <div id="outils">
+  <button class="onglet desc" id="btn-desc" aria-label="Description de la sourate">Description</button>
   <button class="onglet ph" id="btn-ph" aria-label="Afficher la phonétique">ph</button>
 </div>
 
@@ -980,15 +1032,27 @@ const SOURATES = [null,
 ];
 const nomFr = function(s){ return SOURATES[s] ? SOURATES[s][0] : "Sourate " + s; };
 const nomAr = function(s){ return SOURATES[s] ? SOURATES[s][1] : ""; };
-let NOMS_TRAD = {};
+let NOMS_TRAD = {}, DESCRIPTIONS = {};
 const nomTrad = function(s){ return NOMS_TRAD[s] || ""; };
 
 /* =================================================================
    2. Lecture du fichier versets.js
    ================================================================= */
 function analyser(texte){
-  const versets = [], erreurs = [], noms = {};
-  const blocs = String(texte || "").split(/\n\s*\n/);
+  const versets = [], erreurs = [], noms = {}, descriptions = {};
+
+  /* les descriptions sont extraites d'abord : elles contiennent des lignes vides,
+     qui serviraient sinon de séparateur de blocs */
+  const brut = String(texte || "").replace(
+    /\[\[\s*desc\s+(\d{1,3})\s*\]\]([\s\S]*?)\[\[\s*\/\s*desc\s*\]\]/gi,
+    function(_tout, n, corps){
+      const s = +n;
+      if (s >= 1 && s <= 114) descriptions[s] = corps.trim();
+      else erreurs.push("Description : numéro de sourate hors limites (" + n + ")");
+      return "\n\n";
+    });
+
+  const blocs = brut.split(/\n\s*\n/);
   blocs.forEach(function(bloc){
     const lignes = bloc.split("\n").map(function(l){ return l.trim(); })
                        .filter(function(l){ return l && l.charAt(0) !== "#"; });
@@ -1024,7 +1088,7 @@ function analyser(texte){
     if (!F) { erreurs.push(s + ":" + a + " — ligne « fr: » manquante ou vide"); return; }
     versets.push({ s:s, a:a, ar:A, fr:F, ph:P });
   });
-  return { versets: versets, erreurs: erreurs, noms: noms };
+  return { versets: versets, erreurs: erreurs, noms: noms, descriptions: descriptions };
 }
 
 /* =================================================================
@@ -1038,9 +1102,9 @@ let reglages = { clair: false, inverse: false, echelle: 1, phonetique: false };
 try { Object.assign(reglages, JSON.parse(localStorage.getItem(CLE_REGL) || "{}")); } catch(e) {}
 document.body.dataset.theme = reglages.clair ? "clair" : "nuit";
 
-let lu = { versets: [], erreurs: [], noms: {} };
+let lu = { versets: [], erreurs: [], noms: {}, descriptions: {} };
 let PAR_SOURATE = {}, NUMEROS = [];
-let sCourante = null, session = [], i = 0;
+let sCourante = null, session = [], i = 0, descOuverte = false;
 let retourne = false, drag = 0, enCours = false;
 
 function sauver(){
@@ -1092,7 +1156,77 @@ function ajusterTout(){
   });
 }
 
+
+/* ---------- mise en forme d'une description ---------- */
+function echapper(t){
+  return t.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+}
+
+function htmlDescription(brut){
+  const lignes = String(brut || "").split("\n");
+  let out = "", para = [], citation = [], liste = [], dansCitation = false;
+
+  const viderPara = function(){
+    if (para.length){ out += "<p>" + para.join(" ") + "</p>"; para = []; }
+  };
+  const viderListe = function(){
+    if (liste.length){ out += "<ul>" + liste.join("") + "</ul>"; liste = []; }
+  };
+  const viderCitation = function(){
+    if (dansCitation){
+      out += "<blockquote>" + citation.join("") + "</blockquote>";
+      citation = []; dansCitation = false;
+    }
+  };
+  const toutVider = function(){ viderPara(); viderListe(); viderCitation(); };
+
+  lignes.forEach(function(ligne){
+    const t = ligne.trim();
+
+    if (!t){ toutVider(); return; }
+
+    if (/^#{1,3}\s+/.test(t)){                        /* sous-titre */
+      toutVider();
+      out += "<h3>" + echapper(t.replace(/^#{1,3}\s+/, "")) + "</h3>" +
+             '<span class="filet-sec"></span>';
+      return;
+    }
+
+    if (/^>\s?/.test(t)){                              /* citation en relief */
+      viderPara(); viderListe();
+      const c = t.replace(/^>\s?/, "").trim();
+      dansCitation = true;
+      if (/^\[.*\]$/.test(c))
+        citation.push('<span class="src">' + echapper(c.slice(1, -1).trim()) + "</span>");
+      else if (c)
+        citation.push("<p>" + echapper(c) + "</p>");
+      return;
+    }
+    viderCitation();
+
+    if (/^[-*•]\s+/.test(t)){                          /* puce */
+      viderPara();
+      liste.push("<li>" + echapper(t.replace(/^[-*•]\s+/, "")) + "</li>");
+      return;
+    }
+    viderListe();
+
+    para.push(echapper(t));
+  });
+
+  toutVider();
+  return out;
+}
+
 function poser(p, ph, texte, langue, phonetique){
+  if (langue === "descr"){
+    p.innerHTML = texte;
+    p.className = "texte fr descr";
+    p.setAttribute("lang", "fr");
+    ph.style.display = "none";
+    corpsDe(p).scrollTop = 0;
+    return;
+  }
   p.textContent = texte;
   p.className = "texte " + langue;
   p.setAttribute("lang", langue === "ar" ? "ar" : "fr");
@@ -1117,7 +1251,7 @@ function rendreProgression(){
       b.className = "perle";
       b.setAttribute("aria-label", "Verset " + c.a);
       if (k === i) b.dataset.courant = "true";
-      b.onclick = function(){ i = k; retourne = false; rendre(); };
+      b.onclick = function(){ i = k; retourne = false; descOuverte = false; rendre(); };
       $("jauge").appendChild(b);
     });
   } else {
@@ -1141,13 +1275,44 @@ function rendre(){
 
   const c = session[i];
   const inv = !!reglages.inverse;
+  const laDesc = DESCRIPTIONS[c.s] || "";
+
+  $("btn-desc").disabled = !laDesc;
+  if (descOuverte && !laDesc) descOuverte = false;
+  $("btn-desc").dataset.actif = descOuverte ? "true" : "false";
+
+  if (descOuverte){
+    const html = htmlDescription(laDesc);
+    $("r-sourate").textContent = "Sourate " + c.s + " · description";
+    $("r-ar").textContent = nomAr(c.s);
+    $("v-sourate").textContent = nomFr(c.s);
+    $("v-ref").textContent = "description";
+    poser($("t-recto"), $("ph-recto"), html, "descr");
+    poser($("t-verso"), $("ph-verso"), html, "descr");
+    medaillon($("med-or"), c.s, reglages.clair ? "#96751A" : "#C9A227");
+    medaillon($("med-vert"), c.s, reglages.clair ? "#96751A" : "#C9A227");
+    $("btn-ph").disabled = true;
+    $("btn-inverse").disabled = true;
+    $("prec").disabled = true;
+    $("suiv").disabled = true;
+    $("compteur").innerHTML =
+      '<span class="c-sourate">' + nomFr(c.s) +
+        (nomTrad(c.s) ? ' <em>· ' + nomTrad(c.s) + '</em>' : '') + '</span>' +
+      '<span class="c-verset">Description</span>';
+    rendreProgression();
+    appliquer();
+    requestAnimationFrame(ajusterTout);
+    return;
+  }
+  $("btn-ph").disabled = !c.ph;
+  $("btn-inverse").disabled = false;
+
   $("r-sourate").textContent = "Sourate " + c.s + " · verset " + c.a;
   $("r-ar").textContent = nomAr(c.s);
   $("v-sourate").textContent = nomFr(c.s);
   $("v-ref").textContent = c.s + ":" + c.a;
   poser($("t-recto"), $("ph-recto"), inv ? c.fr : c.ar, inv ? "fr" : "ar", c.ph);
   poser($("t-verso"), $("ph-verso"), inv ? c.ar : c.fr, inv ? "ar" : "fr", c.ph);
-  $("btn-ph").disabled = !c.ph;
   $("btn-ph").dataset.actif = (reglages.phonetique && c.ph) ? "true" : "false";
   medaillon($("med-or"), c.a, reglages.clair ? "#96751A" : "#C9A227");
   medaillon($("med-vert"), c.a, reglages.clair ? "#96751A" : "#C9A227");
@@ -1170,7 +1335,7 @@ function rendre(){
    5. Navigation
    ================================================================= */
 function aller(d){
-  if (!session.length) return;
+  if (!session.length || descOuverte) return;
   const n = Math.min(Math.max(i + d, 0), session.length - 1);
   if (n === i) return;
   i = n; retourne = false; drag = 0;
@@ -1178,6 +1343,7 @@ function aller(d){
 }
 
 function ouvrirSourate(s, verset){
+  descOuverte = false;
   sCourante = s;
   session = PAR_SOURATE[s] || [];
   i = 0;
@@ -1191,7 +1357,7 @@ function ouvrirSourate(s, verset){
   rendre();
 }
 
-function basculer(){ retourne = !retourne; appliquer(); }
+function basculer(){ if (descOuverte) return; retourne = !retourne; appliquer(); }
 
 $("prec").onclick = function(){ aller(-1); };
 $("suiv").onclick = function(){ aller(1); };
@@ -1224,6 +1390,13 @@ $("btn-taille").onclick = function(){
 $("taille-moins").onclick = function(){ changerTaille(-0.1); };
 $("taille-plus").onclick  = function(){ changerTaille(0.1); };
 majTaille();
+
+$("btn-desc").onclick = function(){
+  if (!session.length || !DESCRIPTIONS[session[i].s]) return;
+  descOuverte = !descOuverte;
+  retourne = false; drag = 0;
+  rendre();
+};
 
 $("btn-ph").onclick = function(){
   reglages.phonetique = !reglages.phonetique;
@@ -1391,6 +1564,7 @@ function chargerContenu(){
 function demarrer(texte){
   lu = analyser(texte);
   NOMS_TRAD = lu.noms || {};
+  DESCRIPTIONS = lu.descriptions || {};
   PAR_SOURATE = {};
   lu.versets.forEach(function(v){ (PAR_SOURATE[v.s] = PAR_SOURATE[v.s] || []).push(v); });
   NUMEROS = Object.keys(PAR_SOURATE).map(Number).sort(function(a, b){ return a - b; });
