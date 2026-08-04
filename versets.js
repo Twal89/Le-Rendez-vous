@@ -31633,84 +31633,86 @@ Source: le-coran.com
 
 [[desc 2]]
 
-La sourate Al Baqara (البقرة en arabe) est la deuxième sourate du Saint Livre suivant la sourate d'Ouverture Al-Fatiha. Traduite par « La Vache » (ou parfois « La Genisse ») en français, ce titre fait justement référence à un récit qui parle d’une vache dans la sourate en l’occurrence les versets 67 à 73, cette vache a été immolée par les fils d'Israël selon la prescription de Moïse inspiré par le Très- Haut, pour dévoiler l'auteur d'un crime.
+La sourate Al-Baqara (البقرة en arabe), dont le nom signifie « La Vache », est la deuxième sourate du Coran, après la sourate d’ouverture Al-Fatiha. Son titre fait référence au récit rapporté dans les versets 67 à 73, dans lequel les enfants d’Israël reçoivent, par l’intermédiaire du prophète Moussa (Moïse) عليه السلام, l’ordre d’immoler une vache dans le cadre de l’élucidation d’un meurtre.
 
-La sourate Al Baqara a été révélée au Prophète Mohamed (sws) après sa Hijra (départ à Médine inspiré par Allah suite aux persécutions subies par les croyants à La Mecque ). Avec 286 versets et se composant de 5 sections (hizb) sur soixante, c’est la sourate la plus longue du Coran. De nombreux hadiths (Traditions prophétiques) évoquent la sourate Al Baqara, et elle renferme un verset particulièrement important du Coran, le 255e dit Ayat Al-Kursi, appelé « le Verset du Trône ».  Chaque sourate a une particularité. Nous vous proposons aujourd’hui d’étudier et de méditer sur la sourate Al Baqara, sa révélation, son tafsir (son explication), les mérites de sa récitation et de son apprentissage.
+La révélation de la sourate Al-Baqara a commencé après l’Hégire du Prophète Muhammad ﷺ de La Mecque vers Médine et s’est étendue sur une grande partie de la période médinoise. Avec ses 286 versets, elle est la plus longue sourate du Coran et s’étend sur près de cinq hizb. Elle contient notamment Āyat al-Kursī, le « Verset du Trône », qui correspond au verset 255 et qui est considéré comme le plus grand verset du Coran.
 
-Le Prophète (sws) a mentionné :
+De nombreux hadiths authentiques évoquent les mérites particuliers de cette sourate. D’après Abou Oumama al-Bahili (qu’Allah l’agrée), le Prophète Muhammad ﷺ a dit :
 
-> D'après Abou Oumama Al Bahili (qu'Allah l'agrée), le Prophète (que la prière d'Allah et Son salut soient sur lui) a dit : « Lisez la sourate Al Baqara (*) car sa récitation est bénédiction, son délaissement est malheur et les sorciers ne peuvent rien contre elle ». 
-> [Rapporté par Mouslim dans son Sahih n°804]
+> « Lisez la sourate Al-Baqara, car sa récitation est une bénédiction, son délaissement est une cause de regret et les sorciers ne peuvent rien contre elle. »
+> [Rapporté par Muslim dans son Sahih, n° 804]
 
-## Comment a été révélée la sourate Al Baqara ?
+## Comment la sourate Al-Baqara a-t-elle été révélée ?
 
-Comme il a été dit un peu plus haut, Al Baqara a été révélée au Prophète Mohammed (sws) après sa hijra, dans la seconde partie de sa vie après avoir quitté La Mecque pour Médine. C’est la première sourate médinoise révélée au Messager d'Allah (sws). Toutefois, le verset 281 Lui a été révélé à La Mecque, lors du pèlerinage d'adieu à Mina :
+La sourate Al-Baqara est une sourate médinoise. Sa révélation a débuté après l’arrivée du Prophète Muhammad ﷺ à Médine et s’est poursuivie progressivement pendant plusieurs années, en accompagnant l’organisation spirituelle, sociale et juridique de la nouvelle communauté musulmane.
 
-> «Et craignez le jour où vous serez ramenés vers Allah. Alors chaque âme sera pleinement rétribuée de ce qu'elle aura acquis. Et ils ne seront point lésés.» 
+Selon plusieurs récits transmis par les premiers savants, le verset 281 compterait parmi les derniers versets du Coran à avoir été révélés, voire serait le dernier selon certains avis :
+
+> « Et craignez le jour où vous serez ramenés vers Allah. Alors chaque âme sera pleinement rétribuée de ce qu’elle aura acquis. Et ils ne seront point lésés. »
 > [Verset 281]
 
-Ainsi, le chapitre La Vache est à la fois une sourate médinoise et mecquoise.
+Même si ce verset aurait été révélé pendant le pèlerinage d’adieu, la sourate demeure classée comme médinoise, car les révélations descendues après l’Hégire sont considérées comme médinoises, quel que soit le lieu précis où elles ont été reçues.
 
-La sourate Al-Baqara aborde une pluralité de sujets relatifs à l’Islam, des instructions comme des promesses faites aux croyants. Dans sa globalité, elle révèle la bonne guidance et affirme qu'il n'y a pas de contrainte en religion. La sourate Al Baqara est une invitation au Message divin, la majorité des récits et thèmes qui y sont évoqués font appel à la soumission à Allah le Très Haut. Allah a ainsi fait descendre une sourate apportant la protection aux croyants.
+La sourate Al-Baqara aborde une grande diversité de sujets relatifs à la foi, à l’adoration, à la morale et à l’organisation de la société. Elle expose la voie de la bonne guidance, rappelle qu’il n’existe aucune contrainte en religion et invite les croyants à se soumettre sincèrement à Allah le Très-Haut.
 
-Le Prophète Moussa (Moïse) et les enfants d’Israël sont évoqués dans la sourate. Allah relate :
+Le prophète Moussa (Moïse) عليه السلام et les enfants d’Israël occupent une place importante dans la sourate. Allah relate notamment :
 
-> «(Et rappelez-vous) lorsque Moïse dit à son peuple: « Certes Allah vous ordonne d’immoler une vache ». Ils dirent: « Nous prends-tu en moquerie? » « Qu’Allah me garde d’être du nombre des ignorants », dit-il.» 
+> « Et rappelez-vous lorsque Moïse dit à son peuple : “Certes, Allah vous ordonne d’immoler une vache.” Ils dirent : “Nous prends-tu en moquerie ?” Il répondit : “Qu’Allah me garde d’être du nombre des ignorants !” »
 > [Verset 67]
 
-Par ailleurs, Ayat Al-Kursi, ou « le Verset du Trône », est le verset Maître du Coran. Le Prophète (sws) a recommandé particulièrement de lire ce versets 255 :
+La sourate contient également Āyat al-Kursī, le « Verset du Trône ». Dans un hadith authentique, le Prophète Muhammad ﷺ demanda à Ubayy ibn Ka‘b (qu’Allah l’agrée) quel était le plus grand verset du Livre d’Allah. Celui-ci répondit en récitant le début d’Āyat al-Kursī : « Allah ! Point de divinité à part Lui, le Vivant, Celui qui subsiste par Lui-même. » Le Prophète ﷺ approuva sa réponse et le félicita pour sa connaissance.
 
-> «Dans la sourate « la Vache », il y a un verset qui est le maître des versets du Coran ; il n’est récité dans une maison sans que le démon ne la quitte.»
-> [Rapporté par Abou Hourayra]
-Vous trouverez d’ailleurs dans les paragraphes du bas toutes les mérites du  Ayat Al-Kursi en particulier.
+## Quelle est l’interprétation générale de la sourate Al-Baqara ?
 
-## Quelle est l’interprétation de la sourate Al Baqara ?
+L’un des fils directeurs de la sourate Al-Baqara est celui de la guidance : comment la reconnaître, comment y répondre et comment construire une vie individuelle et collective conforme à la volonté d’Allah. Elle affirme avec force l’unicité d’Allah, rappelle Ses Noms et Ses attributs et expose les fondements de la foi.
 
-L'ensemble des sujets de cette sourate converge vers l'idée que la connaissance de Dieu embrasse toutes choses. À travers les Noms et la croyance en Dieu, c'est la question de l'unicité de Dieu qui est prépondérante. La croyance aux six piliers de la foi y est importante . La foi parfaite en Islam repose sur la croyance en Allah, en Ses anges, en Ses Livres, en Ses Messagers, au Jour du Jugement Dernier et au destin, que ce dernier soit considéré comme bon ou mauvais. Allah a souligné dans le premier verset que selon le comportement, les hommes sont divisés en trois catégories: les hypocrites, les mécréants et les croyants. 
+La croyance repose sur la foi en Allah, en Ses anges, en Ses Livres, en Ses messagers, au Jour dernier et au destin, qu’il soit favorable ou défavorable. Dès ses premiers versets, la sourate présente trois grandes attitudes face à la Révélation : celle des croyants, celle des mécréants et celle des hypocrites.
 
-L’histoire d’Adam est aussi évoquée dans la sourate Al Baqara. Adam est une image socle pour l’Islam, il est le commencement de l'humanité, sa présence est évoquée dès les premières pages du Coran. Il y est relaté sa désignation comme vicaire par Allah, sa présence au Paradis et la tentation de Satan à laquelle il a cédé et pour laquelle il s'est repenti.
-
-> «Je vais établir sur la terre un vicaire « Khalifa »
+L’histoire d’Adam عليه السلام est également évoquée. Premier homme et premier prophète, il fut établi sur terre comme khalifa, c’est-à-dire comme dépositaire d’une responsabilité confiée par Allah. La sourate relate son séjour au Paradis, la tentation de Satan, sa faute, puis son repentir accepté par Allah.
+> « Je vais établir sur la terre un khalifa. »
 > [Verset 30]
 
-Des versets 40 à 152, les fils d’Israël sont cités dans la sourate. Allah s’adresse particulièrement à ces derniers en leur réitérant : «rappelez-vous ». Ce sont en quelque sorte des avertissements qui leurs sont destinés pour qu’ils reviennent à la bonne guidance. La sourate Al Baqara aborde en effet le récit des Bani Israil et leur attitude adoptée envers leur Prophète :
+Une large partie de la sourate, notamment à partir du verset 40, s’adresse aux enfants d’Israël. Allah leur rappelle Ses bienfaits, les engagements pris envers Lui ainsi que les conséquences de leurs désobéissances. L’expression « Rappelez-vous » revient à plusieurs reprises afin de les inviter à revenir vers la vérité et à tirer les leçons de leur histoire.
 
-> «Qui donc aura en aversion la religion d'Abraham, sinon celui qui sème son âme dans la sottise ? Car très certainement nous l'avons choisi en ce monde, et dans l'au-delà il est certes des gens de bien»
-> [verset 130]
+La sourate évoque leur rapport aux commandements d’Allah et aux prophètes qui leur furent envoyés. Elle rappelle également la place centrale du prophète Ibrahim (Abraham) عليه السلام et de sa religion fondée sur la soumission exclusive à Allah :
+> « Qui donc aura en aversion la religion d’Abraham, sinon celui qui sème son âme dans la sottise ? Car très certainement Nous l’avons choisi en ce monde, et dans l’au-delà il est certes du nombre des gens de bien. »
+> [Verset 130]
 
-La dernière partie de la sourate Al Baqara apporte davantage de préceptes pratiques, fixant les lois et les règles à la nouvelle communauté musulmane. En tout, Al Baqara énonce 130 préceptes sur différents thèmes tels que Pèlerinage, Jeûne, divorce, mariage… Ainsi, outre les piliers de la foi, les cinq piliers de l'islam sont stipulés :
+La dernière partie de la sourate contient de nombreux préceptes destinés à organiser la nouvelle communauté musulmane. Elle traite notamment de la prière, de l’aumône obligatoire, du jeûne, du pèlerinage, du mariage, du divorce, de l’allaitement, des dépenses, des contrats, des dettes, du commerce et de l’interdiction de l’usure.
 
-- la Shahada (le Témoignage qu'Allah est Le Seul Digne d'être adoré et que Mohamed est son Messager)
-- la Salat (la prière) 
-- le Siyam (le jeûne)
-- la Zakat (l'aumône obligatoire)
-- le Hajj (le pèlerinage) 
+Elle rappelle ainsi les principaux fondements de l’adoration :
+-	la Shahada, c’est-à-dire l’attestation qu’Allah est l’unique divinité digne d’être adorée et que Muhammad ﷺ est Son Messager ;
+-	la Salat, la prière ;
+-	le Siyam, le jeûne ;
+-	la Zakat, l’aumône obligatoire ;
+-	le Hajj, le pèlerinage à La Mecque pour celui qui en a la capacité.
 
-L'autorité, l'équité et les engagements doivent être au cœur de tout comportement des croyants, ce que précise Allah à travers les versets. Le verset suivant en est par exemple une parfaite illustration :
+La justice, la fidélité aux engagements, la patience, la générosité et la solidarité doivent être au cœur du comportement des croyants. Le verset suivant résume admirablement cette conception complète de la piété :
 
-> «La bonté pieuse ne consiste pas à tourner vos visages vers le Levant ou le Couchant. Mais la bonté pieuse est de croire en Allah, au Jour dernier, aux Anges, au Livre et aux prophètes, de donner de son bien, quelque amour qu’on en ait, aux proches, aux orphelins, aux nécessiteux, aux voyageurs indigents et à ceux qui demandent l’aide et pour délier les jougs, d’accomplir la Ṣalāt (la prière) et d’acquitter la Zakāt (l'aumône). Et ceux qui remplissent leurs engagements lorsqu’ils se sont engagés, ceux qui sont endurants dans la misère, la maladie et quand les combats font rage, les voilà les véridiques et les voilà les vrais pieux ! »
+> « La bonté pieuse ne consiste pas à tourner vos visages vers le Levant ou le Couchant. Mais la bonté pieuse est de croire en Allah, au Jour dernier, aux Anges, au Livre et aux prophètes, de donner de son bien, quelque amour qu’on en ait, aux proches, aux orphelins, aux nécessiteux, aux voyageurs indigents et à ceux qui demandent l’aide, et pour délier les jougs, d’accomplir la Salat et d’acquitter la Zakat. Et ceux qui remplissent leurs engagements lorsqu’ils se sont engagés, ceux qui sont endurants dans la misère, la maladie et quand les combats font rage, les voilà les véridiques et les voilà les vrais pieux ! »
 > [Verset 177]
 
-En outre, la sourate stipule une législation précise sur les relations sociales, le comportement sain au quotidien, la prise de décision économique en ce qui concerne les prêts, l'héritage et les questions juridiques. Par ailleurs, tout comme pour les femmes, il existe également des points qui concernent particulièrement les couples, c'est le cas par exemple des conditions de divorce et de la durée de l'allaitement.
+La sourate comporte également des règles précises concernant les relations familiales et sociales. Elle traite des droits et des responsabilités au sein du couple, des conditions du divorce, de la durée de l’allaitement, des dépenses familiales, des testaments et des engagements financiers. Elle contient notamment le verset 282, le plus long verset du Coran, consacré à la mise par écrit des dettes et à la protection des droits des différentes parties.
 
-## Pourquoi réciter et apprendre la sourate Al Baqara, quels sont ses mérites ?
+## Pourquoi réciter et apprendre la sourate Al-Baqara, et quels sont ses mérites ?
 
-Il est indéniable que le Coran occupe une place centrale dans la vie du musulman. Le Prophète (sws) a d’ailleurs dit : « Le mérite de la parole d’Allah sur toute autre parole est semblable au mérite d’Allah sur toute autre créature ». Mais qu’en est-il des mérites et bienfaits particuliers que peut apporter le fait de réciter et d’apprendre la sourate Al Baqara ? Cela apporte de multiples récompenses !
+La sourate Al-Baqara possède des mérites particuliers établis par plusieurs hadiths authentiques. Sa récitation est une source de bénédiction, elle intercédera avec la sourate Āl ‘Imrān en faveur de ceux qui les récitaient avec assiduité et elle constitue une protection contre Satan et les œuvres de sorcellerie.
 
-Les bienfaits les plus marquants de la sourate Al Baqara sont entre autres la protection divine, l'accès au Paradis ainsi que la guérison contre la sorcellerie et les maux apportés par le mauvais œil :
+Le Prophète Muhammad ﷺ a dit :
 
-> «Lisez le Coran, car, au Jour de la Résurrection, il intercédera en faveur des siens (ses lecteurs assidus). Lisez “Az-zahrawayn” (les deux sourates pleines de lumière) : “Al-Baqara” (La vache) et “Al-‘Imran” (La famille de Imran), car, au Jour de la Résurrection, elles viendront sous la forme de deux nuages ou de deux bandes d’oiseaux étalant leurs ailes pour plaider (la cause) de celui qui les lisait»
-> [Rapporté par Mouslim]
+> « Lisez le Coran, car il viendra le Jour de la Résurrection intercéder en faveur de ceux qui le récitaient. Lisez les deux lumineuses, Al-Baqara et Āl ‘Imrān, car elles viendront le Jour de la Résurrection comme deux nuages, deux ombres ou deux groupes d’oiseaux déployant leurs ailes, afin de défendre ceux qui les récitaient. »
+> [Rapporté par Muslim dans son Sahih, n° 804]
 
-> «Lisez la sourate “Al-Baqara” (La vache), car sa récitation est une bénédiction et son abandon est regrettable; et elle a le pouvoir de réduire à l’impuissance tout ensorcellement»
-> [Rapporté par Mouslim]
+Dans le même hadith, le Prophète ﷺ a également déclaré :
+> « Lisez la sourate Al-Baqara, car sa récitation est une bénédiction, son délaissement est une cause de regret et les sorciers ne peuvent rien contre elle. »
+> [Rapporté par Muslim dans son Sahih, n° 804]
 
-> «Abou Hurayra, qu’Allah soit satisfait de lui, a rapporté que le Messager d’Allah (sws) a dit: ” Ne faites pas de vos maisons des tombeaux; certes Satan fuit la maison dans laquelle on lit la sourate “Al Baqara” (La vache).»
-> [Rapporté par Mouslim]
+Abou Hourayra (qu’Allah l’agrée) rapporte également que le Messager d’Allah ﷺ a dit :
+> « Ne faites pas de vos maisons des tombeaux. Certes, Satan fuit la maison dans laquelle la sourate Al-Baqara est récitée. »
+> [Rapporté par Muslim dans son Sahih, n° 780]
 
-Dans l'ensemble, la sourate Al Baqara est un appel divin pour la bonne direction aux croyants, la bonne guidance. Ensuite, il y est clairement clarifié et défini toutes les règles de bonne conduite que les croyants doivent suivre en société, dans son environnement immédiat. Ainsi, la bonne guidance est clairement désignée comme une valeur fondamentale de l'Islam.
+Dans son ensemble, la sourate Al-Baqara est un immense appel à la guidance. Elle enseigne les fondements de la foi, rappelle les leçons des communautés passées et établit les principes spirituels, moraux, familiaux, sociaux et économiques nécessaires à une communauté juste. Elle montre que la véritable guidance ne consiste pas seulement à connaître la vérité, mais également à l’accepter, à la mettre en pratique et à demeurer fidèle aux engagements pris envers Allah.
 
-Source: le-coran.com
 
 [[/desc]]
 
