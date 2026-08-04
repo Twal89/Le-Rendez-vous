@@ -29726,59 +29726,1744 @@ ph: Hal Thūwiba Al-Kuffāru Mā Kānū Yaf`alūna
 
 # ---------- Sourate 84 · Al-Inshiqāq ----------
 
+84:1
+ar: إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ
+fr: Quand le ciel se déchirera
+ph: 'Idhā As-Samā'u Anshaqqat
+
+84:2
+ar: وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ
+fr: et obéira à son Seigneur -et fera ce qu'il doit faire -
+ph: Wa 'Adhinat Lirabbihā Wa Ĥuqqat
+
+84:3
+ar: وَإِذَا ٱلْأَرْضُ مُدَّتْ
+fr: et que la terre sera nivelée,
+ph: Wa 'Idhā Al-'Arđu Muddat
+
+84:4
+ar: وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ
+fr: et qu'elle rejettera ce qui est en son sein (les morts) et se videra,
+ph: Wa 'Alqat Mā Fīhā Wa Takhallat
+
+84:5
+ar: وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ
+fr: et qu'elle obéira à son Seigneur -et fera ce qu'elle doit faire -
+ph: Wa 'Adhinat Lirabbihā Wa Ĥuqqat
+
+84:6
+ar: يَٰٓأَيُّهَا ٱلْإِنسَٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًۭا فَمُلَٰقِيهِ
+fr: Ô homme ! Toi qui t'efforces vers ton Seigneur sans relâche, tu Le rencontreras alors.
+ph: Yā 'Ayyuhā Al-'Insānu 'Innaka Kādiĥun 'Ilá Rabbika Kadĥāan Famulāqīhi
+
+84:7
+ar: فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ
+fr: Celui qui recevra son livre en sa main droite,
+ph: Fa'ammā Man 'Ūtiya Kitābahu Biyamīnihi
+
+84:8
+ar: فَسَوْفَ يُحَاسَبُ حِسَابًۭا يَسِيرًۭا
+fr: sera soumis à un jugement facile,
+ph: Fasawfa Yuĥāsabu Ĥisābāan Yasīrāan
+
+84:9
+ar: وَيَنقَلِبُ إِلَىٰٓ أَهْلِهِۦ مَسْرُورًۭا
+fr: et retournera réjoui auprès de sa famille.
+ph: Wa Yanqalibu 'Ilá 'Ahlihi Masrūrāan
+
+84:10
+ar: وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ وَرَآءَ ظَهْرِهِۦ
+fr: Quant à celui qui recevra son livre derrière son dos,
+ph: Wa 'Ammā Man 'Ūtiya Kitābahu Warā'a Žahrihi
+
+84:11
+ar: فَسَوْفَ يَدْعُوا۟ ثُبُورًۭا
+fr: il invoquera la destruction sur lui-même,
+ph: Fasawfa Yad`ū Thubūrāan
+
+84:12
+ar: وَيَصْلَىٰ سَعِيرًا
+fr: et il brûlera dans un feu ardent.
+ph: Wa Yaşlá Sa`īrāan
+
+84:13
+ar: إِنَّهُۥ كَانَ فِىٓ أَهْلِهِۦ مَسْرُورًا
+fr: Car il était tout joyeux parmi les siens,
+ph: 'Innahu Kāna Fī 'Ahlihi Masrūrāan
+
+84:14
+ar: إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ
+fr: et il pensait que jamais il ne ressusciterait.
+ph: 'Innahu Å½anna 'An Lan YaÄ¥Å«ra
+
+84:15
+ar: بَلَىٰٓ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرًۭا
+fr: Mais si ! Certes, son Seigneur l'observait parfaitement.
+ph: Balá 'Inna Rabbahu Kāna Bihi Başīrāan
+
+84:16
+ar: فَلَآ أُقْسِمُ بِٱلشَّفَقِ
+fr: Non ! Je jure par le crépuscule,
+ph: Falā 'Uqsimu Bish-Shafaqi
+
+84:17
+ar: وَٱلَّيْلِ وَمَا وَسَقَ
+fr: et par la nuit et ce qu'elle enveloppe,
+ph: Wa Al-Layli Wa Mā Wasaqa
+
+84:18
+ar: وَٱلْقَمَرِ إِذَا ٱتَّسَقَ
+fr: et par la lune quand elle devient pleine-lune !
+ph: Wa Al-Qamari 'Idhā Attasaqa
+
+84:19
+ar: لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍۢ
+fr: Vous passerez, certes, par des états successifs !
+ph: Latarkabunna Ţabaqāan `An Ţabaqin
+
+84:20
+ar: فَمَا لَهُمْ لَا يُؤْمِنُونَ
+fr: Qu'ont-ils à ne pas croire ?
+ph: Famā Lahum Lā Yu'uminūna
+
+84:21
+ar: وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
+fr: Et à ne pas se prosterner quand le Coran leur est lu ?
+ph: Wa 'Idhā Quri'a `Alayhimu Al-Qur'ānu Lā Yasjudūna
+
+84:22
+ar: بَلِ ٱلَّذِينَ كَفَرُوا۟ يُكَذِّبُونَ
+fr: Mais ceux qui ne croient pas, le traitent plutôt de mensonge.
+ph: Bali Al-LadhÄ«na KafarÅ« YukadhibÅ«na
+
+84:23
+ar: وَٱللَّهُ أَعْلَمُ بِمَا يُوعُونَ
+fr: Or, Allah sait bien ce qu'ils dissimulent.
+ph: Wa Allāhu 'A`lamu Bimā Yū`ūna
+
+84:24
+ar: فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
+fr: Annonce-leur donc un châtiment douloureux.
+ph: Fabashirhum Bi`adhābin 'Alīmin
+
+84:25
+ar: إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ
+fr: Sauf ceux qui croient et accomplissent les bonnes œuvres: à eux une récompense jamais interrompue.
+ph: 'Illā Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti Lahum 'Ajrun Ghayru Mamnūnin 
+
 # ---------- Sourate 85 · Al-Burūj ----------
+
+85:1
+ar: وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ
+fr: Par le ciel aux constellations !
+ph: Wa As-Samā'i Dhāti Al-Burūji
+
+85:2
+ar: وَٱلْيَوْمِ ٱلْمَوْعُودِ
+fr: Et par le jour promis !
+ph: Wa Al-Yawmi Al-Maw`ūdi
+
+85:3
+ar: وَشَاهِدٍۢ وَمَشْهُودٍۢ
+fr: Et par le témoin et ce dont on témoigne !
+ph: Wa Shāhidin Wa Mash/hūdin
+
+85:4
+ar: قُتِلَ أَصْحَٰبُ ٱلْأُخْدُودِ
+fr: Périssent les gens de l'Uhdud,
+ph: Qutila 'Aşĥābu Al-'Ukhdūdi
+
+85:5
+ar: ٱلنَّارِ ذَاتِ ٱلْوَقُودِ
+fr: par le feu plein de combustible,
+ph: An-Nāri Dhāti Al-Waqūdi
+
+85:6
+ar: إِذْ هُمْ عَلَيْهَا قُعُودٌۭ
+fr: cependant qu'ils étaient assis tout autour,
+ph: 'Idh Hum `Alayhā Qu`ūdun
+
+85:7
+ar: وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌۭ
+fr: ils étaient ainsi témoins de ce qu'ils faisaient des croyants,
+ph: Wa Hum `Alá Mā Yaf`alūna Bil-Mu'uminīna Shuhūdun
+
+85:8
+ar: وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ
+fr: à qui ils ne leur reprochaient que d'avoir cru en Allah, le Puissant, le Digne de louange,
+ph: Wa Mā Naqamū Minhum 'Illā 'An Yu'uminū Billāhi Al-`Azīzi Al-Ĥamīdi
+
+85:9
+ar: ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌ
+fr: Auquel appartient la royauté des cieux et de la terre. Allah est témoin de toute chose.
+ph: Al-Ladhī Lahu Mulku As-Samāwāti Wa Al-'Arđi Wa Allāhu `Alá Kulli Shay'in Shahīdun
+
+85:10
+ar: إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ
+fr: Ceux qui font subir des épreuves aux croyants et aux croyantes, puis ne se repentent pas, auront le châtiment de l'Enfer et le supplice du feu.
+ph: 'Inna Al-Ladhīna Fatanū Al-Mu'uminīna Wa Al-Mu'umināti Thumma Lam Yatūbū Falahum `Adhābu Jahannama Wa Lahum `Adhābu Al-Ĥarīqi
+
+85:11
+ar: إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ جَنَّٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ
+fr: Ceux qui croient et accomplissent les bonnes œuvres auront des Jardins sous lesquels coulent les ruisseaux. Cela est le grand succès.
+ph: 'Inna Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti Lahum Jannātun Tajrī Min Taĥtihā Al-'Anhāru Dhālika Al-Fawzu Al-Kabīru
+
+85:12
+ar: إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ
+fr: La riposte de ton Seigneur est redoutable.
+ph: 'Inna Baţsha Rabbika Lashadīdun
+
+85:13
+ar: إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ
+fr: C'est Lui, certes, qui commence (la création) et la refait.
+ph: 'Innahu Huwa Yubdi'u Wa Yu`īdu
+
+85:14
+ar: وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ
+fr: Et c'est Lui le Pardonneur, le Tout-Affectueux,
+ph: Wa Huwa Al-Ghafūru Al-Wadūdu
+
+85:15
+ar: ذُو ٱلْعَرْشِ ٱلْمَجِيدُ
+fr: Le Maître du Trône, le Tout-Glorieux,
+ph: Dhū Al-`Arshi Al-Majīdu
+
+85:16
+ar: فَعَّالٌۭ لِّمَا يُرِيدُ
+fr: Il réalise parfaitement tout ce qu'Il veut.
+ph: Fa``ālun Limā Yurīdu
+
+85:17
+ar: هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ
+fr: T'est-il parvenu le récit des armées,
+ph: Hal 'Atāka Ĥadīthu Al-Junūdi
+
+85:18
+ar: فِرْعَوْنَ وَثَمُودَ
+fr: de Fir'awn (Pharaon), et de Thamud ?
+ph: Fir`awna Wa Thamūda
+
+85:19
+ar: بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍۢ
+fr: Mais ceux qui ne croient pas persistent à démentir,
+ph: Bali Al-Ladhīna Kafarū Fī Takdhībin
+
+85:20
+ar: وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ
+fr: alors qu'Allah, derrière eux, les cerne de toutes parts.
+ph: Wa Allāhu Min Warā'ihim Muĥīţun
+
+85:21
+ar: بَلْ هُوَ قُرْءَانٌۭ مَّجِيدٌۭ
+fr: Mais c'est plutôt un Coran glorifié
+ph: Bal Huwa Qur'ānun Majīdun
+
+85:22
+ar: فِى لَوْحٍۢ مَّحْفُوظٍۭ
+fr: préservé sur une Tablette (auprès d'Allah).
+ph: Fī Lawĥin Maĥfūžin 
 
 # ---------- Sourate 86 · Aṭ-Ṭāriq ----------
 
+86:1
+ar: وَٱلسَّمَآءِ وَٱلطَّارِقِ
+fr: Par le ciel et par l'astre nocturne
+ph: Wa As-Samā'i Wa Aţ-Ţāriqi
+
+86:2
+ar: وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ
+fr: Et qui te dira ce qu'est l'astre nocturne ?
+ph: Wa Mā 'Adrāka Mā Aţ-Ţāriqu
+
+86:3
+ar: ٱلنَّجْمُ ٱلثَّاقِبُ
+fr: C'est l'étoile vivement brillante.
+ph: An-Najmu Ath-Thāqibu
+
+86:4
+ar: إِن كُلُّ نَفْسٍۢ لَّمَّا عَلَيْهَا حَافِظٌۭ
+fr: Il n'est pas d'âme qui n'ait sur elle un gardien.
+ph: 'In Kullu Nafsin Lammā `Alayhā Ĥāfižun
+
+86:5
+ar: فَلْيَنظُرِ ٱلْإِنسَٰنُ مِمَّ خُلِقَ
+fr: Que l'homme considère donc de quoi il a été créé.
+ph: Falyanžuri Al-'Insānu Mimma Khuliqa
+
+86:6
+ar: خُلِقَ مِن مَّآءٍۢ دَافِقٍۢ
+fr: Il a été créé d'une giclée d'eau
+ph: Khuliqa Min Mā'in Dāfiqin
+
+86:7
+ar: يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ
+fr: sortie d'entre les lombes et les côtes.
+ph: Yakhruju Min Bayni Aş-Şulbi Wa At-Tarā'ibi
+
+86:8
+ar: إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌۭ
+fr: Allah est certes capable de le ressusciter.
+ph: 'Innahu `Alá Raj`ihi Laqādirun
+
+86:9
+ar: يَوْمَ تُبْلَى ٱلسَّرَآئِرُ
+fr: Le jour où les cœurs dévoileront leurs secrets,
+ph: Yawma Tublá As-Sarā'iru
+
+86:10
+ar: فَمَا لَهُۥ مِن قُوَّةٍۢ وَلَا نَاصِرٍۢ
+fr: il n'aura alors ni force ni secoureur.
+ph: Famā Lahu Min Qūwatin Wa Lā Nāşirin
+
+86:11
+ar: وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ
+fr: Par le ciel qui fait revenir la pluie !
+ph: Wa As-Samā'i Dhāti Ar-Raj`i
+
+86:12
+ar: وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ
+fr: Et par la terre qui se fend !
+ph: Wa Al-'Arđi Dhāti Aş-Şad`i
+
+86:13
+ar: إِنَّهُۥ لَقَوْلٌۭ فَصْلٌۭ
+fr: Ceci [le Coran] est certes, une parole décisive [qui tranche entre le vrai et le faux],
+ph: 'Innahu Laqawlun Faşlun
+
+86:14
+ar: وَمَا هُوَ بِٱلْهَزْلِ
+fr: et non point une plaisanterie frivole !
+ph: Wa Mā Huwa Bil-Hazli
+
+86:15
+ar: إِنَّهُمْ يَكِيدُونَ كَيْدًۭا
+fr: Ils se servent d'une ruse,
+ph: 'Innahum Yakīdūna Kaydāan
+
+86:16
+ar: وَأَكِيدُ كَيْدًۭا
+fr: et Moi aussi Je me sers de Mon plan.
+ph: Wa 'Akīdu Kaydāan
+
+86:17
+ar: فَمَهِّلِ ٱلْكَٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا
+fr: Accorde (Ô Prophète) donc un délai aux infidèles: accorde-leur un court délai.
+ph: Famahhili Al-Kāfirīna 'Amhilhum Ruwaydāan 
+
 # ---------- Sourate 87 · Al-Aʿlā ----------
+
+87:1
+ar: سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى
+fr: Glorifie le nom de ton Seigneur, le Très Haut,
+ph: Sabbiĥi Asma Rabbika Al-'A`lá
+
+87:2
+ar: ٱلَّذِى خَلَقَ فَسَوَّىٰ
+fr: Celui qui a créé et agencé harmonieusement,
+ph: Al-Ladhī Khalaqa Fasawwá
+
+87:3
+ar: وَٱلَّذِى قَدَّرَ فَهَدَىٰ
+fr: qui a décrété et guidé,
+ph: Wa Al-Ladhī Qaddara Fahadá
+
+87:4
+ar: وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ
+fr: et qui a fait pousser le pâturage,
+ph: Wa Al-Ladhī 'Akhraja Al-Mar`á
+
+87:5
+ar: فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ
+fr: et en a fait ensuite un foin sombre.
+ph: Faja`alahu Ghuthā'an 'Aĥwá
+
+87:6
+ar: سَنُقْرِئُكَ فَلَا تَنسَىٰٓ
+fr: Nous te ferons réciter (le Coran), de sorte que tu n'oublieras
+ph: Sanuqri'uka Falā Tansá
+
+87:7
+ar: إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ
+fr: que ce qu'Allah veut. Car, Il connaît ce qui paraît au grand jour ainsi que ce qui est caché.
+ph: 'Illā Mā Shā'a Allāhu 'Innahu Ya`lamu Al-Jahra Wa Mā Yakhfá
+
+87:8
+ar: وَنُيَسِّرُكَ لِلْيُسْرَىٰ
+fr: Nous te mettrons sur la voie la plus facile.
+ph: Wa Nuyassiruka Lilyusrá
+
+87:9
+ar: فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ
+fr: Rappelle, donc, où le Rappel doit être utile.
+ph: Fadhakkir 'In Nafa`ati Adh-Dhikrá
+
+87:10
+ar: سَيَذَّكَّرُ مَن يَخْشَىٰ
+fr: Quiconque craint (Allah) s'[en] rappellera,
+ph: Sayadhakkaru Man Yakhshá
+
+87:11
+ar: وَيَتَجَنَّبُهَا ٱلْأَشْقَى
+fr: et s'en écartera le grand malheureux,
+ph: Wa Yatajannabuhā Al-'Ashqá
+
+87:12
+ar: ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ
+fr: qui brûlera dans le plus grand Feu,
+ph: Al-Ladhī Yaşlá An-Nāra Al-Kubrá
+
+87:13
+ar: ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ
+fr: où il ne mourra ni ne vivra.
+ph: Thumma Lā Yamūtu Fīhā Wa Lā Yaĥyā
+
+87:14
+ar: قَدْ أَفْلَحَ مَن تَزَكَّىٰ
+fr: Réussit, certes, celui qui se purifie,
+ph: Qad 'Aflaĥa Man Tazakká
+
+87:15
+ar: وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ
+fr: et se rappelle le nom de son Seigneur, puis célèbre la Salat.
+ph: Wa Dhakara Asma Rabbihi Faşallá
+
+87:16
+ar: بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا
+fr: Mais, vous préférez plutôt la vie présente,
+ph: Bal Tu'uthirūna Al-Ĥayāata Ad-Dunyā
+
+87:17
+ar: وَٱلْءَاخِرَةُ خَيْرٌۭ وَأَبْقَىٰٓ
+fr: alors que l'au-delà est meilleur et plus durable.
+ph: Wa Al-'Ākhiratu Khayrun Wa 'Abqá
+
+87:18
+ar: إِنَّ هَٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ
+fr: Ceci se trouve, certes, dans les Feuilles anciennes,
+ph: 'Inna Hādhā Lafī Aş-Şuĥufi Al-'Ūlá
+
+87:19
+ar: صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ
+fr: les Feuilles d'Ibrahim (Abraham) et de Musa (Moïse).
+ph: Şuĥufi 'Ibrāhīma Wa Mūsá 
 
 # ---------- Sourate 88 · Al-Ghāshiya ----------
 
+88:1
+ar: هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَٰشِيَةِ
+fr: T'est-il parvenu le récit de l'enveloppante ?
+ph: Hal 'Atāka Ĥadīthu Al-Ghāshiyahi
+
+88:2
+ar: وُجُوهٌۭ يَوْمَئِذٍ خَٰشِعَةٌ
+fr: Ce jour-là, il y aura des visages humiliés,
+ph: Wujūhun Yawma'idhin Khāshi`ahun
+
+88:3
+ar: عَامِلَةٌۭ نَّاصِبَةٌۭ
+fr: préoccupés, harassés.
+ph: `Āmilatun Nāşibahun
+
+88:4
+ar: تَصْلَىٰ نَارًا حَامِيَةًۭ
+fr: Ils brûleront dans un Feu ardent,
+ph: Taşlá Nārāan Ĥāmiyahan
+
+88:5
+ar: تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍۢ
+fr: et seront abreuvés d'une source bouillante.
+ph: Tusqá Min `Aynin 'Āniyahin
+
+88:6
+ar: لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍۢ
+fr: Il n'y aura pour eux d'autre nourriture que des plantes épineuses [darî'],
+ph: Laysa Lahum Ţa`āmun 'Illā Min Đarī`in
+
+88:7
+ar: لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍۢ
+fr: qui n'engraisse, ni n'apaise la faim.
+ph: Lā Yusminu Wa Lā Yughnī Min Jū`in
+
+88:8
+ar: وُجُوهٌۭ يَوْمَئِذٍۢ نَّاعِمَةٌۭ
+fr: Ce jour-là, il y aura des visages épanouis,
+ph: Wujūhun Yawma'idhin Nā`imahun
+
+88:9
+ar: لِّسَعْيِهَا رَاضِيَةٌۭ
+fr: contents de leurs efforts,
+ph: Lisa`yihā Rāđiyahun
+
+88:10
+ar: فِى جَنَّةٍ عَالِيَةٍۢ
+fr: dans un haut Jardin,
+ph: Fī Jannatin `Āliyahin
+
+88:11
+ar: لَّا تَسْمَعُ فِيهَا لَٰغِيَةًۭ
+fr: où ils n'entendent aucune futilité.
+ph: Lā Tasma`u Fīhā Lāghiyahan
+
+88:12
+ar: فِيهَا عَيْنٌۭ جَارِيَةٌۭ
+fr: Là, il y aura une source coulante.
+ph: Fīhā `Aynun Jāriyahun
+
+88:13
+ar: فِيهَا سُرُرٌۭ مَّرْفُوعَةٌۭ
+fr: Là, des divans élevés
+ph: Fīhā Sururun Marfū`ahun
+
+88:14
+ar: وَأَكْوَابٌۭ مَّوْضُوعَةٌۭ
+fr: et des coupes posées
+ph: Wa 'Akwābun Mawđū`ahun
+
+88:15
+ar: وَنَمَارِقُ مَصْفُوفَةٌۭ
+fr: et des coussins rangés
+ph: Wa Namāriqu Maşfūfahun
+
+88:16
+ar: وَزَرَابِىُّ مَبْثُوثَةٌ
+fr: et des tapis étalés.
+ph: Wa Zarābīyu Mabthūthahun
+
+88:17
+ar: أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ
+fr: Ne considèrent-ils donc pas les chameaux, comment ils ont été créés,
+ph: 'Afalā Yanžurūna 'Ilá Al-'Ibili Kayfa Khuliqat
+
+88:18
+ar: وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ
+fr: et le ciel comment il est élevé,
+ph: Wa 'Ilá As-Samā'i Kayfa Rufi`at
+
+88:19
+ar: وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ
+fr: et les montagnes comment elles sont dressées
+ph: Wa 'Ilá Al-Jibāli Kayfa Nuşibat
+
+88:20
+ar: وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ
+fr: et la terre comment elle est nivelée ?
+ph: Wa 'Ilá Al-'Arđi Kayfa Suţiĥat
+
+88:21
+ar: فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌۭ
+fr: Eh bien, rappelle ! Tu n'es qu'un rappeleur,
+ph: Fadhakkir 'Innamā 'Anta Mudhakkirun
+
+88:22
+ar: لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ
+fr: et tu n'es pas un dominateur sur eux.
+ph: Lasta `Alayhim Bimusayţirin
+
+88:23
+ar: إِلَّا مَن تَوَلَّىٰ وَكَفَرَ
+fr: Sauf celui qui tourne le dos et ne croit pas,
+ph: 'Illā Man Tawallá Wa Kafara
+
+88:24
+ar: فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ
+fr: alors Allah le châtiera du plus grand châtiment.
+ph: Fayu`adhibuhu Allāhu Al-`Adhāba Al-'Akbara
+
+88:25
+ar: إِنَّ إِلَيْنَآ إِيَابَهُمْ
+fr: Vers Nous est leur retour.
+ph: 'Inna 'Ilaynā 'Īābahum
+
+88:26
+ar: ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم
+fr: Ensuite, c'est à Nous de leur demander compte.
+ph: Thumma 'Inna `Alaynā Ĥisābahum 
+
 # ---------- Sourate 89 · Al-Fajr ----------
+
+89:1
+ar: وَٱلْفَجْرِ
+fr: Par l'Aube !
+ph: Wa Al-Fajri
+
+89:2
+ar: وَلَيَالٍ عَشْرٍۢ
+fr: Et par les dix nuits !
+ph: Wa Layālin `Ashrin
+
+89:3
+ar: وَٱلشَّفْعِ وَٱلْوَتْرِ
+fr: Par le pair et l'impair !
+ph: Wa Ash-Shaf`i Wa Al-Watri
+
+89:4
+ar: وَٱلَّيْلِ إِذَا يَسْرِ
+fr: Et par la nuit quand elle s'écoule !
+ph: Wa Al-Layli 'Idhā Yasri
+
+89:5
+ar: هَلْ فِى ذَٰلِكَ قَسَمٌۭ لِّذِى حِجْرٍ
+fr: N'est-ce pas là un serment, pour un doué d'intelligence ?
+ph: Hal Fī Dhālika Qasamun Lidhī Ĥijrin
+
+89:6
+ar: أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ
+fr: N'as-tu pas vu comment ton Seigneur a agi avec les 'Ad
+ph: 'Alam Tara Kayfa Fa`ala Rabbuka Bi`ādin
+
+89:7
+ar: إِرَمَ ذَاتِ ٱلْعِمَادِ
+fr: [avec] Iram, [la cité] à la colonne remarquable,
+ph: 'Irama Dhāti Al-`Imādi
+
+89:8
+ar: ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَٰدِ
+fr: dont jamais pareille ne fut construite parmi les villes ?
+ph: Allatī Lam Yukhlaq Mithluhā Fī Al-Bilādi
+
+89:9
+ar: وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ
+fr: Et avec les Thamud qui taillaient le rocher dans la vallée ?
+ph: Wa Thamūda Al-Ladhīna Jābū Aş-Şakhra Bil-Wādi
+
+89:10
+ar: وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ
+fr: Ainsi qu'avec Fir'awn (Pharaon), l'homme aux épieux ?
+ph: Wa Fir`awna Dhī Al-'Awtādi
+
+89:11
+ar: ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَٰدِ
+fr: Tous, étaient des gens qui transgressaient dans [leurs] pays,
+ph: Al-Ladhīna Ţaghaw Fī Al-Bilādi
+
+89:12
+ar: فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ
+fr: et y avaient commis beaucoup de désordre.
+ph: Fa'aktharū Fīhā Al-Fasāda
+
+89:13
+ar: فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ
+fr: Donc, ton Seigneur déversa sur eux un fouet du châtiment.
+ph: Faşabba `Alayhim Rabbuka Sawţa `Adhābin
+
+89:14
+ar: إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ
+fr: Car ton Seigneur demeure aux aguets.
+ph: 'Inna Rabbaka Labiālmirşādi
+
+89:15
+ar: فَأَمَّا ٱلْإِنسَٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ
+fr: Quant à l'homme, lorsque son Seigneur l'éprouve en l'honorant et en le comblant de bienfaits, il dit: « Mon Seigneur m'a honoré. »
+ph: Fa'ammā Al-'Insānu 'Idhā Mā Abtalāhu Rabbuhu Fa'akramahu Wa Na``amahu Fayaqūlu Rabbī 'Akramani
+
+89:16
+ar: وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَٰنَنِ
+fr: Mais par contre, quand Il l'éprouve en lui restreignant sa subsistance, il dit: « Mon Seigneur m'a avili. »
+ph: Wa 'Ammā 'Idhā Mā Abtalāhu Faqadara `Alayhi Rizqahu Fayaqūlu Rabbī 'Ahānani
+
+89:17
+ar: كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ
+fr: Mais non ! C'est vous plutôt, qui n'êtes pas généreux envers les orphelins;
+ph: Kallā Bal Lā Tukrimūna Al-Yatīma
+
+89:18
+ar: وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ
+fr: qui ne vous incitez pas mutuellement à nourrir le pauvre,
+ph: Wa Lā Taĥāđđūna `Alá Ţa`āmi Al-Miskīni
+
+89:19
+ar: وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًۭا لَّمًّۭا
+fr: qui dévorez l'héritage avec une avidité vorace,
+ph: Wa Ta'kulūna At-Turātha 'Aklāan Lammāan
+
+89:20
+ar: وَتُحِبُّونَ ٱلْمَالَ حُبًّۭا جَمًّۭا
+fr: et aimez les richesses d'un amour sans bornes.
+ph: Wa Tuĥibbūna Al-Māla Ĥubbāan Jammāan
+
+89:21
+ar: كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّۭا دَكًّۭا
+fr: Prenez garde ! Quand la terre sera complètement pulvérisée,
+ph: Kallā 'Idhā Dukkati Al-'Arđu Dakkāan Dakkāan
+
+89:22
+ar: وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّۭا صَفًّۭا
+fr: et que ton Seigneur viendra ainsi que les Anges, rang par rang,
+ph: Wa Jā'a Rabbuka Wa Al-Malaku Şaffāan Şaffāan
+
+89:23
+ar: وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍۢ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ
+fr: et que ce jour-là, on amènera l'Enfer; ce jour-là, l'homme se rappellera. Mais à quoi lui servira de se souvenir ?
+ph: Wa Jī'a Yawma'idhin Bijahannama Yawma'idhin Yatadhakkaru Al-'Insānu Wa 'Anná Lahu Adh-Dhikrá
+
+89:24
+ar: يَقُولُ يَٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى
+fr: Il dira: « Hélas ! Que n'ai-je fait du bien pour ma vie future ! »
+ph: Yaqūlu Yā Laytanī Qaddamtu Liĥayātī
+
+89:25
+ar: فَيَوْمَئِذٍۢ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌۭ
+fr: Ce jour-là donc, nul ne saura châtier comme Lui châtie,
+ph: Fayawma'idhin Lā Yu`adhibu `Adhābahu 'Aĥadun
+
+89:26
+ar: وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌۭ
+fr: et nul ne saura garrotter comme Lui garrotte.
+ph: Wa Lā Yūthiqu Wathāqahu 'Aĥadun
+
+89:27
+ar: يَٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ
+fr: « Ô toi, âme apaisée,
+ph: Yā 'Ayyatuhā An-Nafsu Al-Muţma'innahu
+
+89:28
+ar: ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةًۭ مَّرْضِيَّةًۭ
+fr: retourne vers ton Seigneur, satisfaite et agréée;
+ph: Arji`ī 'Ilá Rabbiki Rāđiyatan Marđīyahan
+
+89:29
+ar: فَٱدْخُلِى فِى عِبَٰدِى
+fr: entre donc parmi Mes serviteurs,
+ph: Fādkhulī Fī `Ibādī
+
+89:30
+ar: وَٱدْخُلِى جَنَّتِى
+fr: et entre dans Mon Paradis. »
+ph: Wa Adkhulī Jannatī 
 
 # ---------- Sourate 90 · Al-Balad ----------
 
+90:1
+ar: لَآ أُقْسِمُ بِهَٰذَا ٱلْبَلَدِ
+fr: Non ! Je jure par cette Cité !
+ph: Lā 'Uqsimu Bihadhā Al-Baladi
+
+90:2
+ar: وَأَنتَ حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ
+fr: Et toi, tu es un résident dans cette cité -
+ph: Wa 'Anta Ĥillun Bihadhā Al-Baladi
+
+90:3
+ar: وَوَالِدٍۢ وَمَا وَلَدَ
+fr: Et par le père et ce qu'il engendre !
+ph: Wa Wālidin Wa Mā Walada
+
+90:4
+ar: لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِى كَبَدٍ
+fr: Nous avons, certes, créé l'homme pour une vie de lutte.
+ph: Laqad Khalaqnā Al-'Insāna Fī Kabadin
+
+90:5
+ar: أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌۭ
+fr: Pense-t-il que personne ne pourra rien contre lui ?
+ph: 'Ayaĥsabu 'An Lan Yaqdira `Alayhi 'Aĥadun
+
+90:6
+ar: يَقُولُ أَهْلَكْتُ مَالًۭا لُّبَدًا
+fr: Il dit: « J'ai gaspillé beaucoup de biens. »
+ph: Yaqūlu 'Ahlaktu Mālāan Lubadāan
+
+90:7
+ar: أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ
+fr: Pense-t-il que nul ne l'a vu ?
+ph: 'Ayaĥsabu 'An Lam Yarahu 'Aĥadun
+
+90:8
+ar: أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ
+fr: Ne lui avons Nous pas assigné deux yeux,
+ph: 'Alam Naj`al Lahu `Aynayni
+
+90:9
+ar: وَلِسَانًۭا وَشَفَتَيْنِ
+fr: et une langue et deux lèvres ?
+ph: Wa Lisānāan Wa Shafatayni
+
+90:10
+ar: وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ
+fr: Ne l'avons-Nous pas guidé aux deux voies ?
+ph: Wa Hadaynāhu An-Najdayni
+
+90:11
+ar: فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ
+fr: Or, il ne s'engage pas dans la voie difficile !
+ph: Falā Aqtaĥama Al-`Aqabaha
+
+90:12
+ar: وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ
+fr: Et qui te dira ce qu'est la voie difficile ?
+ph: Wa Mā 'Adrāka Mā Al-`Aqabahu
+
+90:13
+ar: فَكُّ رَقَبَةٍ
+fr: C'est délier un joug [affranchir un esclave],
+ph: Fakku Raqabahin
+
+90:14
+ar: أَوْ إِطْعَٰمٌۭ فِى يَوْمٍۢ ذِى مَسْغَبَةٍۢ
+fr: ou nourrir, en un jour de famine,
+ph: 'Aw 'Iţ`āmun Fī Yawmin Dhī Masghabahin
+
+90:15
+ar: يَتِيمًۭا ذَا مَقْرَبَةٍ
+fr: un orphelin proche parent
+ph: Yatīmāan Dhā Maqrabahin
+
+90:16
+ar: أَوْ مِسْكِينًۭا ذَا مَتْرَبَةٍۢ
+fr: ou un pauvre dans le dénuement.
+ph: 'Aw Miskīnāan Dhā Matrabahin
+
+90:17
+ar: ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ
+fr: Et c'est être, en outre, de ceux qui croient et s'enjoignent mutuellement l'endurance, et s'enjoignent mutuellement la miséricorde.
+ph: Thumma Kāna Mina Al-Ladhīna 'Āmanū Wa Tawāşaw Biş-Şabri Wa Tawāşaw Bil-Marĥamahi
+
+90:18
+ar: أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ
+fr: Ceux-là sont les gens de la droite;
+ph: 'Ūlā'ika 'Aşĥābu Al-Maymanahi
+
+90:19
+ar: وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ
+fr: alors que ceux qui ne croient pas en Nos versets sont les gens de la gauche.
+ph: Wa Al-Ladhīna Kafarū Bi'āyātinā Hum 'Aşĥābu Al-Mash'amahi
+
+90:20
+ar: عَلَيْهِمْ نَارٌۭ مُّؤْصَدَةٌۢ
+fr: Le Feu se refermera sur eux.
+ph: `Alayhim Nārun Mu'uşadahun 
+
 # ---------- Sourate 91 · Ash-Shams ----------
+
+91:1
+ar: وَٱلشَّمْسِ وَضُحَىٰهَا
+fr: Par le soleil et par sa clarté !
+ph: Wa Ash-Shamsi Wa Đuĥāhā
+
+91:2
+ar: وَٱلْقَمَرِ إِذَا تَلَىٰهَا
+fr: Et par la lune quand elle le suit !
+ph: Wa Al-Qamari 'Idhā Talāhā
+
+91:3
+ar: وَٱلنَّهَارِ إِذَا جَلَّىٰهَا
+fr: Et par le jour quand il l'éclaire !
+ph: Wa An-Nahāri 'Idhā Jallāhā
+
+91:4
+ar: وَٱلَّيْلِ إِذَا يَغْشَىٰهَا
+fr: Et par la nuit quand elle l'enveloppe !
+ph: Wa Al-Layli 'Idhā Yaghshāhā
+
+91:5
+ar: وَٱلسَّمَآءِ وَمَا بَنَىٰهَا
+fr: Et par le ciel et Celui qui l'a construit !
+ph: Wa As-Samā'i Wa Mā Banāhā
+
+91:6
+ar: وَٱلْأَرْضِ وَمَا طَحَىٰهَا
+fr: Et par la terre et Celui qui l'a étendue !
+ph: Wa Al-'Arđi Wa Mā Ţaĥāhā
+
+91:7
+ar: وَنَفْسٍۢ وَمَا سَوَّىٰهَا
+fr: Et par l'âme et Celui qui l'a harmonieusement façonnée;
+ph: Wa Nafsin Wa Mā Sawwāhā
+
+91:8
+ar: فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا
+fr: et lui a alors inspiré son immoralité, de même que sa piété !
+ph: Fa'alhamahā Fujūrahā Wa Taqwāhā
+
+91:9
+ar: قَدْ أَفْلَحَ مَن زَكَّىٰهَا
+fr: A réussi, certes, celui qui la purifie.
+ph: Qad 'Aflaĥa Man Zakkāhā
+
+91:10
+ar: وَقَدْ خَابَ مَن دَسَّىٰهَا
+fr: Et est perdu, certes, celui qui la corrompt.
+ph: Wa Qad Khāba Man Dassāhā
+
+91:11
+ar: كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ
+fr: Les Thamud, par leur transgression, ont crié au mensonge,
+ph: Kadhabat Thamūdu Biţaghwāhā
+
+91:12
+ar: إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا
+fr: lorsque le plus misérable d'entre eux se leva (pour tuer la chamelle).
+ph: 'Idhi Anba`atha 'Ashqāhā
+
+91:13
+ar: فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَٰهَا
+fr: Le Messager d'Allah leur avait dit: « La chamelle d'Allah ! Laissez-la boire. »
+ph: Faqāla Lahum Rasūlu Allāhi Nāqata Allāhi Wa Suqyāhā
+
+91:14
+ar: فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا
+fr: Mais, ils le traitèrent de menteur, et la tuèrent. Leur Seigneur les détruisit donc, pour leur péché et étendit Son châtiment sur tous.
+ph: Fakadhabūhu Fa`aqarūhā Fadamdama `Alayhim Rabbuhum Bidhanbihim Fasawwāhā
+
+91:15
+ar: وَلَا يَخَافُ عُقْبَٰهَا
+fr: Et Allah n'a aucune crainte des conséquences.
+ph: Wa Lā Yakhāfu `Uqbāhā 
 
 # ---------- Sourate 92 · Al-Layl ----------
 
+92:1
+ar: وَٱلَّيْلِ إِذَا يَغْشَىٰ
+fr: Par la nuit quand elle enveloppe tout !
+ph: Wa Al-Layli 'Idhā Yaghshá
+
+92:2
+ar: وَٱلنَّهَارِ إِذَا تَجَلَّىٰ
+fr: Par le jour quand il éclaire !
+ph: Wa An-Nahāri 'Idhā Tajallá
+
+92:3
+ar: وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ
+fr: Et par ce qu'Il a créé, mâle et femelle !
+ph: Wa Mā Khalaqa Adh-Dhakara Wa Al-'Unthá
+
+92:4
+ar: إِنَّ سَعْيَكُمْ لَشَتَّىٰ
+fr: Vos efforts sont divergents.
+ph: 'Inna Sa`yakum Lashattá
+
+92:5
+ar: فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ
+fr: Celui qui donne et craint (Allah)
+ph: Fa'ammā Man 'A`ţá Wa Attaqá
+
+92:6
+ar: وَصَدَّقَ بِٱلْحُسْنَىٰ
+fr: et déclare véridique la plus belle récompense
+ph: Wa Şaddaqa Bil-Ĥusná
+
+92:7
+ar: فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ
+fr: Nous lui faciliterons la voie au plus grand bonheur.
+ph: Fasanuyassiruhu Lilyusrá
+
+92:8
+ar: وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ
+fr: Et quant à celui qui est avare, se dispense (de l'adoration d'Allah),
+ph: Wa 'Ammā Man Bakhila Wa Astaghná
+
+92:9
+ar: وَكَذَّبَ بِٱلْحُسْنَىٰ
+fr: et traite de mensonge la plus belle récompense,
+ph: Wa Kadhaba Bil-Ĥusná
+
+92:10
+ar: فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ
+fr: Nous lui faciliterons la voie à la plus grande difficulté,
+ph: Fasanuyassiruhu Lil`usrá
+
+92:11
+ar: وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ
+fr: et à rien ne lui serviront ses richesses quand il sera jeté (au Feu).
+ph: Wa Mā Yughnī `Anhu Māluhu 'Idhā Taraddá
+
+92:12
+ar: إِنَّ عَلَيْنَا لَلْهُدَىٰ
+fr: C'est à Nous, certes, de guider;
+ph: 'Inna `Alaynā Lalhudá
+
+92:13
+ar: وَإِنَّ لَنَا لَلْءَاخِرَةَ وَٱلْأُولَىٰ
+fr: à Nous appartient, certes, la vie dernière et la vie présente.
+ph: Wa 'Inna Lanā Lal'ākhirata Wa Al-'Ūlá
+
+92:14
+ar: فَأَنذَرْتُكُمْ نَارًۭا تَلَظَّىٰ
+fr: Je vous ai donc avertis d'un Feu qui flambe
+ph: Fa'andhartukum Nārāan Talažžá
+
+92:15
+ar: لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى
+fr: où ne brûlera que le damné,
+ph: Lā Yaşlāhā 'Illā Al-'Ashqá
+
+92:16
+ar: ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ
+fr: qui dément et tourne le dos;
+ph: Al-Ladhī Kadhaba Wa Tawallá
+
+92:17
+ar: وَسَيُجَنَّبُهَا ٱلْأَتْقَى
+fr: alors qu'en sera écarté le pieux,
+ph: Wa Sayujannabuhā Al-'Atqá
+
+92:18
+ar: ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ
+fr: qui donne ses biens pour se purifier
+ph: Al-Ladhī Yu'utī Mālahu Yatazakká
+
+92:19
+ar: وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍۢ تُجْزَىٰٓ
+fr: et auprès de qui personne ne profite d'un bienfait intéressé,
+ph: Wa Mā Li'ĥadin `Indahu Min Ni`matin Tujzá
+
+92:20
+ar: إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ
+fr: mais seulement pour la recherche de La Face de son Seigneur le Très-Haut.
+ph: 'Illā Abtighā'a Wajhi Rabbihi Al-'A`lá
+
+92:21
+ar: وَلَسَوْفَ يَرْضَىٰ
+fr: Et certes, il sera bientôt satisfait !
+ph: Wa Lasawfa Yarđá 
+
 # ---------- Sourate 93 · Aḍ-Ḍuḥā ----------
+
+93:1
+ar: وَٱلضُّحَىٰ
+fr: Par le Jour Montant !
+ph: Wa Ađ-Đuĥá
+
+93:2
+ar: وَٱلَّيْلِ إِذَا سَجَىٰ
+fr: Et par la nuit quand elle couvre tout !
+ph: Wa Al-Layli 'Idhā Sajá
+
+93:3
+ar: مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ
+fr: Ton Seigneur ne t'a ni abandonné, ni détesté.
+ph: Mā Wadda`aka Rabbuka Wa Mā Qalá
+
+93:4
+ar: وَلَلْءَاخِرَةُ خَيْرٌۭ لَّكَ مِنَ ٱلْأُولَىٰ
+fr: La vie dernière t'est, certes, meilleure que la vie présente.
+ph: Wa Lal'ākhiratu Khayrun Laka Mina Al-'Ūlá
+
+93:5
+ar: وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ
+fr: Ton Seigneur t'accordera certes [Ses faveurs], et alors tu seras satisfait.
+ph: Wa Lasawfa Yu`ţīka Rabbuka Fatarđá
+
+93:6
+ar: أَلَمْ يَجِدْكَ يَتِيمًۭا فَـَٔاوَىٰ
+fr: Ne t'a-t-Il pas trouvé orphelin ? Alors Il t'a accueilli !
+ph: 'Alam Yajidka Yatīmāan Fa'āwá
+
+93:7
+ar: وَوَجَدَكَ ضَآلًّۭا فَهَدَىٰ
+fr: Ne t'a-t-Il pas trouvé égaré ? Alors Il t'a guidé.
+ph: Wa Wajadaka Đāllāan Fahadá
+
+93:8
+ar: وَوَجَدَكَ عَآئِلًۭا فَأَغْنَىٰ
+fr: Ne t'a-t-Il pas trouvé pauvre ? Alors Il t'a enrichi.
+ph: Wa Wajadaka `Ā'ilāan Fa'aghná
+
+93:9
+ar: فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ
+fr: Quant à l'orphelin, donc, ne le maltraite pas.
+ph: Fa'ammā Al-Yatīma Falā Taqhar
+
+93:10
+ar: وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ
+fr: Quant au demandeur, ne le repousse pas.
+ph: Wa 'Ammā As-Sā'ila Falā Tanhar
+
+93:11
+ar: وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ
+fr: Et quant au bienfait de ton Seigneur, proclame-le.
+ph: Wa 'Ammā Bini`mati Rabbika Faĥaddith 
 
 # ---------- Sourate 94 · Ash-Sharḥ ----------
 
+94:1
+ar: أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ
+fr: N'avons-Nous pas ouvert pour toi ta poitrine ?
+ph: 'Alam Nashraĥ Laka Şadraka
+
+94:2
+ar: وَوَضَعْنَا عَنكَ وِزْرَكَ
+fr: Et ne t'avons-Nous pas déchargé du fardeau
+ph: Wa Wađa`nā `Anka Wizraka
+
+94:3
+ar: ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ
+fr: qui accablait ton dos ?
+ph: Al-Ladhī 'Anqađa Žahraka
+
+94:4
+ar: وَرَفَعْنَا لَكَ ذِكْرَكَ
+fr: Et exalté pour toi ta renommée ?
+ph: Wa Rafa`nā Laka Dhikraka
+
+94:5
+ar: فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا
+fr: À côté de la difficulté est, certes, une facilité !
+ph: Fa'inna Ma`a Al-`Usri Yusrāan
+
+94:6
+ar: إِنَّ مَعَ ٱلْعُسْرِ يُسْرًۭا
+fr: À côté de la difficulté est, certes, une facilité !
+ph: 'Inna Ma`a Al-`Usri Yusrāan
+
+94:7
+ar: فَإِذَا فَرَغْتَ فَٱنصَبْ
+fr: Quand tu te libères, donc, lève-toi,
+ph: Fa'idhā Faraghta Fānşab
+
+94:8
+ar: وَإِلَىٰ رَبِّكَ فَٱرْغَب
+fr: et à ton Seigneur aspire.
+ph: Wa 'Ilá Rabbika Fārghab 
+
 # ---------- Sourate 95 · At-Tīn ----------
+
+95:1
+ar: وَٱلتِّينِ وَٱلزَّيْتُونِ
+fr: Par le figuier et l'olivier !
+ph: Wa At-Tīni Wa Az-Zaytūni
+
+95:2
+ar: وَطُورِ سِينِينَ
+fr: Et par le Mont Sînîn !
+ph: Wa Ţūri Sīnīna
+
+95:3
+ar: وَهَٰذَا ٱلْبَلَدِ ٱلْأَمِينِ
+fr: Et par cette Cité sûre !
+ph: Wa Hadhā Al-Baladi Al-'Amīni
+
+95:4
+ar: لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍۢ
+fr: Nous avons certes créé l'homme dans la forme la plus parfaite.
+ph: Laqad Khalaqnā Al-'Insāna Fī 'Aĥsani Taqwīmin
+
+95:5
+ar: ثُمَّ رَدَدْنَٰهُ أَسْفَلَ سَٰفِلِينَ
+fr: Ensuite, Nous l'avons ramené au niveau le plus bas,
+ph: Thumma Radadnāhu 'Asfala Sāfilīna
+
+95:6
+ar: إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۢ
+fr: sauf ceux qui croient et accomplissent les bonnes œuvres: ceux-là auront une récompense jamais interrompue.
+ph: 'Illā Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti Falahum 'Ajrun Ghayru Mamnūnin
+
+95:7
+ar: فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ
+fr: Après cela, qu'est-ce qui te fait traiter la rétribution de mensonge ?
+ph: Famā Yukadhibuka Ba`du Bid-Dīni
+
+95:8
+ar: أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَٰكِمِينَ
+fr: Allah n'est-Il pas le plus sage des Juges ?
+ph: 'Alaysa Allāhu Bi'aĥkami Al-Ĥākimīna 
 
 # ---------- Sourate 96 · Al-ʿAlaq ----------
 
+96:1
+ar: ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ
+fr: Lis, au nom de ton Seigneur qui a créé,
+ph: Aqra' Biāsmi Rabbika Al-Ladhī Khalaqa
+
+96:2
+ar: خَلَقَ ٱلْإِنسَٰنَ مِنْ عَلَقٍ
+fr: qui a créé l'homme d'une adhérence.
+ph: Khalaqa Al-'Insāna Min `Alaqin
+
+96:3
+ar: ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ
+fr: Lis ! Ton Seigneur est le Très Noble,
+ph: Aqra' Wa Rabbuka Al-'Akramu
+
+96:4
+ar: ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ
+fr: qui a enseigné par la plume [le calame],
+ph: Al-Ladhī `Allama Bil-Qalami
+
+96:5
+ar: عَلَّمَ ٱلْإِنسَٰنَ مَا لَمْ يَعْلَمْ
+fr: a enseigné à l'homme ce qu'il ne savait pas.
+ph: `Allama Al-'Insāna Mā Lam Ya`lam
+
+96:6
+ar: كَلَّآ إِنَّ ٱلْإِنسَٰنَ لَيَطْغَىٰٓ
+fr: Prenez-garde ! Vraiment l'homme devient rebelle,
+ph: Kallā 'Inna Al-'Insāna Layaţghá
+
+96:7
+ar: أَن رَّءَاهُ ٱسْتَغْنَىٰٓ
+fr: dès qu'il estime qu'il peut se suffire à lui-même (à cause de sa richesse).
+ph: 'An Ra'āhu Astaghná
+
+96:8
+ar: إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ
+fr: Mais, c'est vers ton Seigneur qu'est le retour.
+ph: 'Inna 'Ilá Rabbika Ar-Ruj`á
+
+96:9
+ar: أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ
+fr: As-tu vu celui qui interdit
+ph: 'Ara'ayta Al-Ladhī Yanhá
+
+96:10
+ar: عَبْدًا إِذَا صَلَّىٰٓ
+fr: à un serviteur d'Allah [Muhammad] de célébrer la Salat ?
+ph: `Abdāan 'Idhā Şallá
+
+96:11
+ar: أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ
+fr: Vois-tu s'il est sur la bonne voie,
+ph: 'Ara'ayta 'In Kāna `Alá Al-Hudá
+
+96:12
+ar: أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ
+fr: ou s'il ordonne la piété ?
+ph: 'Aw 'Amara Bit-Taqwá
+
+96:13
+ar: أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ
+fr: Vois-tu s'il dément et tourne le dos ?
+ph: 'Ara'ayta 'In Kadhaba Wa Tawallá
+
+96:14
+ar: أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ
+fr: Ne sait-il pas que vraiment Allah voit ?
+ph: 'Alam Ya`lam Bi'anna Allāha Yará
+
+96:15
+ar: كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ
+fr: Mais non ! S'il ne cesse pas, Nous le saisirons certes, par le toupet,
+ph: Kallā La'in Lam Yantahi Lanasfa`ā Bin-Nāşiyahi
+
+96:16
+ar: نَاصِيَةٍۢ كَٰذِبَةٍ خَاطِئَةٍۢ
+fr: le toupet d'un menteur, d'un pécheur.
+ph: Nāşiyatin Kādhibatin Khāţi'ahin
+
+96:17
+ar: فَلْيَدْعُ نَادِيَهُۥ
+fr: Qu'il appelle donc son assemblée.
+ph: Falyad`u Nādiyah
+
+96:18
+ar: سَنَدْعُ ٱلزَّبَانِيَةَ
+fr: Nous appellerons les gardiens [de l'Enfer].
+ph: Sanad`u Az-Zabāniyaha
+
+96:19
+ar: كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩
+fr: Non ! Ne lui obéis pas; mais prosterne-toi et rapproche-toi.
+ph: Kallā Lā Tuţi`hu Wa Asjud Wāqtarib 
+
 # ---------- Sourate 97 · Al-Qadr ----------
+
+97:1
+ar: إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ
+fr: Nous l'avons certes, fait descendre (le Coran) pendant la nuit d'Al-Qadr.
+ph: 'Innā 'Anzalnāhu Fī Laylati Al-Qadri
+
+97:2
+ar: وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ
+fr: Et qui te dira ce qu'est la nuit d'Al-Qadr ?
+ph: Wa Mā 'Adrāka Mā Laylatu Al-Qadri
+
+97:3
+ar: لَيْلَةُ ٱلْقَدْرِ خَيْرٌۭ مِّنْ أَلْفِ شَهْرٍۢ
+fr: La nuit d'Al-Qadr est meilleure que mille mois.
+ph: Laylatu Al-Qadri Khayrun Min 'Alfi Shahrin
+
+97:4
+ar: تَنَزَّلُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍۢ
+fr: Durant celle-ci descendent les Anges ainsi que l'Esprit, par permission de leur Seigneur pour tout ordre.
+ph: Tanazzalu Al-Malā'ikatu Wa Ar-Rūĥu Fīhā Bi'idhni Rabbihim Min Kulli 'Amrin
+
+97:5
+ar: سَلَٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ
+fr: Elle est paix et salut jusqu'à l'apparition de l'aube.
+ph: Salāmun Hiya Ĥattá Maţla`i Al-Fajri 
 
 # ---------- Sourate 98 · Al-Bayyina ----------
 
+98:1
+ar: لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ
+fr: Les infidèles parmi les gens du Livre, ainsi que les Associateurs, ne cesseront pas de mécroire jusqu'à ce que leur vienne la Preuve évidente:
+ph: Lam Yakuni Al-Ladhīna Kafarū Min 'Ahli Al-Kitābi Wa Al-Mushrikīna Munfakkīna Ĥattá Ta'tiyahumu Al-Bayyinahu
+
+98:2
+ar: رَسُولٌۭ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًۭا مُّطَهَّرَةًۭ
+fr: un Messager, de la part d'Allah, qui leur récite des feuilles purifiées,
+ph: Rasūlun Mina Allāhi Yatlū Şuĥufāan Muţahharahan
+
+98:3
+ar: فِيهَا كُتُبٌۭ قَيِّمَةٌۭ
+fr: dans lesquelles se trouvent des prescriptions d'une rectitude parfaite.
+ph: Fīhā Kutubun Qayyimahun
+
+98:4
+ar: وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَةُ
+fr: Et ceux à qui le Livre a été donné ne se sont divisés qu'après que la preuve leur fut venue.
+ph: Wa Mā Tafarraqa Al-Ladhīna 'Ūtū Al-Kitāba 'Illā Min Ba`di Mā Jā'at/humu Al-Bayyinahu
+
+98:5
+ar: وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ
+fr: Il ne leur a été commandé, cependant, que d'adorer Allah, Lui vouant un culte exclusif, d'accomplir la Salat et d'acquitter la Zakat. Et voilà la religion de droiture.
+ph: Wa Mā 'Umirū 'Illā Liya`budū Allāha Mukhlişīna Lahu Ad-Dīna Ĥunafā'a Wa Yuqīmū Aş-Şalāata Wa Yu'utū Az-Zakāata Wa Dhalika Dīnu Al-Qayyimahi
+
+98:6
+ar: إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآ ۚ أُو۟لَٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ
+fr: Les infidèles parmi les gens du Livre, ainsi que les Associateurs iront au feu de l'Enfer, pour y demeurer éternellement. De toute la création, ce sont eux les pires.
+ph: 'Inna Al-Ladhīna Kafarū Min 'Ahli Al-Kitābi Wa Al-Mushrikīna Fī Nāri Jahannama Khālidīna Fīhā 'Ūlā'ika Hum Sharru Al-Barīyahi
+
+98:7
+ar: إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ هُمْ خَيْرُ ٱلْبَرِيَّةِ
+fr: Quant à ceux qui croient et accomplissent les bonnes œuvres, ce sont les meilleurs de toute la création.
+ph: 'Inna Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti 'Ūlā'ika Hum Khayru Al-Barīyahi
+
+98:8
+ar: جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّٰتُ عَدْنٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۖ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ
+fr: Leur récompense auprès d'Allah sera les Jardins de séjour, sous lesquels coulent les ruisseaux, pour y demeurer éternellement. Allah les agrée et ils L'agréent. Telle sera [la récompense] de celui qui craint son Seigneur.
+ph: Jazā'uuhum `Inda Rabbihim Jannātu `Adnin Tajrī Min Taĥtihā Al-'Anhāru Khālidīna Fīhā 'Abadāan Rađiya Allāhu `Anhum Wa Rađū `Anhu Dhālika Liman Khashiya Rabbahu 
+
 # ---------- Sourate 99 · Az-Zalzala ----------
+
+99:1
+ar: إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا
+fr: Quand la terre tremblera d'un violent tremblement,
+ph: 'Idhā Zulzilati Al-'Arđu Zilzālahā
+
+99:2
+ar: وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا
+fr: et que la terre fera sortir ses fardeaux,
+ph: Wa 'Akhrajati Al-'Arđu 'Athqālahā
+
+99:3
+ar: وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا
+fr: et que l'homme dira: « Qu'a-t-elle ? »
+ph: Wa Qāla Al-'Insānu Mā Lahā
+
+99:4
+ar: يَوْمَئِذٍۢ تُحَدِّثُ أَخْبَارَهَا
+fr: ce jour-là, elle contera son histoire,
+ph: Yawma'idhin Tuĥaddithu 'Akhbārahā
+
+99:5
+ar: بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا
+fr: selon ce que ton Seigneur lui aura révélé [ordonné].
+ph: Bi'anna Rabbaka 'Awĥá Lahā
+
+99:6
+ar: يَوْمَئِذٍۢ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًۭا لِّيُرَوْا۟ أَعْمَٰلَهُمْ
+fr: Ce jour-là, les gens sortiront séparément pour que leur soient montrées leurs œuvres.
+ph: Yawma'idhin Yaşduru An-Nāsu 'Ashtātāan Liyuraw 'A`mālahum
+
+99:7
+ar: فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًۭا يَرَهُۥ
+fr: Quiconque fait un bien fût-ce du poids d'un atome, le verra,
+ph: Faman Ya`mal Mithqāla Dharratin Khayrāan Yarahu
+
+99:8
+ar: وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍۢ شَرًّۭا يَرَهُۥ
+fr: et quiconque fait un mal fût-ce du poids d'un atome, le verra.
+ph: Wa Man Ya`mal Mithqāla Dharratin Sharrāan Yarahu 
 
 # ---------- Sourate 100 · Al-ʿĀdiyāt ----------
 
+100:1
+ar: وَٱلْعَٰدِيَٰتِ ضَبْحًۭا
+fr: Par les coursiers qui halètent,
+ph: Wa Al-`Ādiyāti Đabĥāan
+
+100:2
+ar: فَٱلْمُورِيَٰتِ قَدْحًۭا
+fr: qui font jaillir des étincelles,
+ph: Fālmūriyāti Qadĥāan
+
+100:3
+ar: فَٱلْمُغِيرَٰتِ صُبْحًۭا
+fr: qui attaquent au matin,
+ph: Fālmughīrāti Şubĥāan
+
+100:4
+ar: فَأَثَرْنَ بِهِۦ نَقْعًۭا
+fr: et font ainsi voler la poussière,
+ph: Fa'atharna Bihi Naq`āan
+
+100:5
+ar: فَوَسَطْنَ بِهِۦ جَمْعًا
+fr: et pénètrent au centre de la troupe ennemie.
+ph: Fawasaţna Bihi Jam`āan
+
+100:6
+ar: إِنَّ ٱلْإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٌۭ
+fr: L'homme est, certes, ingrat envers son Seigneur;
+ph: 'Inna Al-'Insāna Lirabbihi Lakanūdun
+
+100:7
+ar: وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌۭ
+fr: et pourtant, il est certes, témoin de cela;
+ph: Wa 'Innahu `Alá Dhālika Lashahīdun
+
+100:8
+ar: وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ
+fr: et pour l'amour des richesses il est certes ardent.
+ph: Wa 'Innahu Liĥubbi Al-Khayri Lashadīdun
+
+100:9
+ar: ۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ
+fr: Ne sait-il donc pas que lorsque ce qui est dans les tombes sera bouleversé,
+ph: 'Afalā Ya`lamu 'Idhā Bu`thira Mā Fī Al-Qubūri
+
+100:10
+ar: وَحُصِّلَ مَا فِى ٱلصُّدُورِ
+fr: et que sera dévoilé ce qui est dans les poitrines,
+ph: Wa Ĥuşşila Mā Fī Aş-Şudūri
+
+100:11
+ar: إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍۢ لَّخَبِيرٌۢ
+fr: ce jour-là, certes, leur Seigneur sera Parfaitement Connaisseur d'eux ?
+ph: 'Inna Rabbahum Bihim Yawma'idhin Lakhabīrun 
+
 # ---------- Sourate 101 · Al-Qāriʿa ----------
+
+101:1
+ar: ٱلْقَارِعَةُ
+fr: Le fracas !
+ph: Al-Qāri`ahu
+
+101:2
+ar: مَا ٱلْقَارِعَةُ
+fr: Qu'est-ce que le fracas ?
+ph: Mā Al-Qāri`ahu
+
+101:3
+ar: وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ
+fr: Et qui te dira ce qu'est le fracas ?
+ph: Wa Mā 'Adrāka Mā Al-Qāri`ahu
+
+101:4
+ar: يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ
+fr: C'est le jour où les gens seront comme des papillons éparpillés,
+ph: Yawma Yakūnu An-Nāsu Kālfarāshi Al-Mabthūthi
+
+101:5
+ar: وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ
+fr: et les montagnes comme de la laine cardée;
+ph: Wa Takūnu Al-Jibālu Kāl`ihni Al-Manfūshi
+
+101:6
+ar: فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ
+fr: quant à celui dont la balance sera lourde
+ph: Fa'ammā Man Thaqulat Mawāzīnuhu
+
+101:7
+ar: فَهُوَ فِى عِيشَةٍۢ رَّاضِيَةٍۢ
+fr: il sera dans une vie agréable;
+ph: Fahuwa Fī `Īshatin Rāđiyahin
+
+101:8
+ar: وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ
+fr: et quant à celui dont la balance sera légère,
+ph: Wa 'Ammā Man Khaffat Mawāzīnuhu
+
+101:9
+ar: فَأُمُّهُۥ هَاوِيَةٌۭ
+fr: sa mère [destination] est un abîme très profond.
+ph: Fa'ummuhu Hāwiyahun
+
+101:10
+ar: وَمَآ أَدْرَىٰكَ مَا هِيَهْ
+fr: Et qui te dira ce que c'est ?
+ph: Wa Mā 'Adrāka Mā Hiyah
+
+101:11
+ar: نَارٌ حَامِيَةٌۢ
+fr: C'est un Feu ardent.
+ph: Nārun Ĥāmiyahun 
 
 # ---------- Sourate 102 · At-Takāthur ----------
 
+102:1
+ar: أَلْهَىٰكُمُ ٱلتَّكَاثُرُ
+fr: La course aux richesses vous distrait,
+ph: 'Alhākumu At-Takāthuru
+
+102:2
+ar: حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ
+fr: jusqu'à ce que vous visitiez les tombes.
+ph: Ĥattá Zurtumu Al-Maqābira
+
+102:3
+ar: كَلَّا سَوْفَ تَعْلَمُونَ
+fr: Mais non ! Vous saurez bientôt !
+ph: Kallā Sawfa Ta`lamūna
+
+102:4
+ar: ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ
+fr: (Encore une fois) ! Vous saurez bientôt !
+ph: Thumma Kallā Sawfa Ta`lamūna
+
+102:5
+ar: كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ
+fr: Sûrement ! Si vous saviez de science certaine.
+ph: Kallā Law Ta`lamūna `Ilma Al-Yaqīni
+
+102:6
+ar: لَتَرَوُنَّ ٱلْجَحِيمَ
+fr: Vous verrez, certes, la Fournaise.
+ph: Latarawunna Al-Jaĥīma
+
+102:7
+ar: ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ
+fr: Puis, vous la verrez certes, avec l'œil de la certitude.
+ph: Thumma Latarawunnahā `Ayna Al-Yaqīni
+
+102:8
+ar: ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ
+fr: Puis, assurément, vous serez interrogés, ce jour-là, sur les délices.
+ph: Thumma Latus'alunna Yawma'idhin `Ani An-Na`īmi 
+
 # ---------- Sourate 103 · Al-ʿAṣr ----------
+
+103:1
+ar: وَٱلْعَصْرِ
+fr: Par le Temps !
+ph: Wa Al-`Aşri
+
+103:2
+ar: إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ
+fr: L'homme est certes, en perdition,
+ph: 'Inna Al-'Insāna Lafī Khusrin
+
+103:3
+ar: إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ
+fr: sauf ceux qui croient et accomplissent les bonnes œuvres, s'enjoignent mutuellement la vérité et s'enjoignent mutuellement l'endurance.
+ph: 'Illā Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti Wa Tawāşaw Bil-Ĥaqqi Wa Tawāşaw Biş-Şabri 
 
 # ---------- Sourate 104 · Al-Humaza ----------
 
+104:1
+ar: وَيْلٌۭ لِّكُلِّ هُمَزَةٍۢ لُّمَزَةٍ
+fr: Malheur à tout calomniateur diffamateur,
+ph: Waylun Likulli Humazatin Lumazahin
+
+104:2
+ar: ٱلَّذِى جَمَعَ مَالًۭا وَعَدَّدَهُۥ
+fr: qui amasse une fortune et la compte,
+ph: Al-Ladhī Jama`a Mālāan Wa `Addadahu
+
+104:3
+ar: يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ
+fr: pensant que sa fortune l'immortalisera.
+ph: Yaĥsabu 'Anna Mālahu 'Akhladahu
+
+104:4
+ar: كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ
+fr: Mais non ! Il sera certes, jeté dans la Hutamah.
+ph: Kallā Layunbadhanna Fī Al-Ĥuţamahi
+
+104:5
+ar: وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ
+fr: Et qui te dira ce qu'est la Hutamah ?
+ph: Wa Mā 'Adrāka Mā Al-Ĥuţamahu
+
+104:6
+ar: نَارُ ٱللَّهِ ٱلْمُوقَدَةُ
+fr: Le Feu attisé d'Allah
+ph: Nāru Allāhi Al-Mūqadahu
+
+104:7
+ar: ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ
+fr: qui monte jusqu'aux cœurs.
+ph: Allatī Taţţali`u `Alá Al-'Af'idahi
+
+104:8
+ar: إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌۭ
+fr: Il se refermera sur eux,
+ph: 'Innahā `Alayhim Mu'uşadahun
+
+104:9
+ar: فِى عَمَدٍۢ مُّمَدَّدَةٍۭ
+fr: en colonnes (de flammes) étendues.
+ph: Fī `Amadin Mumaddadahin 
+
 # ---------- Sourate 105 · Al-Fīl ----------
+
+105:1
+ar: أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ
+fr: N'as-tu pas vu comment ton Seigneur a agi envers les gens de l'Eléphant ?
+ph: 'Alam Tará Kayfa Fa`ala Rabbuka Bi'aşĥābi Al-Fīl
+
+105:2
+ar: أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍۢ
+fr: N'a-t-Il pas rendu leur ruse complètement vaine ?
+ph: 'Alam Yaj`al Kaydahum Fī Tađlīlin
+
+105:3
+ar: وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ
+fr: Et envoyé sur eux des oiseaux par volées
+ph: Wa 'Arsala `Alayhim Ţayrāan 'Abābīla
+
+105:4
+ar: تَرْمِيهِم بِحِجَارَةٍۢ مِّن سِجِّيلٍۢ
+fr: qui leur lançaient des pierres d'argile ?
+ph: Tarmīhim Biĥijāratin Min Sijjīlin
+
+105:5
+ar: فَجَعَلَهُمْ كَعَصْفٍۢ مَّأْكُولٍۭ
+fr: Et Il les a rendus semblables à une paille mâchée.
+ph: Faja`alahum Ka`aşfin Ma'kūlin 
 
 # ---------- Sourate 106 · Quraysh ----------
 
+106:1
+ar: لِإِيلَٰفِ قُرَيْشٍ
+fr: À cause du pacte des Quraysh,
+ph: Li'īlāfi Qurayshin
+
+106:2
+ar: إِۦلَٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ
+fr: De leur pacte [concernant] les voyages d'hiver et d'été.
+ph: 'Īlāfihim Riĥlata Ash-Shitā'i Wa Aş-Şayfi
+
+106:3
+ar: فَلْيَعْبُدُوا۟ رَبَّ هَٰذَا ٱلْبَيْتِ
+fr: Qu'ils adorent donc le Seigneur de cette Maison [la Ka'ba],
+ph: Falya`budū Rabba Hādhā Al-Bayti
+
+106:4
+ar: ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍۢ وَءَامَنَهُم مِّنْ خَوْفٍۭ
+fr: qui les a nourris contre la faim et rassurés de la crainte !
+ph: Al-Ladhī 'Aţ`amahum Min Jū`in Wa 'Āmanahum Min Khawfin 
+
 # ---------- Sourate 107 · Al-Māʿūn ----------
+
+107:1
+ar: أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ
+fr: Vois-tu celui qui traite de mensonge la Rétribution ?
+ph: 'Ara'ayta Al-Ladhī Yukadhibu Bid-Dīni
+
+107:2
+ar: فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ
+fr: C'est bien lui qui repousse l'orphelin,
+ph: Fadhālika Al-Ladhī Yadu``u Al-Yatīma
+
+107:3
+ar: وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ
+fr: et qui n'encourage point à nourrir le pauvre.
+ph: Wa Lā Yaĥuđđu `Alá Ţa`āmi Al-Miskīni
+
+107:4
+ar: فَوَيْلٌۭ لِّلْمُصَلِّينَ
+fr: Malheur donc, à ceux qui prient
+ph: Fawaylun Lilmuşallīna
+
+107:5
+ar: ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ
+fr: tout en négligeant (et retardant) leur Salat,
+ph: Al-Ladhīna Hum `An Şalātihim Sāhūna
+
+107:6
+ar: ٱلَّذِينَ هُمْ يُرَآءُونَ
+fr: qui sont pleins d'ostentation,
+ph: Al-Ladhīna Hum Yurā'ūna
+
+107:7
+ar: وَيَمْنَعُونَ ٱلْمَاعُونَ
+fr: et refusent l'ustensile (à celui qui en a besoin).
+ph: Wa Yamna`ūna Al-Mā`ūna 
 
 # ---------- Sourate 108 · Al-Kawthar ----------
 
+108:1
+ar: إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ
+fr: Nous t'avons certes, accordé l'Abondance.
+ph: 'Innā 'A`ţaynāka Al-Kawthara
+
+108:2
+ar: فَصَلِّ لِرَبِّكَ وَٱنْحَرْ
+fr: Accomplis la Salat pour ton Seigneur et sacrifie.
+ph: Faşalli Lirabbika Wa Anĥar
+
+108:3
+ar: إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ
+fr: Celui qui te hait sera certes, sans postérité.
+ph: 'Inna Shāni'aka Huwa Al-'Abtaru 
+
 # ---------- Sourate 109 · Al-Kāfirūn ----------
+
+109:1
+ar: قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ
+fr: Dis: « Ô vous les infidèles !
+ph: Qul Yā 'Ayyuhā Al-Kāfirūna
+
+109:2
+ar: لَآ أَعْبُدُ مَا تَعْبُدُونَ
+fr: Je n'adore pas ce que vous adorez.
+ph: Lā 'A`budu Mā Ta`budūna
+
+109:3
+ar: وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ
+fr: Et vous n'êtes pas adorateurs de ce que j'adore.
+ph: Wa Lā 'Antum `Ābidūna Mā 'A`budu
+
+109:4
+ar: وَلَآ أَنَا۠ عَابِدٌۭ مَّا عَبَدتُّمْ
+fr: Je ne suis pas adorateur de ce que vous adorez.
+ph: Wa Lā 'Anā `Ābidun Mā `Abadttum
+
+109:5
+ar: وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ
+fr: Et vous n'êtes pas adorateurs de ce que j'adore.
+ph: Wa Lā 'Antum `Ābidūna Mā 'A`budu
+
+109:6
+ar: لَكُمْ دِينُكُمْ وَلِىَ دِينِ
+fr: À vous votre religion, et à moi ma religion. »
+ph: Lakum Dīnukum Wa Liya Dīni 
 
 # ---------- Sourate 110 · An-Naṣr ----------
 
+110:1
+ar: إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ
+fr: Lorsque vient le secours d'Allah ainsi que la victoire,
+ph: 'Idhā Jā'a Naşru Allāhi Wa Al-Fatĥu
+
+110:2
+ar: وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًۭا
+fr: et que tu vois les gens entrer en foule dans la religion d'Allah,
+ph: Wa Ra'ayta An-Nāsa Yadkhulūna Fī Dīni Allāhi 'Afwājāan
+
+110:3
+ar: فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا
+fr: alors, par la louange, célèbre la gloire de ton Seigneur et implore Son pardon. Car c'est Lui le grand Accueillant au repentir.
+ph: Fasabbiĥ Biĥamdi Rabbika Wa Astaghfirhu 'Innahu Kāna Tawwābāan 
+
 # ---------- Sourate 111 · Al-Masad ----------
+
+111:1
+ar: تَبَّتْ يَدَآ أَبِى لَهَبٍۢ وَتَبَّ
+fr: Que périssent les deux mains d'Abû-Lahab et que lui-même périsse.
+ph: Tabbat Yadā 'Abī Lahabin Wa Tabba
+
+111:2
+ar: مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ
+fr: Sa fortune ne lui sert à rien, ni ce qu'il a acquis.
+ph: Mā 'Aghná `Anhu Māluhu Wa Mā Kasaba
+
+111:3
+ar: سَيَصْلَىٰ نَارًۭا ذَاتَ لَهَبٍۢ
+fr: Il sera brûlé dans un Feu plein de flammes,
+ph: Sayaşlá Nārāan Dhāta Lahabin
+
+111:4
+ar: وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ
+fr: de même sa femme, la porteuse de bois,
+ph: Wa Amra'atuhu Ĥammālata Al-Ĥaţabi
+
+111:5
+ar: فِى جِيدِهَا حَبْلٌۭ مِّن مَّسَدٍۭ
+fr: à son cou, une corde de fibres.
+ph: Fī Jīdihā Ĥablun Min Masadin 
 
 # ---------- Sourate 112 · Al-Ikhlāṣ ---------
 
