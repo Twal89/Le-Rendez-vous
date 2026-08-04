@@ -118,8 +118,8 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 }
 .corps::-webkit-scrollbar{ width:0; height:0; }
 .corps.defile{
-  -webkit-mask-image:linear-gradient(to bottom, #000 0, #000 86%, transparent 100%);
-  mask-image:linear-gradient(to bottom, #000 0, #000 86%, transparent 100%);
+  -webkit-mask-image:linear-gradient(to bottom, #000 0, #000 var(--fondu, 86%), transparent 100%);
+  mask-image:linear-gradient(to bottom, #000 0, #000 var(--fondu, 86%), transparent 100%);
 }
 /* marges automatiques : centré quand ça tient, sans overflow inatteignable sinon */
 .bloc{ margin:auto 0; width:100%; }
@@ -1128,6 +1128,8 @@ function majDefilement(boite){
   if (!c) return;
   if (!trop){ c.classList.remove("actif"); return; }
   c.classList.add("actif");
+  const enBas = boite.scrollTop + boite.clientHeight >= boite.scrollHeight - 4;
+  boite.style.setProperty("--fondu", enBas ? "100%" : "86%");
   const h = boite.clientHeight, sh = boite.scrollHeight;
   const hauteur = Math.max(16, (h / sh) * 100);
   c.firstElementChild.style.height = hauteur + "%";
