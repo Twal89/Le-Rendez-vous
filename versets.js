@@ -31548,91 +31548,107 @@ ph: Mina Al-Jinnati Wa An-Nāsi
 
 [[desc 1]]
 
-La sourate El Fatiha, que l’on peut traduire littéralement par Le Prologue ou L’Ouverture est la première sourate en position dans le Coran, juste avant sourate El Baqara (La Vache). Elle est l’une des plus petites sourates du Saint Coran avec 7 versets. Malgré sa taille, elle revêt un caractère d’une haute importance puisqu’elle est une invocation, un échange entre le croyant et son Seigneur et bien-sûr, l’une des conditions à l’acceptation de la prière du musulman.
+La sourate Al-Fatiha, dont le nom signifie « L’Ouverture » ou « Le Prologue », est la première sourate dans l’ordre du Coran, avant la sourate Al-Baqara. Composée de sept versets, elle est relativement courte, mais elle occupe une place unique dans la foi et l’adoration musulmanes.
 
-## Une révélation particulière pour une sourate grandiose
+Elle rassemble la louange d’Allah, la reconnaissance de Sa Seigneurie, de Sa miséricorde et de Sa souveraineté, l’affirmation que Lui seul mérite d’être adoré, ainsi qu’une invocation demandant la guidance vers le droit chemin. Sa récitation constitue également un élément fondamental de la prière.
 
-Celle que l’on appelle, parmi ses nombreux noms, La Mère du Coran, Le Prologue, ou les Sept répétés puisque les croyants la répètent au moins cinq fois par jour et tous les jours, a été révélée à La Mecque. Dans une parole prophétique rapportée par Ibn Abbas ( un des Compagnons du Prophète Mohamed ) : l’ange Jibril se trouvait auprès de Mohamed, l’Envoyé d’Allah, que la paix et le salut soient sur lui, quand celui-ci entendit un bruit venant d’au-dessus de lui. Jibril leva les yeux au ciel et dit : « C’est une porte du ciel qui s’est ouverte et elle ne l’a jamais été auparavant. » Un ange descendit et vint trouver le prophète et lui dit : 
+Le Prophète Muhammad ﷺ a déclaré :
 
-> « Réjouis-toi de recevoir deux lumières que nul prophète avant n’a reçues. Elles sont la sourate de L’Ouverture et les derniers versets de la sourate El Baqara (La Vache). Tu ne récites aucune de leurs lettres sans que tu ne sois exaucé. » 
-> [Rapporté par Muslim]
+> « Il n’y a pas de prière pour celui qui ne récite pas l’Ouverture du Livre. »
+> [Rapporté par Al-Bukhari, n° 756, et Muslim, n° 394]
 
-El Fatiha est donc également une lumière et représente une sourate complète qui, contrairement aux autres sourates, doit être toujours récitée en entier alors qu’une autre partie du Coran peut être coupée ou récitée par morceaux choisis. C’est pourquoi on l’appelle aussi El Wafiyah, l’Intégrale.
+Al-Fatiha suffit à constituer la récitation coranique d’une unité de prière, même s’il est préférable, dans les unités concernées, d’y ajouter d’autres versets ou une autre sourate. 
 
-Lors de l’accomplissement de la prière, elle peut être récitée seule, sans rien lui rajouter comme versets du Coran, alors qu’aucune autre sourate ne peut être récitée sans el Fatiha pendant une unité de prière. Voilà pourquoi lui est aussi donné le nom de El Kafiyah qui veut dire La Suffisante. Elle suffit à elle seule pour prier chaque unité de prière alors qu’aucune autre sourate ne peut suffire sans réciter El Fatiha.
+## Une sourate mecquoise d’une importance exceptionnelle
 
-Cela fait d’elle une sourate aux nombreuses particularités dont le croyant ne saurait se passer.
+Selon la très grande majorité des savants, Al-Fatiha est une sourate mecquoise révélée au début de la mission prophétique. Certains savants ont toutefois soutenu qu’elle était médinoise. Elle est parfois considérée comme la première sourate révélée intégralement, mais elle n’est pas la première révélation reçue par le Prophète Muhammad ﷺ. 
 
-> « Celui qui prie sans réciter la Mère du Coran (Oum El Quran), et dans une autre version « La Liminaire du Coran », sa prière est incomplète, incomplète et non valide. 
-> [Rapporté par les deux Sahih Boukhari et Muslim]
+> Ibn Abbas (qu’Allah l’agrée ainsi que son père) rapporte qu’un jour, tandis que l’ange Jibril se trouvait auprès du Prophète Muhammad ﷺ, une porte du ciel s’ouvrit. Un ange qui n’était jamais descendu auparavant vint annoncer au Prophète ﷺ deux lumières qui n’avaient été accordées à aucun prophète avant lui : Al-Fatiha et les derniers versets de la sourate Al-Baqara.
+L’ange lui annonça que lorsqu’il en réciterait une partie, ce qu’elle renferme lui serait accordé.
+> [Rapporté par Muslim, n° 806]
 
-## Un trésor de sagesses en sept versets
+Ce hadith ne décrit pas nécessairement le moment de la première révélation d’Al-Fatiha. Il met avant tout en évidence son immense mérite et la présente comme l’une des deux lumières accordées au Prophète Muhammad ﷺ. 
 
-Les circonstances de la révélation de cette sourate, comme on l’a vu précédemment, sont aussi grandioses que ce qu’elle contient comme sagesses. Cette intimité entre Allah et son serviteur est décrite par Allah lui-même comme suit.
+## Un dialogue entre le serviteur et son Seigneur
 
-En effet, la sourate El Fatiha est une conversation intime entre Le Seigneur des Mondes et le fidèle. Lui-même, que Son Nom soit-exalté, nous apprend qu’elle est partagée en deux parties, comme le confirme ce Hadith Qoudoussi :
-(Qoudoussi veut dire que c’est une parole prophétique dans laquelle l’Envoyé d’Allah rapporte exactement une parole d’Allah, sans rien y ajouter. Qu’elle ait été révélée ou inspirée, le prophète en retranscrit l’essence.)
+Al-Fatiha possède la particularité d’être une louange, une profession de foi et une invocation. Elle établit ainsi un dialogue spirituel entre le croyant et Allah.
 
-> « J’ai divisé la prière entre Mon serviteur et Moi en deux parties, et Mon serviteur aura ce qu’il demande.»
-> Ainsi lorsqu’il dit : « Louange à Allah, Seigneur des mondes », Allah le Très-Haut répond : ‘‘Mon serviteur M’a loué.’’
-> Quand il dit : « Le Tout Miséricordieux, le Très Miséricordieux », Allah le Très-Haut réplique : ‘‘Mon serviteur a fait Mon éloge’’
-> et quand il dit : « Maître du Jour de la Rétribution », Il dit : ‘‘Mon serviteur M’a glorifié’’ – ou bien – : ‘‘Mon serviteur s’est fié à Moi’’.
-> Quand il dit : « C’est Toi que nous adorons et c’est Toi dont nous implorons secours », Il affirme : ‘‘Ceci est entre Mon serviteur et Moi, et Mon serviteur aura ce qu’il demande.’’
-> Quand il dit : « Guide-nous dans le droit chemin, le chemin de ceux que Tu as comblé de faveurs, non pas de ceux qui ont encouru Ta colère et ni des égarés ! », Il dit : ‘‘Ceci est pour Mon serviteur et Mon serviteur aura ce qu’il demande.’’ »
-> [Rapporté par Muslim]
+Dans un hadith qudsi, Allah dit avoir partagé la prière entre Lui et Son serviteur. Le terme « prière » désigne ici Al-Fatiha.
 
-Ainsi, durant sept versets, et cette série d’invocations, c’est un dialogue dans lequel Dieu promet à son serviteur qu’il sera exaucé. Un échange qui a lieu à chaque unité de prière. Sa récitation est à ne pas négliger car à chaque prière c’est une conversation avec Le Très-Haut à laquelle il procède et ce même s’il n’entend pas sa réponse.
+> Lorsque le serviteur dit : « Louange à Allah, Seigneur des mondes », Allah répond que Son serviteur L’a loué.
+> Lorsqu’il dit : « Le Tout Miséricordieux, le Très Miséricordieux », Allah répond que Son serviteur a fait Son éloge.
+> Lorsqu’il dit : « Maître du Jour de la rétribution », Allah répond que Son serviteur L’a glorifié.
+> Puis, lorsque le croyant déclare : « C’est Toi seul que nous adorons et c’est Toi seul dont nous implorons l’aide », Allah dit que cette parole est partagée entre Lui et Son serviteur.
+> Enfin, lorsque le serviteur demande à être guidé sur le droit chemin, Allah annonce que cette demande appartient à Son serviteur et qu’il recevra ce qu’il a demandé.
+> [Rapporté par Muslim, n° 395]
 
-Il commence par louer Le Seigneur des Mondes et reconnaître Sa Seigneurie, sa Toute Miséricorde, Sa Royauté Le Jour des Comptes, puis, il L’implore en reconnaissant qu’Il est Le Seul Digne d’être adoré, et lui demande secours. Enfin, il fait l’une des plus grandes et importantes invocations pour un croyant : il lui demande de le compter parmi les gens sur le Chemin Droit, parmi les bien-guidés qu’Il a comblés de Ses Bienfaits, et de le préserver de Sa Colère.
+Ce hadith montre que la récitation d’Al-Fatiha ne devrait pas être accomplie machinalement. À chaque unité de prière, le croyant loue Allah, affirme sa dépendance envers Lui et Lui demande la plus essentielle des grâces : demeurer sur le chemin de la guidance. 
 
-Dans la première partie de la Fatiha, le serviteur en prière s’adresse donc à Allah en étant conscient et plein d’espoir qu’Il l’entende et lui réponde. Il Le loue, et Le reconnait dans tous Ses Attributs comme cités plus haut. Puis, dans la seconde partie, le croyant invoque pour sa guidance et son salut.
+## Un trésor de foi et de sagesse en sept versets
 
-En la récitant, le croyant témoigne de l’unicité de son Seigneur en utilisant les Noms d’Allah et il reconnaît que les Louanges appartiennent à Lui Seul, sans rien Lui associer. Les noms d’Allah que l’on retrouve dans cette sourate sont :
+La première partie d’Al-Fatiha est consacrée à la connaissance et à la glorification d’Allah.
 
-- Allah
-- Al Rahman
-- A Rahim
-- Rabbi
-- Malik
+Le croyant reconnaît qu’Allah est le Seigneur de tous les mondes, que Sa miséricorde embrasse Sa création et qu’Il est le Maître souverain du Jour de la rétribution. Cette reconnaissance rappelle à l’être humain qu’il dépend entièrement de son Créateur, tandis qu’Allah n’a besoin de personne.
 
-L’on remarque que les quatre derniers noms sont des attributs réunis dans le premier. Allah est en effet Le Miséricordieux, Le Très-Miséricordieux, Le Seigneur (des Mondes, Digne de toutes les louanges), et le Roi du Jour du Jugement Dernier.
+Le verset central affirme ensuite deux fondements essentiels :
 
-Cette sourate est une éducation à la servitude dans laquelle tout musulman reconnaît sa soumission à son Seigneur de la plus belle manière.
+« C’est Toi seul que nous adorons et c’est Toi seul dont nous implorons l’aide. »
 
-En résumé, dans cette sourate, pour chaque verset le fidèle :
+Le croyant affirme ainsi qu’Allah seul mérite son adoration et qu’il ne peut véritablement agir, persévérer et être guidé sans Son secours.
 
-- Reconnaît Allah par Ses Noms Sublimes.
-- Le loue avec dévouement, en reconnaissant que jusqu’à la Fin des Temps toutes les louanges Lui appartiennent. En disant cela, il admet qu’il a besoin d’Allah, alors qu’Allah n’a besoin de personne.
-- Il recherche la Miséricorde auprès du Tout-Miséricordieux, Le Très-Miséricordieux.
-- Reconnaît qu’Allah est le Maître du Jour Dernier, en cela il affirme croire au Jour Dernier.
-- Il témoigne qu’il adore Allah et recherche Son Secours auprès de Lui.
-- Il Lui demande la plus puissante des invocations qui est de le guider sur le Chemin Droit.
-- Et il Lui demande de faire partie de ceux qu’Allah a comblés de Ses Bienfaits et de lui épargner Sa Colère, et de ne pas faire de lui quelqu’un parmi les gens égarés.
-- La foi complète est concentrée dans cette sourate que le Prophète Mohamed paix et salut sur lui, a appelé sourate Suprême :
+La dernière partie de la sourate est une invocation :
 
-Abou Said Ibn Mo’alla, qu’Allah l’agrée, a dit : Je priais dans la mosquée quand le Messager d’Allah m’appela, je ne répondis pas à son appel. Plus tard je lui dis, « Ô Messager d’Allah, j’étais en train de faire la prière ». Il dit : Allah n’a-t-il pas dit « Répondez à Allah et Son Messager lorsqu’Il vous appelle » Sourate 8 Verset 24 ? Puis il dit : Avant de quitter la mosquée je vais t’apprendre la sourate Suprême du Coran. Il prit ma main et s’apprêtait à quitter la mosquée. Je lui demandais : Ne m’as-tu pas dit que tu allais m’apprendre la plus grande sourate du Coran ? Il dit : « El HamdouliLahi Rabbi el’alamin », ce sont les sept versets fréquemment répétés, et le Grand Coran qui m’a été donné. Rapporté par Al Boukhari
+« Guide-nous dans le droit chemin, le chemin de ceux que Tu as comblés de faveurs, non pas de ceux qui ont encouru Ta colère ni des égarés. »
 
-## Informations complémentaires sur la sourate Al Fatiha
+Le croyant ne demande pas seulement à connaître la vérité. Il demande à Allah de lui permettre de la suivre, de demeurer ferme sur elle et d’éviter les chemins de ceux qui se sont détournés de la guidance.
 
-Les noms les plus répandus de cette sourate grandiose qui lui ont été donnés par Allah Lui-même, Glorifié soit-Il, le Prophète, paix et salut sur lui, ainsi que ses compagnons, qu’Allah les agrée tous sont :
+Al-Fatiha réunit donc plusieurs fondements majeurs de la foi : la connaissance d’Allah, Son unicité, l’adoration exclusive, la confiance en Lui, la croyance au Jour dernier et la demande de guidance.
 
-- Fatihatul Kitab, L’Ouverture du Livre (du Coran)
-- Oum El Kitab, la Mère du Livre (Coran)
-- AsSab’a Al Mathani, les Septs Répétés, car elle est composée de 7 versets que le musulman répète dans chaque unité de prière, tout au long de la journée
-- Al Hamd, car elle commence par El HamduliLahi Rabbi…, Louanges à Dieu, Seigneur…
-- El Wafiyah, L’Intégrale, car elle est la seule à avoir été révélée en une fois, et doit absolument être récitée en une fois sans la couper pendant la récitation
-- El Kafiyah, La Suffisante, elle réunit pour le croyant tout ce dont il a besoin de savoir et peut être récitée seule
-- ElShifa, La Guérison, car elle permet au croyant d’être protégé, de se soigner
-- AsSalat, La Prière
-- Al Assas, le Fondement, La base de la religion
-- La Fatiha est une sourate dont la récitation est primordiale à chaque moment de la journée mais aussi un enseignement dont le musulman ne cesse de méditer sur ses sens et ses sagesses durant toute sa vie.
+Parmi les Noms et attributs divins mentionnés dans la sourate figurent :
+-	Allah ;
+-	Rabb, le Seigneur ;
+-	Ar-Rahman, le Tout Miséricordieux ;
+-	Ar-Rahim, le Très Miséricordieux ;
+-	Malik, le Maître ou le Souverain du Jour de la rétribution.
 
-Source: le-coran.com
+Al-Fatiha éduque ainsi le croyant à la servitude envers Allah. Elle lui enseigne à commencer par la louange avant de formuler sa demande, à reconnaître sa dépendance et à rechercher avant toute chose la guidance spirituelle.
+
+## La plus grande sourate du Coran
+
+Abou Saïd ibn Al-Mu‘alla (qu’Allah l’agrée) rapporte que le Prophète Muhammad ﷺ lui annonça qu’il allait lui enseigner la plus grande sourate du Coran. Il lui indiqua ensuite qu’il s’agissait d’Al-Fatiha :
+
+« Louange à Allah, Seigneur des mondes. »
+
+> Le Prophète ﷺ expliqua qu’elle était constituée des « Sept Répétés » et qu’elle était le « Coran sublime » qui lui avait été accordé.
+> [Rapporté par Al-Bukhari, n° 4474]
+
+Al-Fatiha n’est donc pas seulement la sourate qui ouvre le Livre : elle est explicitement présentée par le Prophète Muhammad ﷺ comme la plus grande sourate du Coran. 
+
+## Les principaux noms d’Al-Fatiha
+
+Al-Fatiha possède plusieurs noms. Trois d’entre eux sont particulièrement bien établis dans les hadiths authentiques :
+
+-	Fatihat al-Kitab, « L’Ouverture du Livre », parce qu’elle ouvre le Coran et la récitation accomplie dans la prière ;
+-	Umm al-Qur’an ou Umm al-Kitab, « La Mère » ou « La Source du Coran », parce qu’elle rassemble les grands fondements et les principales finalités du message coranique ;
+-	As-Sab‘ al-Mathani, « Les Sept Répétés », parce qu’elle est composée de sept versets récités de manière répétée dans les prières.
+-	Elle est également appelée Al-Hamd, « La Louange », en raison de ses premiers mots.
+-	Elle est parfois désignée comme As-Salat, « La Prière », en référence au hadith qudsi dans lequel Allah dit avoir partagé « la prière » entre Lui et Son serviteur, le texte désignant alors Al-Fatiha.
+
+Des savants l’ont aussi associée à la guérison en raison de son utilisation comme ruqya. Dans un hadith authentique, un Compagnon récita Al-Fatiha sur un homme qui avait été piqué ou mordu. Celui-ci guérit par la permission d’Allah, et le Prophète ﷺ confirma qu’Al-Fatiha pouvait être employée comme ruqya. 
+
+Il est donc permis de la réciter en demandant à Allah la guérison, tout en sachant que la sourate n’agit pas indépendamment : Allah seul accorde la guérison.
+
+## Une sourate à réciter et à méditer
+
+Al-Fatiha accompagne le musulman quotidiennement dans ses prières, mais son importance ne se limite pas à sa récitation. Elle constitue un enseignement que le croyant peut méditer tout au long de sa vie.
+
+Elle lui rappelle qui est son Seigneur, pourquoi il L’adore, de qui il doit attendre le secours et quelle demande doit rester au centre de son existence : être guidé et maintenu sur le droit chemin.
+
+En seulement sept versets, Al-Fatiha résume ainsi la relation du croyant avec Allah : Le connaître, Le louer, L’adorer, placer sa confiance en Lui et Lui demander de le conduire vers ce qui mène à Sa satisfaction.
 
 [[/desc]]
 
 [[desc 2]]
-
 La sourate Al-Baqara (البقرة en arabe), dont le nom signifie « La Vache », est la deuxième sourate du Coran, après la sourate d’ouverture Al-Fatiha. Son titre fait référence au récit rapporté dans les versets 67 à 73, dans lequel les enfants d’Israël reçoivent, par l’intermédiaire du prophète Moussa (Moïse) عليه السلام, l’ordre d’immoler une vache dans le cadre de l’élucidation d’un meurtre.
 
 La révélation de la sourate Al-Baqara a commencé après l’Hégire du Prophète Muhammad ﷺ de La Mecque vers Médine et s’est étendue sur une grande partie de la période médinoise. Avec ses 286 versets, elle est la plus longue sourate du Coran et s’étend sur près de cinq hizb. Elle contient notamment Āyat al-Kursī, le « Verset du Trône », qui correspond au verset 255 et qui est considéré comme le plus grand verset du Coran.
@@ -31666,15 +31682,18 @@ La sourate contient également Āyat al-Kursī, le « Verset du Trône ». Dans 
 
 L’un des fils directeurs de la sourate Al-Baqara est celui de la guidance : comment la reconnaître, comment y répondre et comment construire une vie individuelle et collective conforme à la volonté d’Allah. Elle affirme avec force l’unicité d’Allah, rappelle Ses Noms et Ses attributs et expose les fondements de la foi.
 
+
 La croyance repose sur la foi en Allah, en Ses anges, en Ses Livres, en Ses messagers, au Jour dernier et au destin, qu’il soit favorable ou défavorable. Dès ses premiers versets, la sourate présente trois grandes attitudes face à la Révélation : celle des croyants, celle des mécréants et celle des hypocrites.
 
 L’histoire d’Adam عليه السلام est également évoquée. Premier homme et premier prophète, il fut établi sur terre comme khalifa, c’est-à-dire comme dépositaire d’une responsabilité confiée par Allah. La sourate relate son séjour au Paradis, la tentation de Satan, sa faute, puis son repentir accepté par Allah.
+
 > « Je vais établir sur la terre un khalifa. »
 > [Verset 30]
 
 Une large partie de la sourate, notamment à partir du verset 40, s’adresse aux enfants d’Israël. Allah leur rappelle Ses bienfaits, les engagements pris envers Lui ainsi que les conséquences de leurs désobéissances. L’expression « Rappelez-vous » revient à plusieurs reprises afin de les inviter à revenir vers la vérité et à tirer les leçons de leur histoire.
 
 La sourate évoque leur rapport aux commandements d’Allah et aux prophètes qui leur furent envoyés. Elle rappelle également la place centrale du prophète Ibrahim (Abraham) عليه السلام et de sa religion fondée sur la soumission exclusive à Allah :
+
 > « Qui donc aura en aversion la religion d’Abraham, sinon celui qui sème son âme dans la sottise ? Car très certainement Nous l’avons choisi en ce monde, et dans l’au-delà il est certes du nombre des gens de bien. »
 > [Verset 130]
 
@@ -31712,21 +31731,451 @@ Abou Hourayra (qu’Allah l’agrée) rapporte également que le Messager d’Al
 > [Rapporté par Muslim dans son Sahih, n° 780]
 
 Dans son ensemble, la sourate Al-Baqara est un immense appel à la guidance. Elle enseigne les fondements de la foi, rappelle les leçons des communautés passées et établit les principes spirituels, moraux, familiaux, sociaux et économiques nécessaires à une communauté juste. Elle montre que la véritable guidance ne consiste pas seulement à connaître la vérité, mais également à l’accepter, à la mettre en pratique et à demeurer fidèle aux engagements pris envers Allah.
-
-
 [[/desc]]
 
 [[desc 3]]
+La sourate Âl ‘Imrân est le troisième chapitre du Coran. Sourate médinoise composée de 200 versets, elle compte parmi les plus longues sourates du Livre d’Allah. Elle s’adresse aux musulmans, mais contient également de nombreux enseignements destinés aux gens du Livre, notamment aux juifs et aux chrétiens. 
+
+Son nom signifie « La Famille de ‘Imrân ». Il provient du passage commençant au verset 33, dans lequel Allah mentionne la famille de ‘Imrân parmi les familles qu’Il a choisies. ‘Imrân est présenté comme le père de Maryam عليه السلام, la mère du prophète ‘Issa عليه السلام. 
+
+## Dans quelles circonstances la sourate Âl ‘Imrân a-t-elle été révélée ?
+
+La sourate Âl ‘Imrân a été révélée progressivement durant la période médinoise et non en une seule occasion. Ses différents passages accompagnent plusieurs événements vécus par la communauté musulmane, notamment les échanges avec les gens du Livre, la bataille de Badr et surtout la bataille d’Uḥud. 
+
+Une partie importante du début de la sourate est traditionnellement reliée à la venue d’une délégation chrétienne de Najran à Médine. Ses membres rencontrèrent le Prophète Muhammad ﷺ afin de discuter avec lui de la nature de ‘Issa ibn Maryam عليه السلام et de la foi chrétienne. 
+
+Certains considéraient ‘Issa عليه السلام comme Dieu, comme le fils de Dieu ou comme l’une des personnes de la Trinité. La sourate répond à ces conceptions en affirmant qu’il est un noble messager d’Allah, né miraculeusement sans père, mais qu’il demeure un serviteur et une créature d’Allah.
+
+Elle établit notamment une comparaison entre ‘Issa عليه السلام et Adam عليه السلام : de même qu’Allah créa Adam sans père ni mère, Il créa ‘Issa sans père par Sa seule volonté. Sa naissance miraculeuse ne constitue donc pas une preuve de divinité.
+
+Après avoir exposé les preuves, Allah ordonna au Prophète Muhammad ﷺ de proposer aux représentants de Najran une mubāhala, c’est-à-dire une invocation mutuelle demandant à Allah de faire retomber Sa malédiction sur ceux qui mentaient. La délégation refusa finalement de procéder à cette invocation et un accord pacifique fut conclu. 
+
+Il est donc plus exact de dire qu’une partie du début de la sourate répond aux discussions avec les chrétiens de Najran, et non que l’intégralité de la sourate fut révélée à cette occasion.
+
+## Quels sont les principaux thèmes de la sourate Âl ‘Imrân ?
+
+La sourate commence par affirmer l’unicité absolue d’Allah, le Vivant, Celui qui subsiste par Lui-même. Elle confirme ensuite que le Coran a été révélé au Prophète Muhammad ﷺ avec la vérité.
+
+Le Coran confirme l’origine divine de la Torah et de l’Évangile tels qu’ils furent initialement révélés à Moussa et à ‘Issa عليهما السلام. Il se présente également comme un discernement permettant de distinguer la vérité de l’erreur. La sourate rappelle ainsi la continuité fondamentale du message transmis par tous les prophètes : adorer Allah seul, sans rien Lui associer. 
+
+## Les versets clairs et les versets dont le sens peut être équivoque
+
+Le verset 7 explique que le Coran comporte deux catégories de versets.
+
+-	Les muhkamāt sont les versets clairs et fondamentaux. Ils constituent la base du Livre et exposent les principes essentiels de la foi et de la religion.
+-	Les mutashābihāt sont des versets dont le sens peut être moins immédiatement accessible ou susceptible de plusieurs interprétations.
+
+Ces derniers ne doivent pas être confondus avec les versets abrogés. La notion de verset abrogé appartient à un autre domaine des sciences coraniques.
+
+La sourate ne dit pas non plus que seuls les non-croyants s’intéressent à ces versets. Elle explique que les personnes dont le cœur penche vers la déviation s’attachent aux passages équivoques afin de provoquer la confusion ou de leur imposer une interprétation arbitraire. Les croyants fermement enracinés dans la connaissance reconnaissent, quant à eux, que tous les versets viennent de leur Seigneur. 
+
+## La vie présente et ce qui se trouve auprès d’Allah
+
+La sourate évoque l’attirance naturelle des êtres humains pour les plaisirs de ce monde : la famille, les enfants, les richesses, l’or, l’argent, les chevaux, les troupeaux et les terres cultivées.
+
+Elle ne présente pas toutes ces choses comme étant mauvaises ou interdites. Elle rappelle plutôt qu’elles sont temporaires et qu’elles ne doivent pas détourner l’être humain de son Créateur. Ce qui se trouve auprès d’Allah est meilleur et plus durable. 
+
+La sourate décrit ensuite les qualités de ceux qui recherchent la satisfaction d’Allah. Ce sont ceux qui demandent pardon pour leurs péchés et cherchent la protection contre le Feu.
+
+Ils sont patients, sincères, obéissants envers Allah, généreux dans leurs dépenses et implorent Son pardon avant l’aube. 
+
+La sourate proclame également l’unicité d’Allah en mentionnant Son propre témoignage, celui des anges et celui des gens de science. Elle affirme que la véritable religion auprès d’Allah repose sur la soumission sincère à Lui.
+
+## La souveraineté absolue d’Allah
+
+La sourate rappelle qu’Allah détient toute souveraineté. Il accorde l’autorité à qui Il veut, la retire à qui Il veut, honore qui Il veut et abaisse qui Il veut selon Sa sagesse.
+Le croyant reconnaît ainsi que toutes les faveurs viennent d’Allah. Cette reconnaissance ne signifie pas qu’il lui serait interdit de réfléchir, d’interroger ou de chercher à comprendre les événements de sa vie. Elle consiste plutôt à reconnaître la sagesse et la souveraineté d’Allah, à Lui faire confiance et à se soumettre à Ses commandements.
+
+## La famille de ‘Imrân
+
+Allah mentionne qu’Il a choisi Adam, Nouh, la famille d’Ibrahim et la famille de ‘Imrân parmi les peuples de leur époque.
+
+La sourate relate ensuite l’histoire de l’épouse de ‘Imrân, qui consacra à Allah l’enfant qu’elle portait. Elle donna naissance à Maryam عليها السلام et demanda à Allah de la protéger, ainsi que sa descendance, contre Satan.
+
+Maryam عليها السلام fut accueillie favorablement par Allah et placée sous la responsabilité du prophète Zakariyya عليه السلام. Celui-ci constatait qu’elle recevait des nourritures particulières et comprit qu’Allah accorde Ses bienfaits à qui Il veut, sans mesure.
+
+Cette observation encouragea Zakariyya عليه السلام, malgré son grand âge, à demander à Allah une descendance vertueuse. Allah lui annonça alors la naissance de Yahya عليه السلام.
+
+Le verset 39 présente Yahya عليه السلام comme celui qui confirmera une « Parole venant d’Allah ». De nombreux exégètes comprennent cette expression comme une référence à ‘Issa عليه السلام. Il est néanmoins plus prudent de dire que Yahya confirma la venue et la mission de ‘Issa plutôt que d’affirmer catégoriquement qu’il fut la toute première personne à croire en lui. 
+
+La sourate poursuit avec l’annonce faite à Maryam عليها السلام de la naissance miraculeuse de ‘Issa عليه السلام. Elle expose ses miracles accomplis par la permission d’Allah, son appel à l’adoration du Dieu unique et le soutien que lui apportèrent ses disciples.
+
+## Ibrahim n’était ni juif ni chrétien
+
+La sourate s’adresse ensuite aux gens du Livre au sujet du prophète Ibrahim عليه السلام.
+Certains juifs et certains chrétiens revendiquaient Ibrahim comme appartenant exclusivement à leur propre religion. Allah rappelle pourtant que la Torah et l’Évangile furent révélés bien après lui.
+Ibrahim عليه السلام n’était donc ni juif ni chrétien au sens historique de ces communautés. Il était hanîf, entièrement tourné vers Allah, et soumis à Lui sans rien Lui associer.
+Ce passage rappelle que la véritable proximité avec Ibrahim ne repose pas seulement sur une revendication d’appartenance, mais sur la fidélité à son monothéisme pur.
+
+## Le pacte pris avec les prophètes
+
+La sourate évoque également le pacte qu’Allah prit avec les prophètes : si un messager venait confirmer la révélation qu’ils possédaient, ils devaient croire en lui et le soutenir.
+
+Selon une explication rapportée d’Ibn ‘Abbâs et de ‘Ali ibn Abi Tâlib, ce pacte inclut la reconnaissance du Prophète Muhammad ﷺ : si celui-ci avait été envoyé du vivant d’un prophète antérieur, ce prophète aurait dû croire en lui et le soutenir.
+
+D’autres exégètes comprennent plus largement ce verset comme un engagement de chaque prophète à reconnaître et à soutenir les messagers venant après lui. Ces interprétations ne sont pas nécessairement contradictoires. 
+
+## Les gens du Livre ne sont pas tous semblables
+
+La sourate met en garde contre les altérations de la Révélation, la dissimulation de la vérité et les tentatives de détourner les croyants de leur foi. Toutefois, ces reproches ne doivent pas être appliqués indistinctement à tous les juifs ou à tous les chrétiens.
+
+Allah précise explicitement que les gens du Livre ne sont pas tous semblables. Certains sont décrits comme droits, récitant les signes d’Allah durant la nuit, croyant en Allah et au Jour dernier, ordonnant le bien, interdisant le mal et s’empressant d’accomplir de bonnes œuvres. 
+
+Il convient donc de parler de certains groupes, de certains chefs religieux ou de certains comportements condamnés, plutôt que de condamner collectivement tout un peuple.
+
+## Les batailles de Badr et d’Uḥud
+
+La sourate Âl ‘Imrân rappelle la victoire accordée aux musulmans lors de la bataille de Badr, malgré leur faiblesse numérique. Cet événement devient un signe montrant qu’Allah accorde Son secours à qui Il veut. 
+
+Cependant, la bataille d’Uḥud occupe une place beaucoup plus importante dans la sourate. Une longue partie, à partir du verset 121, revient sur les événements de cette bataille et sur le revers subi par les musulmans. 
+
+La sourate explique que cette épreuve ne signifiait pas qu’Allah avait abandonné les croyants. Elle devait leur enseigner l’obéissance au Prophète ﷺ, la patience, la discipline, la confiance en Allah et les conséquences de la désobéissance et des divisions.
+
+Elle console également ceux qui avaient perdu des proches, rappelle le rang des martyrs et met en garde contre le découragement. La victoire et la défaite sont présentées comme des épreuves permettant de distinguer la sincérité, de purifier les croyants et de révéler les attitudes des hypocrites.
+
+## L’unité et la fermeté dans la foi
+
+L’attachement à la foi et l’unité de la communauté figurent parmi les thèmes centraux de la sourate.
+
+Allah ordonne aux croyants de s’attacher tous ensemble à Sa religion et de ne pas se diviser. Il leur rappelle qu’ils étaient autrefois ennemis et qu’Il a uni leurs cœurs par Sa grâce.
+
+La sourate les invite également à être une communauté appelant au bien, ordonnant ce qui est convenable et interdisant ce qui est blâmable.
+
+Elle enseigne la patience, la maîtrise de la colère, le pardon, la générosité, le repentir et la confiance en Allah. Elle condamne également l’usure et rappelle que la réussite véritable ne réside pas seulement dans les possessions ou dans les victoires terrestres.
+
+Enfin, ses derniers versets invitent les croyants à contempler la création des cieux et de la terre, à se souvenir d’Allah en toute circonstance et à reconnaître que l’univers n’a pas été créé sans but.
+
+La sourate se termine par un appel à la patience, à l’endurance, à la vigilance spirituelle et à la conscience d’Allah. Âl ‘Imrân apparaît ainsi comme une sourate de foi, de discernement et de fermeté : elle enseigne au croyant à rester uni à ses frères, à ne pas se laisser troubler par les épreuves et à demeurer fidèle à Allah dans la réussite comme dans la difficulté.
 
 [[/desc]]
 
 [[desc 4]]
 
+Révélée durant la période médinoise, la sourate An-Nisā’ (سورة النساء), dont le nom signifie « Les Femmes », est la quatrième sourate dans l’ordre du Coran. Elle est composée de 176 versets et compte parmi les longues sourates du Livre d’Allah. 
+ 
+Son nom vient de la place importante qu’elle accorde aux femmes, à leurs droits, à la vie familiale et aux responsabilités réciproques entre les membres d’une société. La sourate ne traite toutefois pas exclusivement des femmes : elle aborde également les droits des orphelins, le mariage, l’héritage, la justice, la protection des personnes vulnérables, les engagements, les hypocrites, les gens du Livre et l’organisation de la communauté musulmane. 
+ 
+Le troisième verset est l’un des passages importants de la sourate :
+ 
+> « Et si vous craignez de n’être pas justes envers les orphelines, il est permis d’épouser deux, trois ou quatre parmi les femmes qui vous plaisent. Mais si vous craignez de n’être pas équitables, alors une seule, ou celles que vous possédez. Cela afin de ne pas commettre d’injustice. »
+> [Sourate An-Nisā’, verset 3]
+ 
+Ce verset relie la question du mariage à celle de la justice envers les femmes et les orphelines. Il ne présente pas la pluralité des épouses comme une obligation, mais l’encadre par une exigence d’équité. Lorsque l’homme craint de ne pas pouvoir être juste, le verset lui ordonne de se limiter à une seule épouse.
+ 
+## Dans quelles circonstances la sourate An-Nisā’ a-t-elle été révélée ?
+
+La sourate An-Nisā’ n’a pas été révélée intégralement en une seule occasion. Elle rassemble plusieurs passages descendus durant la période médinoise, probablement entre la fin de la troisième année et le début de la cinquième année après l’Hégire selon une chronologie fréquemment proposée par les commentateurs. 
+ 
+Une partie de ses enseignements est liée aux conséquences de la bataille d’Uḥud, au cours de laquelle de nombreux musulmans perdirent la vie. La communauté dut alors répondre à des questions concrètes concernant les veuves, les orphelins et le partage des héritages. La sourate établit ainsi des règles destinées à protéger leurs biens et à empêcher que leur vulnérabilité ne soit exploitée. 
+ 
+D’autres passages furent révélés dans des circonstances différentes. La sourate contient notamment les règles de la prière en situation de danger, les dispositions relatives au tayammum, des enseignements sur les relations avec certains groupes parmi les gens du Livre et de nombreux avertissements contre l’hypocrisie. 
+ 
+## Quels sont les principaux enseignements de la sourate An-Nisā’ ?
+
+L’un des grands fils directeurs de la sourate est la construction d’une communauté fondée sur la foi, la justice et la protection des plus faibles.
+ 
+Elle commence en rappelant que tous les êtres humains ont une origine commune. Cette introduction établit un principe fondamental : les hommes et les femmes appartiennent à une même humanité et doivent respecter les liens familiaux qui les unissent.
+ 
+La sourate accorde une attention particulière aux orphelins. Elle interdit de s’approprier leurs biens, ordonne de les leur restituer lorsqu’ils atteignent la maturité et avertit sévèrement ceux qui profiteraient de leur faiblesse.
+ 
+Elle établit également des règles détaillées concernant les successions. Les femmes, les enfants et les proches disposent de parts déterminées dans l’héritage, qui ne doivent pas dépendre de la seule volonté des membres les plus puissants de la famille. Ces règles représentent l’un des grands ensembles juridiques de la sourate. 
+ 
+## Le mariage et les relations familiales
+
+La sourate An-Nisā’ expose plusieurs principes relatifs au mariage : le versement de la dot, le consentement et le respect dû aux femmes, l’interdiction d’épouser certaines parentes ainsi que les moyens de résoudre les conflits conjugaux.
+ 
+Le verset 19 ordonne notamment aux croyants de vivre convenablement avec leurs épouses et leur interdit de les contraindre ou de chercher à récupérer injustement ce qui leur a été donné.
+ 
+Le verset 23 énumère les femmes qu’un homme ne peut pas épouser en raison d’un lien de parenté, d’allaitement ou d’alliance. Ces personnes sont couramment désignées par le terme maḥārim, pluriel de maḥram.
+ 
+## Le tayammum et la facilité dans l’adoration
+
+Le verset 43 aborde le tayammum, ou purification sèche. Lorsqu’une personne ne trouve pas d’eau ou ne peut pas l’utiliser en raison d’une maladie ou d’un risque réel pour sa santé, elle peut accomplir une purification symbolique à l’aide d’une terre propre, en passant ensuite ses mains sur son visage et ses mains selon les modalités enseignées. 
+ 
+Cette permission montre que les obligations religieuses tiennent compte des situations de difficulté. La purification reste nécessaire pour la prière, mais Allah accorde une solution lorsque l’utilisation de l’eau est impossible ou réellement préjudiciable.
+ 
+## Les versets relatifs au nushūz et aux conflits conjugaux
+
+Les versets 34 et 128 utilisent tous les deux le terme nushūz, mais dans deux situations différentes.
+ 
+Dans le verset 34, il concerne un comportement conjugal gravement perturbateur attribué à l’épouse. Il ne se limite pas nécessairement à un refus ponctuel de relations conjugales ou à une sortie du domicile, comme le laissait entendre le texte initial. Il renvoie plus largement à une rupture sérieuse des devoirs conjugaux et de la vie commune.
+ 
+Le verset présente plusieurs étapes : conseiller l’épouse, s’éloigner d’elle dans le lit, puis une dernière mesure désignée par le verbe arabe ḍaraba.
+ 
+La majorité des commentateurs classiques ont compris ce dernier terme comme l’autorisation extrêmement encadrée d’une correction physique non violente, ne laissant aucune blessure, ne visant jamais le visage et ne constituant qu’un ultime recours. Elle ne peut donc servir à justifier la brutalité, l’humiliation ou les violences conjugales. 
+ 
+Il est essentiel de replacer ce passage à la lumière de l’exemple du Prophète Muhammad ﷺ. ‘Aïcha (qu’Allah l’agrée) rapporte qu’il n’a jamais frappé de sa main une femme ni un serviteur. Il a également désapprouvé les hommes dont les épouses venaient se plaindre et a déclaré qu’ils n’étaient pas les meilleurs parmi les croyants. 
+ 
+Le verset suivant recommande d’ailleurs la médiation : lorsqu’une rupture est redoutée entre les époux, un arbitre doit être désigné dans chaque famille afin de rechercher une réconciliation sincère.
+ 
+Le verset 128 présente la situation inverse : une femme craint le nushūz, le désintérêt ou l’éloignement de son mari. Le Coran les invite alors à rechercher un accord équitable et affirme que la réconciliation est meilleure. 
+ 
+Ces passages montrent que la sourate ne traite pas seulement des devoirs de l’épouse. Elle reconnaît également les torts pouvant provenir du mari et encourage les deux parties à rechercher la justice, la médiation et la réconciliation.
+ 
+## La justice au cœur de la sourate
+
+La justice constitue l’un des enseignements les plus puissants d’An-Nisā’.
+ 
+Allah ordonne de restituer les dépôts à leurs ayants droit, de juger avec équité et d’obéir à Allah et à Son Messager ﷺ. La sourate appelle également les croyants à défendre fermement la justice, même lorsqu’elle va à l’encontre de leurs propres intérêts, de ceux de leurs parents ou de leurs proches.
+ 
+> « Ô les croyants ! Observez strictement la justice et soyez des témoins véridiques comme Allah l’ordonne, même si cela est contre vous-mêmes, contre vos père et mère ou proches parents. »
+> [Sourate An-Nisā’, verset 135]
+ 
+La justice ne doit donc pas dépendre de la richesse, de la pauvreté, des liens familiaux ou de l’appartenance à un groupe.
+ 
+## Les hypocrites et la cohésion de la communauté
+
+Une partie importante de la sourate met en garde contre les hypocrites, qui affichaient extérieurement leur appartenance à l’islam tout en affaiblissant la communauté, en diffusant des informations inquiétantes ou en cherchant des alliances contraires aux intérêts des croyants.
+ 
+La sourate enseigne aux musulmans à vérifier les informations, à ne pas agir précipitamment et à distinguer les différentes situations au lieu de juger tous les individus de manière identique.
+ 
+Elle traite aussi de la prière en période de danger, de la protection des opprimés, de l’émigration de ceux qui ne pouvaient pratiquer librement leur religion et des règles entourant les conflits armés. 
+ 
+## Les gens du Livre et le prophète ‘Issa
+
+La fin de la sourate s’adresse longuement aux gens du Livre. Elle critique certains comportements : la dissimulation de la vérité, la rupture des engagements, le rejet de certains prophètes et l’exagération dans la religion.
+ 
+Elle aborde en particulier la mission du prophète ‘Issa ibn Maryam عليه السلام. Le Coran affirme qu’il est le Messie, un messager d’Allah et une Parole qu’Allah adressa à Maryam, tout en rejetant sa divinisation et la croyance selon laquelle Allah serait l’un de trois.
+ 
+La sourate appelle ainsi les chrétiens à ne pas exagérer au sujet de ‘Issa عليه السلام et rappelle que tous les prophètes sont des serviteurs honorés d’Allah.
+ 
+## La dignité spirituelle des hommes et des femmes
+
+La sourate An-Nisā’ reconnaît aux femmes des droits précis en matière de mariage, de dot, de propriété et d’héritage. Elle ordonne également aux croyants de les traiter convenablement et condamne l’appropriation injuste de leurs biens.
+ 
+Elle ne présente toutefois pas les hommes et les femmes comme étant identiques dans toutes leurs responsabilités juridiques et familiales. Elle affirme plutôt leur commune origine, leur responsabilité devant Allah et la nécessité pour chacun d’accomplir les obligations qui lui sont confiées.
+ 
+Le principe de la récompense spirituelle accordée aux hommes et aux femmes est également affirmé dans la sourate :
+ 
+> « Et quiconque, homme ou femme, fait de bonnes œuvres tout en étant croyant, ceux-là entreront au Paradis et ne seront lésés en rien. »
+> [Sourate An-Nisā’, verset 124]
+ 
+## Pourquoi lire et méditer la sourate An-Nisā’ ?
+
+Aucun hadith authentique connu n’établit qu’il faudrait réciter spécifiquement An-Nisā’ le vendredi après la prière du Fajr ni qu’une telle récitation protégerait de la pression de la tombe. Il faut donc éviter d’attribuer ce mérite particulier à la sourate sans preuve fiable.
+ 
+Un récit authentique montre cependant la profonde émotion que ses versets provoquèrent chez le Prophète Muhammad ﷺ.
+ 
+Le Prophète ﷺ demanda à ‘Abdullah ibn Mas‘ūd (qu’Allah l’agrée) de lui réciter le Coran. Celui-ci récita la sourate An-Nisā’ jusqu’au verset 41 :
+ 
+> « Comment seront-ils quand Nous ferons venir de chaque communauté un témoin et que Nous te ferons venir comme témoin contre ces gens-ci ? »
+> [Sourate An-Nisā’, verset 41]
+ 
+En entendant ce verset, le Prophète Muhammad ﷺ lui demanda de s’arrêter, et Ibn Mas‘ūd constata que ses yeux débordaient de larmes. 
+ 
+La sourate An-Nisā’ invite ainsi le croyant à méditer sur sa responsabilité devant Allah, la protection des personnes vulnérables, la justice familiale et sociale, le respect des engagements et la réalité du Jugement dernier.
+ 
+Elle enseigne que la foi ne se limite pas à des paroles ou à des rites : elle doit se traduire par la justice, la miséricorde, la protection des faibles et le refus de toute oppression.
+
 [[/desc]]
 
 [[desc 5]]
 
+La sourate Al-Mā’idah (سورة المائدة), dont le nom signifie « La Table servie », est la cinquième sourate dans l’ordre du Coran. Révélée durant la période médinoise, elle comporte 120 versets et compte parmi les longues sourates du Livre d’Allah.
+ 
+Elle fait partie des sourates qui commencent par un appel direct aux croyants :
+> « Ô vous qui croyez ! Respectez vos engagements. »
+ > [Sourate Al-Mā’idah, verset 1]
+ 
+Dès son ouverture, la sourate place ainsi le respect des pactes, des contrats et des obligations au cœur de ses enseignements.
+ 
+Son nom provient du récit des disciples du prophète ‘Issa ibn Maryam عليه السلام, qui lui demandèrent d’invoquer Allah afin qu’une table garnie de nourriture descende du ciel. Ce récit apparaît dans les versets 112 à 115 et ne se retrouve sous cette forme dans aucune autre sourate.
+ 
+Al-Mā’idah est également parfois appelée Al-‘Uqūd, « Les Pactes » ou « Les Engagements », en référence à son premier verset et au thème général de la fidélité aux engagements pris envers Allah et envers les êtres humains.
+ 
+La sourate aborde de nombreux sujets : les aliments licites et illicites, la chasse pendant l’état de sacralisation, la purification, la justice, les engagements, les relations avec les gens du Livre, l’histoire de Moussa عليه السلام, le récit des deux fils d’Adam et la mission de ‘Issa عليه السلام.
+ 
+Elle rappelle également la réalité du Jour dernier et présente les réponses que les messagers donneront à Allah au sujet de la manière dont leurs communautés auront accueilli leur message.
+ 
+## Dans quelles circonstances la sourate Al-Mā’idah a-t-elle été révélée ?
+ 
+La sourate Al-Mā’idah est une sourate médinoise appartenant à la dernière période de la mission du Prophète Muhammad ﷺ. Elle contient plusieurs des dernières prescriptions religieuses et juridiques révélées à la communauté musulmane.
+ 
+Elle ne fut toutefois pas nécessairement révélée intégralement en une seule fois. Certains passages semblent avoir été révélés après le traité d’Al-Hudaybiyyah, conclu durant la sixième année de l’Hégire, tandis que d’autres sont liés aux derniers mois de la vie du Prophète Muhammad ﷺ.
+ 
+Le troisième verset contient notamment cette déclaration majeure :
+ 
+> « Aujourd’hui, J’ai parachevé pour vous votre religion, accompli sur vous Mon bienfait et agréé pour vous l’Islam comme religion. »
+> [Sourate Al-Mā’idah, verset 3]
+ 
+‘Umar ibn Al-Khaṭṭāb (qu’Allah l’agrée) rapporte que ce passage fut révélé un vendredi, le jour de ‘Arafat, pendant le pèlerinage d’adieu du Prophète Muhammad ﷺ.
+ 
+Bien qu’il soit descendu à ‘Arafat, ce verset demeure classé parmi les révélations médinoises. En effet, la distinction entre révélation mecquoise et médinoise repose principalement sur sa date par rapport à l’Hégire : tout ce qui fut révélé après l’Hégire est qualifié de médinois, même si le lieu de révélation se trouvait à La Mecque ou dans ses environs.
+ 
+Il est préférable de ne pas attribuer à Al-Mā’idah un rang chronologique absolument certain. Certains classements traditionnels la placent parmi les toutes dernières sourates révélées, mais ses différents passages furent reçus à plusieurs moments de la fin de la période médinoise.
+ 
+## Le respect des pactes et des engagements
+ 
+Le respect des engagements constitue l’un des principaux fils directeurs de la sourate Al-Mā’idah.
+ 
+Ces engagements comprennent les devoirs pris envers Allah, les obligations religieuses, les contrats conclus entre les personnes ainsi que les pactes établis entre les communautés.
+ 
+Le croyant est ainsi appelé à respecter sa parole, à demeurer loyal et à ne pas modifier ses principes en fonction de ses intérêts immédiats.
+ 
+La sourate rappelle aussi certains engagements pris par les enfants d’Israël et par ceux qui se réclamaient du message de ‘Issa عليه السلام. Elle évoque les conséquences spirituelles de la fidélité à ces pactes comme celles de leur violation.
+ 
+Ces récits ne servent pas à condamner indistinctement tous les membres d’une communauté. Ils invitent plutôt les musulmans à ne pas reproduire les comportements condamnés : dissimuler la vérité, rompre ses engagements ou adapter la religion à ses propres intérêts.
+ 
+## Les aliments licites et illicites
+ 
+La sourate Al-Mā’idah contient plusieurs prescriptions relatives à l’alimentation.
+ 
+Elle interdit notamment la consommation de la bête morte, du sang, de la chair de porc et de ce qui a été sacrifié au nom d’une autre divinité qu’Allah. Elle autorise néanmoins la consommation de ce qui serait normalement interdit lorsqu’une personne se trouve dans une situation de nécessité réelle, sans rechercher volontairement la désobéissance.
+ 
+La sourate autorise également la nourriture des gens du Livre, dans le cadre des conditions précisées par les juristes musulmans, et permet aux musulmans leur propre nourriture.
+ 
+Elle aborde aussi la chasse pendant l’état d’iḥrām. Le pèlerin en état de sacralisation ne doit pas chasser le gibier terrestre. En revanche, la pêche et la nourriture provenant de la mer lui sont permises.
+ 
+Ces règles montrent que la consommation n’est pas considérée comme un acte dépourvu de dimension spirituelle. Le croyant doit rechercher ce qui est licite, respecter les limites établies par Allah et éviter de faire souffrir inutilement les créatures.
+ 
+## La purification et la facilité accordée par Allah
+ 
+Le sixième verset expose les principales règles des ablutions précédant la prière.
+ 
+Il ordonne de laver le visage et les mains jusqu’aux coudes, de passer les mains mouillées sur la tête et de laver les pieds jusqu’aux chevilles. Il évoque également le bain rituel lorsque la personne se trouve en état d’impureté majeure.
+ 
+Lorsque l’eau est introuvable ou que son utilisation présente un risque réel pour la santé, le croyant peut effectuer le tayammum avec une terre propre.
+ 
+Après avoir exposé ces règles, Allah déclare :
+ 
+> « Allah ne veut pas vous imposer de gêne, mais Il veut vous purifier et parfaire sur vous Son bienfait. Peut-être serez-vous reconnaissants. »
+> [Sourate Al-Mā’idah, verset 6]
+ 
+Ce verset montre que les prescriptions religieuses ne sont pas destinées à accabler le croyant. Elles ont pour finalité de le purifier, de l’éduquer et de le rapprocher d’Allah, tout en tenant compte des situations de difficulté réelle.
+ 
+## L’obéissance à Allah et à Son Messager
+ 
+La sourate ordonne aux croyants d’obéir à Allah et à Son Messager ﷺ et les met en garde contre le fait de se détourner des commandements après les avoir connus.
+ 
+L’obéissance à Allah concerne tous les aspects de la vie : l’adoration, les relations familiales, le travail, les finances, les engagements, la justice et le comportement envers autrui.
+ 
+Cette obéissance ne consiste pas à rechercher continuellement des signes cachés dans les événements pour deviner ce qu’Allah attend de nous. La volonté religieuse d’Allah est connue à travers le Coran et l’enseignement authentique du Prophète Muhammad ﷺ.
+ 
+Lorsqu’une décision particulière n’est pas explicitement réglée par un texte, le croyant réfléchit, consulte les personnes compétentes, accomplit la prière de consultation lorsqu’elle est appropriée et choisit ce qui lui paraît le plus juste et le plus conforme aux principes de l’Islam.
+ 
+L’obéissance véritable s’accompagne donc de connaissance, de sincérité, de patience et de confiance en Allah.
+ 
+## La justice, même envers ceux que l’on n’aime pas
+ 
+L’un des enseignements les plus puissants de la sourate Al-Mā’idah concerne la justice.
+ 
+Allah ordonne aux croyants de témoigner avec équité et leur interdit de laisser leur hostilité envers un peuple les conduire à l’injustice :
+ 
+> « Ô les croyants ! Soyez stricts dans vos devoirs envers Allah et soyez des témoins équitables. Et que la haine pour un peuple ne vous incite pas à être injustes. Pratiquez l’équité : cela est plus proche de la piété. »
+> [Sourate Al-Mā’idah, verset 8]
+ 
+La justice islamique ne doit donc pas être réservée à ses proches, à ceux que l’on apprécie ou aux membres de sa propre communauté. Elle reste obligatoire même envers un adversaire.
+ 
+Ce verset montre également que la piété ne se mesure pas seulement par les actes d’adoration, mais par la capacité à demeurer juste lorsque la colère, la peur ou les intérêts personnels pourraient pousser à l’injustice.
+ 
+## Le récit de Moussa et de la Terre sainte
+ 
+La sourate rapporte un épisode de l’histoire du prophète Moussa عليه السلام et des enfants d’Israël.
+ 
+Moussa عليه السلام rappela à son peuple les bienfaits qu’Allah leur avait accordés et leur ordonna d’entrer dans la Terre sainte qui leur avait été prescrite.
+ 
+Mais une partie d’entre eux refusa d’avancer par peur du peuple puissant qui occupait le territoire. Malgré les encouragements de deux hommes croyants, ils déclarèrent à Moussa عليه السلام qu’ils ne combattraient pas.
+ 
+En raison de leur refus et de leur désobéissance, la Terre sainte leur fut interdite pendant quarante années durant lesquelles ils errèrent.
+ 
+Ce récit enseigne que la foi ne se limite pas à reconnaître les bienfaits d’Allah. Elle exige également de Lui obéir, de Lui faire confiance et d’agir lorsque vient le moment d’assumer ses responsabilités.
+ 
+## Les deux fils d’Adam et la gravité du meurtre
+ 
+La sourate relate également l’histoire de deux fils d’Adam. Tous deux présentèrent une offrande, mais celle de l’un fut acceptée tandis que celle de l’autre ne le fut pas.
+ 
+Par jalousie, celui dont l’offrande n’avait pas été acceptée menaça de tuer son frère. Ce dernier refusa de répondre au mal par le mal et lui rappela qu’Allah n’accepte les œuvres que de ceux qui Le craignent sincèrement.
+ 
+Malgré cet avertissement, le premier tua son frère et devint ainsi du nombre des perdants.
+ 
+Allah envoya ensuite un corbeau qui gratta la terre afin de lui montrer comment ensevelir le corps de son frère. Le meurtrier prit alors conscience de son impuissance et éprouva du regret.
+ 
+Ce récit précède un principe adressé aux enfants d’Israël :
+ 
+> « Quiconque tuerait une personne non coupable d’un meurtre ou d’une corruption sur la terre, c’est comme s’il avait tué tous les hommes. Et quiconque lui fait don de la vie, c’est comme s’il faisait don de la vie à tous les hommes. »
+ > [Sourate Al-Mā’idah, verset 32]
+ 
+Ce verset met en évidence le caractère sacré de la vie humaine et la gravité extrême du meurtre injuste.
+ 
+## Les gens du Livre
+ 
+La sourate Al-Mā’idah s’adresse à plusieurs reprises aux juifs et aux chrétiens. Elle leur rappelle l’origine divine de la Torah et de l’Évangile tels qu’ils furent initialement révélés, ainsi que la responsabilité de suivre sincèrement la révélation reçue.
+ 
+Elle reproche à certains groupes parmi eux d’avoir rompu leurs engagements, dissimulé une partie des enseignements ou donné la priorité à leurs intérêts sur la vérité.
+ 
+Cependant, il faut éviter de transformer ces reproches en condamnation indistincte de tous les juifs ou de tous les chrétiens. Le Coran distingue les individus selon leur foi, leur sincérité et leurs actes.
+ 
+La sourate appelle les gens du Livre à reconnaître le Prophète Muhammad ﷺ et le Coran, présenté comme confirmant les révélations antérieures dans leur origine et comme constituant le critère permettant de distinguer ce qui a été préservé de ce qui a été altéré ou oublié.
+ 
+## ‘Issa et la table servie
+ 
+Les derniers passages de la sourate accordent une place importante au prophète ‘Issa ibn Maryam عليه السلام.
+ 
+Allah rappelle les bienfaits qu’Il lui accorda ainsi qu’à sa mère Maryam عليها السلام. ‘Issa fut soutenu par l’Esprit saint, parla aux hommes dès le berceau et accomplit plusieurs miracles par la permission d’Allah.
+ 
+La répétition de l’expression « par Ma permission » rappelle que ces miracles ne provenaient pas d’un pouvoir divin indépendant appartenant à ‘Issa عليه السلام. Ils étaient des signes qu’Allah accomplissait par son intermédiaire.
+ 
+Les disciples demandèrent ensuite :
+ 
+> « Ô Jésus, fils de Marie, se peut-il que ton Seigneur fasse descendre sur nous du ciel une table servie ? »
+> [Sourate Al-Mā’idah, verset 112]
+ 
+‘Issa عليه السلام les exhorta d’abord à craindre Allah. Ils expliquèrent qu’ils souhaitaient manger de cette nourriture, rassurer leurs cœurs, confirmer la véracité de son message et témoigner de ce signe.
+ 
+‘Issa عليه السلام invoqua alors Allah :
+ 
+> « Ô Allah, notre Seigneur ! Fais descendre du ciel sur nous une table servie qui soit une fête pour nous, pour le premier comme pour le dernier d’entre nous, ainsi qu’un signe venant de Toi. Nourris-nous : Tu es le meilleur des nourrisseurs. »
+> [Sourate Al-Mā’idah, verset 114]
+ 
+Allah annonça qu’Il ferait descendre cette table, tout en avertissant que celui qui rejetterait ensuite la foi après avoir vu un signe aussi manifeste s’exposerait à un châtiment particulièrement sévère.
+ 
+Le récit enseigne que les miracles augmentent la responsabilité de celui qui en est témoin. Plus la preuve est claire, plus le rejet volontaire de la vérité devient grave.
+ 
+## ‘Issa n’a jamais appelé à être adoré
+ 
+La fin de la sourate décrit une scène du Jour de la Résurrection au cours de laquelle Allah interrogera ‘Issa عليه السلام :
+ 
+> « Est-ce toi qui as dit aux gens : “Prenez-moi, ainsi que ma mère, pour deux divinités en dehors d’Allah” ? »
+> [Sourate Al-Mā’idah, verset 116]
+ 
+‘Issa عليه السلام proclamera alors la transcendance d’Allah et rejettera catégoriquement une telle affirmation. Il expliquera qu’il n’a enseigné à son peuple que ce qu’Allah lui avait ordonné :
+ 
+> « Adorez Allah, mon Seigneur et votre Seigneur. »
+> [Sourate Al-Mā’idah, verset 117]
+ 
+Ce passage affirme clairement que ‘Issa عليه السلام est un prophète et un serviteur honoré d’Allah, mais qu’il ne possède aucune part de divinité.
+ 
+Il montre aussi qu’un messager n’est pas responsable des déformations apportées à son enseignement après son départ, dès lors qu’il a fidèlement transmis le message qui lui avait été confié.
+ 
+## La responsabilité personnelle du croyant
+ 
+La sourate contient également ce verset :
+ 
+> « Ô vous qui croyez ! Vous êtes responsables de vous-mêmes. Celui qui s’égare ne vous nuira point si vous avez pris la bonne voie. »
+> [Sourate Al-Mā’idah, verset 105]
+ 
+Ce passage ne signifie pas que le croyant doit devenir indifférent à l’égarement ou aux difficultés des autres. Il ne supprime ni le conseil sincère, ni l’appel au bien, ni l’interdiction du mal selon les capacités et les règles de la religion.
+ 
+Il signifie plutôt que celui qui a recherché la guidance, accompli ses devoirs et conseillé avec sagesse ne portera pas la faute de ceux qui persistent volontairement dans l’égarement.
+ 
+Chaque personne répondra finalement de ses propres croyances et de ses propres actes devant Allah.
+ 
+## Pourquoi lire et méditer la sourate Al-Mā’idah ?
+ 
+Le récit affirmant que la sourate Al-Mā’idah serait appelée « celle qui sauve » dans le Royaume d’Allah et qu’elle protégerait son lecteur des anges chargés du châtiment ne repose pas sur un hadith authentiquement établi.
+ 
+Il ne faut donc pas attribuer avec certitude cette parole au Prophète Muhammad ﷺ ni promettre une protection particulière à celui qui réciterait cette sourate.
+ 
+Cela n’enlève rien à l’immense valeur de sa lecture. Comme toute partie du Coran, sa récitation est une œuvre d’adoration et chaque lettre récitée avec sincérité est récompensée par Allah.
+ 
+Al-Mā’idah mérite surtout d’être méditée pour ses enseignements sur la fidélité aux engagements, la justice, le licite et l’illicite, la purification, la protection de la vie humaine et la nécessité de rester fidèle à la vérité.
+ 
+Elle enseigne que la foi véritable ne se limite pas à une déclaration ou à une appartenance. Elle se manifeste dans le respect de la parole donnée, l’obéissance aux commandements d’Allah, la justice envers tous et la constance face aux épreuves.
+ 
+La sourate se termine en rappelant qu’à Allah appartient la royauté des cieux, de la terre et de tout ce qu’ils contiennent, et qu’Il est capable de toute chose.
+
 [[/desc]]
+
 
 [[desc 6]]
 
