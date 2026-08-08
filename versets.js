@@ -31561,7 +31561,7 @@ Le Prophète Muhammad ﷺ a dit :
 > « Pas de prière pour celui qui ne récite pas l’Ouverture du Livre. »
 > [Rapporté par Al-Bukhārī, n° 756, et Muslim, n° 394]
  
-Il est donc plus juste de parler ici d’une condition essentielle à la validité de la prière, et non simplement de son « acceptation », celle-ci appartenant ultimement à Allah. (sunnah.com) (sunnah.com)
+Il est donc plus juste de parler ici d’une condition essentielle à la validité de la prière, et non simplement de son « acceptation », celle-ci appartenant ultimement à Allah.
  
 ## Une révélation particulière pour une sourate grandiose
  
@@ -31573,7 +31573,7 @@ Parmi ses nombreux noms figurent Fātiḥat al-Kitāb, « L’Ouverture du Livre
  
 Cette dernière appellation est directement confirmée par le Prophète Muhammad ﷺ.
  
-Al-Fātiḥa est composée de sept versets selon le consensus des spécialistes de la récitation, même si les différentes traditions de numérotation ne découpent pas nécessairement ces sept versets exactement au même endroit. (quran.com)
+Al-Fātiḥa est composée de sept versets selon le consensus des spécialistes de la récitation, même si les différentes traditions de numérotation ne découpent pas nécessairement ces sept versets exactement au même endroit.
  
 Un hadith authentique rapporté par Ibn ‘Abbās رضي الله عنهما montre également son immense mérite.
  
@@ -31600,7 +31600,7 @@ Puis il lui expliqua qu’il s’agissait de :
  
 Et il ajouta qu’elle était les Sept Répétés et le Coran sublime qui lui avait été donné.
  
-> [Rapporté par Al-Bukhārī, n° 4474] (sunnah.com)
+> [Rapporté par Al-Bukhārī, n° 4474]
  
 Al-Fātiḥa est donc explicitement décrite par le Prophète Muhammad ﷺ comme la plus grande sourate du Coran.
  
@@ -31633,7 +31633,7 @@ Dans un hadith qudsī authentique, le Prophète Muhammad ﷺ rapporte qu’Allah
 > « Guide-nous dans le droit chemin, le chemin de ceux que Tu as comblés de Tes bienfaits, non pas de ceux qui ont encouru Ta colère ni des égarés »,
 > Allah dit :
 > « Ceci est pour Mon serviteur, et Mon serviteur aura ce qu’il demande. »
-> [Rapporté par Muslim, n° 395] (sunnah.com)
+> [Rapporté par Muslim, n° 395] 
  
 Ce hadith transforme profondément la manière de comprendre Al-Fātiḥa.
  
@@ -31792,7 +31792,7 @@ L’un des Compagnons récita Al-Fātiḥa sur lui comme ruqya et l’homme fut 
 Lorsque l’affaire fut rapportée au Prophète Muhammad ﷺ, celui-ci approuva leur acte et demanda :
  
 > « Comment savais-tu qu’elle était une ruqya ? »
-> [Rapporté par Al-Bukhārī, n° 5736] (sunnah.com)
+> [Rapporté par Al-Bukhārī, n° 5736]
  
 Il est donc authentiquement établi qu’Al-Fātiḥa peut être récitée comme ruqya.
  
@@ -31814,7 +31814,7 @@ Le mot umm évoque ici l’origine ou le fondement. Al-Fātiḥa rassemble en qu
  
 As-Sab‘ al-Mathānī — Les Sept Répétés
  
-Elle est composée de sept versets et est répétée continuellement dans les unités de prière. Le Prophète Muhammad ﷺ lui-même lui a donné cette appellation. (quran.com) (sunnah.com)
+Elle est composée de sept versets et est répétée continuellement dans les unités de prière. Le Prophète Muhammad ﷺ lui-même lui a donné cette appellation.
  
 Elle est également couramment appelée Al-Ḥamd, en référence à ses premiers mots : « Al-ḥamdu lillāhi Rabbi-l-‘ālamīn ».
  
