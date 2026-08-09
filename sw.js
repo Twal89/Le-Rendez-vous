@@ -8,7 +8,7 @@
    C'est ce numéro qui déclenche le renouvellement du cache.
    ===================================================================== */
 
-const VERSION = "rdv-v2";
+const VERSION = "rdv-v3";
 
 const FICHIERS = [
   "./",
@@ -58,13 +58,21 @@ self.addEventListener("fetch", function (e) {
   if (!interne && !police) return;
 
   /* Contenu de l'application : on sert le cache immédiatement (démarrage
-     instantané, y compris hors connexion) et on rafraîchit en arrière-plan. */
+     instantané, y compris hors connexion) et on rafraîchit en arrière-plan.
+     ignoreSearch est indispensable : la page demande « versets.js?t=… » avec
+     un horodatage différent à chaque ouverture, alors que le cache contient
+     « versets.js » tout court. Sans cette option, rien n'est trouvé hors ligne. */
   if (interne) {
     e.respondWith(
       caches.open(VERSION).then(function (cache) {
-        return cache.match(req).then(function (enCache) {
+        return cache.match(req, { ignoreSearch: true }).then(function (enCache) {
           const reseau = fetch(req).then(function (rep) {
-            if (rep && rep.status === 200) cache.put(req, rep.clone());
+            if (rep && rep.status === 200) {
+              /* on enregistre sous l'adresse sans paramètre, pour que le
+                 prochain horodatage retrouve bien le fichier */
+              const propre = new Request(url.origin + url.pathname);
+              cache.put(propre, rep.clone());
+            }
             return rep;
           }).catch(function () { return enCache; });
           return enCache || reseau;

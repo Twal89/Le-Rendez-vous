@@ -1589,7 +1589,12 @@ $("saut-debut").onclick = function(){ ouvrirSourate(sCourante, 1); fermer("saut"
    7. Démarrage
    ================================================================= */
 function chargerContenu(){
-  return fetch("versets.js?t=" + Date.now(), { cache: "no-store" })
+  /* Quand un service worker pilote la page, il assure lui-même la fraîcheur du
+     contenu : on demande alors « versets.js » sans paramètre, sinon la version
+     hors connexion ne serait jamais retrouvée dans le cache. */
+  const pilote = "serviceWorker" in navigator && navigator.serviceWorker.controller;
+  const adresse = pilote ? "versets.js" : "versets.js?t=" + Date.now();
+  return fetch(adresse, pilote ? {} : { cache: "no-store" })
     .then(function(r){ return r.ok ? r.text() : ""; })
     .then(function(brut){
       /* le contenu peut lui-même comporter des accents graves (la lettre ʿayn
