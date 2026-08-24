@@ -31547,7 +31547,8 @@ fr: qu'il soit d'entre les djinns ou les hommes. »
 ph: Mina Al-Jinnati Wa An-Nāsi
 
 [[desc 1]]
-La sourate Al-Fātiḥa (سورة الفاتحة), dont le nom signifie « L’Ouverture », est la première sourate dans l’ordre du Coran. Elle comporte sept versets selon le décompte unanimement retenu par les spécialistes, même si les traditions de numérotation diffèrent légèrement sur la manière de compter la basmala. Elle est considérée comme mecquoise par la très grande majorité des savants et fut révélée très tôt dans la mission prophétique. 
+
+La sourate Al-Fātiḥa (سورة الفاتحة), dont le nom signifie « L’Ouverture », est la première sourate dans l’ordre du Coran. Elle comporte sept versets. Elle est considérée comme mecquoise par la très grande majorité des savants et fut révélée très tôt dans la mission prophétique. 
  
 Malgré sa brièveté, Al-Fātiḥa occupe une place absolument exceptionnelle dans l’Islam.
  
@@ -32034,7 +32035,8 @@ Te connaître, Te louer, T’adorer, dépendre de Toi et Te demander de me guide
 [[/desc]]
 
 [[desc 2]]
-La sourate Al-Baqara (سورة البقرة), deuxième chapitre du Coran, est une sourate médinoise composée de 286 versets selon le décompte aujourd’hui le plus répandu. C’est la plus longue sourate du Coran. Sa révélation commença peu après l’Hégire et s’étendit sur une grande partie de la période médinoise, au fur et à mesure que se construisait la communauté musulmane. Certains avis considèrent même que le verset 281 fait partie des tout derniers versets révélés du Coran, sans qu’il soit nécessaire d’en faire une certitude absolue. 
+
+La sourate Al-Baqara (سورة البقرة), deuxième sourate du Coran, est une sourate médinoise composée de 286 versets. C’est la plus longue sourate du Coran. Sa révélation commença peu après l’Hégire et s’étendit sur une grande partie de la période médinoise, au fur et à mesure que se construisait la communauté musulmane. Certains avis considèrent même que le verset 281 fait partie des tout derniers versets révélés du Coran, sans qu’il soit nécessaire d’en faire une certitude absolue. 
  
 Son nom, Al-Baqara — « La Vache », vient de l’histoire rapportée aux versets 67 à 73, lorsque Mūsā عليه السلام ordonna aux enfants d’Israël, sur ordre d’Allah, de sacrifier une vache.
  
@@ -32747,7 +32749,8 @@ Puis, comme pour rappeler que cette immense responsabilité ne peut être porté
 [[/desc]]
 
 [[desc 3]]
-La sourate Āl ‘Imrān (سورة آل عمران), troisième chapitre du Coran, est une longue sourate médinoise composée de 200 versets selon le décompte le plus répandu. Son nom signifie « La Famille de ‘Imrān » et vient notamment du verset 33, dans lequel Allah mentionne la famille de ‘Imrān parmi les lignées qu’Il a choisies. Cette famille comprend notamment Maryam عليها السلام et son fils ‘Issa عليه السلام, dont l’histoire occupe une place majeure dans la première moitié de la sourate. 
+
+La sourate Āl ‘Imrān (سورة آل عمران), troisième sourate du Coran, est une longue sourate médinoise composée de 200 versets. Son nom signifie « La Famille de ‘Imrān » et vient notamment du verset 33, dans lequel Allah mentionne la famille de ‘Imrān parmi les lignées qu’Il a choisies. Cette famille comprend notamment Maryam عليها السلام et son fils ‘Issa عليه السلام, dont l’histoire occupe une place majeure dans la première moitié de la sourate. 
  
 Āl ‘Imrān fut révélée en plusieurs étapes durant la période médinoise, et non en une seule circonstance. Une partie importante traite du dialogue avec les Gens du Livre, particulièrement autour de la personne de ‘Issa عليه السلام, tandis que la seconde moitié revient longuement sur la bataille de Uḥud, ses causes, ses conséquences et les enseignements spirituels qu’Allah voulait en faire tirer aux croyants. 
  
@@ -33616,7 +33619,8 @@ recevoir la guidance, apprendre à la reconnaître, puis lutter toute sa vie pou
 [[/desc]]
 
 [[desc 4]]
-La sourate An-Nisā’ (سورة النساء), quatrième chapitre du Coran, est une longue sourate médinoise composée de 176 versets selon le décompte de Kūfa aujourd’hui le plus répandu. Son nom signifie « Les Femmes », en raison de la place particulièrement importante qu’elle accorde aux questions concernant les femmes, la famille, le mariage, les orphelins et l’héritage. 
+
+La sourate An-Nisā’ (سورة النساء), quatrième sourate du Coran, est une longue sourate médinoise composée de 176 versets. Son nom signifie « Les Femmes », en raison de la place particulièrement importante qu’elle accorde aux questions concernant les femmes, la famille, le mariage, les orphelins et l’héritage. 
  
 Elle fut révélée progressivement au cours de la période médinoise. La datation exacte de tous ses passages est discutée : plusieurs chronologies relient notamment certains de ses premiers enseignements à la période suivant la bataille d’Uḥud, lorsque de nombreuses familles se retrouvèrent avec des veuves et des orphelins, tandis qu’Ibn ‘Āshūr situe une grande partie de sa révélation plus tardivement. Il est donc préférable de retenir qu’elle fut révélée en plusieurs étapes, en réponse aux besoins croissants de la communauté musulmane. 
  
@@ -34267,7 +34271,8 @@ C’est pourquoi l’un des versets qui résument le mieux l’esprit d’An-Nis
 [[/desc]]
 
 [[desc 5]]
-La sourate Al-Mā’idah (سورة المائدة), cinquième chapitre du Coran, est une grande sourate médinoise composée de 120 versets dans le décompte aujourd’hui le plus répandu. Elle appartient à la période tardive de la mission du Prophète Muhammad ﷺ et contient plusieurs des dernières grandes prescriptions législatives révélées à la communauté musulmane. 
+
+La sourate Al-Mā’idah (سورة المائدة), cinquième sourate du Coran, est une grande sourate médinoise composée de 120 versets. Elle appartient à la période tardive de la mission du Prophète Muhammad ﷺ et contient plusieurs des dernières grandes prescriptions législatives révélées à la communauté musulmane. 
  
 Son nom signifie « La Table Servie » et provient de l’épisode situé aux versets 112 à 115, lorsque les disciples de ‘Issa عليه السلام demandent qu’une table garnie de nourriture descende du ciel comme signe venant d’Allah. 
  
@@ -35005,22 +35010,3063 @@ Au croyant maintenant de tenir son engagement envers Lui.
 
 [[desc 6]]
 
+La sourate Al-An‘ām (سورة الأنعام), sixième sourate du Coran, est une grande sourate mecquoise composée de 165 versets. Son nom signifie « Les Bestiaux » ou « Les Troupeaux ». Il vient notamment des versets 136 à 145, où Allah réfute différentes règles superstitieuses que les polythéistes arabes avaient inventées concernant leurs animaux et leurs récoltes, déclarant certaines bêtes licites ou interdites sans aucune révélation divine. 
+ 
+Al-An‘ām est essentiellement consacrée aux grandes vérités de la foi : le Tawḥīd, la Révélation, la mission prophétique, la Résurrection, la connaissance absolue d’Allah et la responsabilité humaine. Contrairement aux grandes sourates médinoises qui précèdent dans l’ordre du Coran, elle contient relativement peu de législation sociale détaillée. Son objectif est d’abord de reconstruire la manière dont l’être humain regarde Allah, le monde et sa propre existence.
+ 
+La tradition musulmane rapporte qu’elle aurait été révélée d’un seul bloc, durant une nuit à La Mecque. Cette idée est retenue par de nombreux exégètes, bien que les récits ajoutant qu’elle aurait été accompagnée de 70 000 anges possèdent des chaînes comportant des faiblesses et ne doivent donc pas être présentés avec la même certitude qu’un hadith authentique d’Al-Bukhārī ou Muslim. Les récits faisant de certains versets des exceptions médinoises sont eux aussi discutés ; l’ensemble de la sourate est clairement de caractère mecquois. 
+ 
+Son message peut presque être résumé par une question : si Allah seul crée, donne la vie, donne la mort, nourrit, connaît l’invisible et maîtrise le destin de toute chose, pourquoi l’être humain orienterait-il son adoration vers autre que Lui ?
+ 
+## « Louange à Allah qui a créé les cieux et la terre »
+ 
+La sourate s’ouvre majestueusement :
+ 
+> « Louange à Allah qui a créé les cieux et la terre et établi les ténèbres et la lumière. »
+> [Sourate Al-An‘ām, verset 1]
+ 
+Avant même de discuter des idoles ou des objections des Quraysh, Allah ramène le lecteur au fait le plus fondamental : quelque chose existe parce qu’un Créateur l’a fait exister.
+ 
+Les cieux, la terre, la lumière, les ténèbres et l’être humain lui-même ne sont pas indépendants. Pourtant, le verset se termine en constatant que certains donnent encore à leur Seigneur des égaux dans leur adoration.
+ 
+La contradiction que toute la sourate cherche à exposer est donc la suivante : reconnaître plus ou moins qu’Allah est le Créateur tout en donnant ensuite à une créature une part de ce qui ne devrait appartenir qu’au Créateur.
+ 
+## Une sourate qui commence par « Al-ḥamdu lillāh »
+ 
+Al-An‘ām fait partie des cinq sourates du Coran qui commencent directement par « Al-ḥamdu lillāh », avec Al-Fātiḥa, Al-Kahf, Saba’ et Fāṭir.
+ 
+Ce n’est pas seulement une formule de louange. Dans Al-An‘ām, la louange est immédiatement reliée à la création : Allah mérite la louange parce qu’Il est à l’origine de tout ce qui existe et que rien dans la création ne possède cette qualité avec Lui.
+ 
+Le Tawḥīd commence donc par remettre chaque être à sa véritable place : Allah est le Créateur ; tout le reste est créé.
+ 
+## La puissance des civilisations ne les rend pas invulnérables
+ 
+Allah demande aux Quraysh de regarder l’histoire. Des peuples précédents avaient reçu davantage de puissance, de terres fertiles, de pluie et de ressources qu’eux, puis ils avaient pourtant disparu lorsqu’ils persistèrent dans l’injustice.
+ 
+> [Sourate Al-An‘ām, verset 6]
+ 
+Le message est particulièrement pertinent dans le contexte mecquois : le prestige de Quraysh, sa position économique ou son contrôle du sanctuaire ne sont pas une garantie contre Allah. 
+ 
+Une civilisation peut paraître solidement installée et pourtant disparaître. Le Coran apprend ainsi à ne pas confondre la stabilité présente avec l’invulnérabilité.
+ 
+## Même un livre descendu physiquement du ciel pourrait être rejeté
+ 
+Les opposants demandaient régulièrement au Prophète ﷺ des signes extraordinaires. Allah répond avec une hypothèse impressionnante : même si un Livre descendait physiquement du ciel et qu’ils pouvaient le toucher de leurs propres mains, certains diraient encore :
+ 
+« Ce n’est qu’une magie évidente. »
+ 
+[Sourate Al-An‘ām, verset 7] 
+ 
+Le Coran montre ici que le problème n’est pas toujours l’insuffisance des preuves. Lorsqu’une personne a déjà décidé intérieurement de ne pas accepter une conclusion, elle peut continuellement déplacer le niveau de preuve exigé.
+ 
+Un signe arrive : il en faut un autre. Un argument est répondu : une nouvelle objection apparaît. La difficulté n’est alors plus seulement intellectuelle ; elle se trouve aussi dans le cœur.
+ 
+## Pourquoi Allah n’a-t-Il pas envoyé un ange ?
+ 
+Les Quraysh demandaient également pourquoi le messager envoyé par Allah était un homme et non un ange.
+ 
+Le Coran répond que si un ange devait être envoyé aux êtres humains comme messager visible et directement accessible, il devrait de toute façon leur apparaître sous une forme humaine.
+ 
+> [Sourate Al-An‘ām, versets 8-9]
+ 
+Un messager humain possède aussi une fonction essentielle : il montre que l’adoration est réellement praticable dans une vie humaine. Muhammad ﷺ mange, travaille, se marie, souffre, perd des êtres chers, affronte la peur, prie, patiente et se repent auprès d’Allah.
+ 
+Il ne transmet donc pas une religion destinée à une autre espèce.
+ 
+## Allah S’est prescrit à Lui-même la miséricorde
+ 
+Au verset 12, après avoir demandé à qui appartient tout ce qui se trouve dans les cieux et sur la terre, Allah répond :
+ 
+« À Allah. Il S’est prescrit à Lui-même la miséricorde. »
+ 
+> [Sourate Al-An‘ām, verset 12]
+ 
+Cette formule est extraordinaire. Celui qui possède absolument toute chose et devant lequel personne ne peut revendiquer de droit indépendant annonce Lui-même Sa miséricorde.
+ 
+La croyance en la puissance absolue d’Allah ne doit donc pas conduire à imaginer un Seigneur uniquement terrible et inaccessible. Celui qui juge est aussi Celui qui S’est prescrit la miséricorde.
+ 
+Mais le verset rappelle immédiatement le rassemblement du Jour dernier. Le Coran maintient toujours l’équilibre : immense espérance, sans insouciance ; véritable crainte, sans désespoir.
+ 
+## « Si Allah te touche par un mal… »
+ 
+Allah dit :
+ 
+> « Si Allah te touche d’un mal, nul autre que Lui ne peut l’écarter ; et s’Il te touche d’un bien, Il est capable de toute chose. »
+> [Sourate Al-An‘ām, verset 17]
+ 
+Ce verset ne demande pas de négliger les causes. Le croyant consulte un médecin, travaille pour obtenir sa subsistance, demande de l’aide et utilise les moyens disponibles.
+ 
+Mais il ne transforme jamais la cause en Seigneur.
+ 
+Le médecin peut être une cause de guérison ; il n’est pas le Maître absolu de la guérison. L’argent peut résoudre certains problèmes ; il n’est pas le Maître du destin. Le croyant utilise les moyens tout en gardant son cœur attaché à Celui qui leur permet ou non de produire leur effet.
+ 
+## Le Coran est destiné à tous ceux auxquels il parvient
+ 
+Allah demande au Prophète ﷺ quel témoignage est le plus grand, puis lui ordonne de répondre :
+ 
+« Allah est témoin entre moi et vous. »
+ 
+Il ajoute que le Coran lui a été révélé afin qu’il avertisse ses contemporains et tous ceux auxquels le message parviendra.
+ 
+> [Sourate Al-An‘ām, verset 19]
+ 
+La portée du Coran dépasse donc le premier auditoire mecquois. Chaque personne à laquelle cette Révélation parvient entre, d’une certaine manière, dans l’adresse du texte.
+ 
+La question n’est plus seulement : qu’ont fait les Quraysh de ce message ?
+ 
+Elle devient aussi : qu’est-ce que moi, je vais en faire ?
+ 
+## Le Jour où les excuses disparaîtront
+ 
+La sourate décrit plusieurs scènes de la Résurrection où les hommes qui associaient à Allah comprendront que les divinités et les protections auxquelles ils se rattachaient ne peuvent plus rien pour eux.
+ 
+Le Coran ramène continuellement l’être humain vers ce moment où les apparences tomberont. Beaucoup de choses peuvent sembler solides dans cette vie : une position sociale, un groupe, une richesse, une idéologie ou une personne puissante.
+ 
+Mais le Jour dernier pose une question radicale :
+ 
+qu’est-ce qui reste lorsque tout ce qui pouvait me donner l’impression d’être protégé disparaît ?
+ 
+## Le Prophète ﷺ ne possède ni les trésors d’Allah ni l’invisible
+ 
+Allah ordonne au Prophète Muhammad ﷺ de dire :
+ 
+« Je ne vous dis pas que je possède les trésors d’Allah ; je ne connais pas l’invisible ; et je ne vous dis pas que je suis un ange. Je ne fais que suivre ce qui m’est révélé. »
+ 
+> [Sourate Al-An‘ām, verset 50]
+ 
+Ce passage protège remarquablement le Tawḥīd.
+ 
+Le Prophète ﷺ possède un rang immense, mais sa grandeur réside précisément dans sa servitude parfaite envers Allah, non dans le fait d’être transformé en divinité secondaire.
+ 
+Il reçoit de l’invisible ce qu’Allah lui révèle. Il ne possède pas par lui-même une science infinie ou un pouvoir indépendant.
+ 
+## Ne pas éloigner les croyants pauvres pour attirer les notables
+ 
+Allah ordonne ensuite :
+ 
+> « Ne repousse pas ceux qui invoquent leur Seigneur matin et soir, recherchant Sa Face. » 
+> [Sourate Al-An‘ām, verset 52]
+ 
+Les récits de tafsīr relient ce passage à des notables qui supportaient mal de devoir s’asseoir avec des croyants pauvres et socialement faibles tels que Bilāl, Ṣuhayb, ‘Ammār ou Khabbāb رضي الله عنهم. Ils auraient souhaité obtenir une assemblée plus prestigieuse autour du Prophète ﷺ. Allah interdit de sacrifier les croyants sincères pour attirer des hommes de statut. 
+ 
+La leçon est profonde : la valeur auprès d’Allah n’est pas déterminée par la valeur attribuée par la société.
+ 
+Un homme que presque personne ne remarque peut être immense auprès d’Allah. Et celui devant lequel tout le monde se lève peut être spirituellement vide.
+ 
+## « Votre Seigneur S’est prescrit la miséricorde »
+ 
+Quelques versets plus loin, Allah revient encore à Sa miséricorde et ordonne au Prophète ﷺ de dire aux croyants qui viennent à lui :
+ 
+« Paix sur vous. Votre Seigneur S’est prescrit à Lui-même la miséricorde. »
+ 
+Puis Il précise que celui qui commet une mauvaise action, puis se repent et se réforme, trouvera Allah Pardonneur et Miséricordieux.
+ 
+> [Sourate Al-An‘ām, verset 54]
+ 
+Le repentir coranique comporte donc deux mouvements : revenir vers Allah et chercher réellement à se réformer.
+ 
+Cela empêche deux erreurs opposées. La première consiste à banaliser le péché ; la seconde consiste à croire qu’une faute aurait définitivement fermé la porte d’Allah.
+ 
+## « Pas une feuille ne tombe sans qu’Il le sache »
+ 
+Vient ensuite l’un des versets les plus impressionnants du Coran sur la connaissance divine :
+ 
+« Il possède les clés de l’invisible, que Lui seul connaît. Il sait ce qui est sur la terre et dans la mer. Pas une feuille ne tombe sans qu’Il le sache. »
+ 
+> [Sourate Al-An‘ām, verset 59]
+ 
+Allah connaît également le grain enfoui dans les profondeurs de la terre et toute chose fraîche ou desséchée.
+ 
+L’image de la feuille est magnifique parce qu’elle prend quelque chose d’infiniment banal. À chaque seconde, d’innombrables feuilles tombent dans des forêts où aucun être humain ne les observe.
+ 
+## Pas une seule n’échappe à Allah.
+ 
+Alors une invocation prononcée intérieurement, une larme que personne n’a vue, une peur gardée secrète ou une bonne œuvre accomplie loin du regard des hommes peuvent-elles réellement être perdues auprès de Lui ?
+ 
+Le sommeil comme rappel quotidien de notre dépendance
+ 
+Le verset suivant rappelle qu’Allah reprend les êtres durant la nuit puis les réveille le jour jusqu’à ce que le terme fixé soit atteint.
+ 
+> [Sourate Al-An‘ām, verset 60]
+ 
+Chaque nuit, l’être humain abandonne une grande partie du contrôle qu’il imagine posséder. Il ferme les yeux, perd conscience de son environnement et ne peut même pas garantir qu’il se réveillera.
+ 
+Puis il ouvre les yeux et une nouvelle journée commence.
+ 
+Le sommeil peut ainsi devenir un rappel discret : chaque réveil est du temps supplémentaire qu’Allah nous accorde avant le retour définitif vers Lui.
+ 
+## Dans la détresse, les faux appuis disparaissent
+ 
+Allah demande :
+ 
+« Qui vous délivre des ténèbres de la terre et de la mer lorsque vous L’invoquez humblement et secrètement : “S’Il nous délivre de ceci, nous serons certainement reconnaissants” ? »
+ 
+> [Sourate Al-An‘ām, verset 63]
+ 
+Puis Allah rappelle qu’Il les délivre, mais que certains retournent ensuite à leurs associations.
+ 
+La détresse extrême possède cette capacité particulière : elle détruit parfois momentanément les illusions de contrôle. Lorsque plus rien ne répond, l’être humain comprend de nouveau qu’il dépend d’un Seigneur.
+ 
+Le défi spirituel est donc de ne pas attendre la tempête pour se souvenir d’Allah, puis de ne pas L’oublier dès que la mer redevient calme.
+ 
+## Ne pas rester passivement lorsque les versets d’Allah sont tournés en dérision
+ 
+Allah demande au croyant, lorsqu’il voit des personnes tourner Ses versets en dérision, de ne pas rester dans cette assemblée jusqu’à ce que la conversation change de sujet.
+ 
+> [Sourate Al-An‘ām, verset 68]
+ 
+Cela ne signifie pas répondre par l’agression. Au contraire, parfois la réponse la plus digne consiste simplement à ne pas participer à la scène.
+ 
+Le croyant apprend qu’il n’est pas obligé de transformer chaque provocation en dispute. Il peut protéger ce qu’il considère sacré sans reproduire lui-même un comportement indigne.
+ 
+## Ibrāhīm عليه السلام face à l’idolâtrie
+ 
+La sourate consacre ensuite un passage magnifique au prophète Ibrāhīm عليه السلام.
+ 
+Il dit à son père, appelé Āzar dans le verset :
+ 
+« Prends-tu des idoles pour divinités ? Je vois que toi et ton peuple êtes dans un égarement manifeste. »
+ 
+> [Sourate Al-An‘ām, verset 74]
+ 
+Allah dit ensuite qu’Il montra à Ibrāhīm le royaume des cieux et de la terre afin qu’il soit parmi ceux qui possèdent la certitude. 
+ 
+Commence alors le célèbre raisonnement autour de l’étoile, de la lune et du soleil.
+ 
+## L’étoile, la lune et le soleil
+ 
+Lorsque la nuit l’enveloppe, Ibrāhīm voit un astre et dit :
+ 
+« Voilà mon Seigneur. »
+ 
+Mais lorsque celui-ci disparaît :
+ 
+« Je n’aime pas ceux qui disparaissent. »
+ 
+La lune apparaît ensuite et le même raisonnement se reproduit. Puis il voit le soleil, encore plus imposant, mais lui aussi finit par se coucher.
+ 
+Ibrāhīm conclut alors :
+ 
+« Ô mon peuple ! Je désavoue ce que vous associez à Allah. Je tourne mon visage vers Celui qui a créé les cieux et la terre, en monothéiste pur, et je ne suis pas parmi les associateurs. »
+
+> [Sourate Al-An‘ām, versets 76 à 79]
+ 
+## Ibrāhīm عليه السلام a-t-il réellement cru que les astres étaient Dieu ?
+ 
+Il vaut mieux être précis ici. Le passage est parfois raconté comme si Ibrāhīm avait successivement adoré réellement une étoile, puis la lune, puis le soleil avant de découvrir Allah.
+ 
+Ce n’est pas l’interprétation retenue par de nombreux grands exégètes classiques. Ibn Kathīr, par exemple, présente explicitement ces versets comme un débat d’Ibrāhīm avec son peuple, destiné à démontrer l’absurdité de l’adoration des astres. Le verset 74 le montrait d’ailleurs déjà opposé aux idoles avant le début de cette démonstration. 
+ 
+L’argument est extrêmement élégant : ce qui apparaît, disparaît, se déplace selon un ordre qu’il n’a pas choisi et dépend lui-même des lois de la création ne peut pas être le Seigneur absolu de cette création.
+ 
+Le soleil est immense par rapport à l’être humain, mais sa grandeur ne le transforme pas en Dieu. Il reste lui-même soumis à un ordre qu’il n’a pas créé.
+ 
+## La création ne doit pas arrêter le regard : elle doit le conduire au Créateur
+ 
+Toute cette séquence éduque le regard.
+ 
+L’être humain peut être fasciné par une étoile, le Soleil, une montagne, l’océan ou l’immensité cosmique. Le Coran ne lui demande pas d’arrêter d’être émerveillé.
+ 
+Il lui demande d’aller plus loin :
+ 
+ce que j’admire est-il le Créateur, ou un signe du Créateur ?
+ 
+La beauté de l’univers ne concurrence pas Allah. Elle devient au contraire une indication de Sa puissance.
+ 
+## Une immense chaîne de prophètes
+ 
+Après Ibrāhīm عليه السلام, Allah mentionne une succession impressionnante de prophètes : Isḥāq, Ya‘qūb, Nūḥ, Dāwūd, Sulaymān, Ayyūb, Yūsuf, Mūsā, Hārūn, Zakariyyā, Yaḥyā, ‘Issa, Ilyās, Ismā‘īl, Al-Yasa‘, Yūnus et Lūṭ عليهم السلام.
+ 
+Puis Allah dit à Muhammad ﷺ :
+ 
+« Voilà ceux qu’Allah a guidés ; suis donc leur guidance. »
+ 
+> [Sourate Al-An‘ām, versets 83 à 90]
+ 
+La diversité des époques ne doit donc pas masquer l’unité de la mission. Ces prophètes ne sont pas des fondateurs concurrents représentant des divinités rivales. Ils appartiennent à une même chaîne de guidance venant d’un même Dieu.
+ 
+## Le Prophète ﷺ ne demande aucun salaire
+ 
+Le même passage ordonne à Muhammad ﷺ de dire :
+ 
+« Je ne vous demande aucun salaire pour cela. Ce n’est qu’un rappel pour les mondes. »
+ 
+> [Sourate Al-An‘ām, verset 90]
+ 
+La mission prophétique n’est pas présentée comme une entreprise destinée à enrichir le messager.
+ 
+Cette idée revient souvent dans le Coran : la sincérité de la transmission implique de ne pas faire de la Révélation un moyen de poursuivre un intérêt personnel caché.
+ 
+## Allah est Celui qui fend la graine et le noyau
+ 
+La sourate revient alors à la contemplation de la nature :
+ 
+« Allah est Celui qui fend la graine et le noyau. »
+ 
+> [Sourate Al-An‘ām, verset 95]
+ 
+Puis Allah évoque la sortie du vivant et du mort, l’apparition de l’aube, la nuit comme repos, ainsi que le Soleil et la Lune comme moyens de mesure.
+ 
+Nous sommes tellement habitués à voir une graine devenir plante que le phénomène semble banal.
+ 
+Mais le Coran cherche précisément à réveiller l’étonnement devant ce qui est devenu familier. Une petite structure enfermée dans une graine s’ouvre, développe une racine, une tige, des feuilles, puis parfois des fruits capables de reproduire le cycle.
+ 
+Le phénomène possède une explication biologique.
+ 
+Mais la compréhension du mécanisme n’abolit pas la question plus profonde : pourquoi existe-t-il un monde dans lequel de telles lois et de telles possibilités existent ?
+ 
+## Les étoiles comme instruments de navigation
+ 
+Allah rappelle également qu’Il a placé les étoiles afin que l’homme puisse s’orienter dans les ténèbres de la terre et de la mer.
+ 
+> [Sourate Al-An‘ām, verset 97]
+ 
+L’astre autrefois adoré est replacé à sa véritable place : une créature utile créée par Allah.
+ 
+Ce changement de perspective résume très bien le Tawḥīd. Le musulman peut étudier les étoiles, les contempler et s’en émerveiller, mais il ne les adore pas.
+ 
+Il passe de la créature au Créateur.
+ 
+## « Regardez leurs fruits lorsqu’ils apparaissent et mûrissent »
+ 
+Allah décrit ensuite l’eau descendue du ciel, les plantes, les grains, les palmiers, les raisins, les olives et les grenades.
+ 
+Puis Il ordonne :
+ 
+« Regardez leurs fruits lorsqu’ils produisent et lorsqu’ils mûrissent. »
+ 
+> [Sourate Al-An‘ām, verset 99] 
+ 
+Le choix du verbe est magnifique : regardez.
+ 
+Le Coran ne demande pas uniquement de croire sans observer. Il dirige le regard vers le réel et invite à réfléchir.
+ 
+La nature devient alors comme un immense ensemble de signes : non parce qu’il faudrait ignorer ses mécanismes physiques ou biologiques, mais parce que l’existence même de ces mécanismes pousse le croyant à remonter vers leur Créateur.
+ 
+## Allah n’a ni partenaire ni enfant
+ 
+La sourate condamne ensuite ceux qui attribuent à Allah des partenaires, des fils ou des filles.
+ 
+Allah demande :
+ 
+« Comment aurait-Il un enfant alors qu’Il n’a pas de compagne et qu’Il a créé toute chose ? »
+ 
+> [Sourate Al-An‘ām, verset 101]
+ 
+Puis :
+ 
+« Voilà Allah, votre Seigneur. Il n’y a aucune divinité digne d’adoration en dehors de Lui, Créateur de toute chose. Adorez-Le donc. »
+ 
+> [Sourate Al-An‘ām, verset 102] 
+ 
+Le raisonnement revient toujours à cette frontière fondamentale : Allah crée ; tout le reste est créé.
+ 
+Aucune créature, aussi exceptionnelle soit-elle, ne peut devenir une partie du Créateur.
+ 
+## « Les regards ne peuvent L’embrasser »
+ 
+Allah dit :
+ 
+« Les regards ne peuvent L’embrasser, tandis que Lui embrasse tous les regards. »
+ 
+> [Sourate Al-An‘ām, verset 103]
+ 
+Le verset souligne la transcendance d’Allah. Il n’est pas un objet matériel parmi les autres objets de l’univers que l’être humain pourrait enfermer dans les limites de sa perception.
+ 
+Dans la croyance sunnite, cela n’annule pas les textes authentiques affirmant que les croyants verront Allah dans l’Au-delà ; cela signifie notamment que la vision créée ne peut cerner ni englober Allah comme elle englobe une chose créée.
+ 
+La créature est limitée.
+ 
+Le Créateur ne l’est pas.
+ 
+## Ne pas insulter les divinités des polythéistes
+ 
+L’un des versets les plus remarquables de la sourate concernant le dialogue religieux dit :
+ 
+« N’insultez pas ceux qu’ils invoquent en dehors d’Allah, car ils insulteraient Allah par hostilité et ignorance. »
+ 
+> [Sourate Al-An‘ām, verset 108]
+ 
+Le Coran considère pourtant l’idolâtrie comme fausse. Malgré cela, il interdit une méthode particulière pour combattre cette erreur, parce qu’elle risquerait de produire un mal plus grave. Ibn Kathīr souligne précisément cette logique : abandonner ici un bénéfice secondaire afin d’éviter une conséquence plus mauvaise. 
+ 
+C’est une immense règle de sagesse : avoir raison sur le fond ne signifie pas que toutes les manières de défendre cette vérité sont bonnes.
+ 
+Le croyant doit penser aux conséquences de ses paroles.
+ 
+## « Si un miracle venait, nous croirions »
+ 
+Les polythéistes juraient parfois que, si un signe extraordinaire leur était donné, ils croiraient.
+ 
+Allah répond que les signes sont entre Ses mains et avertit que l’arrivée du miracle demandé ne garantit pas nécessairement leur conversion.
+ 
+> [Sourate Al-An‘ām, versets 109-110]
+ 
+La sourate combat ainsi une attitude très humaine :
+ 
+« Je croirai lorsque… »
+ 
+Lorsque j’aurai vu ce signe.
+ 
+Lorsque cette invocation sera exaucée exactement comme je le demande.
+ 
+Lorsque Allah me donnera telle chose.
+ 
+La foi ne peut pas devenir une négociation permanente dans laquelle l’être humain fixe lui-même à Allah les conditions selon lesquelles il acceptera de croire.
+ 
+## Même si les anges descendaient…
+ 
+Allah pousse ensuite l’idée encore plus loin : même si les anges leur étaient envoyés, si les morts leur parlaient et si des réalités extraordinaires étaient rassemblées devant eux, certains ne croiraient toujours pas sans la volonté d’Allah.
+ 
+> [Sourate Al-An‘ām, verset 111]
+ 
+Il ne s’agit pas de dire que les preuves ne servent à rien. Toute la sourate argumente justement.
+ 
+Mais la guidance dépend aussi de la sincérité avec laquelle le cœur reçoit la preuve.
+ 
+Un esprit brillant peut trouver des arguments pour presque tout ce qu’il souhaite déjà croire. La véritable recherche de vérité demande donc aussi une forme d’humilité morale.
+ 
+## Chaque prophète a rencontré des adversaires
+ 
+Allah explique qu’Il a donné à chaque prophète des ennemis parmi les démons humains et invisibles, certains se communiquant des paroles séduisantes destinées à tromper.
+ 
+> [Sourate Al-An‘ām, verset 112]
+ 
+La présence d’une opposition n’est donc pas en elle-même une preuve qu’un message serait faux.
+ 
+Et inversement, une idée fausse peut être extrêmement bien présentée. Un beau discours, un vocabulaire sophistiqué ou une grande popularité n’établissent pas la vérité de ce qui est dit.
+ 
+Le croyant doit apprendre à regarder au-delà de l’apparence rhétorique.
+ 
+## La majorité n’est pas automatiquement un critère de vérité
+ 
+Allah avertit le Prophète ﷺ :
+ 
+« Si tu obéis à la majorité de ceux qui sont sur terre, ils t’égareront du sentier d’Allah. »
+ 
+> [Sourate Al-An‘ām, verset 116]
+ 
+Le verset ne signifie pas que toute opinion majoritaire est nécessairement fausse. Il détruit plutôt un raisonnement simpliste :
+ 
+« Beaucoup de gens le pensent, donc cela doit être vrai. »
+ 
+L’histoire humaine montre que des croyances erronées ont parfois été largement majoritaires pendant des siècles.
+ 
+La vérité ne se décide donc pas uniquement par le nombre. La question demeure : quelle est la preuve ?
+ 
+## Manger de ce sur quoi le nom d’Allah a été prononcé
+ 
+La sourate revient ensuite sur les règles alimentaires et les pratiques polythéistes entourant les sacrifices.
+ 
+Allah demande de manger de ce sur quoi Son nom a été prononcé et interdit de consommer ce sur quoi le nom d’un autre qu’Allah a été invoqué dans les conditions définies par la législation.
+ 
+> [Sourate Al-An‘ām, versets 118-121]
+ 
+Encore une fois, même l’alimentation est reliée au Tawḥīd. Le croyant reconnaît que la vie animale qu’il utilise pour se nourrir appartient d’abord à Allah.
+ 
+Le repas lui-même peut ainsi devenir un acte de reconnaissance plutôt qu’un simple acte de consommation.
+ 
+## Le cœur peut être vivant ou mort
+ 
+Allah donne ensuite l’image d’une personne qui était comme morte, à laquelle Il donne la vie et une lumière avec laquelle elle marche parmi les hommes, et la compare à quelqu’un enfermé dans les ténèbres.
+ 
+> [Sourate Al-An‘ām, verset 122]
+ 
+Il s’agit naturellement d’une vie spirituelle.
+ 
+Une personne peut marcher, parler et travailler tout en étant intérieurement perdue.
+ 
+La guidance est décrite comme une résurrection du cœur et comme une lumière permettant de voir correctement la direction à prendre.
+ 
+La connaissance d’Allah ne donne donc pas seulement davantage d’informations.
+ 
+Elle change la manière de traverser l’existence.
+ 
+## Quand Allah veut guider quelqu’un
+ 
+Le verset 125 décrit celui qu’Allah veut guider comme quelqu’un dont Il ouvre la poitrine à l’Islam, tandis que celui qui s’éloigne éprouve une constriction comparée à celle de quelqu’un qui s’élève difficilement vers le ciel.
+ 
+> [Sourate Al-An‘ām, verset 125]
+ 
+Le cœur guidé commence à trouver dans la soumission à Allah quelque chose qui n’est plus seulement une obligation extérieure.
+ 
+Ce qui paraissait autrefois lourd peut progressivement devenir naturel.
+ 
+Inversement, lorsque le cœur s’enferme, le rappel d’Allah peut sembler de plus en plus oppressant.
+ 
+C’est pourquoi la guidance est une grâce qu’il faut continuellement demander et protéger.
+ 
+## Pourquoi la sourate s’appelle-t-elle « Les Bestiaux » ?
+ 
+À partir des versets 136 et suivants, Allah expose différentes pratiques religieuses inventées par les polythéistes arabes concernant leurs récoltes et leurs troupeaux.
+ 
+Ils attribuaient arbitrairement certaines parts à Allah et d’autres à leurs divinités. Ils déclaraient certaines bêtes réservées à certains hommes, interdites aux femmes ou soumises à diverses restrictions qui n’avaient jamais été révélées par Allah. 
+ 
+D’où le nom Al-An‘ām.
+ 
+Mais le sujet possède une portée bien plus profonde que les animaux eux-mêmes : qui a le droit de dire au nom d’Allah ce qui est religieux ?
+ 
+## Inventer une règle religieuse est plus grave que simplement suivre une coutume
+ 
+Les polythéistes ne disaient pas seulement :
+ 
+« Chez nous, nous faisons comme cela. »
+ 
+Ils rattachaient certaines pratiques à une sacralité religieuse et fabriquaient des interdictions.
+ 
+Le Coran leur demande alors en substance :
+ 
+## Allah vous a-t-Il réellement commandé cela ?
+ 
+La distinction est fondamentale. Une coutume, même ancienne, n’est pas automatiquement une prescription divine.
+ 
+Une pratique peut être très répandue, héritée des parents et répétée depuis des générations ; cela ne donne à personne le droit de déclarer :
+ 
+« Allah exige cela »
+ 
+sans preuve.
+ 
+## Ne pas gaspiller les bienfaits d’Allah
+ 
+Après avoir dénoncé les interdictions inventées, Allah rappelle qu’Il a créé les jardins, les palmiers, les récoltes, les olives et les grenades.
+ 
+Puis Il ordonne :
+ 
+« Mangez de leurs fruits lorsqu’ils produisent, donnez-en le droit au jour de la récolte et ne gaspillez pas. Allah n’aime pas les gaspilleurs. »
+ 
+> [Sourate Al-An‘ām, verset 141] 
+ 
+Le Coran ne demande donc pas de refuser les bienfaits.
+ 
+Mangez.
+ 
+Mais :
+ 
+ne gaspillez pas.
+ 
+L’équilibre islamique n’est ni l’ascétisme qui transforme tout plaisir en faute, ni la consommation sans limite. Le bienfait est reçu, utilisé et partagé avec reconnaissance.
+ 
+## « Ne suivez pas les pas de Satan »
+ 
+Concernant les troupeaux, Allah dit :
+ 
+« Mangez de ce qu’Allah vous a accordé et ne suivez pas les pas de Satan. »
+ 
+> [Sourate Al-An‘ām, verset 142] 
+ 
+L’expression « les pas de Satan » est particulièrement intéressante.
+ 
+L’égarement se fait souvent progressivement. Une petite concession paraît insignifiante, puis elle rend la suivante plus facile. Une justification devient ensuite une habitude ; et l’habitude finit par modifier les valeurs de la personne.
+ 
+La vigilance consiste parfois à reconnaître le premier pas, avant qu’il n’ouvre toute une route.
+ 
+## Ne pas utiliser le destin comme excuse pour désobéir
+ 
+Les polythéistes disaient également, en substance :
+ 
+« Si Allah avait voulu, nous n’aurions pas associé et nos ancêtres non plus, et nous n’aurions rien interdit. »
+ 
+> [Sourate Al-An‘ām, verset 148]
+ 
+Le raisonnement consiste à utiliser la volonté divine pour supprimer la responsabilité humaine : si cela s’est produit, c’est qu’Allah l’a voulu ; je ne suis donc responsable de rien.
+ 
+Le Coran rejette cette excuse.
+ 
+Que quelque chose entre dans le décret d’Allah ne signifie pas qu’Allah l’aime ou qu’Il nous a ordonné de l’accomplir. L’être humain reste responsable des choix pour lesquels Allah lui a donné une capacité réelle.
+ 
+Le qadar ne peut donc pas devenir une justification religieuse du péché.
+ 
+## « Venez, je vais vous réciter ce que votre Seigneur vous a réellement interdit »
+ 
+Après avoir réfuté toutes les interdictions inventées par les hommes, Allah dit :
+ 
+« Venez, je vais vous réciter ce que votre Seigneur vous a réellement interdit. »
+ 
+Commence alors, aux versets 151 à 153, l’un des grands résumés moraux du Coran.
+ 
+> [Sourate Al-An‘ām, versets 151 à 153]
+ 
+Le contraste est magnifique : les hommes ont fabriqué des règles compliquées autour des animaux ; Allah les ramène vers les obligations morales réellement importantes. 
+ 
+## Dix grands principes
+ 
+Les versets 151 à 153 regroupent une série d’enseignements fondamentaux :
+-	ne rien associer à Allah ;
+-	agir avec excellence envers les parents ;
+-	ne pas tuer ses enfants par peur de la pauvreté ;
+-	ne pas approcher les turpitudes, visibles ou cachées ;
+-	ne pas tuer injustement la vie qu’Allah a rendue sacrée ;
+-	protéger les biens de l’orphelin ;
+-	donner la juste mesure et le juste poids ;
+-	parler avec justice même lorsqu’un proche est concerné ;
+-	respecter l’engagement envers Allah ;
+-	suivre le chemin droit sans se disperser dans les voies qui en éloignent.
+ 
+Allah conclut :
+ 
+> « Voilà Mon chemin, parfaitement droit. Suivez-le donc et ne suivez pas les autres chemins, car ils vous éloigneraient de Son chemin. »
+> [Sourate Al-An‘ām, verset 153]
+ 
+Après toutes les discussions théologiques de la sourate, le Tawḥīd devient donc un comportement concret.
+ 
+## Le Tawḥīd commence avec Allah mais atteint immédiatement les parents
+ 
+Le premier commandement est de ne rien associer à Allah.
+ 
+Puis vient immédiatement :
+ 
+« Et agissez avec bonté envers vos parents. »
+ 
+> [Sourate Al-An‘ām, verset 151]
+ 
+C’est une proximité fréquente dans le Coran. La relation verticale avec Allah produit une transformation horizontale envers les créatures.
+ 
+Une personne ne peut pas prétendre grandir spirituellement tout en considérant que sa manière de traiter ses parents, les faibles ou ceux qui dépendent d’elle n’a rien à voir avec sa religion.
+ 
+## Ne pas tuer ses enfants par peur de la pauvreté
+ 
+Allah interdit également :
+ 
+« Ne tuez pas vos enfants à cause de la pauvreté. Nous vous accordons votre subsistance ainsi que la leur. »
+ 
+> [Sourate Al-An‘ām, verset 151]
+ 
+Dans certaines pratiques de l’Arabie préislamique, l’infanticide pouvait notamment être lié à la peur économique.
+ 
+Le Coran rétablit ici la sacralité de la vie : l’enfant n’est pas un simple calcul de coût.
+ 
+Cela ne signifie évidemment pas que les parents ne doivent pas organiser matériellement leur vie familiale. Cela signifie qu’aucune inquiétude économique ne rend licite de supprimer une vie innocente.
+ 
+## « N’approchez pas des turpitudes »
+ 
+Allah ne dit pas seulement :
+ 
+« Ne commettez pas les turpitudes. »
+ 
+Il dit :
+ 
+« Ne les approchez pas. »
+ 
+> [Sourate Al-An‘ām, verset 151]
+ 
+Certains péchés possèdent tout un chemin qui les précède : un lieu, une conversation, une habitude, une image ou une situation dont on sait qu’elle fragilise progressivement nos limites.
+ 
+La sagesse consiste donc parfois non pas à tester continuellement sa résistance au dernier moment, mais à éviter volontairement les étapes qui conduisent vers la chute.
+ 
+## La vie humaine est sacrée
+ 
+Le même verset interdit de tuer la vie qu’Allah a rendue sacrée, sauf dans les cas de droit prévus par la législation.
+ 
+La règle générale est donc la sacralité.
+ 
+Une colère, une haine personnelle, une différence religieuse ou une vengeance privée ne donnent jamais à un individu le droit de décider arbitrairement qu’une autre personne ne mérite plus de vivre.
+ 
+L’existence humaine n’est pas un bien dont les hommes deviennent propriétaires les uns sur les autres.
+ 
+## Les biens de l’orphelin et la justice économique
+ 
+Le verset suivant ordonne de ne toucher aux biens de l’orphelin que de la meilleure manière jusqu’à ce qu’il atteigne sa maturité.
+ 
+Il demande également :
+ 
+« Donnez la pleine mesure et le juste poids avec équité. »
+ 
+> [Sourate Al-An‘ām, verset 152]
+ 
+Le Coran fait donc passer directement le croyant de la théologie au commerce.
+ 
+On peut parler longuement de Tawḥīd et pourtant tricher dans une facture, un contrat ou une transaction.
+ 
+Al-An‘ām rappelle que la balance du commerçant appartient elle aussi à la religion.
+ 
+## « Lorsque vous parlez, soyez justes, même envers un proche »
+ 
+Allah ajoute :
+ 
+« Lorsque vous parlez, soyez justes, même s’il s’agit d’un proche parent. »
+ 
+> [Sourate Al-An‘ām, verset 152]
+ 
+La véritable justice est testée lorsqu’elle coûte quelque chose.
+ 
+Dire la vérité lorsqu’elle condamne un inconnu est relativement facile. La dire lorsqu’elle va contre son frère, son ami, son enfant ou son propre intérêt demande beaucoup plus.
+ 
+La loyauté familiale ne signifie donc pas transformer le faux en vrai pour protéger quelqu’un que l’on aime.
+ 
+« Voilà Mon chemin droit »
+ 
+Puis arrive le verset 153 :
+ 
+« Voilà Mon chemin, parfaitement droit. Suivez-le donc et ne suivez pas les autres chemins qui vous éloigneraient de Son chemin. »
+ 
+Le lien avec Al-Fātiḥa est magnifique.
+ 
+Chaque jour, le croyant demande :
+ 
+« Guide-nous dans le droit chemin. »
+ 
+Al-An‘ām lui montre ici à quoi ressemble une partie de ce chemin dans la vie réelle : Tawḥīd, parents, vie humaine, chasteté, justice, honnêteté économique, protection du faible et fidélité aux engagements.
+ 
+Le droit chemin n’est donc pas seulement une idée.
+ 
+Il produit un mode de vie.
+ 
+## Le Coran comme Livre béni
+ 
+Allah rappelle ensuite la révélation faite à Mūsā عليه السلام puis dit du Coran :
+ 
+« Voici un Livre béni que Nous avons fait descendre. Suivez-le donc et pratiquez la taqwā afin qu’il vous soit fait miséricorde. »
+ 
+> [Sourate Al-An‘ām, verset 155]
+ 
+Les Quraysh ne peuvent plus dire que les Écritures n’ont été envoyées qu’aux communautés précédentes.
+ 
+Une Révélation leur est maintenant parvenue.
+ 
+Et recevoir un Livre est simultanément un immense honneur et une immense responsabilité.
+ 
+## Il existe un moment où croire devient trop tard
+ 
+Au verset 158, Allah avertit que lorsque certains signes décisifs arriveront, la foi nouvelle de celui qui n’avait jamais cru auparavant ne lui profitera plus.
+ 
+Le principe est important : le temps du choix n’est pas infini.
+ 
+L’être humain pense facilement :
+ 
+« Je reviendrai vers Allah plus tard. »
+ 
+Mais personne ne possède son « plus tard ».
+ 
+Le repentir et la foi ont du sens lorsqu’ils se produisent avant que la réalité de l’Au-delà ne devienne une évidence imposée ne laissant plus la même place au choix.
+ 
+## Une bonne action en vaut dix
+ 
+Allah dit :
+ 
+> « Celui qui viendra avec une bonne action en recevra dix fois l’équivalent ; et celui qui viendra avec une mauvaise action ne sera rétribué que par son équivalent, sans injustice. »
+> [Sourate Al-An‘ām, verset 160]
+ 
+La disproportion est magnifique.
+ 
+Le bien est multiplié.
+ 
+Le mal n’est pas multiplié de la même manière.
+ 
+La justice d’Allah est donc accompagnée de générosité.
+ 
+Une petite bonne œuvre sincère ne doit jamais être méprisée simplement parce qu’elle semble petite à nos yeux.
+ 
+## « Ma prière, mon sacrifice, ma vie et ma mort appartiennent à Allah »
+ 
+Puis viennent sans doute les versets qui résument le mieux toute la sourate :
+ 
+> « Dis : mon Seigneur m’a guidé vers un chemin droit, une religion droite, la voie d’Ibrāhīm, monothéiste pur, qui n’était pas parmi les associateurs. »
+> [Sourate Al-An‘ām, verset 161]
+ 
+Puis :
+ 
+> « Dis : ma prière, mon sacrifice, ma vie et ma mort appartiennent à Allah, Seigneur des mondes. Il n’a aucun associé. »
+> [Sourate Al-An‘ām, versets 162-163]
+ 
+Voilà le Tawḥīd porté à son aboutissement.
+ 
+Le croyant ne réserve pas simplement à Allah quelques minutes de sa journée. Il comprend progressivement que toute son existence appartient à Allah : sa prière, ses actes d’adoration, mais aussi sa manière de vivre, de travailler, d’aimer, de patienter et finalement de mourir.
+ 
+Le Tawḥīd cesse d’être seulement une croyance formulée par la langue.
+ 
+Il devient l’axe autour duquel toute la vie s’organise.
+ 
+## « Aucune âme ne portera le fardeau d’une autre »
+ 
+Allah ordonne ensuite au Prophète ﷺ de demander :
+ 
+« Chercherais-je un autre Seigneur qu’Allah alors qu’Il est le Seigneur de toute chose ? »
+ 
+Puis vient ce principe :
+ 
+« Aucune âme ne portera le fardeau d’une autre. »
+ 
+> [Sourate Al-An‘ām, verset 164]
+ 
+La responsabilité est donc fondamentalement personnelle.
+ 
+L’être humain peut être influencé par ses parents, sa culture, son époque ou son entourage. Allah connaît parfaitement ces influences et jugera avec une justice absolue.
+ 
+Mais une personne ne peut pas simplement transférer toute sa responsabilité sur :
+ 
+« les autres ».
+ 
+Chacun répondra finalement de ce qu’Allah lui avait réellement donné comme capacité et comme accès à la vérité.
+ 
+## Les différences entre les hommes sont aussi des épreuves
+ 
+La sourate se termine ainsi :
+ 
+« C’est Lui qui a fait de vous des successeurs sur terre et qui a élevé certains d’entre vous au-dessus des autres en degrés afin de vous éprouver par ce qu’Il vous a donné. »
+ 
+> [Sourate Al-An‘ām, verset 165]
+ 
+Cette phrase transforme complètement la manière de regarder les avantages humains.
+ 
+La richesse est un bienfait, mais aussi un test.
+L’intelligence est un test. La beauté est un test. La connaissance est un test. Le pouvoir est un test. La santé elle-même est un test.
+ 
+La question n’est donc pas seulement :
+ 
+« Pourquoi lui a-t-il été donné davantage ? »
+ 
+Mais :
+ 
+« Que fera chacun de ce qu’Allah lui a donné ? »
+ 
+Celui qui reçoit davantage de capacité reçoit aussi davantage de responsabilité.
+ 
+## Une sourate qui rééduque le regard
+ 
+Al-An‘ām parle continuellement du monde visible : les cieux, la terre, la nuit, le jour, les étoiles, la pluie, les grains, les noyaux, les palmiers, les raisins, les olives, les grenades, les animaux et jusqu’à une feuille qui tombe.
+ 
+Mais elle ne décrit pas la nature comme une fin en elle-même.
+ 
+Elle apprend à regarder chaque phénomène comme un āyah, un signe.
+ 
+Cela ne signifie pas refuser l’étude scientifique du phénomène. Comprendre comment une graine germe ou comment une étoile fonctionne n’annule absolument pas le signe.
+ 
+La science peut expliquer de plus en plus précisément comment une réalité fonctionne. Le questionnement coranique pousse aussi vers : pourquoi existe-t-il un univers ordonné dans lequel de telles réalités peuvent exister ?
+ 
+L’explication du mécanisme et la contemplation de son Créateur ne sont donc pas nécessairement concurrentes.
+ 
+## Ne pas attendre un miracle extraordinaire pour voir les signes d’Allah
+ 
+Les Quraysh demandaient régulièrement des miracles spectaculaires.
+ 
+Al-An‘ām répond en leur montrant que le monde entier est déjà rempli de signes : une graine s’ouvre, une plante produit un fruit, la nuit succède au jour, les étoiles permettent de se diriger, la pluie fait revivre la terre et une feuille tombe dans une forêt sans échapper à la connaissance d’Allah.
+ 
+Le problème n’est peut-être donc pas toujours que les signes soient trop rares.
+ 
+Il peut être que l’habitude nous a rendus incapables de nous émerveiller devant eux.
+ 
+Quelque chose d’extraordinaire répété tous les jours finit par nous sembler banal.
+ 
+Al-An‘ām cherche précisément à réveiller le regard.
+ 
+## Le Tawḥīd n’est pas simplement croire qu’un Dieu existe
+ 
+C’est probablement l’un des messages les plus importants de toute la sourate.
+ 
+Les polythéistes mecquois n’étaient pas nécessairement des athées niant tout Créateur. Leur erreur consistait notamment à donner à d’autres êtres une part de leur culte, de leur invocation ou de leur sacralité tout en reconnaissant Allah.
+ 
+Al-An‘ām affirme donc un Tawḥīd beaucoup plus exigeant que :
+ 
+« Je crois qu’il existe un Dieu. »
+ 
+Elle demande :
+ 
+si Allah seul crée, donne la vie, donne la mort, connaît l’invisible, répond à la détresse, fait descendre la pluie, fend la graine et ressuscitera les morts…
+ 
+alors qui mérite réellement que ton cœur et ton adoration se tournent vers Lui ?
+ 
+La réponse de la sourate est constante :
+ 
+Allah seul.
+ 
+## Le message central de la sourate Al-An‘ām
+ 
+Al-An‘ām commence par :
+ 
+« Louange à Allah qui a créé les cieux et la terre. »
+ 
+Elle se termine en rappelant que les hommes ont été placés sur terre et différenciés dans leurs situations afin d’être éprouvés par ce qu’Allah leur a donné.
+ 
+Entre les deux, elle construit une immense démonstration du Tawḥīd.
+ 
+Elle demande au croyant de regarder autour de lui : le ciel, la pluie, les étoiles, les fruits, les animaux, la naissance et la mort. Puis de regarder l’histoire d’Ibrāhīm عليه السلام, l’ensemble de la chaîne prophétique et les arguments des polythéistes. Enfin, elle lui demande de regarder sa propre vie.
+ 
+Et partout revient la même vérité :
+ 
+-	la créature dépend ;
+-	Allah ne dépend de personne ;
+-	la créature ignore énormément ;
+-	Allah connaît même la feuille qui tombe ;
+-	la créature naît et meurt ;
+-	Allah donne la vie et la mort ;
+-	la créature utilise des causes ;
+-	Allah est Celui qui permet à ces causes de produire leurs effets.
+ 
+Puis la sourate enlève progressivement tout ce que l’homme pourrait interposer artificiellement entre lui et son Seigneur : les idoles, les astres, les règles religieuses inventées, les traditions sans preuve et même l’idée que le Prophète ﷺ posséderait indépendamment les trésors ou l’invisible.
+ 
+À la fin, il ne reste plus qu’une relation claire :
+ 
+le serviteur et son Seigneur.
+ 
+C’est pourquoi les versets 162 et 163 constituent probablement le résumé le plus parfait de toute la sourate :
+ 
+« Ma prière, mon sacrifice, ma vie et ma mort appartiennent à Allah, Seigneur des mondes. Il n’a aucun associé. »
+ 
+> [Sourate Al-An‘ām, versets 162-163]
+ 
+Al-An‘ām enseigne donc à ne pas simplement placer Allah parmi les choses importantes de sa vie.
+ 
+Elle invite à replacer toute sa vie autour d’Allah.
+ 
+Et peut-être que l’une des images les plus simples de la sourate permet de comprendre pourquoi :
+ 
+quelque part, au milieu d’une forêt immense, une feuille vient de tomber sans qu’aucun être humain ne l’ait remarquée.
+ 
+Allah, Lui, le sait.
+ 
+> [Sourate Al-An‘ām, verset 59]
+ 
+Si rien dans Sa création ne Lui échappe, alors aucune partie de notre existence ne Lui est inconnue non plus.
+ 
+Voilà peut-être l’essence d’Al-An‘ām : apprendre à regarder l’univers jusqu’à ce que chaque chose créée cesse d’être un écran entre Allah et nous et devienne, au contraire, un signe qui nous ramène vers Lui.
+
+
 [[/desc]]
 
 [[desc 7]]
+
+La sourate Al-A‘rāf (سورة الأعراف), septième sourate du Coran, est une grande sourate mecquoise de 206 versets. Elle appartient vraisemblablement à la période mecquoise tardive, alors que l’opposition des Quraysh envers le Prophète Muhammad ﷺ devenait particulièrement forte. Certains savants ont néanmoins considéré qu’un petit ensemble de versets pouvait avoir été révélé plus tard à Médine. 
+ 
+Son nom signifie « Les Hauteurs ». Il vient des versets 46 à 49, qui décrivent une séparation entre les habitants du Paradis et ceux de l’Enfer, sur laquelle se trouvent des hommes appelés Aṣḥāb al-A‘rāf, « les gens des Hauteurs ».
+ 
+Al-A‘rāf est l’une des grandes sourates du Coran consacrées à l’histoire de la guidance et de la résistance humaine à cette guidance. Elle commence avec Adam عليه السلام et Iblis, puis fait défiler Nūḥ, Hūd, Ṣāliḥ, Lūṭ, Shu‘ayb et surtout Mūsā عليهم السلام. À travers des peuples et des siècles différents, un même schéma revient : Allah envoie une guidance, des hommes sincères l’acceptent, tandis que l’orgueil, les passions ou l’attachement aux traditions empêchent d’autres de s’y soumettre. 
+ 
+La sourate pose donc une question fondamentale : que se passe-t-il dans le cœur d’un être humain lorsque la vérité devient suffisamment claire pour exiger de lui qu’il change ?
+ 
+## « Suivez ce qui vous a été descendu »
+ 
+Après les lettres mystérieuses Alif-Lām-Mīm-Ṣād, Allah présente le Coran comme un Livre révélé au Prophète ﷺ afin qu’il avertisse les hommes et rappelle la vérité aux croyants.
+ 
+Puis vient cet ordre :
+ 
+« Suivez ce qui vous a été descendu venant de votre Seigneur, et ne suivez pas en dehors de Lui d’autres alliés. »
+ 
+> [Sourate Al-A‘rāf, verset 3]
+ 
+Cette phrase donne presque la clé de toute la sourate. Il ne suffit pas que la guidance existe : encore faut-il la suivre lorsqu’elle entre en conflit avec ce que l’on désirait déjà croire ou faire.
+ 
+Les histoires qui suivent vont précisément montrer différentes réactions humaines face à cette situation.
+ 
+## La balance du Jour du Jugement
+ 
+Très tôt, Allah ramène le lecteur vers l’Au-delà et annonce qu’au Jour du Jugement les œuvres seront pesées avec justice.
+ 
+« La pesée, ce jour-là, sera équitable. Ceux dont la balance sera lourde seront les bienheureux. »
+ 
+> [Sourate Al-A‘rāf, verset 8]
+ 
+Ce rappel donne une autre dimension à la vie quotidienne. Une action peut sembler minuscule dans l’immensité du monde, mais rien n’est perdu auprès d’Allah. À l’inverse, une personne peut posséder une grande réputation terrestre tout en découvrant finalement que ce qu’elle considérait comme important ne pesait presque rien dans la balance.
+ 
+La sourate va continuellement opposer le poids réel des choses auprès d’Allah à leur apparence dans cette vie.
+ 
+## Adam عليه السلام et la première manifestation de l’orgueil
+ 
+Allah raconte ensuite la création d’Adam عليه السلام et l’ordre donné aux anges de se prosterner devant lui. Tous obéissent sauf Iblis.
+ 
+Allah lui demande :
+ 
+« Qu’est-ce qui t’a empêché de te prosterner lorsque Je te l’ai ordonné ? »
+ 
+Iblis répond :
+ 
+« Je suis meilleur que lui : Tu m’as créé de feu et Tu l’as créé d’argile. »
+ 
+> [Sourate Al-A‘rāf, verset 12]
+ 
+Le problème d’Iblis est particulièrement instructif : il ne nie pas Allah. Il sait qu’Allah l’a créé et il Lui parle directement. Son égarement vient de l’orgueil : il considère son propre jugement supérieur à l’ordre qu’il a reçu.
+ 
+Allah lui demande une chose ; Iblis répond en substance : je pense savoir mieux pourquoi je ne devrais pas l’accomplir.
+ 
+C’est ce qui rend son histoire universelle. L’orgueil spirituel n’est pas nécessairement de ne rien connaître d’Allah. On peut connaître beaucoup de choses tout en devenant incapable de dire simplement :
+ 
+« J’avais tort. »
+ 
+## La comparaison qui nourrit l’orgueil
+ 
+Le raisonnement d’Iblis repose aussi sur une comparaison : je suis meilleur que lui.
+ 
+Le feu lui paraît supérieur à l’argile ; il en conclut qu’il est lui-même supérieur à Adam.
+ 
+Le mécanisme existe encore chez l’être humain. On peut se comparer aux autres par l’intelligence, la richesse, la beauté, la famille, l’origine, les connaissances ou même la pratique religieuse. Et ce qui commence comme une simple comparaison peut progressivement devenir :
+ 
+« Je suis meilleur. »
+ 
+Puis :
+ 
+« Je n’ai donc rien à apprendre de lui. »
+ 
+Puis finalement :
+ 
+« Je n’ai rien à me reprocher. »
+ 
+Al-A‘rāf montre dès ses premiers versets à quel point l’orgueil peut transformer une connaissance réelle en cause d’égarement.
+ 
+## Adam et Iblis : deux manières de réagir après une faute
+ 
+Satan trompe ensuite Adam عليه السلام et son épouse afin qu’ils mangent de l’arbre qui leur avait été interdit.
+ 
+Ils désobéissent donc eux aussi.
+ 
+Mais leur réaction est l’exact opposé de celle d’Iblis :
+ 
+« Notre Seigneur ! Nous avons fait du tort à nous-mêmes. Et si Tu ne nous pardonnes pas et ne nous fais pas miséricorde, nous serons certainement du nombre des perdants. »
+
+> [Sourate Al-A‘rāf, verset 23]
+ 
+Iblis faute puis se justifie.
+ 
+Adam عليه السلام faute puis reconnaît sa faute.
+ 
+Voilà l’une des grandes oppositions de toute la sourate. Ce qui distingue profondément Adam d’Iblis n’est pas simplement que l’un a désobéi et l’autre non : les deux ont désobéi. Mais l’un revient humblement vers Allah tandis que l’autre transforme son péché en orgueil durable.
+ 
+La leçon est extrêmement importante : tomber n’est pas la même chose que choisir de rester à terre.
+ 
+## Le plan annoncé de Satan
+ 
+Iblis demande alors un délai et annonce qu’il cherchera à égarer les descendants d’Adam :
+ 
+« Puisque Tu m’as laissé m’égarer, je m’assoirai pour eux sur Ton droit chemin. Puis je les assaillirai de devant eux, de derrière eux, de leur droite et de leur gauche. Et Tu ne trouveras pas la plupart d’entre eux reconnaissants. »
+ 
+> [Sourate Al-A‘rāf, versets 16-17]
+ 
+Une expression est particulièrement frappante : Satan annonce qu’il s’installera sur le droit chemin.
+ 
+Il ne cherche donc pas uniquement les personnes complètement éloignées d’Allah. Il cherche aussi à détourner celui qui essaie justement de se rapprocher de Lui : par la distraction, l’exagération, le découragement, l’orgueil religieux ou le désespoir après une faute.
+ 
+Et Iblis termine en parlant de gratitude : son objectif est que les hommes ne soient plus reconnaissants envers Allah.
+ 
+Cela montre combien le shukr est puissant. Être reconnaissant, c’est se rappeler continuellement : ce que je possède n’est pas né de moi seul ; je dépends d’Allah. La gratitude attaque donc directement la racine de l’orgueil satanique.
+ 
+## Satan présente le mal comme un bien
+ 
+Lorsque Satan cherche à convaincre Adam et son épouse, il ne leur dit évidemment pas : désobéissez à Allah parce que je veux votre perte.
+ 
+Il leur présente au contraire l’interdit comme quelque chose qui leur cacherait un avantage : une condition supérieure ou une forme d’immortalité. Il va jusqu’à leur jurer qu’il est un conseiller sincère.
+ 
+> [Sourate Al-A‘rāf, versets 20-21]
+ 
+La tentation fonctionne souvent de cette manière. Le mal est rarement présenté intérieurement avec l’étiquette « mal ». Il peut être rebaptisé :
+-	liberté ;
+-	nécessité ;
+-	exception ;
+-	plaisir sans conséquence ;
+-	ou décision raisonnable « pour cette fois seulement ».
+ 
+L’un des grands dangers spirituels n’est donc pas seulement d’accomplir quelque chose que l’on sait mauvais, mais de finir par modifier son regard jusqu’à ne plus considérer le mauvais comme mauvais.
+ 
+## Le vêtement extérieur et le « vêtement de la taqwā »
+ 
+Après la désobéissance, Adam عليه السلام et son épouse prennent conscience de leur nudité et cherchent à se couvrir.
+ 
+Allah utilise alors cet épisode pour s’adresser à l’ensemble de leurs descendants :
+ 
+« Ô enfants d’Adam ! Nous avons fait descendre sur vous un vêtement pour cacher votre nudité ainsi que des parures. Mais le vêtement de la taqwā est meilleur. »
+> [Sourate Al-A‘rāf, verset 26]
+ 
+Le Coran reconnaît donc le vêtement extérieur, la pudeur et même la parure, mais rappelle qu’il existe également un vêtement intérieur : la conscience d’Allah.
+ 
+La pudeur ne commence pas uniquement par ce que l’on met sur son corps. Elle commence dans un cœur qui sait qu’il est vu par Allah.
+ 
+## « Que Satan ne vous tente pas comme il a tenté vos parents »
+ 
+Allah transforme ensuite directement l’histoire d’Adam en avertissement adressé à chacun :
+ 
+> « Ô enfants d’Adam ! Que Satan ne vous tente pas comme il a fait sortir vos parents du Paradis. »
+> [Sourate Al-A‘rāf, verset 27]
+ 
+L’histoire des origines n’est donc pas racontée pour satisfaire une curiosité sur le passé. Elle explique notre propre situation.
+ 
+Le même ennemi existe.
+ 
+Les mécanismes restent similaires.
+ 
+Et le croyant reçoit dès maintenant la possibilité d’apprendre de ce qui s’est passé auparavant.
+ 
+## Profiter des bienfaits sans tomber dans l’excès
+ 
+Allah dit ensuite :
+ 
+> « Ô enfants d’Adam ! Prenez votre parure à chaque lieu de prière. Mangez et buvez, mais ne commettez pas d’excès. »
+> [Sourate Al-A‘rāf, verset 31]
+ 
+Le verset crée un équilibre caractéristique du Coran. La spiritualité n’exige pas de considérer tout plaisir comme mauvais. On peut manger, boire, s’habiller correctement et profiter de ce qu’Allah a rendu licite.
+ 
+Mais le bienfait possède une limite : ne pas passer de la jouissance à l’excès.
+ 
+Le verset suivant demande même :
+ 
+« Qui donc a interdit la parure d’Allah qu’Il a produite pour Ses serviteurs ainsi que les bonnes nourritures ? »
+ 
+> [Sourate Al-A‘rāf, verset 32]
+ 
+La piété consiste donc à laisser Allah définir ce qui est licite et illicite, sans inventer soi-même une religion où tout ce qui est agréable deviendrait suspect.
+ 
+## Les scènes du Paradis et de l’Enfer
+ 
+Al-A‘rāf contient ensuite des scènes extrêmement vivantes de l’Au-delà. Les habitants du Paradis et ceux de l’Enfer reconnaissent finalement que les promesses et les avertissements d’Allah étaient vrais.
+ 
+Ce qui était autrefois une question de foi devient une réalité visible.
+ 
+Dans cette vie, l’être humain peut demander :
+ 
+« Est-ce vraiment vrai ? »
+ 
+Dans l’autre vie, cette question n’existera plus. La seule question restante sera :
+ 
+« Qu’ai-je fait lorsque j’avais encore la possibilité de choisir ? »
+ 
+## Qui sont les gens d’Al-A‘rāf ?
+ 
+Allah décrit une séparation entre le Paradis et l’Enfer :
+ 
+> « Et sur Al-A‘rāf seront des hommes qui reconnaîtront chacun à leurs signes. Ils appelleront les habitants du Paradis : “Paix sur vous !” Ils n’y sont pas encore entrés, mais ils l’espèrent. »
+> [Sourate Al-A‘rāf, verset 46]
+ 
+C’est ce passage qui donne son nom à la sourate.
+ 
+Le Coran ne précise pas explicitement l’identité exacte de ces hommes. Plusieurs interprétations ont donc été rapportées par les exégètes. L’une des plus connues considère qu’il s’agit de personnes dont les bonnes et mauvaises actions se seraient équilibrées et qui attendraient le jugement d’Allah avant d’entrer finalement au Paradis.
+ 
+Mais ce détail ne doit pas être présenté comme une certitude coranique. Le texte établit surtout qu’ils se trouvent sur les Hauteurs, reconnaissent les deux groupes, espèrent le Paradis et craignent d’être associés aux injustes.
+ 
+## Les classements humains seront renversés
+ 
+Les gens d’Al-A‘rāf voient également des personnes qui possédaient autrefois prestige, nombre ou richesse et leur rappellent que tout ce qu’elles accumulaient n’a finalement servi à rien contre le jugement d’Allah.
+ 
+Puis certaines personnes autrefois peut-être méprisées par les hommes se voient dire :
+ 
+> « Entrez au Paradis. Vous n’aurez rien à craindre et vous ne serez point affligés. »
+> [Sourate Al-A‘rāf, versets 48-49]
+ 
+L’Au-delà renverse ainsi les classements humains. Celui qui paraissait insignifiant sur terre peut posséder un rang immense auprès d’Allah, tandis que celui devant lequel tout le monde s’inclinait socialement peut découvrir qu’il n’avait construit aucune véritable valeur pour l’éternité.
+ 
+## « Invoquez votre Seigneur avec humilité »
+ 
+La sourate ramène ensuite le regard vers Allah, Créateur des cieux et de la terre, puis ordonne :
+ 
+« Invoquez votre Seigneur avec humilité et discrètement. »
+ 
+> [Sourate Al-A‘rāf, verset 55]
+ 
+Et :
+ 
+« Invoquez-Le avec crainte et espoir. »
+ 
+> [Sourate Al-A‘rāf, verset 56]
+ 
+Ces deux sentiments — crainte et espérance — forment un équilibre majeur de la vie spirituelle.
+ 
+Une crainte sans espoir peut conduire au désespoir. Un espoir sans crainte peut produire l’insouciance. Le croyant connaît ses fautes mais connaît aussi la miséricorde d’Allah ; il espère donc profondément tout en refusant de banaliser ce qui l’éloigne de Lui.
+ 
+## La pluie comme signe de la Résurrection
+ 
+Allah décrit ensuite les vents qui portent les nuages vers une terre morte. La pluie tombe, la terre reprend vie et les fruits apparaissent.
+ 
+Puis Allah conclut :
+ 
+« C’est ainsi que Nous ferons sortir les morts. »
+ 
+> [Sourate Al-A‘rāf, verset 57]
+ 
+La Résurrection n’est donc pas présentée uniquement comme une affirmation abstraite. Le Coran demande à l’être humain de regarder un phénomène qu’il observe continuellement : une terre apparemment morte qui redevient vivante.
+ 
+Celui qui produit cette renaissance devant nos yeux possède évidemment le pouvoir de redonner vie aux êtres humains.
+ 
+## Une succession de prophètes, un seul message
+ 
+Commence alors une longue série de récits prophétiques.
+ 
+Nūḥ عليه السلام dit :
+ 
+« Ô mon peuple ! Adorez Allah. Vous n’avez aucune divinité en dehors de Lui. »
+ 
+> [Sourate Al-A‘rāf, verset 59]
+ 
+Hūd عليه السلام dit presque la même chose à ‘Ād.
+ 
+Ṣāliḥ عليه السلام le dit à Thamūd.
+ 
+Shu‘ayb عليه السلام le dit à Madyan.
+ 
+Les peuples changent et leurs problèmes particuliers diffèrent, mais le cœur de la mission prophétique ne change pas : adorer Allah seul.
+ 
+C’est l’une des grandes démonstrations d’Al-A‘rāf : les prophètes ne sont pas les fondateurs de religions rivales adorant des dieux différents. Ils sont les messagers successifs du même Seigneur.
+ 
+## Nūḥ عليه السلام : conseiller sincèrement même lorsqu’on est rejeté
+ 
+Nūḥ عليه السلام appelle son peuple et les avertit du châtiment d’un Jour terrible.
+ 
+Les dirigeants lui répondent qu’ils le considèrent comme égaré.
+ 
+Nūḥ ne réagit pas en insultant son peuple. Il leur explique qu’il n’est pas dans l’égarement, mais qu’il est messager du Seigneur des mondes et qu’il leur transmet les messages de son Seigneur tout en les conseillant sincèrement.
+ 
+Le prophète peut donc être traité de fou, d’égaré ou de menteur et pourtant continuer à vouloir sincèrement le bien de ceux-là mêmes qui le rejettent.
+ 
+## Hūd عليه السلام et le danger de transformer la puissance en orgueil
+ 
+Hūd عليه السلام est envoyé au peuple de ‘Ād, auquel Allah avait accordé une grande force.
+ 
+Il leur rappelle précisément ce bienfait et les invite à se souvenir d’Allah afin de réussir.
+ 
+Le problème n’est pas leur puissance. C’est ce qu’elle produit dans leurs cœurs.
+ 
+Un bienfait peut conduire à dire :
+ 
+« Alḥamdulillāh, Allah m’a donné cela. »
+ 
+Ou :
+ 
+« J’ai cela parce que je suis supérieur. »
+ 
+La même force extérieure peut donc devenir soit une cause de gratitude, soit une cause d’orgueil.
+ 
+## Ṣāliḥ عليه السلام et la chamelle
+ 
+Ṣāliḥ عليه السلام est envoyé aux Thamūd. Allah leur avait donné la capacité de construire dans les plaines et de tailler des demeures dans les montagnes.
+ 
+Ils reçoivent ensuite un signe manifeste : la chamelle d’Allah.
+ 
+Ṣāliḥ leur ordonne de ne pas lui faire de mal.
+ 
+Mais l’orgueil conduit certains à tuer la chamelle puis à défier leur prophète de faire venir le châtiment annoncé.
+ 
+> [Sourate Al-A‘rāf, versets 73-77]
+ 
+L’histoire détruit l’idée selon laquelle il suffirait nécessairement de voir un miracle spectaculaire pour croire. Les Thamūd reçoivent précisément un signe et choisissent pourtant de s’y opposer.
+ 
+Le problème peut donc être moins l’absence de preuves que l’existence d’un cœur qui ne veut plus se soumettre à aucune preuve.
+ 
+## Lūṭ عليه السلام et son peuple
+ 
+Lūṭ عليه السلام condamne les pratiques sexuelles de son peuple, notamment le fait que les hommes recherchent sexuellement les hommes plutôt que les femmes dans ce qui est décrit comme une transgression.
+ 
+> [Sourate Al-A‘rāf, versets 80-81]
+ 
+La réaction du peuple est frappante : plutôt que de véritablement répondre à l’avertissement, certains demandent que Lūṭ et ceux qui souhaitent rester purs soient expulsés de la cité.
+ 
+Allah sauve finalement Lūṭ عليه السلام et sa famille, à l’exception de son épouse, qui se trouve parmi ceux qui restent avec le peuple condamné.
+ 
+Le récit rappelle un principe que l’on retrouve souvent dans le Coran : la proximité familiale avec un prophète ne remplace jamais la responsabilité personnelle.
+ 
+## Shu‘ayb عليه السلام : Allah regarde aussi la manière dont on commerce
+ 
+Shu‘ayb عليه السلام est envoyé à Madyan.
+ 
+Son appel commence lui aussi par le Tawḥīd, mais il dénonce en plus une corruption économique très concrète : son peuple triche dans les poids et les mesures et lèse les autres dans leurs biens.
+ 
+[Sourate Al-A‘rāf, verset 85]
+ 
+La foi entre donc jusque dans le marché.
+ 
+On ne peut pas séparer totalement « religion » et « affaires » comme si Allah ne regardait que la prière. Une personne peut avoir un discours spirituel tout en étant malhonnête dans ses ventes, ses contrats ou ses comptes.
+ 
+Shu‘ayb عليه السلام rappelle que la balance du commerçant se trouve elle aussi sous le regard d’Allah.
+ 
+## Pourquoi ces histoires se répètent-elles ?
+ 
+Les récits de Nūḥ, Hūd, Ṣāliḥ, Lūṭ et Shu‘ayb possèdent volontairement une structure similaire. Chaque prophète appelle à Allah, les dirigeants arrogants résistent, les croyants sont souvent méprisés et, après de nombreux avertissements, vient finalement le jugement.
+ 
+Cette répétition possède une fonction particulièrement importante dans une sourate mecquoise tardive.
+ 
+Elle dit implicitement aux Quraysh :
+ 
+Muhammad ﷺ n’est pas le premier messager à être rejeté, et vous n’êtes pas le premier peuple puissant à penser que votre position présente vous rend invulnérables. 
+ 
+Et simultanément, elle dit au Prophète ﷺ :
+ 
+tu n’es pas seul dans ce que tu traverses.
+ 
+## Les difficultés et les bienfaits peuvent tous deux être des appels
+ 
+Allah explique qu’Il éprouva les populations par la difficulté afin qu’elles s’humilient, puis remplaça parfois le malheur par le bien-être.
+ 
+Mais certaines personnes finirent par dire simplement :
+ 
+« Nos pères aussi ont connu la difficulté et l’aisance. »
+ 
+> [Sourate Al-A‘rāf, versets 94-95]
+ 
+Autrement dit, elles traversent les événements sans jamais y lire la moindre occasion de revenir vers Allah.
+ 
+Une difficulté arrive : elle n’apprend rien.
+ 
+Une bénédiction arrive : elle ne produit aucune gratitude.
+ 
+La sourate montre donc que l’épreuve n’est pas automatiquement éducative. Il faut encore posséder un cœur capable d’en tirer une leçon.
+ 
+## « Si les habitants des cités avaient cru… »
+ 
+Allah dit ensuite :
+ 
+« Si les habitants des cités avaient cru et pratiqué la taqwā, Nous leur aurions ouvert des bénédictions du ciel et de la terre. »
+
+> [Sourate Al-A‘rāf, verset 96]
+ 
+Il ne faut pas transformer ce verset en formule simpliste selon laquelle toute personne pieuse deviendrait automatiquement riche ou ne connaîtrait jamais la souffrance. Les prophètes eux-mêmes furent profondément éprouvés.
+ 
+Le passage établit plutôt un lien entre foi, justice, taqwā et baraka, et rappelle qu’une société peut aussi perdre certains bienfaits par sa corruption persistante.
+ 
+## Mūsā عليه السلام face à Pharaon
+ 
+La plus grande partie narrative de la sourate est ensuite consacrée à Mūsā عليه السلام.
+ 
+Allah l’envoie avec Ses signes auprès de Pharaon et de ses dirigeants. Lorsque Mūsā montre son bâton et sa main lumineuse, les notables cherchent immédiatement une explication leur permettant de rejeter le signe : ils l’accusent d’être un sorcier particulièrement habile.
+ 
+> [Sourate Al-A‘rāf, versets 103-110]
+ 
+Encore une fois, le signe ne suffit pas mécaniquement à produire la foi. Celui qui ne veut pas accepter ce qu’un événement implique peut toujours chercher une interprétation permettant de préserver son système précédent.
+ 
+## Les magiciens reconnaissent immédiatement ce que Pharaon refuse de reconnaître
+ 
+Pharaon rassemble alors ses meilleurs magiciens pour affronter Mūsā عليه السلام devant le peuple.
+ 
+Avant l’affrontement, les magiciens demandent même à Pharaon quelle récompense ils obtiendront s’ils gagnent. Il leur promet richesse et proximité avec lui.
+ 
+Ils commencent donc la journée en cherchant la faveur de Pharaon.
+ 
+Mais lorsque Mūsā jette son bâton et que le miracle d’Allah engloutit leurs artifices, eux qui connaissent parfaitement la magie comprennent immédiatement que ce qu’ils viennent de voir n’appartient pas à leur art.
+ 
+Alors :
+ 
+ils tombent prosternés.
+ 
+« Nous croyons au Seigneur des mondes, le Seigneur de Mūsā et de Hārūn. »
+ 
+> [Sourate Al-A‘rāf, versets 120-122]
+ 
+## Quelques instants peuvent suffire à transformer toute une vie
+ 
+Pharaon menace alors les magiciens de leur couper mains et pieds opposés puis de les crucifier.
+ 
+Mais leur cœur a déjà changé.
+ 
+Quelques instants auparavant, ils demandaient :
+ 
+« Quelle sera notre récompense auprès de Pharaon ? »
+ 
+Quelques instants plus tard, ils sont prêts à mourir plutôt que de renier :
+ 
+le Seigneur de Mūsā et de Hārūn.
+ 
+Ils invoquent :
+ 
+« Notre Seigneur ! Déverse sur nous la patience et fais-nous mourir entièrement soumis à Toi. »
+ 
+> [Sourate Al-A‘rāf, verset 126]
+ 
+C’est l’une des conversions intérieures les plus spectaculaires du Coran.
+ 
+Elle montre qu’une longue vie dans l’erreur n’interdit pas à Allah de transformer un cœur au moment où celui-ci reconnaît sincèrement la vérité.
+ 
+## Iblis refuse de se prosterner ; les magiciens se prosternent
+ 
+Il existe d’ailleurs un contraste remarquable dans la structure de la sourate.
+ 
+Au début, Iblis connaît Allah mais refuse de se prosterner par orgueil.
+ 
+Plus tard, des magiciens qui servaient le régime de Pharaon voient un signe et tombent immédiatement prosternés.
+ 
+L’un possède une connaissance considérable mais son ego l’empêche de se soumettre.
+ 
+Les autres étaient quelques minutes auparavant du côté de l’erreur, mais lorsqu’ils comprennent réellement, ils acceptent immédiatement les conséquences.
+ 
+La question n’est donc pas seulement :
+ 
+« Depuis combien de temps suis-je dans la vérité ou dans l’erreur ? »
+ 
+Mais :
+ 
+« Que fais-je lorsque la vérité devient claire ? »
+ 
+## Les épreuves envoyées à Pharaon
+ 
+Pharaon et son entourage persistent. Allah les éprouve alors notamment par des années difficiles et une diminution des récoltes, puis par différents signes : le déluge, les sauterelles, les parasites, les grenouilles et le sang.
+ 
+> [Sourate Al-A‘rāf, versets 130-133]
+ 
+À plusieurs reprises, ils demandent à Mūsā d’invoquer Allah afin que l’épreuve soit retirée et promettent qu’ils changeront.
+ 
+Puis, lorsque le soulagement arrive, ils rompent leur promesse.
+ 
+Le comportement est profondément humain : se souvenir d’Allah dans la détresse puis retrouver l’insouciance lorsque le danger disparaît.
+ 
+La sourate invite donc à ne pas attendre la catastrophe pour redevenir conscient de Celui dont nous dépendons continuellement.
+ 
+## La chute de Pharaon et le renversement du rapport de force
+ 
+Finalement, Pharaon et ses forces sont engloutis, tandis que les enfants d’Israël, autrefois persécutés, sont délivrés.
+ 
+> [Sourate Al-A‘rāf, versets 136-137]
+ 
+Le renversement est spectaculaire.
+ 
+L’homme qui semblait contrôler l’avenir d’un peuple entier ne peut finalement pas empêcher l’eau de l’engloutir.
+ 
+La sourate rappelle ainsi que la puissance visible à un instant de l’histoire n’est jamais la puissance absolue.
+ 
+Un oppresseur peut sembler intouchable pendant des années.
+ 
+Il reste une créature.
+ 
+## Après avoir vu tous ces signes… demander une idole
+ 
+L’un des épisodes les plus étonnants survient presque immédiatement après le salut des enfants d’Israël.
+ 
+Ils passent auprès d’un peuple voué à certaines idoles et certains demandent à Mūsā :
+ 
+« Fais-nous une divinité comme eux ont des divinités. »
+ 
+> [Sourate Al-A‘rāf, verset 138]
+ 
+Ils viennent pourtant d’assister à des signes extraordinaires.
+ 
+La leçon est importante : une expérience spirituelle spectaculaire ne garantit pas une foi stable pour le reste de la vie.
+ 
+Le cœur doit être continuellement éduqué.
+ 
+Une personne peut vivre un moment très fort, ressentir une proximité immense avec Allah, puis progressivement reprendre d’anciennes habitudes si cette foi n’est pas entretenue par la connaissance, l’adoration et la vigilance.
+ 
+## Les quarante nuits de Mūsā عليه السلام
+ 
+Allah donne ensuite rendez-vous à Mūsā pour trente nuits, auxquelles dix sont ajoutées, portant la période à quarante nuits.
+ 
+Avant de partir, Mūsā confie son peuple à son frère Hārūn عليه السلام.
+ 
+> [Sourate Al-A‘rāf, verset 142]
+ 
+Il reçoit ensuite les Tables contenant exhortation et enseignement.
+ 
+Mais pendant son absence, une partie de son peuple se détourne et adopte le veau comme objet de culte.
+ 
+Encore une fois, la proximité avec les miracles n’empêche pas automatiquement l’égarement lorsque le cœur cesse d’être vigilant.
+ 
+« Seigneur, montre-Toi à moi »
+ 
+Durant cette rencontre, Mūsā عليه السلام demande :
+ 
+« Seigneur ! Montre-Toi à moi afin que je Te voie. »
+ 
+Allah lui répond qu’il ne pourra pas Le voir dans cette condition terrestre et lui demande de regarder la montagne : si elle reste en place lorsque se manifeste ce qu’Allah veut lui manifester de Sa gloire, alors Mūsā pourra voir.
+ 
+Lorsque la manifestation atteint la montagne, celle-ci est pulvérisée et Mūsā tombe inconscient.
+ 
+Lorsqu’il revient à lui, il glorifie Allah.
+ 
+> [Sourate Al-A‘rāf, verset 143]
+ 
+La scène montre l’immense disproportion entre la majesté du Créateur et les capacités actuelles de la créature.
+ 
+Dans la doctrine sunnite classique, les croyants verront Allah dans l’Au-delà, mais Mūsā عليه السلام n’a pas reçu cette vision directe dans sa condition terrestre.
+ 
+## Le veau d’or : lorsque l’homme adore ce qui ne peut même pas lui parler
+ 
+Pendant l’absence de Mūsā, certains enfants d’Israël adoptent le veau.
+ 
+Allah souligne l’absurdité de leur comportement :
+ 
+le veau ne leur parle pas et ne peut les guider vers aucune voie.
+ 
+> [Sourate Al-A‘rāf, verset 148]
+ 
+Le Tawḥīd replace ici les choses dans leur ordre naturel. Comment l’homme peut-il demander une guidance ultime à quelque chose qui dépend elle-même de la création ?
+ 
+Lorsque Mūsā revient, il est profondément en colère et attristé. Après avoir compris la situation de son frère Hārūn عليه السلام, il demande pardon à Allah pour lui-même et pour son frère.
+ 
+## « Ma miséricorde embrasse toute chose »
+ 
+Mūsā invoque ensuite Allah, qui lui répond :
+ 
+« Ma miséricorde embrasse toute chose. »
+ 
+> [Sourate Al-A‘rāf, verset 156]
+ 
+Puis Allah précise qu’Il réservera particulièrement cette miséricorde dans l’Au-delà à ceux qui pratiquent la taqwā, s’acquittent de la zakāt et croient en Ses signes.
+ 
+Le verset réunit encore une fois deux réalités que le croyant ne doit pas opposer : l’immensité de la miséricorde d’Allah et la responsabilité de l’être humain.
+ 
+Allah est infiniment Miséricordieux.
+ 
+Cela ne signifie pas que la manière dont nous Lui répondons n’a aucune importance.
+ 
+## L’annonce du Messager ﷺ
+ 
+Dans la continuité du récit de Mūsā, Allah parle de ceux qui suivent :
+ 
+« le Messager, le Prophète illettré »
+ 
+qu’ils trouvent décrit dans la Torah et l’Évangile, et qui commande le bien, interdit le mal, rend licites les bonnes choses et les libère de certains fardeaux.
+ 
+> [Sourate Al-A‘rāf, verset 157]
+ 
+Puis Allah élargit explicitement l’appel :
+ 
+« Dis : Ô hommes ! Je suis pour vous tous le Messager d’Allah. »
+ 
+> [Sourate Al-A‘rāf, verset 158]
+ 
+Muhammad ﷺ apparaît donc dans la continuité de la longue histoire prophétique racontée depuis le début de la sourate : un nouveau messager, mais le même Seigneur.
+ 
+## Tous les enfants d’Israël ne sont pas identiques
+ 
+Après avoir raconté plusieurs désobéissances commises par certaines générations des enfants d’Israël, Allah précise :
+ 
+« Parmi le peuple de Mūsā se trouve une communauté qui guide par la vérité et pratique par elle la justice. »
+ 
+> [Sourate Al-A‘rāf, verset 159]
+ 
+Cette phrase est essentielle pour éviter les généralisations.
+ 
+Le Coran peut condamner extrêmement fermement des actes accomplis par certains groupes ou certaines générations tout en reconnaissant explicitement les personnes droites appartenant à la même communauté.
+ 
+Le critère n’est donc pas simplement l’étiquette ethnique ou communautaire : ce sont la vérité, la foi et les actes.
+ 
+## Les gens du Sabbat et l’art de contourner une interdiction
+ 
+La sourate raconte ensuite l’histoire d’une communauté établie près de la mer et éprouvée concernant le Sabbat.
+ 
+Les poissons venaient en abondance le jour où la pêche leur était interdite et beaucoup moins les autres jours. Certains cherchèrent alors à contourner la règle.
+ 
+> [Sourate Al-A‘rāf, verset 163]
+ 
+Le récit souligne une forme particulière de désobéissance : ne pas toujours enfreindre frontalement une règle, mais chercher un procédé extérieur permettant de respecter la lettre tout en détruisant volontairement l’objectif du commandement.
+ 
+Une partie de la communauté avertissait ceux qui agissaient ainsi. Une autre demandait pourquoi continuer à conseiller des personnes qui semblaient ne vouloir rien entendre.
+ 
+Les conseillers répondirent :
+ 
+« Afin d’avoir une excuse devant votre Seigneur et peut-être pratiqueront-ils la taqwā. »
+ 
+> [Sourate Al-A‘rāf, verset 164]
+ 
+Le résultat n’est donc pas toujours entre les mains de celui qui conseille. Il peut néanmoins rester responsable de transmettre sincèrement ce qu’il doit transmettre.
+ 
+## « Soyez des singes méprisés »
+ 
+Lorsque les transgresseurs persistent malgré les avertissements, Allah dit :
+ 
+« Soyez des singes méprisés. »
+ 
+> [Sourate Al-A‘rāf, verset 166]
+ 
+Le Coran présente ici un châtiment particulier appliqué à un groupe précis dans son contexte historique. Il ne faut évidemment pas transformer ce passage en insulte destinée à des populations juives contemporaines : le texte vise les transgresseurs de cet épisode, et quelques versets auparavant il avait explicitement reconnu l’existence de personnes droites parmi le peuple de Mūsā.
+ 
+## Hériter d’un Livre ne garantit pas de lui être fidèle
+ 
+Allah décrit ensuite certaines générations ayant hérité de l’Écriture mais préférant les avantages de la vie présente tout en disant :
+ 
+« Il nous sera pardonné. »
+ 
+Puis, si un avantage similaire leur est de nouveau proposé, elles le reprennent.
+ 
+> [Sourate Al-A‘rāf, verset 169]
+ 
+Le problème n’est donc pas simplement de commettre une faute puis espérer le pardon. Le problème est d’utiliser le pardon d’Allah comme justification pour recommencer volontairement sans véritable désir de changer.
+ 
+L’espoir en Allah est une vertu.
+ 
+Utiliser Sa miséricorde comme prétexte pour vivre sans repentance réelle en est une autre.
+ 
+## Le pacte primordial : « Ne suis-Je pas votre Seigneur ? »
+ 
+Puis vient l’un des passages les plus profonds de toute la sourate.
+ 
+Allah rappelle qu’Il fit témoigner les descendants d’Adam contre eux-mêmes :
+ 
+« Ne suis-Je pas votre Seigneur ? »
+ 
+Ils répondirent :
+ 
+« Mais si, nous en témoignons. »
+ 
+> [Sourate Al-A‘rāf, verset 172] 
+ 
+Le verset explique que ce témoignage empêche l’être humain de se réfugier entièrement derrière deux excuses :
+ 
+« Nous ne savions rien »
+ 
+ou
+ 
+« Ce sont simplement nos ancêtres qui étaient polythéistes, et nous les avons suivis. » 
+ 
+Les exégètes ont longuement discuté de la nature précise de ce témoignage primordial et de son lien avec la fiṭrah, la disposition naturelle de l’être humain à reconnaître son Seigneur.
+ 
+En revanche, le verset ne dit pas que les âmes auraient, avant leur naissance, choisi d’accepter « la responsabilité du libre arbitre ». Ce qui est explicitement mentionné ici est le témoignage concernant la Seigneurie d’Allah : « Ne suis-Je pas votre Seigneur ? — Mais si. » 
+ 
+## La tradition des ancêtres n’est pas une preuve suffisante
+ 
+Le verset 173 évoque précisément l’excuse :
+ 
+« Nos pères associaient avant nous, et nous n’étions que leurs descendants. »
+ 
+La leçon s’adresse directement aux Quraysh, profondément attachés aux pratiques religieuses héritées de leurs ancêtres.
+ 
+Une tradition peut être ancienne, largement répandue et extrêmement importante culturellement sans être nécessairement vraie.
+ 
+La foi demande donc parfois un courage particulier : examiner honnêtement ce que l’on a hérité plutôt que croire automatiquement que l’ancienneté constitue une preuve.
+ 
+## Celui qui reçut les signes puis choisit de s’en détacher
+ 
+Allah raconte ensuite l’histoire d’un homme auquel Il avait accordé Ses signes, mais qui s’en détacha. Satan le poursuivit alors et il devint parmi les égarés.
+ 
+Allah explique qu’Il aurait pu l’élever par ces signes, mais que l’homme s’attacha à la terre et suivit ses passions.
+ 
+> [Sourate Al-A‘rāf, versets 175-176] 
+ 
+Le Coran ne donne pas son nom.
+ 
+Des récits d’exégèse l’ont identifié à différents personnages, notamment à Bal‘ām ibn Bā‘ūrā’, mais cette identification ne doit pas être présentée comme certaine.
+ 
+Le véritable enseignement se suffit à lui-même : posséder de la connaissance religieuse ne garantit pas la réussite si cette connaissance cesse de gouverner la vie.
+ 
+La science peut élever quelqu’un très haut.
+ 
+Mais plus une personne connaît, moins elle peut prétendre qu’elle ne savait pas.
+ 
+## Des yeux qui voient sans réellement voir
+ 
+Allah décrit ensuite des hommes qui possèdent des cœurs, des yeux et des oreilles mais ne les utilisent pas pour reconnaître la vérité :
+ 
+« Ils ont des cœurs avec lesquels ils ne comprennent pas, des yeux avec lesquels ils ne voient pas et des oreilles avec lesquelles ils n’entendent pas. »
+ 
+> [Sourate Al-A‘rāf, verset 179]
+ 
+Il ne s’agit évidemment pas d’une cécité physique.
+ 
+Ils peuvent voir un phénomène et ne rien en tirer.
+ 
+Entendre une parole et ne jamais la laisser entrer.
+ 
+Posséder une grande intelligence et l’utiliser uniquement pour défendre leurs propres passions.
+ 
+Le Coran rappelle ainsi que la capacité intellectuelle ne suffit pas à garantir la clairvoyance spirituelle.
+ 
+## Les plus beaux Noms appartiennent à Allah
+ 
+Vient ensuite cette parole :
+ 
+« C’est à Allah qu’appartiennent les plus beaux Noms. Invoquez-Le donc par ces Noms. »
+ 
+[Sourate Al-A‘rāf, verset 180]
+ 
+Connaître les Noms d’Allah ne devrait donc pas être seulement un exercice de mémorisation.
+ 
+Ils sont une manière de connaître Celui que l’on adore.
+ 
+Lorsque le croyant demande pardon, il se souvient qu’Allah est Al-Ghafūr.
+ 
+Lorsqu’il demande miséricorde, il connaît Ar-Raḥmān et Ar-Raḥīm.
+ 
+Lorsqu’il se sent faible, il se rappelle la puissance d’Allah.
+ 
+La connaissance des Noms doit ainsi nourrir l’invocation et transformer la relation avec Lui.
+ 
+## Quand aura lieu l’Heure ?
+ 
+Les hommes interrogent ensuite Muhammad ﷺ sur le moment de l’Heure.
+ 
+Allah lui ordonne de répondre :
+ 
+« Sa connaissance n’est qu’auprès de mon Seigneur. »
+ 
+> [Sourate Al-A‘rāf, verset 187]
+ 
+Même le Prophète Muhammad ﷺ ne possède donc pas par lui-même une connaissance illimitée de l’invisible.
+ 
+Le verset suivant lui fait également dire :
+ 
+« Je ne possède pour moi-même ni profit ni dommage sauf ce qu’Allah veut. Et si je connaissais l’invisible, j’aurais obtenu beaucoup de biens et aucun mal ne m’aurait touché. »
+ 
+> [Sourate Al-A‘rāf, verset 188]
+ 
+Cela ne diminue absolument pas le rang exceptionnel du Prophète ﷺ. Au contraire, cela protège la nature même de sa mission : il est le Messager d’Allah et Son serviteur, non une divinité partageant indépendamment les attributs de son Seigneur.
+ 
+## Les faux dieux ne possèdent même pas les facultés ordinaires d’une créature
+ 
+La sourate revient ensuite aux idoles et demande :
+ 
+ont-elles des pieds avec lesquels elles marchent ? Des mains avec lesquelles elles saisissent ? Des yeux avec lesquels elles voient ? Des oreilles avec lesquelles elles entendent ?
+ 
+> [Sourate Al-A‘rāf, verset 195]
+ 
+L’argument est volontairement simple.
+ 
+Comment demander un secours divin ultime à ce qui ne possède même pas les capacités élémentaires que possède celui qui l’adore ?
+ 
+Le Tawḥīd libère ainsi l’être humain de la dépendance cultuelle envers ce qui ne possède aucun pouvoir indépendant.
+ 
+## Une magnifique règle de comportement
+ 
+À l’approche de la fin de la sourate, Allah donne au Prophète ﷺ une instruction extrêmement concise :
+ 
+« Accepte ce qui est convenable, ordonne le bien et détourne-toi des ignorants. »
+ 
+> [Sourate Al-A‘rāf, verset 199]
+ 
+Cette phrase constitue presque un petit programme de comportement.
+ 
+Ne pas exiger des autres une perfection impossible.
+ 
+Encourager ce qui est bon.
+ 
+Et savoir parfois ne pas répondre à la provocation.
+ 
+Se détourner d’une personne ignorante ne signifie pas nécessairement la mépriser. Cela peut simplement signifier refuser de laisser une dispute inutile nous transformer nous-mêmes en personne colérique et injuste.
+ 
+## Lorsque Satan nous pousse à réagir
+ 
+Le verset suivant enchaîne immédiatement :
+ 
+« Et si une suggestion de Satan t’incite, cherche refuge auprès d’Allah. »
+ 
+> [Sourate Al-A‘rāf, verset 200]
+ 
+La proximité des deux versets est très intéressante.
+ 
+Quelqu’un nous provoque.
+ 
+Puis une suggestion intérieure apparaît :
+ 
+réponds plus violemment ; humilie-le ; montre-lui qu’il ne peut pas te parler comme ça.
+ 
+La provocation extérieure devient alors une bataille intérieure.
+ 
+Allah enseigne au croyant à reconnaître ce moment et à chercher refuge auprès de Lui avant que l’impulsion ne se transforme en action.
+ 
+## Le croyant pieux peut lui aussi être touché par une tentation
+ 
+Allah précise :
+ 
+« Ceux qui pratiquent la taqwā, lorsqu’une suggestion de Satan les touche, se rappellent Allah et les voilà clairvoyants. »
+ 
+> [Sourate Al-A‘rāf, verset 201]
+ 
+Le verset ne dit pas :
+ 
+« Les pieux ne sont jamais tentés. »
+ 
+Ils peuvent ressentir une mauvaise pensée, une colère ou une envie.
+ 
+Ce qui les distingue est leur réaction : ils se souviennent d’Allah et retrouvent leur lucidité.
+ 
+La taqwā n’est donc pas nécessairement l’absence totale de bataille intérieure. C’est aussi la capacité à revenir rapidement lorsque cette bataille commence.
+ 
+## Écouter réellement le Coran
+ 
+Puis Allah dit :
+ 
+> « Lorsque le Coran est récité, écoutez-le attentivement et gardez le silence afin qu’il vous soit fait miséricorde. »
+> [Sourate Al-A‘rāf, verset 204]
+ 
+Le Coran n’est donc pas destiné uniquement à devenir un son familier en arrière-plan.
+ 
+L’écoute coranique demande une forme de présence : entendre, essayer de comprendre et laisser les paroles agir sur le cœur.
+ 
+Le verset suivant demande également de se souvenir d’Allah intérieurement avec humilité, crainte et sans excès dans la voix, matin et soir.
+ 
+> [Sourate Al-A‘rāf, verset 205]
+ 
+La sourate qui avait commencé par l’orgueil d’Iblis arrive progressivement à l’humilité du dhikr.
+ 
+## La sourate commence par une prosternation refusée et se termine par une prosternation
+ 
+Le dernier verset dit :
+ 
+> « Ceux qui sont auprès de ton Seigneur ne s’enorgueillissent pas de L’adorer. Ils Le glorifient et devant Lui se prosternent. »
+> [Sourate Al-A‘rāf, verset 206] 
+ 
+Ce verset comporte une sajdat at-tilāwah, une prosternation de récitation.
+ 
+Les écoles juridiques divergent sur le degré exact d’obligation de la prosternation de récitation. Un récit authentique de ‘Umar ibn Al-Khaṭṭāb رضي الله عنه montre notamment qu’il considérait que celui qui se prosternait faisait bien, mais que celui qui ne le faisait pas ne commettait pas de péché ; d’autres écoles ont une approche juridique différente. 
+ 
+Mais au-delà de la question juridique, la position de ce verset dans la sourate est extraordinaire.
+ 
+Au commencement, Allah ordonne de se prosterner devant Adam : Iblis refuse par orgueil.
+ 
+À la fin, Allah décrit Ses serviteurs rapprochés : ils ne s’enorgueillissent pas de L’adorer et se prosternent devant Lui.
+ 
+Et le lecteur arrive lui-même à un verset devant lequel il est invité à se prosterner.
+ 
+La construction est presque circulaire : la sourate commence avec une créature disant implicitement « je suis trop grand pour me prosterner », et s’achève avec les serviteurs les plus élevés auprès d’Allah qui, eux, se prosternent sans orgueil.
+ 
+## Le message central de la sourate Al-A‘rāf
+ 
+Al-A‘rāf raconte une grande partie de l’histoire spirituelle de l’humanité, mais son fil conducteur est étonnamment simple : Allah donne des signes et une guidance ; le cœur révèle ensuite ce qu’il décide d’en faire.
+ 
+Iblis connaît son Seigneur, mais son orgueil l’empêche d’obéir.
+ 
+Adam عليه السلام tombe, mais son humilité lui permet de revenir.
+ 
+Nūḥ, Hūd, Ṣāliḥ, Lūṭ et Shu‘ayb عليهم السلام apportent la même vérité à des peuples différents ; certains la reçoivent, d’autres la refusent.
+ 
+Pharaon voit les signes et s’endurcit.
+ 
+Ses magiciens voient un seul miracle dont ils comprennent parfaitement la nature et se prosternent immédiatement.
+ 
+Les enfants d’Israël voient la délivrance et de nombreux miracles, mais certaines générations se détournent encore ensuite.
+ 
+Un homme reçoit les signes d’Allah puis les abandonne pour suivre ses passions.
+ 
+Enfin, Allah rappelle à toute l’humanité le témoignage primordial :
+ 
+« Ne suis-Je pas votre Seigneur ? »
+ 
+« Mais si, nous en témoignons. » 
+ 
+La question essentielle de la sourate n’est donc pas simplement :
+ 
+« Ai-je reçu suffisamment de signes ? »
+ 
+Elle est :
+ 
+« Quel est l’état de mon cœur lorsque le signe arrive ? »
+ 
+Parce qu’un miracle ne guérit pas nécessairement l’orgueil.
+ 
+Une grande connaissance ne garantit pas l’humilité.
+ 
+Une expérience spirituelle passée ne garantit pas la fidélité future.
+ 
+Et une faute ne signifie pas nécessairement la perte définitive.
+ 
+Tout dépend aussi de ce que l’on fait après.
+ 
+Adam عليه السلام nous apprend à dire :
+ 
+« J’ai été injuste envers moi-même ; pardonne-moi. »
+ 
+Iblis représente l’attitude opposée :
+ 
+« Je suis meilleur. »
+ 
+Entre ces deux phrases se trouve peut-être l’un des choix spirituels les plus importants de l’existence.
+ 
+Le croyant peut tomber.
+ 
+Il peut être tenté.
+ 
+Il peut se mettre en colère.
+ 
+Il peut momentanément s’éloigner.
+ 
+Mais tant qu’il conserve l’humilité qui lui permet de reconnaître sa faute et de revenir vers Allah, il n’a pas choisi le chemin d’Iblis.
+ 
+Et c’est pourquoi la fin de la sourate répond si magnifiquement à son commencement.
+ 
+Au début, l’orgueilleux refuse de se prosterner.
+ 
+À la fin :
+ 
+> « Ceux qui sont auprès de ton Seigneur ne s’enorgueillissent pas de L’adorer ; ils Le glorifient et devant Lui se prosternent. »
+> [Sourate Al-A‘rāf, verset 206] 
+ 
+Voilà peut-être l’essence d’Al-A‘rāf :
+ 
+la véritable grandeur devant Allah ne consiste pas à se considérer trop élevé pour s’incliner, mais à être suffisamment humble pour reconnaître la vérité, se repentir lorsqu’on tombe et se prosterner devant Celui qui nous a créés.
+
 
 [[/desc]]
 
 [[desc 8]]
 
+La sourate Al-Anfāl (سورة الأنفال), huitième sourate du Coran, est une sourate médinoise composée de 75 versets, aujourd’hui le plus répandu. Son nom signifie « Les Butins » ou « Les Prises de guerre », en référence à son premier verset et aux questions apparues après la bataille de Badr concernant la répartition des biens récupérés. Elle est d’ailleurs si étroitement liée à cet événement que Ibn ‘Abbās رضي الله عنهما la désignait aussi comme « la sourate de Badr ». 
+ 
+La majeure partie de la sourate fut révélée autour de la bataille de Badr, en Ramadan de l’an 2 de l’Hégire, première grande confrontation militaire entre la jeune communauté musulmane de Médine et les Quraysh de La Mecque. Mais Al-Anfāl est bien davantage qu’un récit de bataille : elle constitue une véritable éducation spirituelle et collective de la communauté après une victoire. 
+ 
+Elle enseigne comment agir lorsqu’on a peur, comment préparer les moyens sans oublier Allah, comment préserver l’unité, comment respecter les pactes, comment envisager la guerre et la paix, mais aussi — et c’est peut-être plus subtil — comment ne pas laisser la victoire devenir une cause d’orgueil, de cupidité ou de division.
+ 
+## Une sourate qui commence après la victoire
+ 
+Al-Anfāl commence par une situation presque paradoxale. Les musulmans viennent de remporter une victoire extraordinaire à Badr, malgré leur faiblesse numérique et matérielle. Pourtant, au lieu de commencer par les féliciter, Allah répond à une dispute concernant le butin :
+ 
+> « Ils t’interrogent au sujet du butin. Dis : le butin est à Allah et au Messager. Craignez donc Allah, rétablissez la concorde entre vous et obéissez à Allah et à Son Messager, si vous êtes croyants. »
+> [Sourate Al-Anfāl, verset 1]
+ 
+Le problème immédiat était matériel, mais Allah commence par corriger les cœurs et les relations.
+ 
+La logique est remarquable : vous venez de risquer votre vie ensemble pour Allah ; ne laissez pas maintenant quelques biens de ce monde diviser ce que la foi avait uni. La première leçon après Badr n’est donc pas « comment profiter de la victoire ? », mais plutôt : comment rester frères après la victoire ?
+ 
+## Qui sont les véritables croyants ?
+ 
+Juste après avoir parlé du butin, Allah décrit les croyants authentiques :
+ 
+> « Les croyants sont ceux dont les cœurs frémissent lorsque Allah est mentionné, et lorsque Ses versets leur sont récités, cela augmente leur foi ; et ils placent leur confiance en leur Seigneur. »
+> [Sourate Al-Anfāl, verset 2] 
+ 
+Allah ajoute qu’ils accomplissent la prière et dépensent de ce qu’Il leur a accordé, puis les qualifie de véritables croyants.
+ 
+Le contraste est très fort : alors que le nom même de la sourate évoque des biens matériels, Allah recentre immédiatement la communauté sur ce qui possède réellement de la valeur :
+-	un cœur sensible au rappel d’Allah ;
+-	une foi qui grandit au contact du Coran ;
+-	le tawakkul ;
+-	la prière ;
+-	et la générosité.
+ 
+La véritable richesse obtenue à Badr ne devait donc pas être seulement le butin, mais une foi devenue plus profonde après avoir vu le secours d’Allah.
+ 
+## La foi peut augmenter
+ 
+Le verset 2 contient également une idée fondamentale : la foi peut augmenter.
+ 
+Elle n’est pas nécessairement vécue avec la même intensité toute la vie. Le Coran, la prière, le dhikr, les bonnes œuvres, les épreuves traversées avec Allah et les signes de Sa providence peuvent la renforcer.
+ 
+Badr représente justement ce passage d’une foi connue intellectuellement à une foi expérimentée. Les croyants savaient qu’Allah pouvait les secourir ; après Badr, ils avaient vécu un événement où ce secours s’était manifesté d’une manière qu’ils n’auraient jamais pu organiser seuls.
+ 
+## Les musulmans n’étaient pas partis chercher cette bataille
+ 
+La bataille de Badr n’avait pas commencé comme une confrontation militaire soigneusement recherchée contre la grande armée mecquoise. Les musulmans s’étaient mobilisés dans un contexte lié à une caravane qurayshite, et lorsqu’ils comprirent qu’une armée importante venait les affronter, certains auraient naturellement préféré rencontrer le groupe le moins puissant. 
+ 
+Allah leur rappelle :
+ 
+> « Vous souhaitiez que le groupe sans puissance armée soit à vous, tandis qu’Allah voulait faire triompher la vérité par Ses paroles. »
+> [Sourate Al-Anfāl, versets 7-8] 
+ 
+C’est une leçon profonde sur le décret d’Allah. L’être humain choisit naturellement le chemin qui paraît le plus simple et le moins risqué. Mais ce que nous aurions choisi n’est pas toujours ce qui produira le plus grand bien.
+ 
+Parfois, Allah nous conduit vers une situation que nous n’aurions jamais volontairement demandée, mais dont Il fera ensuite sortir quelque chose de beaucoup plus important.
+ 
+## L’invocation au moment où les moyens semblent insuffisants
+ 
+Face à l’armée qurayshite, les musulmans savent qu’ils sont dans une situation difficile. Ils demandent alors le secours de leur Seigneur.
+ 
+Allah rappelle :
+ 
+> « Lorsque vous imploriez le secours de votre Seigneur et qu’Il vous répondit : “Je vais vous renforcer de mille anges se succédant les uns aux autres.” » 
+> [Sourate Al-Anfāl, verset 9]
+ 
+Puis Allah explique que cette annonce devait apporter une bonne nouvelle et rassurer les cœurs, avant d’établir le principe fondamental :
+ 
+« La victoire ne vient que d’Allah. » 
+> [Sourate Al-Anfāl, verset 10]
+ 
+La phrase résume une grande partie de la sourate. Les croyants doivent agir, mais ne doivent jamais attribuer aux causes matérielles un pouvoir indépendant d’Allah.
+ 
+## Le secours d’Allah peut être très concret
+ 
+Avant la bataille, Allah accorda également aux croyants une somnolence rassurante et fit descendre de l’eau du ciel. La pluie servit notamment à les purifier, à affermir le terrain et à fortifier leurs cœurs.
+ 
+> [Sourate Al-Anfāl, verset 11]
+ 
+Ce passage montre que le secours divin n’est pas toujours spectaculaire. Il peut aussi prendre la forme :
+-	d’un cœur qui retrouve son calme ;
+-	d’un sommeil réparateur avant une épreuve ;
+-	d’une circonstance naturelle qui arrive au bon moment ;
+-	ou d’une situation extérieure qui devient soudain plus favorable.
+ 
+On attend parfois un miracle évident alors que la miséricorde d’Allah est déjà en train d’agir par des causes apparemment ordinaires.
+ 
+## Les anges à Badr
+ 
+Al-Anfāl affirme explicitement qu’Allah soutint les croyants par des anges lors de Badr.
+ 
+> [Sourate Al-Anfāl, versets 9 et 12]
+ 
+La bataille comporte ainsi deux dimensions. Il existe ce que les hommes peuvent voir : les soldats, les positions, les armes, la pluie, le déplacement des groupes. Mais il existe aussi une réalité invisible qu’ils ne contrôlent pas.
+ 
+Le Coran ne supprime pourtant jamais l’action humaine. Les Compagnons ont réellement marché, combattu, souffert et pris des risques. Le secours invisible d’Allah ne remplace donc pas les moyens : il accompagne des serviteurs qui ont eux-mêmes fait ce qu’ils pouvaient.
+ 
+## « Ce n’est pas vous qui les avez tués… »
+ 
+Après la victoire, Allah adresse aux croyants une parole destinée à casser immédiatement toute possibilité d’orgueil :
+ 
+> « Ce n’est pas vous qui les avez tués, mais Allah les a tués ; et lorsque tu lançais, ce n’est pas toi qui lançais, mais Allah lançait. »
+> [Sourate Al-Anfāl, verset 17]
+ 
+Le verset ne nie pas évidemment que les musulmans aient accompli leurs propres actions. Il rappelle que l’efficacité finale de ces actions dépendait d’Allah.
+ 
+C’est un équilibre extrêmement important. Le croyant peut dire : « J’ai travaillé, j’ai préparé, j’ai fait des efforts », sans transformer cela en : « Je suis à moi seul la cause de ma réussite. »
+ 
+Cette compréhension protège dans les deux directions : elle empêche l’orgueil lorsque l’on réussit et le désespoir excessif lorsque l’on a fait correctement ce qui dépendait de nous mais que le résultat n’est pas celui que l’on espérait.
+ 
+## La victoire est elle-même une épreuve
+ 
+Avant Badr, l’épreuve était la peur.
+ 
+Après Badr, l’épreuve devient le succès.
+ 
+C’est parfois plus subtil. Lorsque tout va mal, l’être humain reconnaît facilement qu’il a besoin d’Allah. Mais lorsque tout réussit, il peut commencer à penser : c’est mon intelligence, ma compétence, ma stratégie, mon talent.
+ 
+Al-Anfāl enseigne donc aux vainqueurs quelque chose d’essentiel : ne transformez pas le secours d’Allah en preuve de votre propre grandeur.
+ 
+La vraie victoire n’est pas seulement de vaincre un adversaire extérieur ; c’est aussi de ne pas laisser la victoire nourrir un adversaire intérieur : l’ego.
+ 
+## Entendre le Coran ne suffit pas
+ 
+Allah ordonne ensuite :
+ 
+> « Ô vous qui croyez ! Obéissez à Allah et à Son Messager et ne vous détournez pas alors que vous entendez. »
+> [Sourate Al-Anfāl, verset 20]
+ 
+Puis Il met en garde contre ceux qui disent « nous avons entendu » alors qu’en réalité ils n’écoutent pas.
+ 
+Il existe donc deux manières d’entendre la Révélation. On peut entendre des sons, connaître des versets et même les mémoriser ; ou bien les entendre au point de laisser cette parole modifier réellement notre manière de vivre.
+ 
+Le Coran demande davantage qu’une audition passive. Il demande une écoute qui devient obéissance.
+ 
+## « Répondez à ce qui vous donne la vie »
+ 
+L’un des plus beaux versets d’Al-Anfāl dit :
+ 
+> « Ô vous qui croyez ! Répondez à Allah et au Messager lorsqu’il vous appelle à ce qui vous donne la vie. »
+> [Sourate Al-Anfāl, verset 24]
+ 
+La Révélation est ici décrite comme quelque chose qui donne la vie.
+ 
+Un homme peut être biologiquement vivant et pourtant traverser son existence sans comprendre pourquoi il existe, où il va ni quelle valeur donner à ses choix. Le Coran vient réveiller le cœur : il lui donne une direction, une connaissance du Créateur, un sens moral et une conscience de l’Au-delà.
+ 
+La vraie vie ne consiste donc pas seulement à respirer, travailler, consommer et vieillir. Le cœur lui aussi peut vivre ou mourir.
+ 
+## Allah s’interpose entre l’homme et son cœur
+ 
+Le même verset ajoute :
+ 
+> « Sachez qu’Allah s’interpose entre l’homme et son cœur et que c’est vers Lui que vous serez rassemblés. »
+> [Sourate Al-Anfāl, verset 24]
+ 
+Même notre cœur n’est donc pas une propriété totalement indépendante dont nous contrôlerions chaque mouvement.
+ 
+La sincérité, la stabilité dans la foi, l’amour du bien, le dégoût du péché et la capacité à revenir après une faute sont aussi des bienfaits d’Allah. Cela explique pourquoi le croyant ne se considère jamais définitivement à l’abri : il demande à Allah de maintenir son cœur sur la guidance.
+ 
+## Une corruption collective peut finir par toucher tout le monde
+ 
+Allah avertit ensuite :
+ 
+> « Craignez une épreuve qui ne frappera pas uniquement ceux d’entre vous qui ont commis l’injustice. »
+> [Sourate Al-Anfāl, verset 25]
+ 
+Certaines fautes ne restent pas limitées à leur auteur. Lorsqu’une injustice devient collective, qu’une corruption se normalise ou que tout le monde ferme les yeux sur des comportements destructeurs, les conséquences peuvent finir par atteindre bien au-delà des premiers responsables.
+ 
+La sourate introduit ainsi une dimension communautaire de la responsabilité : la santé morale d’une société influence aussi ceux qui y vivent.
+ 
+## Se souvenir du temps où l’on était faible
+ 
+Allah rappelle aux musulmans qu’ils étaient autrefois peu nombreux, faibles et craignaient que leurs ennemis ne les écrasent. Puis Il leur donna un refuge, les soutint et leur accorda de bonnes choses.
+ 
+> [Sourate Al-Anfāl, verset 26]
+ 
+La mémoire protège contre l’arrogance.
+ 
+Lorsqu’une personne ou une communauté commence à devenir forte, elle peut oublier à quel point elle fut autrefois vulnérable. Al-Anfāl demande aux croyants de ne pas oublier le chemin parcouru.
+ 
+La gratitude a besoin de mémoire.
+ 
+## Ne pas trahir ce qui nous est confié
+ 
+Allah dit :
+ 
+> « Ô vous qui croyez ! Ne trahissez pas Allah et le Messager, et ne trahissez pas consciemment les dépôts qui vous sont confiés. »
+> [Sourate Al-Anfāl, verset 27]
+ 
+L’amānah, le dépôt, peut prendre des formes très diverses : un bien, un secret, une responsabilité, une fonction, un mandat, une parole donnée.
+ 
+La trahison est souvent facile précisément parce que celui qui nous fait confiance n’est pas là pour vérifier. Mais la foi introduit une autre présence : Allah sait ce que nous faisons de ce qui nous a été confié.
+ 
+## Les biens et les enfants sont aussi des tests
+ 
+Allah ajoute immédiatement :
+ 
+> « Sachez que vos biens et vos enfants sont une épreuve et qu’auprès d’Allah se trouve une immense récompense. »
+> [Sourate Al-Anfāl, verset 28]
+ 
+Les biens et les enfants ne sont évidemment pas mauvais. Ils font partie des plus grands bienfaits de cette vie. Mais chaque bienfait peut devenir aussi une épreuve de responsabilité.
+ 
+Que ferai-je de mon argent ? Jusqu’où irai-je pour le conserver ? Est-ce que ma famille me rapproche d’Allah ou devient-elle une excuse pour négliger ce qu’Il me demande ?
+ 
+Recevoir davantage ne signifie donc pas seulement recevoir davantage de confort. Cela peut aussi signifier avoir davantage de comptes à rendre.
+ 
+## La taqwā donne un furqān
+ 
+Allah promet ensuite :
+ 
+> « Si vous craignez Allah, Il vous accordera un furqān, effacera vos mauvaises actions et vous pardonnera. »
+> [Sourate Al-Anfāl, verset 29]
+ 
+Le mot furqān évoque notamment un discernement permettant de distinguer correctement entre les choses.
+ 
+La taqwā peut donc avoir un effet sur la manière dont une personne voit la réalité. À l’inverse, le péché répété, les passions et l’orgueil peuvent brouiller le jugement jusqu’à ce que l’on ne sache plus reconnaître clairement ce que l’on connaissait pourtant auparavant.
+ 
+La connaissance ne dépend donc pas seulement de l’intellect : l’état moral du cœur peut influencer notre capacité à voir juste.
+ 
+## Le complot contre le Prophète ﷺ
+ 
+Allah rappelle ensuite le moment où les Quraysh complotaient contre Muhammad ﷺ : ils envisageaient de l’emprisonner, de le tuer ou de l’expulser.
+ 
+> « Ils complotaient, et Allah déjouait leur complot. »
+> [Sourate Al-Anfāl, verset 30]
+ 
+Quelques années auparavant, le Prophète ﷺ quittait La Mecque sous la menace. À Badr, la situation avait déjà profondément changé.
+ 
+Cela ne signifie pas que tout croyant verra nécessairement les complots contre lui se retourner de manière visible durant sa vie. Mais le verset rappelle que les plans humains ne sont jamais au-dessus du décret d’Allah.
+ 
+## Une communauté peut perdre sa force par ses propres disputes
+ 
+Lorsque la sourate revient aux règles du combat, Allah donne cette instruction :
+ 
+> « Obéissez à Allah et à Son Messager et ne vous disputez pas, sinon vous faiblirez et votre force disparaîtra. Patientez : Allah est avec les patients. »
+> [Sourate Al-Anfāl, verset 46]
+ 
+C’est l’un des principes les plus importants de la sourate. 
+ 
+Le désaccord en lui-même n’est pas toujours évitable. Les Compagnons pouvaient diverger sur certaines questions. Ce que le Coran condamne ici est la dispute qui détruit l’unité, nourrit les ego et fait perdre de vue l’objectif commun.
+ 
+Une communauté peut posséder beaucoup d’argent, beaucoup de personnes et beaucoup de ressources, mais devenir faible parce qu’elle dépense toute son énergie à se battre intérieurement.
+ 
+## La patience est nécessaire pour préserver l’unité
+ 
+Le verset 46 se termine par :
+ 
+« Patientez. »
+ 
+Ce n’est pas anodin. Préserver l’unité demande justement de la patience : accepter de ne pas toujours avoir le dernier mot, supporter une frustration, continuer à travailler avec quelqu’un après une divergence et distinguer ce qui mérite réellement une rupture de ce qui relève simplement de l’ego.
+ 
+L’unité n’est pas l’absence de toute tension. C’est la capacité à empêcher la tension de détruire ce qui est plus important qu’elle.
+ 
+## Ne pas agir pour impressionner les hommes
+ 
+Allah demande également aux croyants de ne pas ressembler à ceux qui sortirent avec arrogance et ostentation afin d’être vus des hommes.
+ 
+> [Sourate Al-Anfāl, verset 47]
+ 
+Le danger existe particulièrement lorsqu’on possède de la puissance. Une action peut commencer avec une intention correcte puis devenir progressivement une affaire d’image : montrer sa force, humilier un adversaire ou attirer l’admiration.
+ 
+Le Coran rappelle alors que la valeur d’un acte dépend aussi de ce qui se passe dans le cœur de celui qui l’accomplit.
+ 
+## Satan embellit puis abandonne
+ 
+La sourate décrit ensuite Satan embellissant les actions des Quraysh et leur donnant un sentiment de sécurité avant de se désolidariser lorsque la confrontation devient réelle.
+ 
+> [Sourate Al-Anfāl, verset 48]
+ 
+C’est une mécanique spirituelle que le Coran décrit souvent : avant la faute, Satan rassure et embellit ; après la faute, il abandonne.
+ 
+Avant : « Ce n’est rien, tout ira bien. »
+ 
+Après : la personne reste seule face aux conséquences de ce qu’elle a fait.
+ 
+Une tentation ne doit donc pas être jugée seulement selon la manière séduisante dont elle se présente avant, mais aussi selon ce qu’elle laisse après.
+ 
+## Lorsque le tawakkul paraît naïf aux autres
+ 
+À Badr, certains hypocrites ou personnes dont le cœur était malade regardaient les croyants et pensaient que leur religion les avait trompés.
+ 
+> [Sourate Al-Anfāl, verset 49]
+ 
+D’un point de vue strictement matériel, leur confiance pouvait sembler disproportionnée face à la situation. Mais Allah rappelle que celui qui place sa confiance en Lui sait qu’Il est Puissant et Sage.
+ 
+Le tawakkul n’est pas ignorer les chiffres ou nier le danger. C’est comprendre que les chiffres et le danger ne représentent pas toute la réalité.
+ 
+## Un bienfait peut être perdu lorsque les hommes changent eux-mêmes
+ 
+Allah établit ensuite un principe majeur :
+ 
+> « Allah ne change pas un bienfait qu’Il a accordé à un peuple tant qu’ils ne changent pas ce qui est en eux-mêmes. » 
+> [Sourate Al-Anfāl, verset 53]
+ 
+Une communauté peut recevoir sécurité, cohésion, prospérité ou guidance et progressivement détruire ces bienfaits par l’ingratitude, l’injustice, la corruption ou la désobéissance.
+ 
+La sourate rappelle ainsi que les grandes transformations collectives possèdent aussi une dimension intérieure et morale.
+ 
+## Respecter les pactes même en période de tension
+ 
+Al-Anfāl aborde ensuite les traités conclus avec d’autres groupes. Lorsqu’une partie viole systématiquement ses engagements, la situation doit évidemment être traitée. Mais si les musulmans craignent sérieusement une trahison, Allah leur ordonne de mettre fin au pacte de manière claire et ouverte, afin que les deux parties sachent qu’il n’est plus en vigueur.
+ 
+> [Sourate Al-Anfāl, versets 56-58]
+ 
+Autrement dit, la crainte de la trahison n’autorise pas à devenir soi-même perfide.
+ 
+Même avec un adversaire potentiel, la règle reste :
+ 
+ne combats pas la trahison par la trahison.
+ 
+## « Préparez tout ce que vous pouvez comme force »
+ 
+Puis vient le verset 60 :
+ 
+« Préparez contre eux tout ce que vous pouvez comme force. »
+ 
+> [Sourate Al-Anfāl, verset 60]
+ 
+La sourate qui affirme que « la victoire ne vient que d’Allah » ordonne donc également la préparation sérieuse des moyens. 
+ 
+Il n’y a aucune contradiction. Le croyant doit faire tout ce qui dépend raisonnablement de lui : apprendre, préparer, organiser, anticiper, développer ses capacités. Puis il sait que l’efficacité ultime de ces moyens reste entre les mains d’Allah.
+ 
+C’est l’équilibre du tawakkul :
+-	maximum de responsabilité dans l’action ;
+-	maximum de dépendance envers Allah dans le cœur.
+ 
+## La force peut aussi servir à empêcher la guerre
+ 
+Le verset 60 évoque notamment une force capable de dissuader l’adversaire.
+ 
+La puissance n’a donc pas uniquement pour fonction d’être utilisée. Elle peut empêcher une confrontation de commencer en montrant que l’agression aura un coût.
+ 
+Et le verset suivant confirme immédiatement que la guerre n’est pas recherchée pour elle-même.
+ 
+« S’ils inclinent vers la paix, incline toi aussi vers elle »
+ 
+Allah dit :
+ 
+> « S’ils inclinent vers la paix, incline toi aussi vers elle et place ta confiance en Allah. »
+> [Sourate Al-Anfāl, verset 61] 
+ 
+L’enchaînement est remarquable.
+ 
+Verset 60 : préparez votre force.
+ 
+Verset 61 : si l’adversaire incline réellement vers la paix, accepte la paix.
+ 
+Le Coran ne construit donc ni une vision de faiblesse naïve ni une glorification permanente du combat. Il enseigne la capacité de se défendre, la prudence et l’ouverture à la paix lorsqu’elle devient possible.
+ 
+## Et si l’offre de paix cache une tromperie ?
+ 
+La question apparaît immédiatement :
+ 
+et s’ils veulent utiliser cette paix pour tromper le Prophète ﷺ ?
+ 
+Allah répond qu’Allah lui suffit.
+ 
+> [Sourate Al-Anfāl, verset 62]
+ 
+Cela ne signifie pas supprimer toute prudence : les versets précédents traitaient précisément des risques de trahison. Mais la prudence ne doit pas devenir une suspicion absolue rendant toute paix impossible.
+ 
+Le croyant prend les précautions permises, puis accepte qu’il ne peut jamais contrôler entièrement les intentions cachées d’autrui.
+ 
+## « Si tu avais dépensé tout ce qui est sur terre… »
+ 
+Allah rappelle ensuite au Prophète ﷺ un immense bienfait :
+ 
+Il a uni les cœurs des croyants.
+ 
+Puis Il lui dit :
+ 
+> « Si tu avais dépensé tout ce qui est sur terre, tu n’aurais pas pu unir leurs cœurs ; mais Allah les a unis. »
+> [Sourate Al-Anfāl, verset 63]
+ 
+Cette parole est particulièrement forte dans le contexte arabe de l’époque, marqué par de longues rivalités tribales.
+ 
+L’argent peut acheter une alliance temporaire, un service ou un intérêt commun. Mais il ne suffit pas à fabriquer une fraternité véritable.
+ 
+L’unité sincère des cœurs est elle-même un bienfait d’Allah.
+ 
+## Allah tient compte de la faiblesse humaine
+ 
+Les versets 65 et 66 abordent la résistance numérique face à l’ennemi. Après une prescription particulièrement exigeante, Allah dit :
+ 
+> « Maintenant Allah a allégé votre charge, sachant qu’il y a en vous une faiblesse. »
+> [Sourate Al-Anfāl, verset 66]
+ 
+Le passage est très important sur le plan spirituel : Allah connaît la faiblesse de l’être humain.
+ 
+La législation ne repose pas sur une vision imaginaire d’êtres humains sans peur ni fatigue. Allah peut demander un effort considérable, mais Il sait exactement ce que Ses serviteurs peuvent supporter et peut alléger une obligation en fonction de leur situation.
+ 
+## Le nombre ne garantit jamais à lui seul le résultat
+ 
+Badr montre qu’un petit groupe peut vaincre une force beaucoup plus importante avec la permission d’Allah. Cela ne signifie pas que le nombre ne sert à rien : la sourate vient précisément d’ordonner la préparation.
+ 
+Elle refuse simplement de transformer les statistiques en certitude absolue.
+ 
+Les moyens comptent. Mais les moyens ne deviennent jamais des divinités.
+ 
+## Les prisonniers de Badr
+ 
+Après la bataille se posa aussi la question des prisonniers.
+ 
+Le verset 67 reproche une préoccupation trop rapide pour les gains immédiats issus des captifs alors que la confrontation avec Quraysh n’était pas encore suffisamment consolidée :
+ 
+« Vous désirez les biens passagers de ce monde, tandis qu’Allah veut l’Au-delà. »
+ 
+> [Sourate Al-Anfāl, verset 67]
+ 
+Ce passage doit rester dans son contexte militaire précis. Il ne constitue pas une règle générale demandant de tuer systématiquement les prisonniers de guerre.
+ 
+La preuve apparaît notamment quelques versets plus loin : Allah demande au Prophète ﷺ de s’adresser aux captifs eux-mêmes et leur ouvre une perspective de guidance, de pardon et de bien s’Il trouve du bien dans leurs cœurs.
+ 
+## L’ennemi d’aujourd’hui peut devenir le croyant de demain
+ 
+Allah dit aux prisonniers :
+ 
+> « Si Allah sait qu’il y a du bien dans vos cœurs, Il vous donnera meilleur que ce qui vous a été pris et vous pardonnera. »
+> [Sourate Al-Anfāl, verset 70]
+ 
+Cette parole contient une grande leçon.
+ 
+La personne qui se trouve aujourd’hui dans le camp adverse n’est pas nécessairement enfermée pour toujours dans cette identité. Un homme peut combattre les musulmans un jour et devenir ensuite un croyant sincère.
+ 
+Le croyant doit donc distinguer l’opposition présente de la destinée définitive d’une personne, que seul Allah connaît.
+ 
+## Les Muhājirūn et les Anṣār
+ 
+La fin de la sourate revient sur la construction de la communauté de Médine.
+ 
+Allah mentionne ceux qui ont cru, émigré et lutté avec leurs biens et leurs personnes, puis ceux qui leur ont donné refuge et soutien — les Muhājirūn et les Anṣār — et les décrit comme alliés les uns des autres. 
+ 
+Des hommes avaient abandonné maisons, biens et environnement familial à La Mecque pour préserver leur foi. D’autres les avaient accueillis à Médine et partagé avec eux une partie de ce qu’ils possédaient.
+ 
+La foi avait donc créé une fraternité capable de dépasser certaines des frontières tribales qui structuraient auparavant toute la société.
+ 
+## La fraternité religieuse n’autorise pas à rompre les traités
+ 
+Le verset 72 comporte cependant une précision remarquable.
+ 
+Si des croyants restés ailleurs demandent une aide religieuse, les musulmans doivent normalement les soutenir, sauf si cette intervention doit violer un traité déjà conclu avec un autre peuple.
+ 
+Même la solidarité avec d’autres musulmans ne permet donc pas automatiquement de trahir un pacte.
+ 
+C’est un principe très fort :
+ 
+une bonne intention n’autorise pas une méthode interdite.
+ 
+La justice envers Allah impose aussi d’être fidèle à sa parole.
+ 
+## Les liens familiaux conservent leurs droits
+ 
+Le dernier verset mentionne ceux qui croiront et émigreront ensuite, puis rappelle que les proches parents possèdent des droits particuliers les uns envers les autres dans le Livre d’Allah. 
+ 
+La fraternité religieuse est immense, mais elle ne supprime pas les responsabilités familiales. L’Islam ne détruit pas les relations naturelles ; il leur attribue leur juste place à l’intérieur d’un ordre spirituel plus large.
+ 
+## Al-Anfāl n’est pas une glorification de la guerre
+ 
+Parce qu’elle parle largement de Badr, Al-Anfāl contient naturellement de nombreux versets liés à la guerre. Mais la réduire à une glorification de la violence serait contraire à sa structure même.
+ 
+La même sourate :
+-	impose la discipline et la justice dans le conflit ;
+-	condamne la trahison des pactes ;
+-	demande une préparation capable notamment de dissuader l’agression ;
+-	et ordonne d’accepter une paix sincère lorsque l’adversaire s’y incline. 
+ 
+Al-Anfāl répond donc surtout à cette question :
+ 
+comment une communauté croyante doit-elle se comporter lorsque le conflit existe réellement ?
+ 
+Et sa réponse est : même dans cette situation extrême, la morale ne disparaît jamais.
+ 
+## Une sourate de discipline collective
+ 
+Le contexte de Badr explique pourquoi l’obéissance et la cohésion occupent une place aussi importante.
+ 
+Dans une situation ordinaire, une mauvaise décision individuelle peut avoir des conséquences limitées. Dans une bataille, l’imprudence, la désorganisation ou une dispute peuvent mettre en danger tout un groupe.
+ 
+Al-Anfāl enseigne donc au croyant à devenir une personne fiable pour les autres : quelqu’un qui tient sa position, maîtrise son ego, respecte les décisions légitimes et ne sacrifie pas l’intérêt commun uniquement pour imposer sa propre volonté.
+ 
+La foi n’est pas seulement individuelle. Elle possède aussi une dimension collective.
+ 
+## Savoir gagner est aussi une épreuve spirituelle
+ 
+C’est peut-être l’une des particularités les plus intéressantes d’Al-Anfāl.
+ 
+Cette sourate ne vient pas principalement consoler une communauté après une défaite. Elle vient éduquer une communauté après une victoire.
+ 
+Et immédiatement apparaissent des dangers : la question du butin, le sentiment de puissance, la tentation de l’orgueil, la possibilité de se disputer.
+ 
+Lorsque tout le monde est menacé, l’unité peut sembler évidente. Une fois le danger passé et les récompenses visibles, les ego peuvent recommencer à parler.
+ 
+Allah leur enseigne alors :
+ 
+savoir perdre avec foi est important ; savoir gagner sans devenir arrogant l’est tout autant.
+ 
+## Les moyens visibles et le secours invisible
+ 
+Tout au long de la sourate, deux dimensions apparaissent ensemble.
+ 
+Il y a le visible : les soldats, les positions, la pluie, les armes, la préparation, les pactes, les prisonniers, les biens.
+ 
+Et il y a l’invisible : les anges, le décret d’Allah, la tranquillité qu’Il fait descendre, la foi dans les cœurs et les éléments qu’aucune stratégie humaine ne contrôle.
+ 
+Le croyant ne doit supprimer aucun des deux.
+ 
+S’il ne voit que le visible, il finit par croire que les causes contrôlent tout. S’il ne parle que de l’invisible tout en refusant d’agir, il transforme le tawakkul en passivité.
+ 
+Al-Anfāl réunit les deux : agir sérieusement dans le monde visible tout en sachant que le résultat ultime appartient à Allah.
+ 
+## Le message central de la sourate Al-Anfāl
+ 
+Al-Anfāl commence par une question concernant le butin, mais elle devient progressivement une immense leçon sur ce qu’est réellement la force.
+ 
+La force n’est pas uniquement le nombre.
+ 
+Ce n’est pas uniquement l’argent.
+ 
+Ce n’est pas uniquement l’équipement.
+ 
+Une communauté véritablement forte a besoin :
+-	de foi ;
+-	de tawakkul ;
+-	de préparation ;
+-	de patience ;
+-	de discipline ;
+-	d’unité ;
+-	de fidélité aux pactes ;
+-	et d’un ego suffisamment maîtrisé pour que le succès ne la détruise pas de l’intérieur.
+ 
+Badr montre aux croyants qu’un petit nombre ne signifie pas nécessairement la défaite. Mais la sourate leur rappelle immédiatement que la victoire ne signifie pas non plus qu’ils peuvent désormais devenir orgueilleux.
+ 
+Avant la bataille, ils demandaient :
+ 
+« Seigneur, secours-nous. »
+ 
+Après la bataille, Allah leur apprend :
+ 
+« N’oubliez pas Qui vous a secourus. »
+ 
+Et toute la sourate se situe presque entre ces deux moments.
+ 
+Avant l’épreuve : prépare ce que tu peux.
+ 
+Pendant l’épreuve : reste ferme, sois patient et invoque Allah.
+ 
+Après l’épreuve : remercie-Le, reste humble et ne laisse pas la réussite diviser les cœurs.
+ 
+C’est pourquoi deux versets résument parfaitement l’équilibre d’Al-Anfāl.
+ 
+D’abord :
+ 
+« Préparez contre eux tout ce que vous pouvez comme force. »
+ 
+> [Sourate Al-Anfāl, verset 60]
+ 
+Puis immédiatement :
+ 
+« S’ils inclinent vers la paix, incline toi aussi vers elle et place ta confiance en Allah. »
+ 
+> [Sourate Al-Anfāl, verset 61]
+ 
+Force sans agressivité permanente.
+ 
+Paix sans naïveté.
+ 
+Préparation sans arrogance.
+ 
+Tawakkul sans passivité.
+ 
+Et peut-être, au-dessus de tout cela, la phrase qui donne son sens à Badr :
+ 
+« La victoire ne vient que d’Allah. »
+ 
+> [Sourate Al-Anfāl, verset 10]
+ 
+Voilà peut-être l’essence de la sourate : faire tout ce qui dépend de nous comme si les moyens comptaient réellement, puis remettre le résultat à Allah en sachant qu’aucun moyen ne possède de pouvoir sans Lui.
+
+
 [[/desc]]
 
 [[desc 9]]
 
+ La sourate At-Tawbah (سورة التوبة), neuvième sourate du Coran, est une grande sourate médinoise appartenant aux toutes dernières années de la mission du Prophète Muhammad ﷺ. Elle comporte 129 versets, aujourd’hui le plus répandu dans les muṣḥaf, bien que d’autres traditions anciennes de décompte aboutissent à 130.
+ 
+Elle possède deux noms particulièrement célèbres. At-Tawbah signifie « Le Repentir », notamment parce que la question du retour vers Allah traverse profondément la sourate et culmine avec le pardon accordé aux trois Compagnons restés en arrière lors de l’expédition de Tabūk. Elle est également appelée Barā’ah, « Le Désaveu » ou « La Désolidarisation », mot par lequel elle commence, lorsque Allah et Son Messager ﷺ annoncent la fin de certains pactes conclus avec des groupes polythéistes qui les avaient violés.
+ 
+At-Tawbah est une sourate particulièrement ferme. Elle parle de guerre et de paix, de pactes et de trahison, de zakāt, d’hypocrisie, de sincérité, de Ḥunayn, de Tabūk, de la Hijra, du sacrifice et de la responsabilité collective. Pourtant, son nom le plus connu reste « Le Repentir ». C’est une clé essentielle pour la comprendre : même dans l’une des sourates les plus sévères envers le mensonge et l’hypocrisie, Allah laisse constamment ouverte la possibilité du retour sincère vers Lui.
+ 
+## La seule sourate sans Basmala
+ 
+At-Tawbah est immédiatement reconnaissable dans le muṣḥaf : c’est la seule sourate qui ne commence pas par « Bismi-Llāhi r-Raḥmāni r-Raḥīm ».
+ 
+Les savants ont proposé différentes explications, mais aucune parole authentique du Prophète ﷺ n’établit définitivement la raison. Un récit de Ibn ‘Abbās رضي الله عنهما rapporte qu’il demanda à ‘Uthmān ibn ‘Affān رضي الله عنه pourquoi Al-Anfāl et Barā’ah avaient été placées l’une après l’autre sans Basmala entre elles. ‘Uthmān expliqua qu’Al-Anfāl faisait partie des premières révélations médinoises tandis que Barā’ah appartenait aux dernières, que leurs sujets se ressemblaient et que le Prophète ﷺ était décédé sans avoir explicitement précisé si elles formaient ou non un ensemble ; elles furent donc placées successivement sans écrire la Basmala entre elles.
+ 
+Certains savants ont aussi estimé que la Basmala évoque particulièrement la miséricorde et la sécurité, alors que le début de la sourate annonce une rupture de pactes et une situation de confrontation. C’est une explication possible, mais il vaut mieux ne pas la présenter comme une certitude révélée.
+ 
+## Une sourate de la fin de la période médinoise
+ 
+At-Tawbah est fortement liée à l’an 9 de l’Hégire, notamment à l’expédition de Tabūk. La situation des musulmans avait alors radicalement changé. Ils n’étaient plus la petite communauté persécutée des premières années de La Mecque : après l’Hégire, Badr, Uḥud, Al-Aḥzāb, Al-Ḥudaybiyyah, la conquête de La Mecque et Ḥunayn, l’autorité musulmane était devenue dominante sur une grande partie de l’Arabie.
+ 
+Une nouvelle épreuve apparaissait donc : comment se comporter lorsque l’on devient puissant ? La faiblesse peut tester la patience ; la puissance teste la justice. At-Tawbah enseigne alors à respecter les pactes de ceux qui les respectent, à agir fermement envers ceux qui les trahissent, à ne pas transformer la force en injustice et à rester fidèle à Allah lorsque les intérêts matériels deviennent importants.
+ 
+## Les premiers versets et les pactes avec les polythéistes
+ 
+Le début de la sourate est parfois présenté trop rapidement comme une déclaration générale de guerre contre tous les polythéistes. Le texte lui-même est beaucoup plus précis.
+ 
+Allah annonce la rupture de certains pactes et accorde un délai aux groupes concernés. Mais le verset 4 établit immédiatement une exception explicite :
+ 
+> « Quant aux polythéistes avec lesquels vous avez conclu un pacte et qui n’ont rien violé de leurs engagements envers vous ni soutenu quelqu’un contre vous, respectez leur pacte jusqu’à son terme. »
+> [Sourate At-Tawbah, verset 4]
+ 
+La règle est donc claire : celui qui respecte son engagement doit voir son engagement respecté.
+ 
+C’est seulement ensuite que vient le verset 5, relatif au combat contre les groupes concernés par la rupture après l’expiration du délai. Et le verset 6 apporte immédiatement une nouvelle nuance : si un polythéiste appartenant au camp adverse demande protection afin d’entendre la parole d’Allah, les musulmans doivent lui accorder cette protection puis le conduire jusqu’à un lieu où il sera en sécurité s’il ne choisit pas de rejoindre l’Islam.
+ 
+L’ensemble des versets 4 à 6 distingue donc clairement :
+-	ceux qui ont respecté leur traité, dont le pacte doit être honoré ;
+-	ceux avec lesquels existe une confrontation après violation des engagements ;
+-	et même l’adversaire qui demande une protection temporaire, auquel la sécurité doit être garantie.
+ 
+La sourate est ferme, mais sa fermeté n’abolit jamais la justice.
+ 
+## Le pèlerinage de l’an 9 et la proclamation de Barā’ah
+ 
+En l’an 9 de l’Hégire, le Prophète Muhammad ﷺ confia la direction du pèlerinage à Abū Bakr رضي الله عنه. Il envoya ensuite ‘Alī ibn Abī Ṭālib رضي الله عنه proclamer publiquement les premiers passages de Barā’ah auprès des pèlerins.
+ 
+Abū Hurayra رضي الله عنه rapporte notamment que l’on annonça qu’après cette année-là, aucun polythéiste ne participerait plus au Hajj et que personne ne ferait désormais le ṭawāf autour de la Ka‘ba entièrement nu, pratique qui existait chez certains Arabes de l’époque préislamique.
+ 
+La Maison sacrée construite pour l’adoration du Dieu unique était ainsi progressivement purifiée des pratiques polythéistes qui s’y étaient installées au cours des siècles.
+ 
+## Les œuvres religieuses visibles ne remplacent pas la foi
+ 
+Allah évoque ensuite ceux qui pouvaient se glorifier de donner de l’eau aux pèlerins ou d’entretenir la Mosquée sacrée. Ce sont en soi de grandes œuvres, mais elles ne peuvent être placées au même niveau que la foi en Allah, au Jour dernier et l’engagement sincère pour Lui lorsqu’elles sont accomplies sans le Tawḥīd.
+ 
+La leçon dépasse largement ce contexte. Une activité extérieurement religieuse ne garantit pas automatiquement la sincérité intérieure. On peut entretenir un lieu de culte, posséder un statut religieux ou être très visible dans une communauté sans que cela remplace la foi authentique et l’obéissance.
+ 
+Allah regarde non seulement ce qui est fait, mais pour Qui cela est fait.
+ 
+## Lorsque les choses que nous aimons entrent en concurrence avec Allah
+ 
+Le verset 24 constitue l’un des avertissements les plus puissants de la sourate. Allah mentionne les pères, les enfants, les frères, les épouses, les familles, les richesses accumulées, les commerces dont on craint la perte et les maisons que l’on aime. Toutes ces choses peuvent être parfaitement licites et profondément aimées.
+ 
+Mais Allah avertit que si elles deviennent plus importantes dans notre cœur qu’Allah, Son Messager ﷺ et l’obéissance que notre foi exige, alors quelque chose s’est inversé dans nos priorités.
+ 
+Le Coran ne demande donc pas au croyant de ne plus aimer sa famille, sa maison ou son travail. La véritable question est plus profonde : que se passe-t-il lorsque l’un de ces attachements entre réellement en conflit avec ce qu’Allah me demande ?
+ 
+C’est à cet instant que la hiérarchie du cœur devient visible.
+ 
+## Ḥunayn : lorsque le grand nombre donne une fausse assurance
+ 
+At-Tawbah revient ensuite sur la bataille de Ḥunayn, survenue après la conquête de La Mecque.
+ 
+Cette fois, contrairement à Badr, les musulmans étaient nombreux. Allah rappelle :
+ 
+> « Le jour de Ḥunayn, votre grand nombre vous avait réjouis, mais il ne vous servit à rien. »
+> [Sourate At-Tawbah, verset 25]
+ 
+Au début de l’affrontement, une attaque soudaine désorganisa une partie des musulmans. Puis Allah fit descendre Sa tranquillité sur Son Messager ﷺ et sur les croyants et la situation se renversa.
+ 
+Le contraste avec Badr est remarquable. À Badr, les musulmans étaient peu nombreux mais Allah leur accorda la victoire. À Ḥunayn, ils étaient beaucoup plus nombreux mais leur nombre ne leur évita pas la difficulté initiale.
+ 
+Les deux batailles corrigent deux illusions opposées : lorsque les moyens sont faibles, ne pense pas que tout est impossible ; lorsque les moyens sont considérables, ne pense pas que la réussite est garantie. Les moyens comptent, mais Allah reste au-dessus des moyens.
+ 
+## Les Gens du Livre et la jizyah
+ 
+Le verset 29 traite du combat contre certains groupes parmi les Gens du Livre et de la jizyah, contribution intégrée au système politique et juridique des États musulmans classiques.
+ 
+Il s’agit d’un texte relevant de la législation publique, des relations entre collectivités, de la guerre et de l’autorité politique. Ce n’est évidemment pas une autorisation donnée à un individu musulman d’agresser personnellement un Juif ou un Chrétien.
+ 
+Comme toujours dans ce domaine, il faut distinguer les règles adressées à une autorité politique dans un contexte de conflit des relations ordinaires entre individus.
+ 
+La sourate elle-même différencie constamment les groupes, les situations et les comportements, plutôt que de réduire chaque individu à son appartenance religieuse.
+ 
+## Quand l’autorité religieuse devient un moyen de gagner de l’argent
+ 
+Allah critique ensuite certains rabbins et moines qui consommaient injustement les biens des hommes et détournaient de la voie d’Allah.
+> [Sourate At-Tawbah, verset 34]
+ 
+Le verset ne condamne pas tous les religieux juifs ou chrétiens. Il dénonce un mécanisme précis : utiliser une autorité spirituelle pour exploiter matériellement ceux qui nous font confiance.
+ 
+La leçon s’applique évidemment aussi aux musulmans. Aucun titre religieux ne rend automatiquement une personne intègre. Dès que quelqu’un utilise la religion, la peur d’Allah ou la confiance des croyants pour construire sa richesse ou son pouvoir personnel de manière injuste, il tombe précisément dans le type de corruption que le Coran condamne ici.
+ 
+## Les douze mois et les quatre mois sacrés
+ 
+Allah rappelle ensuite que l’année comporte douze mois, dont quatre sont sacrés.
+> [Sourate At-Tawbah, verset 36]
+ 
+Le verset suivant condamne le nasī’, pratique par laquelle certains Arabes préislamiques manipulaient le calendrier des mois sacrés en fonction de leurs intérêts, déplaçant artificiellement ce qui était permis ou interdit.
+ 
+Encore une fois, la logique est la même : l’homme ne peut pas modifier les limites d’Allah simplement parce qu’elles deviennent momentanément gênantes pour lui.
+ 
+## « Ne t’attriste pas, Allah est avec nous »
+ 
+Au verset 40 apparaît l’une des scènes les plus célèbres de la Hijra.
+ 
+Le Prophète Muhammad ﷺ avait quitté La Mecque sous la menace des Quraysh. Avec Abū Bakr aṣ-Ṣiddīq رضي الله عنه, il s’était réfugié temporairement dans la grotte de Thawr tandis que les poursuivants s’approchaient dangereusement.
+ 
+Abū Bakr raconta plus tard qu’il distinguait leurs pieds et craignait qu’ils ne les découvrent. Le Prophète ﷺ lui dit :
+ 
+> « Ne t’attriste pas. Allah est avec nous. »
+> [Sourate At-Tawbah, verset 40]
+ 
+La phrase est extraordinairement puissante précisément parce que le danger était réel. Le Prophète ﷺ ne nie pas la situation. Les ennemis existent, ils sont proches et les moyens humains semblent limités. Mais la réalité visible n’est pas toute la réalité : Allah est avec eux par Son soutien et Sa protection.
+ 
+## Le tawakkul du Prophète ﷺ n’était pas de la passivité
+ 
+Le récit de la Hijra empêche cependant de comprendre le tawakkul comme une absence de préparation.
+ 
+Le Prophète ﷺ et Abū Bakr رضي الله عنه avaient préparé leur départ, utilisé la grotte comme refuge temporaire, organisé la circulation d’informations et engagé un guide connaissant parfaitement les itinéraires. Ils prirent donc très sérieusement les causes disponibles.
+ 
+Le modèle prophétique réunit deux choses :
+-	faire tout ce qui est raisonnablement possible ;
+-	puis comprendre que les résultats ne sont jamais entièrement entre nos mains.
+ 
+« Allah est avec nous » ne signifie donc pas : je ne prépare rien. Cela signifie : après avoir préparé ce qui dépend de moi, mon cœur ne dépend pas de mes préparatifs mais d’Allah.
+ 
+## Tabūk : l’épreuve qui révèle les intentions
+ 
+Une grande partie d’At-Tawbah est liée à l’expédition de Tabūk, en l’an 9 de l’Hégire. La mobilisation était particulièrement éprouvante : grande distance, chaleur difficile, ressources limitées et perspective d’un affrontement avec une puissance considérable au nord de l’Arabie.
+ 
+Cette expédition devint ainsi un immense révélateur des intentions.
+ 
+Il y avait ceux qui pouvaient partir et le firent malgré la difficulté ; ceux qui étaient véritablement incapables ; et ceux qui possédaient les moyens mais cherchaient surtout une justification leur permettant de rester dans leur confort.
+ 
+Allah dit :
+ 
+> « Partez, légers ou lourds, et luttez avec vos biens et vos personnes dans le sentier d’Allah. »
+> [Sourate At-Tawbah, verset 41]
+ 
+Les exégètes ont donné plusieurs sens à « légers ou lourds » : jeunes ou âgés, bien équipés ou moins équipés, dans différentes situations personnelles. L’idée générale demeure celle d’une mobilisation exigeante.
+ 
+Mais la sourate précisera ensuite très clairement que l’incapacité réelle est une excuse reconnue par Allah. Le problème n’est pas celui qui ne peut pas ; c’est celui qui pourrait mais transforme chaque difficulté en raison de ne jamais agir.
+ 
+## L’hypocrisie révélée par le coût de la foi
+ 
+At-Tawbah décrit longuement les munāfiqūn, les hypocrites. Certains anciens surnommèrent d’ailleurs la sourate Al-Fāḍiḥah, « Celle qui expose », tant elle dévoile leurs mécanismes.
+ 
+L’hypocrite n’est pas simplement un croyant qui pèche. Tout croyant peut commettre des fautes. Le problème est beaucoup plus profond : il affiche une foi qu’il ne porte pas réellement, recherche les bénéfices de l’appartenance à la communauté mais cherche des excuses dès que cette appartenance demande un sacrifice.
+ 
+Tabūk expose donc les cœurs. Lorsque la foi ne coûte rien, beaucoup peuvent dire : « Je crois. » Lorsqu’elle exige soudain de l’argent, du temps, de la fatigue et un véritable effort, les priorités profondes deviennent beaucoup plus visibles.
+ 
+## Distinguer l’impossibilité de l’inconfort
+ 
+La sourate décrit certaines personnes qui auraient volontiers suivi le Prophète ﷺ si le voyage avait été proche et le bénéfice facile, mais pour lesquelles Tabūk semblait trop difficile.
+ 
+C’est une question spirituelle extrêmement actuelle : est-ce réellement impossible, ou simplement inconfortable ?
+ 
+Il existe évidemment de vraies limites. Allah les reconnaît. Mais l’ego possède aussi une capacité extraordinaire à transformer un simple inconfort en impossibilité apparente lorsqu’il veut éviter quelque chose.
+ 
+La sincérité demande parfois de regarder ses excuses avec lucidité.
+ 
+## La zakāt et ses huit catégories
+ 
+At-Tawbah contient le verset fondamental définissant les huit catégories auxquelles la zakāt peut être attribuée :
+-	les pauvres ;
+-	les nécessiteux ;
+-	ceux chargés de son administration ;
+-	ceux dont les cœurs sont à rapprocher ;
+-	l’affranchissement des personnes asservies dans le contexte historique concerné ;
+-	les personnes endettées éligibles ;
+-	la cause d’Allah selon les catégories définies par le droit islamique ;
+-	et le voyageur en difficulté.
+
+> [Sourate At-Tawbah, verset 60]
+ 
+La zakāt n’est donc pas une générosité laissée entièrement à l’improvisation de chacun. Elle constitue une institution religieuse et sociale avec des bénéficiaires déterminés.
+ 
+## Ceux qui critiquent tout ce que font les croyants
+ 
+Certains hypocrites critiquaient aussi les aumônes des croyants. Lorsqu’une personne donnait beaucoup, ils trouvaient une manière de mettre son intention en doute. Lorsqu’un pauvre ne pouvait donner qu’une somme modeste issue de son propre effort, ils se moquaient de lui.
+ > [Sourate At-Tawbah, verset 79]
+ 
+Le problème n’était donc manifestement pas le montant du don. Ils avaient simplement décidé de critiquer.
+ 
+Le passage rappelle qu’une petite œuvre peut être immense auprès d’Allah lorsqu’elle représente un grand sacrifice pour celui qui l’accomplit. La valeur d’un don ne peut pas être calculée uniquement par le chiffre visible.
+ 
+## Les croyants et les croyantes sont alliés les uns des autres
+ 
+En contraste avec les hypocrites, Allah dit :
+ 
+> « Les croyants et les croyantes sont alliés les uns des autres. Ils commandent le bien, interdisent le mal, accomplissent la prière, donnent la zakāt et obéissent à Allah et à Son Messager. » 
+> [Sourate At-Tawbah, verset 71]
+ 
+Hommes et femmes participent donc ensemble à la vie morale et spirituelle de la communauté.
+ 
+Allah leur promet ensuite le Paradis, mais ajoute au verset suivant quelque chose d’encore plus grand :
+ 
+« La satisfaction d’Allah est plus grande encore. »
+ 
+> [Sourate At-Tawbah, verset 72]
+ 
+Le Paradis contient des jardins, des demeures et des plaisirs immenses. Mais le Coran montre qu’au-dessus même de ces récompenses se trouve la joie de savoir :
+ 
+Allah est satisfait de moi.
+ 
+## Les promesses que l’on fait lorsqu’on a besoin d’Allah
+ 
+At-Tawbah décrit aussi des personnes qui promettent :
+ 
+« Si Allah nous donne de Sa grâce, nous donnerons en aumône et nous serons certainement parmi les vertueux. »
+ 
+Mais lorsque le bienfait arrive, elles deviennent avares et oublient leur promesse.
+ 
+> [Sourate At-Tawbah, versets 75-76]
+ 
+C’est un mécanisme humain particulièrement facile à reconnaître. Dans l’épreuve, on promet parfois :
+ 
+« Seigneur, si Tu m’accordes cela, je changerai. »
+ 
+Puis la guérison arrive, le problème se résout, l’argent vient, le danger disparaît… et avec lui disparaît parfois la résolution qui semblait si sincère.
+ 
+La gratitude ne se mesure donc pas seulement pendant la demande, mais surtout après l’exaucement.
+ 
+## Ceux qui pleuraient parce qu’ils ne pouvaient pas partir
+ 
+Les versets 91 et 92 offrent l’un des contrastes les plus émouvants de toute la sourate.
+ 
+Allah exempte clairement les faibles, les malades et ceux qui ne disposent réellement pas des moyens nécessaires, à condition qu’ils soient sincères envers Allah et Son Messager ﷺ.
+ 
+Puis Il décrit des croyants venus demander au Prophète ﷺ une monture pour pouvoir participer à Tabūk. Le Prophète ﷺ n’avait rien à leur fournir.
+ 
+Ils repartirent alors :
+ 
+« les yeux débordant de larmes, attristés de ne rien trouver à dépenser. »
+ 
+> [Sourate At-Tawbah, verset 92]
+ 
+Extérieurement, ces hommes restent à Médine exactement comme certains hypocrites. Mais intérieurement, la différence est immense : les uns cherchent une excuse pour ne pas partir ; les autres pleurent parce qu’ils ne peuvent pas partir.
+ 
+Allah ne juge donc pas uniquement la photographie extérieure de l’acte. Il connaît aussi la capacité réelle, l’intention et ce que la personne aurait sincèrement voulu faire si elle en avait eu les moyens.
+ 
+## Deux personnes peuvent accomplir le même acte sans avoir la même valeur auprès d’Allah
+ 
+Cette distinction revient constamment dans At-Tawbah.
+ 
+Deux personnes restent chez elles : l’une est excusée, l’autre non. Deux personnes donnent une petite somme : l’une donne presque tout ce qu’elle peut, l’autre donne très peu malgré une grande richesse. Deux personnes prononcent les mêmes paroles religieuses : l’une les porte dans son cœur, l’autre les utilise comme façade.
+ 
+L’homme voit souvent l’acte visible. Allah voit aussi le cœur, la capacité et l’intention.
+ 
+## Les Bédouins ne sont pas tous identiques
+ 
+La sourate critique sévèrement certains Bédouins pour leur ignorance ou leur hypocrisie. Mais quelques versets plus loin, elle précise qu’il existe aussi parmi eux des hommes sincères qui croient en Allah et au Jour dernier et considèrent leurs dépenses comme une manière de se rapprocher d’Allah.
+ 
+> [Sourate At-Tawbah, versets 97-99]
+ 
+Cette précision montre encore une fois qu’il faut lire le Coran avec rigueur. Une critique visant certains membres d’un groupe ne constitue pas automatiquement une condamnation de chaque personne appartenant à ce groupe.
+ 
+Le véritable critère reste la foi et les actes.
+ 
+## Les Muhājirūn et les Anṣār
+ 
+Allah rend ensuite un hommage exceptionnel aux premiers croyants parmi les Muhājirūn, qui quittèrent La Mecque pour leur foi, et les Anṣār, qui les accueillirent et les soutinrent à Médine, ainsi qu’à ceux qui les suivirent avec excellence.
+ 
+Allah déclare :
+ 
+> « Allah est satisfait d’eux et ils sont satisfaits de Lui. »
+> [Sourate At-Tawbah, verset 100]
+ 
+Cette affirmation coranique établit le rang immense de ces premières générations de croyants.
+ 
+Ils n’étaient pas des êtres sans erreurs : le Coran lui-même en corrige plusieurs. Mais leur sacrifice, leur fidélité et leur proximité avec la mission prophétique leur donnent un mérite extraordinaire.
+ 
+## Reconnaître sa faute plutôt que l’enrober d’excuses
+ 
+Le verset 102 présente une autre catégorie de personnes : elles reconnaissent leurs péchés, après avoir mélangé de bonnes œuvres et de mauvaises. Allah laisse espérer qu’Il acceptera leur repentir.
+ 
+La différence avec l’hypocrite apparaît de plus en plus clairement.
+ 
+Le croyant peut avoir réellement fauté, parfois gravement. Mais il est encore capable de dire :
+ 
+« J’ai eu tort. »
+ 
+L’hypocrite cherche surtout à protéger son image.
+ 
+Cette distinction est essentielle : reconnaître honnêtement son péché peut devenir le commencement du repentir ; passer sa vie à justifier toutes ses fautes peut empêcher le cœur de revenir.
+ 
+## L’aumône purifie aussi celui qui donne
+ 
+Allah ordonne ensuite au Prophète ﷺ :
+ 
+« Prélève de leurs biens une aumône par laquelle tu les purifies et les élèves. »
+> [Sourate At-Tawbah, verset 103]
+ 
+La zakāt ne sert donc pas uniquement au bénéficiaire. Elle agit également sur le donneur. Elle combat l’avarice, l’attachement excessif aux biens et l’illusion selon laquelle nous serions les propriétaires absolus de tout ce que nous possédons.
+ 
+En donnant, le croyant reconnaît implicitement :
+ 
+« Ce bien est arrivé jusqu’à moi par Allah, et une part de ce qu’Il m’a confié possède des droits qui ne m’appartiennent pas exclusivement. »
+ 
+## C’est Allah qui accepte le repentir
+ 
+Le verset suivant demande :
+ 
+> « Ne savent-ils pas que c’est Allah qui accepte le repentir de Ses serviteurs ? »
+> [Sourate At-Tawbah, verset 104]
+ 
+Cette vérité est libératrice. Les hommes peuvent garder le souvenir d’un passé. Une réputation peut mettre du temps à changer. Certains peuvent continuer à juger une personne selon ce qu’elle fut autrefois.
+ 
+Mais si le repentir est sincère et qu’Allah l’accepte, la relation décisive a changé.
+ 
+Le croyant ne doit évidemment pas ignorer les conséquences humaines de ses actes, mais il ne doit pas non plus devenir éternellement prisonnier du regard des hommes après être réellement revenu vers son Seigneur.
+ 
+## Masjid aḍ-Ḍirār : une apparence religieuse peut cacher une mauvaise intention
+ 
+At-Tawbah raconte ensuite l’histoire de Masjid aḍ-Ḍirār.
+ 
+Des hypocrites avaient construit un bâtiment présenté comme une mosquée, mais Allah révèle qu’il avait notamment pour objectifs de provoquer du tort, de favoriser la division des croyants et de servir des intérêts hostiles à la communauté.
+ 
+Allah ordonne au Prophète ﷺ de ne jamais y prier.
+ 
+> [Sourate At-Tawbah, versets 107-108]
+ 
+La leçon est remarquable : même une œuvre possédant extérieurement une apparence religieuse peut être corrompue par son intention.
+ 
+Le mot « mosquée » ne suffit pas à rendre une intention bonne.
+ 
+Inversement, une œuvre modeste peut devenir immense auprès d’Allah lorsqu’elle repose sur une intention sincère.
+ 
+## Sur quelle fondation construisons-nous ?
+ 
+Allah poursuit avec une magnifique parabole.
+ 
+Est-il meilleur de construire son édifice sur la taqwā d’Allah et la recherche de Sa satisfaction, ou de le construire sur le bord d’un terrain fragile qui s’écroule avec son constructeur ?
+ 
+> [Sourate At-Tawbah, verset 109]
+ 
+L’image dépasse très largement le bâtiment matériel. Une personne peut construire :
+•	une famille ;
+•	une carrière ;
+•	une entreprise ;
+•	une réputation ;
+•	une œuvre religieuse ;
+•	ou toute une existence.
+ 
+La question reste la même : sur quoi reposent les fondations ?
+ 
+Une construction spectaculaire sur une base corrompue peut finir par s’effondrer. Quelque chose de plus discret, mais fondé sur la taqwā et la sincérité, possède une tout autre solidité.
+ 
+## « Allah a acheté aux croyants leurs personnes et leurs biens »
+ 
+Le verset 111 utilise ensuite l’image d’une transaction :
+ 
+> « Allah a acheté aux croyants leurs personnes et leurs biens en échange du Paradis. »
+> [Sourate At-Tawbah, verset 111]
+ 
+Allah possède évidemment déjà l’être humain et tout ce qu’il possède. Cette formulation lui fait plutôt comprendre ce qu’est une vie donnée à Allah : son temps, ses capacités, son argent et son existence entière ne sont pas destinés uniquement à ses désirs personnels.
+ 
+Le verset suivant montre d’ailleurs que cette vie consacrée à Allah ne se résume pas au combat. Ces croyants sont aussi décrits comme repentants, adorateurs, louangeurs d’Allah, ceux qui s’inclinent et se prosternent, commandent le bien, s’opposent au mal et respectent les limites d’Allah.
+ 
+> [Sourate At-Tawbah, verset 112]
+ 
+## Les trois Compagnons restés en arrière
+ 
+Puis vient l’un des récits les plus puissants de toute la sourate.
+ 
+Trois Compagnons sincères avaient manqué l’expédition de Tabūk sans excuse valable :
+-	Ka‘b ibn Mālik رضي الله عنه ;
+-	Hilāl ibn Umayyah رضي الله عنه ;
+-	Murārah ibn ar-Rabī‘ رضي الله عنه.
+ 
+Ils n’étaient pas hypocrites. Ils avaient simplement fauté.
+ 
+Lorsque le Prophète ﷺ revint de Tabūk, beaucoup de personnes venues s’excuser lui présentèrent différentes justifications. Ka‘b ibn Mālik رضي الله عنه raconte qu’il aurait parfaitement été capable d’inventer une histoire convaincante.
+ 
+Mais il décida de dire la vérité :
+ 
+il n’avait aucune excuse.
+ 
+Il possédait les moyens de partir et pourtant il n’était pas parti.
+ 
+## La vérité peut coûter cher à court terme
+ 
+Le Prophète ﷺ remit alors leur affaire au jugement d’Allah et les musulmans reçurent l’ordre de ne plus parler aux trois hommes.
+ 
+Cette situation dura cinquante nuits.
+ 
+Ka‘b raconte que Médine elle-même lui semblait devenue étrangère. Il se rendait à la mosquée, voyait les gens qu’il connaissait, saluait, mais personne ne lui répondait normalement.
+ 
+Il avait choisi la vérité, et pourtant la vérité ne lui avait pas apporté un soulagement immédiat.
+ 
+C’est une leçon extrêmement profonde : le mensonge peut parfois rendre les prochaines heures plus faciles ; la vérité peut rendre les prochaines semaines beaucoup plus difficiles. Mais il faut regarder l’histoire jusqu’à la fin, pas seulement jusqu’au lendemain.
+ 
+## Une nouvelle tentation pendant l’épreuve
+ 
+Durant cette période, Ka‘b reçut même une lettre du roi de Ghassān, qui avait appris qu’il semblait rejeté par sa communauté et lui proposait de le rejoindre.
+ 
+Ka‘b comprit immédiatement cette proposition comme une nouvelle épreuve et brûla la lettre.
+ 
+Après quarante jours, on lui demanda même de se tenir temporairement éloigné de son épouse jusqu’à ce qu’Allah tranche son affaire.
+ 
+La repentance sincère ne signifie donc pas nécessairement que toutes les conséquences d’une faute disparaissent immédiatement. Elle peut demander patience, vérité et endurance.
+ 
+## « Il n’y a aucun refuge contre Allah si ce n’est auprès de Lui »
+ 
+Puis, au cinquantième matin, Allah révéla enfin l’acceptation de leur repentir.
+ 
+Le Coran décrit leur état avant cette délivrance :
+ 
+« jusqu’à ce que la terre, malgré son immensité, leur devienne étroite, que leurs propres âmes deviennent étroites pour eux et qu’ils comprennent qu’il n’existe aucun refuge contre Allah si ce n’est auprès de Lui. »
+> [Sourate At-Tawbah, verset 118]
+ 
+Cette dernière phrase est probablement l’une des formulations les plus profondes du repentir dans tout le Coran :
+ 
+il n’existe aucun refuge contre Allah… si ce n’est auprès d’Allah.
+ 
+Lorsque l’être humain a désobéi à son Seigneur, il peut ressentir honte, culpabilité ou peur et être tenté de s’éloigner davantage.
+ 
+Mais At-Tawbah enseigne exactement l’inverse : on ne guérit pas l’éloignement d’Allah en fuyant encore plus loin de Lui. On revient vers Lui.
+ 
+Celui dont nous craignons le jugement est précisément Celui auprès duquel nous cherchons la miséricorde.
+ 
+## « Soyez avec les véridiques »
+ 
+Immédiatement après avoir annoncé le pardon des trois hommes, Allah dit :
+ 
+> « Ô vous qui croyez ! Craignez Allah et soyez avec les véridiques. »
+> [Sourate At-Tawbah, verset 119]
+ 
+Le placement du verset est extraordinaire.
+ 
+Ka‘b aurait pu mentir. Il aurait peut-être obtenu un soulagement immédiat. Mais il choisit une vérité qui lui coûta cinquante jours de souffrance, et cette vérité devint finalement une cause de son salut.
+ 
+Ka‘b lui-même raconta que l’un des plus grands bienfaits qu’Allah lui avait accordés, après l’Islam, était précisément de lui avoir permis de dire la vérité au Prophète ﷺ plutôt que de mentir comme d’autres l’avaient fait.
+ 
+At-Tawbah enseigne ainsi :
+ 
+la vérité peut coûter cher maintenant et sauver plus tard ; le mensonge peut sauver maintenant et coûter beaucoup plus cher ensuite.
+ 
+## Une faute réelle n’empêche pas une repentance réelle
+ 
+Il faut également remarquer que Ka‘b et ses deux compagnons étaient réellement fautifs.
+ 
+Le Coran ne transforme pas leur erreur en innocence artificielle. Ils avaient manqué à une responsabilité importante sans excuse valable.
+ 
+Mais Allah ne les enferme pas définitivement dans cette faute.
+ 
+Ils regrettent, ne mentent pas, supportent l’épreuve et reviennent sincèrement. Puis Allah annonce Lui-même qu’Il leur a pardonné.
+ 
+La sourate refuse donc deux extrêmes :
+-	banaliser le péché, comme s’il n’avait aucune importance ;
+-	désespérer à cause du péché, comme si toute faute rendait le retour impossible.
+ 
+La faute est sérieuse. Mais la miséricorde d’Allah reste immense pour celui qui revient véritablement.
+ 
+## Tout le monde ne doit pas remplir exactement le même rôle
+ 
+Vers la fin de la sourate, Allah explique qu’il n’est pas nécessaire que toute la communauté parte simultanément dans une même direction. Une partie des croyants doit également approfondir sa compréhension de la religion afin d’instruire les autres à leur retour.
+ 
+> [Sourate At-Tawbah, verset 122]
+ 
+Même dans une sourate très marquée par la mobilisation et la défense de la communauté, Allah réserve donc explicitement une place essentielle à l’étude, la compréhension et la transmission du savoir.
+ 
+Une société croyante a besoin de différentes compétences. Certains agissent sur un terrain ; d’autres apprennent, réfléchissent, préservent la connaissance et enseignent.
+ 
+## Le même Coran peut augmenter la foi de l’un et l’endurcissement de l’autre
+ 
+Allah explique ensuite que lorsqu’une nouvelle sourate est révélée, les croyants voient leur foi augmenter et s’en réjouissent. Mais chez ceux dont les cœurs sont malades, la même révélation peut renforcer leur rejet.
+ 
+> [Sourate At-Tawbah, versets 124-125]
+ 
+La parole est la même.
+ 
+Le cœur qui la reçoit n’est pas le même.
+ 
+Cela rappelle une terre sur laquelle tombe la pluie : l’une absorbe l’eau et produit, l’autre reste stérile. Le Coran est guidance, mais l’orgueil ou la mauvaise foi peuvent transformer la réaction de celui qui l’entend.
+ 
+## Les épreuves devraient produire quelque chose en nous
+ 
+Allah demande ensuite :
+ 
+> « Ne voient-ils pas qu’ils sont éprouvés chaque année une ou deux fois ? Pourtant ils ne se repentent pas et ne se rappellent pas. »
+> [Sourate At-Tawbah, verset 126]
+ 
+L’épreuve peut donc avoir une fonction de réveil. Elle brise parfois la routine, rappelle notre fragilité, remet la mort devant nos yeux et nous pousse à revoir nos priorités.
+ 
+Mais souffrir ne produit pas automatiquement la sagesse. Une personne peut vivre une épreuve, retrouver ensuite le confort et reprendre exactement les mêmes habitudes.
+ 
+La question spirituelle devient alors :
+ 
+qu’est-ce que cette épreuve a changé en moi ?
+ 
+## Une sourate très ferme qui se termine par la compassion du Prophète ﷺ
+ 
+Après tant de passages sur l’hypocrisie, les pactes, les batailles et les fautes, l’avant-dernier verset décrit soudain le Prophète Muhammad ﷺ :
+ 
+« Un Messager issu de vous-mêmes vous est venu. Ce que vous endurez lui est pénible ; il est profondément soucieux de vous ; envers les croyants, il est plein de bonté et de miséricorde. »
+ 
+> [Sourate At-Tawbah, verset 128]
+ 
+Le contraste est magnifique.
+ 
+La fermeté du Prophète ﷺ n’est pas celle d’un homme insensible au sort des autres. Au contraire, leur souffrance lui pèse et il désire profondément leur salut.
+ 
+La rigueur de certains passages de la sourate doit donc être comprise à l’intérieur d’une mission dont le but n’est pas la destruction des hommes, mais leur retour vers Allah.
+ 
+## « Allah me suffit »
+ 
+Puis vient le dernier verset :
+ 
+> « Mais s’ils se détournent, dis : Allah me suffit. Nulle divinité digne d’adoration en dehors de Lui. En Lui je place ma confiance, et Il est le Seigneur du Trône immense. »
+> [Sourate At-Tawbah, verset 129]
+ 
+Après toute une sourate concernant les pactes, les ennemis, les hypocrites, l’argent, les excuses, les batailles, la vérité et le repentir, le Prophète ﷺ est finalement ramené à quelque chose de très simple :
+ 
+Allah me suffit.
+ 
+Il doit transmettre, avertir, organiser, agir et employer les moyens nécessaires. Mais il ne possède pas les cœurs. Lorsque quelqu’un choisit malgré tout de se détourner, le Messager ﷺ ne porte pas le monde entier sur ses épaules.
+ 
+Le résultat ultime appartient à Allah.
+ 
+## Pourquoi une sourate aussi sévère s’appelle-t-elle « Le Repentir » ?
+ 
+C’est probablement l’un des aspects les plus beaux d’At-Tawbah.
+ 
+On pourrait penser qu’une sourate contenant autant d’avertissements porterait un nom lié uniquement au combat ou au jugement. Pourtant, elle est devenue célèbre comme At-Tawbah — Le Repentir.
+ 
+Et le repentir apparaît réellement partout :
+-	ceux qui étaient dans l’erreur peuvent revenir ;
+-	certains croyants reconnaissent leurs fautes ;
+-	Allah affirme qu’Il accepte le repentir ;
+-	les trois Compagnons fautifs sont finalement pardonnés ;
+-	et même après Ḥunayn, Allah rappelle qu’Il accueille le repentir de qui Il veut.
+ 
+La sévérité de la sourate n’est donc pas destinée à fermer la porte.
+ 
+Elle sert plutôt à arracher les masques qui empêchent l’être humain de reconnaître qu’il a besoin de revenir.
+ 
+## L’hypocrite cherche une excuse ; le repentant cherche le pardon
+ 
+Une opposition traverse toute la sourate.
+ 
+L’hypocrite cherche d’abord à convaincre les hommes qu’il n’a rien fait de mal. Le croyant fautif finit par dire : « J’ai eu tort. »
+ 
+L’un protège son image. L’autre cherche à réparer sa relation avec Allah.
+ 
+L’un invente parfois une excuse qui lui donne du confort à court terme. Ka‘b ibn Mālik رضي الله عنه accepte au contraire une vérité douloureuse parce qu’il préfère être en difficulté devant les hommes plutôt que menteur devant Allah.
+ 
+Voilà pourquoi son histoire s’insère si parfaitement dans une sourate sur l’hypocrisie.
+ 
+Le problème n’est pas simplement de tomber. Le problème beaucoup plus grave est de transformer toute sa vie en justification pour ne jamais reconnaître qu’on est tombé.
+ 
+## Le message central de la sourate At-Tawbah
+ 
+At-Tawbah est une sourate de vérité intérieure.
+ 
+Elle pose continuellement la question :
+ 
+que reste-t-il de ma foi lorsque cette foi commence réellement à me coûter quelque chose ?
+ 
+Quand il faut quitter son confort pour Tabūk.
+ 
+Quand il faut donner de son argent.
+ 
+Quand il faut respecter un pacte avec quelqu’un que l’on n’aime pas.
+ 
+Quand la vérité oblige à reconnaître que l’on a eu tort.
+ 
+Quand les intérêts familiaux ou matériels entrent en conflit avec l’obéissance.
+ 
+Quand personne ne voit ce qu’il y a réellement dans notre cœur.
+ 
+La sourate expose alors deux chemins.
+ 
+Le premier est celui de l’hypocrisie : cacher, justifier, chercher une apparence, choisir toujours ce qui coûte le moins et préserver son image devant les hommes.
+ 
+Le second est celui du croyant sincère : il peut avoir peur, être faible, hésiter, commettre une faute et même tomber sérieusement. Mais il conserve quelque chose de fondamental :
+ 
+la capacité de revenir honnêtement vers Allah.
+ 
+C’est pourquoi l’histoire de Ka‘b ibn Mālik رضي الله عنه résume si bien toute la sourate. Il avait fauté. Il aurait pu mentir. Il dit la vérité. La terre entière sembla se refermer autour de lui pendant cinquante jours.
+ 
+Puis il comprit :
+ 
+> « Il n’existe aucun refuge contre Allah si ce n’est auprès de Lui. »
+> [Sourate At-Tawbah, verset 118]
+ 
+Et juste après :
+ 
+> « Ô vous qui croyez ! Craignez Allah et soyez avec les véridiques. »
+> [Sourate At-Tawbah, verset 119]
+ 
+Voilà peut-être l’essence d’At-Tawbah :
+ 
+ne pas chercher à paraître parfait devant Allah, mais être assez sincère pour revenir vers Lui lorsque l’on ne l’a pas été.
+ 
+On peut avoir péché.
+ 
+On peut avoir manqué une occasion.
+ 
+On peut avoir désobéi.
+ 
+Mais tant qu’Allah ouvre la porte du repentir, le croyant ne fuit pas loin de Lui.
+ 
+Il fuit vers Lui.
+
+
 [[/desc]]
 
 [[desc 10]]
-La sourate Yūnus (سورة يونس), dixième chapitre du Coran, est une sourate mecquoise composée de 109 versets. Elle appartient à la période précédant l’Hégire, alors que le Prophète Muhammad ﷺ faisait face au rejet, aux objections et aux moqueries d’une grande partie des Quraysh. 
+
+La sourate Yūnus (سورة يونس), dixième sourate du Coran, est une sourate mecquoise composée de 109 versets. Elle appartient à la période précédant l’Hégire, alors que le Prophète Muhammad ﷺ faisait face au rejet, aux objections et aux moqueries d’une grande partie des Quraysh. 
  
 Son nom signifie « Jonas » et fait référence au prophète Yūnus عليه السلام. Pourtant, contrairement à ce que son titre pourrait laisser penser, la sourate ne raconte pas longuement son histoire.
  
@@ -35345,7 +38391,8 @@ Tant que le moment décisif n’est pas dépassé, il reste possible de croire, 
 [[/desc]]
 
 [[desc 11]]
-La sourate Hūd (سورة هود), onzième chapitre du Coran, est une sourate mecquoise composée de 123 versets dans le décompte aujourd’hui le plus répandu. Elle fut révélée durant une période particulièrement difficile de la mission du Prophète Muhammad ﷺ, alors que l’opposition des Quraysh s’intensifiait à La Mecque. 
+
+La sourate Hūd (سورة هود), onzième sourate du Coran, est une sourate mecquoise composée de 123 versets. Elle fut révélée durant une période particulièrement difficile de la mission du Prophète Muhammad ﷺ, alors que l’opposition des Quraysh s’intensifiait à La Mecque. 
  
 Elle porte le nom du prophète Hūd عليه السلام, envoyé au peuple de ‘Ād. Pourtant, comme la sourate Yūnus qui la précède, elle ne se limite pas au prophète dont elle porte le nom.
  
@@ -35859,7 +38906,8 @@ Et c’est précisément cela que Hūd lui demande : rester sur le chemin, avec 
 [[/desc]]
 
 [[desc 12]]
-La sourate Yūsuf (سورة يوسف), douzième chapitre du Coran, est une sourate mecquoise composée de 111 versets. Elle appartient à la dernière période mecquoise de la mission du Prophète Muhammad ﷺ, alors que l’opposition des Quraysh était devenue particulièrement éprouvante. Son récit constitue notamment un réconfort adressé au Prophète ﷺ : avant lui aussi, un prophète avait été rejeté et maltraité par ses propres proches avant qu’Allah ne transforme progressivement son épreuve en victoire. 
+
+La sourate Yūsuf (سورة يوسف), douzième sourate du Coran, est une sourate mecquoise composée de 111 versets. Elle appartient à la dernière période mecquoise de la mission du Prophète Muhammad ﷺ, alors que l’opposition des Quraysh était devenue particulièrement éprouvante. Son récit constitue notamment un réconfort adressé au Prophète ﷺ : avant lui aussi, un prophète avait été rejeté et maltraité par ses propres proches avant qu’Allah ne transforme progressivement son épreuve en victoire. 
  
 Elle porte le nom du prophète Yūsuf عليه السلام — Joseph, fils du prophète Ya‘qūb عليه السلام, lui-même fils d’Isḥāq, fils d’Ibrāhīm عليهم السلام. Le Prophète Muhammad ﷺ évoqua d’ailleurs cette illustre lignée en qualifiant Yūsuf de noble, fils d’un noble, lui-même fils d’un noble, fils d’un noble. 
  
@@ -36221,7 +39269,7 @@ Il porte sa souffrance vers Allah.
  
 Le croyant peut donc être profondément triste tout en étant profondément patient.
  
-« Ne désespérez pas du secours d’Allah »
+## « Ne désespérez pas du secours d’Allah »
  
 Malgré les années passées et malgré l’absence totale de nouvelles, Ya‘qūb dit ensuite à ses fils :
  
@@ -36464,7 +39512,8 @@ Car :
 [[/desc]]
 
 [[desc 13]]
-La sourate Ar-Ra‘d (سورة الرعد), treizième chapitre du Coran, est composée de 43 versets selon le décompte de Kūfa aujourd’hui le plus répandu. Son nom signifie « Le Tonnerre » et vient directement du verset 13, dans lequel Allah décrit le tonnerre comme Le glorifiant par Sa louange.
+
+La sourate Ar-Ra‘d (سورة الرعد), treizième sourate du Coran, est composée de 43 versets. Son nom signifie « Le Tonnerre » et vient directement du verset 13, dans lequel Allah décrit le tonnerre comme Le glorifiant par Sa louange.
  
 La classification de cette sourate fait l’objet d’une divergence ancienne entre les savants. Certains la considèrent médinoise, tandis que de nombreux exégètes l’ont considérée comme mecquoise, en raison notamment de son style et de ses grands thèmes : l’unicité d’Allah, la Résurrection, les signes de la création et les objections des polythéistes. Il est donc préférable de signaler cette divergence plutôt que de la présenter comme absolument certaine dans un sens ou dans l’autre.
  
