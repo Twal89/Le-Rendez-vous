@@ -32183,7 +32183,7 @@ Chaque nouvelle question réduisait les possibilités jusqu’à ce qu’ils tro
  
 Une partie de la vache fut ensuite utilisée, sur ordre d’Allah, dans le miracle par lequel la victime revint momentanément à la vie afin que la vérité concernant le meurtre apparaisse.
  
-[Sourate Al-Baqara, versets 67 à 73]
+> [Sourate Al-Baqara, versets 67 à 73]
  
 Cette histoire donne notamment une leçon sur l’excès de complication dans l’obéissance.
  
@@ -35055,7 +35055,7 @@ Les opposants demandaient régulièrement au Prophète ﷺ des signes extraordin
  
 « Ce n’est qu’une magie évidente. »
  
-[Sourate Al-An‘ām, verset 7] 
+> [Sourate Al-An‘ām, verset 7] 
  
 Le Coran montre ici que le problème n’est pas toujours l’insuffisance des preuves. Lorsqu’une personne a déjà décidé intérieurement de ne pas accepter une conclusion, elle peut continuellement déplacer le niveau de preuve exigé.
  
@@ -36252,7 +36252,7 @@ Shu‘ayb عليه السلام est envoyé à Madyan.
  
 Son appel commence lui aussi par le Tawḥīd, mais il dénonce en plus une corruption économique très concrète : son peuple triche dans les poids et les mesures et lèse les autres dans leurs biens.
  
-[Sourate Al-A‘rāf, verset 85]
+> [Sourate Al-A‘rāf, verset 85]
  
 La foi entre donc jusque dans le marché.
  
@@ -36644,7 +36644,7 @@ Vient ensuite cette parole :
  
 « C’est à Allah qu’appartiennent les plus beaux Noms. Invoquez-Le donc par ces Noms. »
  
-[Sourate Al-A‘rāf, verset 180]
+> [Sourate Al-A‘rāf, verset 180]
  
 Connaître les Noms d’Allah ne devrait donc pas être seulement un exercice de mémorisation.
  
