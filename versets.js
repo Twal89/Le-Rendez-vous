@@ -36866,7 +36866,7 @@ la véritable grandeur devant Allah ne consiste pas à se considérer trop élev
 
 [[desc 8]]
 
-La sourate Al-Anfāl (سورة الأنفال), huitième sourate du Coran, est une sourate médinoise composée de 75 versets, aujourd’hui le plus répandu. Son nom signifie « Les Butins » ou « Les Prises de guerre », en référence à son premier verset et aux questions apparues après la bataille de Badr concernant la répartition des biens récupérés. Elle est d’ailleurs si étroitement liée à cet événement que Ibn ‘Abbās رضي الله عنهما la désignait aussi comme « la sourate de Badr ». 
+La sourate Al-Anfāl (سورة الأنفال), huitième sourate du Coran, est une sourate médinoise composée de 75 versets. Son nom signifie « Les Butins » ou « Les Prises de guerre », en référence à son premier verset et aux questions apparues après la bataille de Badr concernant la répartition des biens récupérés. Elle est d’ailleurs si étroitement liée à cet événement que Ibn ‘Abbās رضي الله عنهما la désignait aussi comme « la sourate de Badr ». 
  
 La majeure partie de la sourate fut révélée autour de la bataille de Badr, en Ramadan de l’an 2 de l’Hégire, première grande confrontation militaire entre la jeune communauté musulmane de Médine et les Quraysh de La Mecque. Mais Al-Anfāl est bien davantage qu’un récit de bataille : elle constitue une véritable éducation spirituelle et collective de la communauté après une victoire. 
  
@@ -37448,7 +37448,7 @@ Voilà peut-être l’essence de la sourate : faire tout ce qui dépend de nous 
 
 [[desc 9]]
 
- La sourate At-Tawbah (سورة التوبة), neuvième sourate du Coran, est une grande sourate médinoise appartenant aux toutes dernières années de la mission du Prophète Muhammad ﷺ. Elle comporte 129 versets, aujourd’hui le plus répandu dans les muṣḥaf, bien que d’autres traditions anciennes de décompte aboutissent à 130.
+ La sourate At-Tawbah (سورة التوبة), neuvième sourate du Coran, est une grande sourate médinoise appartenant aux toutes dernières années de la mission du Prophète Muhammad ﷺ. Elle comporte 129 versets.
  
 Elle possède deux noms particulièrement célèbres. At-Tawbah signifie « Le Repentir », notamment parce que la question du retour vers Allah traverse profondément la sourate et culmine avec le pardon accordé aux trois Compagnons restés en arrière lors de l’expédition de Tabūk. Elle est également appelée Barā’ah, « Le Désaveu » ou « La Désolidarisation », mot par lequel elle commence, lorsque Allah et Son Messager ﷺ annoncent la fin de certains pactes conclus avec des groupes polythéistes qui les avaient violés.
  
