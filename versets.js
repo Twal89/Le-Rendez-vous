@@ -39952,7 +39952,6 @@ La sourate oppose ainsi plusieurs réalités : la lumière et les ténèbres, la
 Après les lettres Alif-Lām-Rā, Allah explique immédiatement pourquoi le Coran a été révélé :
  
 > « Un Livre que Nous avons fait descendre vers toi afin que tu fasses sortir les hommes des ténèbres vers la lumière, par la permission de leur Seigneur. »
- 
 > [Sourate Ibrāhīm, verset 1]
  
 La première image de la sourate est donc celle d’un passage : sortir d’un état pour entrer dans un autre. Le Coran n’est pas présenté uniquement comme un ensemble d’informations religieuses. Il est destiné à transformer celui qui le reçoit : passer de l’ignorance à la connaissance, du shirk au Tawḥīd, de l’absence de direction à une vie orientée vers Allah.
@@ -39966,7 +39965,6 @@ Le verset ne dit pas seulement : sortir des ténèbres.
 Il précise vers quoi :
  
 > « vers la voie du Tout-Puissant, du Digne de louange. »
- 
 > [Sourate Ibrāhīm, verset 1]
  
 Sortir d’une erreur sans savoir vers quoi avancer ne suffit pas. La guidance coranique ne consiste pas uniquement à déconstruire ce qui est faux ; elle conduit vers Allah.
@@ -39978,7 +39976,6 @@ La religion ne devient donc pas une recherche permanente de problèmes, de déba
 Allah explique ensuite :
  
 > « Nous n’avons envoyé de messager qu’avec la langue de son peuple afin qu’il leur expose clairement le message. »
- 
 > [Sourate Ibrāhīm, verset 4]
  
 Ce principe est très important. La Révélation cherche la compréhension. Les prophètes ne viennent pas parler de manière volontairement inaccessible afin d’impressionner leurs auditeurs ; leur mission implique au contraire d’expliquer clairement.
@@ -39992,7 +39989,6 @@ La clarté peut elle-même faire partie de la sagesse.
 Allah rappelle ensuite l’envoi de Mūsā عليه السلام avec Ses signes :
  
 > « Fais sortir ton peuple des ténèbres vers la lumière et rappelle-leur les jours d’Allah. »
- 
 > [Sourate Ibrāhīm, verset 5]
  
 Les « jours d’Allah » ont notamment été compris comme ces événements où les bienfaits, les secours ou les jugements d’Allah se manifestent de manière particulièrement frappante : la délivrance de Pharaon en est un exemple majeur dans le contexte de Mūsā عليه السلام.
@@ -40008,7 +40004,6 @@ Se rappeler les « jours d’Allah » dans sa propre vie peut donc nourrir la gr
 Vient ensuite l’un des versets les plus célèbres de la sourate :
  
 > « Si vous êtes reconnaissants, très certainement J’augmenterai pour vous. »
- 
 > [Sourate Ibrāhīm, verset 7]
  
 Le shukr, la gratitude, n’est donc pas seulement une politesse spirituelle. Allah lui associe une augmentation.
@@ -40026,7 +40021,6 @@ Elle se trouve aussi dans la manière dont leur cœur regarde ce qu’elles ont.
 Mūsā عليه السلام ajoute :
  
 > « Si vous êtes ingrats, vous et tous ceux qui sont sur terre, Allah Se suffit à Lui-même et Il est digne de louange. »
- 
 > [Sourate Ibrāhīm, verset 8]
  
 Allah n’a donc pas besoin de notre gratitude.
@@ -40066,7 +40060,6 @@ Et c’est précisément ce qui rend leur exemple si puissant : leur patience, l
 Face aux menaces, les messagers disent :
  
 > « Pourquoi ne placerions-nous pas notre confiance en Allah alors qu’Il nous a guidés sur nos chemins ? Nous patienterons certainement face au mal que vous nous faites. »
- 
 > [Sourate Ibrāhīm, verset 12]
  
 Le tawakkul apparaît ici avec la patience.
@@ -40086,7 +40079,6 @@ Elle peut aussi signifier :
 Les peuples négateurs finissent par menacer leurs prophètes :
  
 > « Nous vous expulserons certainement de notre terre, à moins que vous ne reveniez à notre religion. »
- 
 > [Sourate Ibrāhīm, verset 13]
  
 L’opposition intellectuelle devient alors une pression sociale puis politique : tu peux rester avec nous, mais seulement si tu redeviens comme nous.
@@ -40209,8 +40201,7 @@ Il pousse vers la route, puis abandonne celui qui l’a suivie.
  
 Et leur salutation y sera :
  
-« Salām » — paix.
- 
+> « Salām » — paix.
 > [Sourate Ibrāhīm, verset 23]
  
 Après les disputes, les menaces, les mensonges et les confrontations décrits auparavant, le Paradis apparaît comme le lieu où ces tensions prennent fin.
@@ -40222,7 +40213,6 @@ La destination de la foi est finalement la paix auprès d’Allah.
 Allah donne ensuite l’une des plus belles paraboles de la sourate :
  
 > « Une bonne parole est semblable à un bon arbre : sa racine est fermement implantée et ses branches s’élèvent dans le ciel. »
- 
 > [Sourate Ibrāhīm, verset 24]
  
 Cet arbre produit régulièrement ses fruits par la permission de son Seigneur.
@@ -40276,7 +40266,6 @@ Quelque chose peut grandir très vite et pourtant ne posséder aucune stabilité
 Après l’arbre enraciné vient naturellement la question de la fermeté :
  
 > « Allah affermit ceux qui croient par la parole ferme dans la vie présente et dans l’Au-delà. »
- 
 > [Sourate Ibrāhīm, verset 27]
  
 Et ici, nous possédons une explication prophétique authentique particulièrement importante.
@@ -40336,7 +40325,6 @@ Les versets suivants dressent une sorte de panorama des dons d’Allah : Il a cr
 Puis Allah dit :
  
 > « Il vous a donné de tout ce que vous Lui avez demandé. Et si vous comptiez les bienfaits d’Allah, vous ne pourriez pas les dénombrer. »
- 
 > [Sourate Ibrāhīm, versets 32-34]
  
 La gratitude du verset 7 prend alors une nouvelle dimension.
@@ -40356,7 +40344,6 @@ Une grande partie des bienfaits d’Allah nous est peut-être invisible simpleme
 Ibrāhīm عليه السلام invoque :
  
 > « Seigneur ! Fais de cette cité un lieu sûr et préserve-moi ainsi que mes enfants de l’adoration des idoles. »
- 
 > [Sourate Ibrāhīm, verset 35]
  
 Deux choses apparaissent immédiatement dans son invocation :
@@ -40400,7 +40387,6 @@ Il demande :
 Après avoir rappelé que les idoles ont égaré beaucoup d’hommes, Ibrāhīm dit :
  
 > « Celui qui me suit est des miens. Quant à celui qui me désobéit, Tu es certes Pardonneur et Très Miséricordieux. »
- 
 > [Sourate Ibrāhīm, verset 36]
  
 C’est remarquable.
@@ -40420,7 +40406,6 @@ Le prophète désire encore la possibilité de leur retour.
 Ibrāhīm poursuit :
  
 > « Notre Seigneur ! J’ai établi une partie de ma descendance dans une vallée sans agriculture, près de Ta Maison sacrée, afin qu’ils accomplissent la prière. »
- 
 > [Sourate Ibrāhīm, verset 37]
  
 Le verset coranique dit simplement « une partie de ma descendance ». Mais un hadith authentique de Ibn ‘Abbās رضي الله عنهما dans Ṣaḥīḥ al-Bukhārī identifie ici Ismā‘īl عليه السلام et sa mère, qu’Ibrāhīm avait laissés dans cette vallée alors dépourvue d’habitants et d’eau. Le même récit raconte ensuite l’apparition de Zamzam et l’origine du va-et-vient entre aṣ-Ṣafā et al-Marwah.
@@ -40432,7 +40417,6 @@ La Mecque que des millions de personnes connaissent aujourd’hui commence donc,
 Il est frappant de voir ce qu’Ibrāhīm عليه السلام place au centre de son invocation :
  
 > « afin qu’ils accomplissent la prière. »
- 
 > [Sourate Ibrāhīm, verset 37]
  
 Il ne demande pas seulement qu’une ville prospère apparaisse.
@@ -40492,7 +40476,6 @@ Et précisément pour cette raison, elle agit.
 Ibrāhīm poursuit son invocation :
  
 > « Notre Seigneur ! Tu sais ce que nous cachons et ce que nous divulguons. Rien n’échappe à Allah ni sur terre ni dans le ciel. »
- 
 > [Sourate Ibrāhīm, verset 38]
  
 L’invocation devient alors profondément intime.
@@ -40508,7 +40491,6 @@ On n’a pas besoin de savoir parfaitement formuler sa détresse pour être comp
 Ibrāhīm dit ensuite :
  
 > « Louange à Allah qui, malgré ma vieillesse, m’a accordé Ismā‘īl et Isḥāq. Mon Seigneur entend vraiment l’invocation. »
- 
 > [Sourate Ibrāhīm, verset 39]
  
 C’est encore une fois la gratitude.
@@ -40532,7 +40514,6 @@ Ibrāhīm عليه السلام l’incarne.
 Puis vient cette invocation :
  
 > « Seigneur ! Fais de moi quelqu’un qui accomplit assidûment la prière, ainsi qu’une partie de ma descendance. Notre Seigneur, accepte mon invocation. »
- 
 > [Sourate Ibrāhīm, verset 40]
  
 Il est remarquable qu’un prophète du rang d’Ibrāhīm عليه السلام demande à Allah de l’aider à maintenir sa propre prière.
@@ -40548,7 +40529,6 @@ Cela montre une très belle forme de responsabilité familiale : souhaiter à ce
 Ibrāhīm termine :
  
 > « Notre Seigneur ! Pardonne-moi, ainsi qu’à mes parents et aux croyants, le Jour où les comptes seront établis. »
- 
 > [Sourate Ibrāhīm, verset 41]
  
 Son invocation s’élargit progressivement.
@@ -40568,7 +40548,6 @@ La du‘ā’ d’Ibrāhīm n’est donc pas refermée sur sa propre personne. E
 Après cette série d’invocations extrêmement douce, le ton change :
  
 > « Ne pense surtout pas qu’Allah soit inattentif à ce que font les injustes. »
- 
 > [Sourate Ibrāhīm, verset 42]
  
 Le délai n’est pas l’oubli.
@@ -40605,8 +40584,7 @@ Demain, lorsque ces réalités seront visibles, le choix n’aura plus la même 
  
 Allah dit ensuite :
  
-« Ne pense pas qu’Allah manque à Sa promesse envers Ses messagers. »
- 
+> « Ne pense pas qu’Allah manque à Sa promesse envers Ses messagers. »
 > [Sourate Ibrāhīm, verset 47]
  
 Pour Muhammad ﷺ et les premiers croyants de La Mecque, confrontés à la puissance apparente de Quraysh, cette parole devait posséder une force particulière.
@@ -40628,7 +40606,6 @@ Ce sont deux affirmations totalement différentes.
 La sourate décrit ensuite un bouleversement cosmique :
  
 > « Le jour où la terre sera remplacée par une autre terre, ainsi que les cieux, et où tous comparaîtront devant Allah, l’Unique, le Dominateur suprême. »
- 
 > [Sourate Ibrāhīm, verset 48]
  
 Tout ce qui paraît aujourd’hui immuable — la terre elle-même, l’horizon, l’ordre cosmique auquel nous sommes habitués — sera transformé.
@@ -40643,8 +40620,7 @@ Le Coran rappelle qu’il n’est qu’une étape.
  
 Le dernier verset dit :
  
-« Ceci est un message pour les hommes afin qu’ils soient avertis, qu’ils sachent qu’Il n’est qu’un Dieu unique et que les doués d’intelligence se rappellent. »
- 
+> « Ceci est un message pour les hommes afin qu’ils soient avertis, qu’ils sachent qu’Il n’est qu’un Dieu unique et que les doués d’intelligence se rappellent. »
 > [Sourate Ibrāhīm, verset 52]
  
 Le début de la sourate disait :
@@ -40738,19 +40714,16 @@ Trois passages résument particulièrement bien la sourate.
 D’abord :
  
 > « Si vous êtes reconnaissants, J’augmenterai pour vous. »
- 
 > [Sourate Ibrāhīm, verset 7]
  
 Puis :
  
 > « la bonne parole ressemble à un arbre dont la racine est ferme et les branches élevées. »
- 
 > [Sourate Ibrāhīm, versets 24-25]
  
 Et enfin l’invocation d’Ibrāhīm :
  
 > « Seigneur ! Fais de moi quelqu’un qui accomplit la prière, ainsi qu’une partie de ma descendance. »
- 
 > [Sourate Ibrāhīm, verset 40]
  
 Gratitude.
@@ -40781,7 +40754,6 @@ La sourate commence par les lettres Alif-Lām-Rā, puis présente immédiatement
 Elle annonce ensuite qu’un jour certains de ceux qui auront refusé de croire souhaiteront avoir accepté l’Islam :
  
 > « Il se peut que ceux qui ont mécru souhaitent avoir été musulmans. »
- 
 > [Sourate Al-Ḥijr, verset 2]
  
 Il existe aujourd’hui un temps où l’être humain peut reconnaître une erreur, changer de direction et revenir vers Allah. Mais il arrivera également un moment où comprendre la vérité ne suffira plus, parce que le temps du choix sera terminé.
@@ -40793,7 +40765,6 @@ La sourate invite donc à ne pas repousser indéfiniment à demain une vérité 
 Allah dit ensuite :
  
 > « Laisse-les manger, jouir et être distraits par l’espoir ; bientôt ils sauront. »
- 
 > [Sourate Al-Ḥijr, verset 3]
  
 Le problème n’est évidemment pas de manger ou de profiter des choses licites de cette vie. Le danger est de vivre comme si l’existence entière se résumait à cela.
@@ -40807,7 +40778,6 @@ L’espoir, normalement positif, peut alors devenir une manière de repousser co
 Allah rappelle ensuite qu’aucune communauté ne peut devancer ni retarder le terme qui lui a été fixé :
  
 > « Aucune communauté ne devance son terme ni ne le retarde. »
- 
 > [Sourate Al-Ḥijr, verset 5]
  
 Cette idée revient sous différentes formes dans la sourate : l’histoire humaine n’échappe jamais à la connaissance et au décret d’Allah.
@@ -40821,7 +40791,6 @@ Le Prophète ﷺ traité de fou
 Les Quraysh s’adressaient au Prophète ﷺ avec sarcasme :
  
 > « Ô toi sur qui le Rappel a été descendu ! Tu es certainement fou ! »
- 
 > [Sourate Al-Ḥijr, verset 6]
  
 Il y a quelque chose de profondément consolateur dans le fait que le Coran ait lui-même conservé ces insultes.
@@ -40837,7 +40806,6 @@ Les négateurs exigeaient également que des anges descendent devant eux si Muha
 Mais Allah montre ensuite que, chez certains, le problème n’est plus réellement l’absence de preuves :
  
 > « Même si Nous leur ouvrions une porte du ciel et qu’ils continuaient à y monter, ils diraient : “Nos regards ont seulement été troublés ; nous sommes plutôt des gens ensorcelés.” »
- 
 > [Sourate Al-Ḥijr, versets 14-15]
  
 Il existe une grande différence entre chercher sincèrement une preuve et demander sans cesse une nouvelle preuve parce que l’on refuse d’avance toute conclusion qui nous obligerait à changer.
@@ -40849,7 +40817,6 @@ Lorsque le cœur s’est enfermé, même l’extraordinaire peut être réinterp
 Au milieu des moqueries apparaît l’un des versets les plus célèbres de la sourate :
  
 > « C’est Nous qui avons fait descendre le Rappel, et c’est Nous qui en sommes gardiens. »
- 
 > [Sourate Al-Ḥijr, verset 9]
  
 Allah affirme Lui-même la préservation du Dhikr, compris ici comme le Coran.
@@ -40877,7 +40844,6 @@ tu n’es pas le premier messager à traverser cela.
 Allah dirige ensuite le regard vers l’univers :
  
 > « Nous avons certes placé dans le ciel des constellations et Nous l’avons embelli pour ceux qui regardent. »
- 
 > [Sourate Al-Ḥijr, verset 16]
  
 Le ciel n’est pas uniquement présenté comme quelque chose d’utile.
@@ -40901,7 +40867,6 @@ Mais la foi dans l’invisible n’est pas une invitation à tout imaginer. Au c
 Après le ciel, Allah attire l’attention vers la terre :
  
 > « Quant à la terre, Nous l’avons étendue, Nous y avons placé des montagnes fermement établies et Nous y avons fait pousser toute chose avec mesure. »
- 
 > [Sourate Al-Ḥijr, verset 19]
  
 Puis Allah explique qu’Il y a placé les moyens de subsistance des hommes et de créatures dont ils ne sont eux-mêmes pas les pourvoyeurs.
@@ -40917,7 +40882,6 @@ Mais ils utilisent continuellement des moyens qui existaient avant nous.
 Allah dit ensuite :
  
 > « Il n’est aucune chose dont Nous ne détenions les réserves, et Nous ne la faisons descendre que dans une mesure déterminée. »
- 
 > [Sourate Al-Ḥijr, verset 21]
  
 C’est l’un des versets les plus profonds de la sourate concernant la subsistance et le décret.
@@ -40941,7 +40905,6 @@ Ce que nous voudrions immédiatement n’est pas toujours ce qu’Il nous donne 
 Allah mentionne ensuite les vents fécondants et l’eau descendue du ciel :
  
 > « Nous envoyons les vents fécondants, puis Nous faisons descendre du ciel une eau dont Nous vous abreuvons, alors que vous n’en êtes pas les gardiens. »
- 
 > [Sourate Al-Ḥijr, verset 22]
  
 L’eau nous paraît ordinaire uniquement parce que nous la rencontrons continuellement.
@@ -40955,7 +40918,6 @@ Al-Ḥijr cherche encore une fois à transformer l’habitude en gratitude.
 Allah dit :
  
 > « C’est Nous qui donnons la vie et donnons la mort, et c’est Nous qui héritons de tout. »
- 
 > [Sourate Al-Ḥijr, verset 23]
  
 L’expression est saisissante.
@@ -40983,7 +40945,6 @@ La sourate revient ensuite à l’origine de l’humanité.
 Allah annonce aux anges :
  
 > « Je vais créer un être humain d’une argile sèche tirée d’une boue façonnée. »
- 
 > [Sourate Al-Ḥijr, verset 28]
  
 Puis Il leur ordonne de se prosterner devant Adam selon l’ordre qu’Il leur donne.
@@ -41003,7 +40964,6 @@ Allah demande à Iblīs pourquoi il ne s’est pas prosterné.
 Il répond :
  
 > « Je ne suis pas de ceux qui se prosternent devant un être humain que Tu as créé d’une argile sèche tirée d’une boue façonnée. »
- 
 > [Sourate Al-Ḥijr, verset 33]
  
 Iblīs regarde l’argile.
@@ -41021,7 +40981,6 @@ Allah peut donner une immense valeur à quelqu’un que les hommes considèrent 
 Iblīs demande un délai puis annonce :
  
 > « Seigneur ! Parce que Tu m’as laissé m’égarer, je leur embellirai certainement les choses sur terre et je les égarerai tous, sauf Tes serviteurs sincères parmi eux. »
- 
 > [Sourate Al-Ḥijr, versets 39-40]
  
 Le mot « embellirai » est extrêmement important.
@@ -41045,7 +41004,6 @@ L’un des combats spirituels consiste donc à préserver la capacité à voir l
 Allah répond :
  
 > « Tu n’auras aucune autorité sur Mes serviteurs, sauf ceux qui te suivront parmi les égarés. »
- 
 > [Sourate Al-Ḥijr, verset 42]
  
 Le croyant ne doit donc pas imaginer Satan comme une puissance qui pourrait l’obliger irrésistiblement à désobéir.
@@ -41065,7 +41023,6 @@ C’est pourquoi la protection se trouve dans la sincérité, le dhikr, la conna
 Allah avertit ensuite :
  
 > « L’Enfer sera certainement leur lieu de rendez-vous à tous. Il possède sept portes ; à chaque porte est destinée une partie d’entre eux. »
- 
 > [Sourate Al-Ḥijr, versets 43-44]
  
 Le Coran nous donne ici ce qu’il veut que nous sachions : l’Enfer possède sept portes.
@@ -41079,7 +41036,6 @@ L’objectif principal est l’avertissement : suivre consciemment une voie d’
 Immédiatement après vient la scène opposée :
  
 > « Les pieux seront dans des jardins et parmi des sources. Entrez-y en paix et en sécurité. »
- 
 > [Sourate Al-Ḥijr, versets 45-46]
  
 Deux mots décrivent magnifiquement le Paradis :
@@ -41103,7 +41059,6 @@ Au Paradis, le bienfait n’est plus accompagné de cette inquiétude permanente
 Allah ajoute :
  
 > « Nous retirerons ce qui se trouvait dans leurs poitrines comme rancœur ; ils seront frères, installés sur des lits, face à face. »
- 
 > [Sourate Al-Ḥijr, verset 47]
  
 Le Paradis n’est donc pas seulement un endroit extérieurement parfait.
@@ -41119,7 +41074,6 @@ Le bonheur total exige donc à la fois un monde sans souffrance et un cœur déb
 Allah précise :
  
 > « Aucune fatigue ne les y touchera et ils n’en seront jamais expulsés. »
- 
 > [Sourate Al-Ḥijr, verset 48]
  
 Même les plus belles choses terrestres finissent parfois par fatiguer ou par disparaître.
@@ -41133,7 +41087,6 @@ La permanence elle-même fait partie du bienfait.
 Allah ordonne ensuite au Prophète ﷺ :
  
 > « Informe Mes serviteurs que c’est Moi le Pardonneur, le Très Miséricordieux, et que Mon châtiment est le châtiment douloureux. »
- 
 > [Sourate Al-Ḥijr, versets 49-50]
  
 Ces deux versets résument parfaitement l’un des grands équilibres du Coran.
@@ -41155,7 +41108,6 @@ Ils le saluent, mais Ibrāhīm ressent de l’inquiétude.
 Ils le rassurent :
  
 > « N’aie pas peur. Nous t’annonçons la naissance d’un garçon doué de savoir. »
- 
 > [Sourate Al-Ḥijr, verset 53]
  
 Le Coran ne nomme pas ici explicitement ce garçon dans le passage lui-même. L’idée importante est l’annonce extraordinaire faite à Ibrāhīm alors que la vieillesse l’a déjà atteint.
@@ -41169,7 +41121,6 @@ Les anges lui répondent qu’ils lui annoncent la vérité et lui demandent de 
 Ibrāhīm répond :
  
 > « Et qui désespère de la miséricorde de son Seigneur sinon les égarés ? »
- 
 > [Sourate Al-Ḥijr, verset 56]
  
 Ce verset ne signifie pas qu’un croyant n’éprouve jamais de tristesse ou de découragement humain.
@@ -41209,7 +41160,6 @@ Lorsque les anges arrivent sous apparence humaine auprès de Lūṭ عليه ا�
 Lorsque les habitants viennent vers lui, il leur dit :
  
 > « Ceux-ci sont mes invités ; ne me couvrez donc pas de honte. Craignez Allah et ne me déshonorez pas. »
- 
 > [Sourate Al-Ḥijr, versets 68-69]
  
 Mais le peuple persiste.
@@ -41221,7 +41171,6 @@ Le récit décrit une société dans laquelle la transgression n’est plus seul
 Allah dit :
  
 > « Par ta vie ! Ils erraient aveuglément dans leur ivresse. »
- 
 > [Sourate Al-Ḥijr, verset 72]
  
 Cette « ivresse » désigne ici l’aveuglement produit par leurs passions et leur égarement.
@@ -41243,7 +41192,6 @@ Au lever du soleil, le jugement atteint le peuple.
 Puis Allah dit :
  
 > « Il y a vraiment là des signes pour ceux qui savent observer. »
- 
 > [Sourate Al-Ḥijr, verset 75]
  
 Le récit n’est pas simplement destiné à raconter un événement ancien.
@@ -41265,7 +41213,6 @@ Leur mention s’inscrit dans le même fil conducteur : les peuples changent, ma
 Arrive ensuite le peuple qui donne son nom à la sourate :
  
 > « Les habitants d’Al-Ḥijr traitèrent eux aussi les messagers de menteurs. Nous leur avions donné Nos signes, mais ils s’en détournaient. »
- 
 > [Sourate Al-Ḥijr, versets 80-81]
  
 Il s’agit des Thamūd, le peuple auquel Ṣāliḥ عليه السلام fut envoyé.
@@ -41277,7 +41224,6 @@ Le Coran parle de leur rejet « des messagers » parce que le message fondamenta
 Allah précise :
  
 > « Ils taillaient dans les montagnes des maisons où ils se croyaient en sécurité. »
- 
 > [Sourate Al-Ḥijr, verset 82]
  
 C’est probablement l’image la plus marquante de la fin de la sourate.
@@ -41289,7 +41235,6 @@ Elle semble presque faire corps avec la roche.
 Pourtant :
  
 > « Le Cri les saisit au matin. Ce qu’ils avaient acquis ne leur servit alors à rien. »
- 
 > [Sourate Al-Ḥijr, versets 83-84]
  
 La sécurité matérielle possède toujours une limite.
@@ -41319,7 +41264,6 @@ Mais son cœur sait que la sécurité absolue n’appartient qu’à Allah.
 Après les récits des peuples disparus, Allah revient à la création entière :
  
 > « Nous n’avons créé les cieux, la terre et ce qui se trouve entre eux qu’en toute vérité. Et l’Heure viendra certainement. »
- 
 > [Sourate Al-Ḥijr, verset 85]
  
 L’univers n’est donc pas présenté comme une gigantesque scène sans destination morale.
@@ -41335,7 +41279,6 @@ Et parce qu’un jugement existe, les injustices de cette vie ne représentent j
 Le même verset se termine par :
  
 > « Pardonne donc d’un beau pardon. »
- 
 > [Sourate Al-Ḥijr, verset 85]
  
 C’est remarquable.
@@ -41349,7 +41292,6 @@ Le pardon n’abolit pas nécessairement la justice ni toutes les limites. Mais 
 Allah rappelle ensuite au Prophète ﷺ un immense cadeau :
  
 > « Nous t’avons certes donné les sept versets que l’on répète ainsi que le Coran sublime. »
- 
 > [Sourate Al-Ḥijr, verset 87]
  
 Le Prophète ﷺ a explicitement identifié les sept versets répétés comme étant Al-Fātiḥa, dans un hadith authentique rapporté par Al-Bukhārī.
@@ -41369,7 +41311,6 @@ La valeur d’un don ne se mesure pas uniquement par sa visibilité matérielle.
 Allah poursuit :
  
 > « Ne porte pas tes regards vers les différentes jouissances que Nous avons accordées à certains d’entre eux. »
- 
 > [Sourate Al-Ḥijr, verset 88]
  
 Le lien avec le verset précédent est magnifique.
@@ -41393,7 +41334,6 @@ qu’est-ce qu’Allah m’a donné que je ne vois plus parce que je regarde tro
 Allah dit également au Prophète ﷺ :
  
 > « Et abaisse ton aile pour les croyants. »
- 
 > [Sourate Al-Ḥijr, verset 88]
  
 L’image évoque la douceur, l’humilité et la protection.
@@ -41421,7 +41361,6 @@ Si le Coran est guidance, cela signifie nécessairement qu’il peut parfois cor
 Allah dit :
  
 > « Par ton Seigneur ! Nous les interrogerons tous sur ce qu’ils faisaient. »
- 
 > [Sourate Al-Ḥijr, versets 92-93]
  
 Le jugement est personnel.
@@ -41435,7 +41374,6 @@ Mais au Jour dernier, chacun répondra de ce qu’il a fait avec la connaissance
 Puis vient l’un des grands tournants de la sourate :
  
 > « Proclame donc ouvertement ce qui t’est ordonné et détourne-toi des associateurs. »
- 
 > [Sourate Al-Ḥijr, verset 94]
  
 Après les insultes du début, les exigences de miracles et les histoires des peuples passés, Allah donne au Prophète ﷺ une direction simple :
@@ -41453,7 +41391,6 @@ Cela signifie ne pas cacher la vérité simplement parce qu’elle est impopulai
 Allah ajoute :
  
 > « Nous te suffisons contre les moqueurs. »
- 
 > [Sourate Al-Ḥijr, verset 95]
  
 Le Prophète ﷺ doit accomplir sa mission, mais il n’a pas besoin de consacrer toute son énergie à chacune des personnes qui se moquent de lui.
@@ -41469,7 +41406,6 @@ Toi, continue ta mission. Ce qui dépasse ton rôle, remets-le-Moi.
 Puis vient un verset d’une immense douceur :
  
 > « Nous savons certes que ta poitrine se serre à cause de ce qu’ils disent. »
- 
 > [Sourate Al-Ḥijr, verset 97]
  
 Allah ne dit pas au Prophète ﷺ :
@@ -41493,7 +41429,6 @@ où va-t-il avec cette douleur ?
 Allah donne immédiatement la réponse :
  
 > « Glorifie donc ton Seigneur par la louange et sois parmi ceux qui se prosternent. »
- 
 > [Sourate Al-Ḥijr, verset 98]
  
 C’est l’un des passages les plus beaux de la sourate.
@@ -41516,7 +41451,6 @@ La prosternation devient alors non seulement un devoir, mais aussi un refuge.
 La sourate se termine par :
  
 > « Et adore ton Seigneur jusqu’à ce que te vienne la certitude. »
- 
 > [Sourate Al-Ḥijr, verset 99]
  
 La « certitude » est comprise ici par les exégètes comme la mort ; le Coran emploie d’ailleurs ailleurs cette expression dans ce sens.
@@ -41536,19 +41470,16 @@ La fin de la sourate peut presque se lire comme une réponse complète à la sou
 D’abord :
  
 > « Nous savons certes que ta poitrine se serre à cause de ce qu’ils disent. »
- 
 > [Sourate Al-Ḥijr, verset 97]
  
 Puis :
  
 > « Glorifie donc ton Seigneur par la louange et sois parmi ceux qui se prosternent. »
- 
 > [Sourate Al-Ḥijr, verset 98]
  
 Enfin :
  
 > « Et adore ton Seigneur jusqu’à ce que te vienne la certitude. »
- 
 > [Sourate Al-Ḥijr, verset 99]
  
 La progression est magnifique :
@@ -41564,7 +41495,6 @@ Un contraste traverse toute la sourate.
 D’un côté :
  
 > « C’est Nous qui avons fait descendre le Rappel, et c’est Nous qui en sommes gardiens. »
- 
 > [Sourate Al-Ḥijr, verset 9]
  
 De l’autre :
@@ -41622,7 +41552,6 @@ Des civilisations extraordinairement puissantes disparaissent lorsque leur terme
 Et surtout :
  
 > « C’est Nous qui avons fait descendre le Rappel, et c’est Nous qui en sommes gardiens. »
- 
 > [Sourate Al-Ḥijr, verset 9]
  
 Le Prophète ﷺ n’a donc pas à porter seul le destin du Coran.
@@ -41634,7 +41563,6 @@ Allah s’occupe de ce qui dépasse sa capacité.
 Puis Allah lui rappelle qu’il possède quelque chose de bien plus précieux que les richesses auxquelles il pourrait comparer sa situation :
  
 > « Nous t’avons certes donné les sept versets que l’on répète ainsi que le Coran sublime. »
- 
 > [Sourate Al-Ḥijr, verset 87]
  
 Et lorsque les paroles des hommes deviennent douloureuses, la réponse finale n’est pas de passer toute son existence à leur répondre.
@@ -41642,13 +41570,11 @@ Et lorsque les paroles des hommes deviennent douloureuses, la réponse finale n�
 Elle est :
  
 > « Glorifie donc ton Seigneur par la louange et sois parmi ceux qui se prosternent. »
- 
 > [Sourate Al-Ḥijr, verset 98]
  
 Puis :
  
 > « Et adore ton Seigneur jusqu’à ce que te vienne la certitude. »
- 
 > [Sourate Al-Ḥijr, verset 99]
  
 Voilà peut-être l’essence d’Al-Ḥijr :
@@ -41677,7 +41603,6 @@ La sourate relie ainsi continuellement Tawḥīd et gratitude. Reconnaître Alla
 La sourate commence d’une manière saisissante :
  
 > « L’ordre d’Allah arrivera. Ne cherchez donc pas à le hâter. Gloire à Lui ! Il est bien au-dessus de ce qu’ils Lui associent. »
- 
 > [Sourate An-Naḥl, verset 1]
  
 Le futur est exprimé avec une certitude telle qu’il paraît déjà présent.
@@ -41691,7 +41616,6 @@ La certitude de l’Au-delà constitue l’arrière-plan de toute la sourate. Le
 Allah mentionne immédiatement les anges qui descendent avec la Révélation vers ceux de Ses serviteurs qu’Il choisit :
  
 > « Avertissez qu’il n’y a aucune divinité digne d’adoration en dehors de Moi. Craignez-Moi donc. »
- 
 > [Sourate An-Naḥl, verset 2]
  
 Le cœur du message est annoncé dès le début :
@@ -41707,7 +41631,6 @@ Le Tawḥīd n’est pas présenté comme une idée détachée du réel. Le Cora
 Allah rappelle ensuite :
  
 > « Il a créé l’homme d’une goutte, et voilà que celui-ci devient un disputeur déclaré. »
- 
 > [Sourate An-Naḥl, verset 4]
  
 Le contraste est volontaire.
@@ -41725,7 +41648,6 @@ Mais lorsque l’intelligence fait oublier à celui qui la possède d’où il v
 Allah évoque ensuite les troupeaux :
  
 > « Il a créé pour vous les bestiaux. Vous en tirez des vêtements chauds et d’autres avantages, et vous vous en nourrissez. »
- 
 > [Sourate An-Naḥl, verset 5]
  
 Puis Il parle de leur beauté lorsqu’ils rentrent le soir ou partent au pâturage, et de leur capacité à transporter des charges vers des régions que l’homme aurait difficilement atteintes seul.
@@ -41747,7 +41669,6 @@ Allah mentionne ensuite les chevaux, les mulets et les ânes comme moyens de tra
 Puis Il ajoute :
  
 > « Et Il crée ce que vous ne savez pas. »
- 
 > [Sourate An-Naḥl, verset 8]
  
 La phrase ouvre presque soudainement l’horizon.
@@ -41767,7 +41688,6 @@ Une partie devient boisson pour l’être humain, une autre nourrit les végéta
 Puis Allah conclut :
  
 > « Il y a vraiment là un signe pour des gens qui réfléchissent. »
- 
 > [Sourate An-Naḥl, verset 11]
  
 Encore une fois, le Coran ne demande pas simplement :
@@ -41807,7 +41727,6 @@ An-Naḥl apprend précisément à redevenir sensible à cette normalité.
 Allah évoque également la mer :
  
 > « C’est Lui qui a soumis la mer afin que vous en mangiez une chair fraîche et que vous en tiriez des parures que vous portez. »
- 
 > [Sourate An-Naḥl, verset 14]
  
 Puis Il décrit les navires qui la fendent afin que les hommes cherchent de la grâce d’Allah et deviennent reconnaissants.
@@ -41833,7 +41752,6 @@ Allah mentionne ensuite les montagnes, les cours d’eau et les chemins qui perm
 Puis :
  
 > « Et au moyen des étoiles, ils se guident. »
- 
 > [Sourate An-Naḥl, verset 16]
  
 L’étoile n’est donc pas une divinité.
@@ -41851,7 +41769,6 @@ Leur grandeur devient au contraire une raison supplémentaire de s’interroger 
 Après toute cette contemplation vient la question logique :
  
 > « Celui qui crée est-il donc comparable à celui qui ne crée pas ? Ne vous rappelez-vous donc pas ? »
- 
 > [Sourate An-Naḥl, verset 17]
  
 Voilà le raisonnement central de la sourate.
@@ -41871,7 +41788,6 @@ Si l’une des différences fondamentales entre Allah et toute la création est 
 Puis vient l’un des versets les plus célèbres d’An-Naḥl :
  
 > « Si vous comptiez les bienfaits d’Allah, vous ne pourriez pas les dénombrer. Allah est certes Pardonneur et Miséricordieux. »
- 
 > [Sourate An-Naḥl, verset 18]
  
 La formulation est magnifique parce qu’elle ne dit pas seulement que les bienfaits sont nombreux.
@@ -41887,7 +41803,6 @@ La gratitude commence parfois non pas par recevoir davantage, mais par voir enfi
 Allah revient ensuite aux faux dieux :
  
 > « Ceux qu’ils invoquent en dehors d’Allah ne créent rien ; ils sont eux-mêmes créés. »
- 
 > [Sourate An-Naḥl, verset 20]
  
 La différence fondamentale est réaffirmée.
@@ -41911,7 +41826,6 @@ Allah crée. Tout le reste dépend de Lui.
 Allah dit ensuite :
  
 > « Il n’y a aucun doute qu’Allah sait ce qu’ils cachent et ce qu’ils divulguent. Il n’aime pas les orgueilleux. »
- 
 > [Sourate An-Naḥl, verset 23]
  
 L’orgueil réapparaît donc comme l’un des grands obstacles à la guidance.
@@ -41927,7 +41841,6 @@ Et parfois cette phrase coûte davantage à l’ego que l’abandon de nombreuse
 Lorsque certains sont interrogés sur ce qu’Allah a révélé, ils répondent :
  
 > « Ce ne sont que des légendes des anciens. »
- 
 > [Sourate An-Naḥl, verset 24]
  
 Allah explique ensuite qu’ils porteront leurs propres fardeaux et une part des fardeaux de ceux qu’ils auront égarés sans connaissance.
@@ -41945,7 +41858,6 @@ Nos influences peuvent donc parfois nous survivre.
 An-Naḥl évoque ensuite ceux qui ont dû quitter leur terre à cause de l’oppression :
  
 > « Ceux qui ont émigré pour Allah après avoir subi l’injustice, Nous leur accorderons certainement une belle demeure dans cette vie ; mais la récompense de l’Au-delà est plus grande encore. »
- 
 > [Sourate An-Naḥl, verset 41]
  
 Le verset parle à une communauté mecquoise dans laquelle certains croyants avaient déjà connu la persécution et l’émigration.
@@ -41963,7 +41875,6 @@ Lorsque les Quraysh s’étonnent que les messagers soient des hommes, Allah ré
 Puis :
  
 > « Demandez donc aux gens du rappel si vous ne savez pas. »
- 
 > [Sourate An-Naḥl, verset 43]
  
 Dans son contexte immédiat, le verset invite ceux qui doutent à interroger les personnes connaissant les révélations antérieures sur le fait que les messagers étaient bien des êtres humains.
@@ -41995,7 +41906,6 @@ L’orgueil humain devient alors particulièrement étrange : une créature extr
 Allah rappelle :
  
 > « Tout bienfait que vous possédez vient d’Allah. Puis, lorsque le malheur vous touche, c’est vers Lui que vous implorez. »
- 
 > [Sourate An-Naḥl, verset 53]
  
 Et lorsque le malheur disparaît, certains recommencent à associer à Allah.
@@ -42045,7 +41955,6 @@ Le Coran se présente comme une parole venant précisément de Celui qui connaî
 Allah donne ensuite un signe particulièrement concret :
  
 > « Il y a certes pour vous un enseignement dans les bestiaux : Nous vous abreuvons de ce qui est dans leurs ventres, entre les matières intestinales et le sang, un lait pur, agréable à boire. »
- 
 > [Sourate An-Naḥl, verset 66]
  
 L’être humain voit simplement un verre de lait.
@@ -42073,13 +41982,11 @@ Le passage s’inscrit ici avant tout dans l’énumération des transformations
 Puis arrive le passage qui lui donne son nom :
  
 > « Ton Seigneur inspira aux abeilles : “Prenez des demeures dans les montagnes, dans les arbres et dans les constructions des hommes.” »
- 
 > [Sourate An-Naḥl, verset 68]
  
 Puis :
  
 > « Mangez ensuite de tous les fruits et suivez docilement les voies de votre Seigneur. De leurs ventres sort une boisson aux couleurs variées dans laquelle se trouve une guérison pour les gens. Il y a vraiment là un signe pour des gens qui réfléchissent. »
- 
 > [Sourate An-Naḥl, verset 69]
  
 Le mot traduit ici par « inspira » est awḥā, de la même racine que waḥy, révélation. Il ne signifie évidemment pas que l’abeille reçoit une Révélation prophétique comme Muhammad ﷺ. Il exprime ici la guidance instinctive qu’Allah a placée en elle.
@@ -42099,7 +42006,6 @@ qui a guidé cette créature vers ce comportement ?
 Allah affirme concernant ce qui sort de l’abeille :
  
 > « dans lequel se trouve une guérison pour les gens. »
- 
 > [Sourate An-Naḥl, verset 69]
  
 Cela établit une réelle qualité thérapeutique du miel, qui est d’ailleurs utilisé depuis très longtemps dans différents contextes médicaux.
@@ -42127,7 +42033,6 @@ La création entière, du gigantesque au minuscule, peut devenir une porte vers 
 Allah rappelle ensuite :
  
 > « Allah vous a créés, puis Il vous fera mourir. Et certains d’entre vous sont ramenés au plus faible âge afin qu’après avoir su ils finissent par ne plus savoir. »
- 
 > [Sourate An-Naḥl, verset 70]
  
 L’être humain peut passer d’une dépendance totale dans l’enfance à la force de l’âge adulte, puis parfois revenir progressivement vers une grande fragilité.
@@ -42165,7 +42070,6 @@ Mais :
 Allah dit :
  
 > « Allah vous a donné des épouses issues de vous-mêmes, et de vos épouses Il vous a donné des enfants et des petits-enfants, et Il vous a accordé de bonnes choses comme subsistance. »
- 
 > [Sourate An-Naḥl, verset 72]
  
 La famille est ainsi placée parmi les bienfaits d’Allah.
@@ -42183,7 +42087,6 @@ Mais la manière dont nous traitons ce cadeau fait partie de l’épreuve.
 Allah dit :
  
 > « Allah vous a fait sortir du ventre de vos mères alors que vous ne saviez rien, et Il vous a donné l’ouïe, la vue et les cœurs afin que vous soyez reconnaissants. »
- 
 > [Sourate An-Naḥl, verset 78]
  
 Ce verset détruit une autre forme d’orgueil intellectuel.
@@ -42205,7 +42108,6 @@ Même ce dont nous nous servons pour acquérir notre connaissance est donc un bi
 Allah demande ensuite :
  
 > « N’ont-ils pas vu les oiseaux soumis dans l’espace du ciel ? Nul ne les maintient sinon Allah. »
- 
 > [Sourate An-Naḥl, verset 79]
  
 Cela ne signifie pas nier les lois aérodynamiques.
@@ -42227,7 +42129,6 @@ Allah continue ensuite à énumérer les bienfaits les plus ordinaires : les mai
 Puis Il explique :
  
 > « C’est ainsi qu’Il parfait sur vous Son bienfait afin que vous vous soumettiez. »
- 
 > [Sourate An-Naḥl, verset 81]
  
 La sourate ne sépare donc jamais les biens matériels de leur finalité spirituelle.
@@ -42273,7 +42174,6 @@ Il signifie qu’il apporte ce qui est nécessaire à sa mission de guidance rel
 Puis vient le célèbre verset 90 :
  
 > « Allah ordonne la justice, l’excellence et l’assistance aux proches, et Il interdit la turpitude, le blâmable et la transgression. Il vous exhorte afin que vous vous rappeliez. »
- 
 > [Sourate An-Naḥl, verset 90]
  
 En une seule phrase, le Coran établit trois grandes obligations morales :
@@ -42295,7 +42195,6 @@ Adorer Allah seul doit finir par avoir des conséquences sur la manière dont on
 Allah enchaîne immédiatement :
  
 > « Respectez l’engagement d’Allah lorsque vous vous êtes engagés et ne rompez pas les serments après les avoir confirmés alors que vous avez pris Allah comme garant. »
- 
 > [Sourate An-Naḥl, verset 91]
  
 La foi apparaît ici dans quelque chose d’extrêmement concret :
@@ -42311,7 +42210,6 @@ An-Naḥl rappelle que la religion concerne aussi la confiance que les autres pe
 Allah donne ensuite une image étonnante :
  
 > « Ne soyez pas comme celle qui défaisait brin par brin le fil qu’elle avait solidement tissé. »
- 
 > [Sourate An-Naḥl, verset 92]
  
 Après avoir passé du temps à construire quelque chose, elle le détruit elle-même.
@@ -42337,7 +42235,6 @@ Le véritable test vient précisément lorsque la trahison pourrait sembler prof
 Allah dit :
  
 > « Ce que vous possédez s’épuise, tandis que ce qui est auprès d’Allah demeure. »
- 
 > [Sourate An-Naḥl, verset 96]
  
 La phrase est presque une définition de la vie présente.
@@ -42358,7 +42255,6 @@ La foi apprend donc à transformer le temporaire en investissement pour l’éte
 Allah promet :
  
 > « Quiconque accomplit une bonne œuvre, homme ou femme, tout en étant croyant, Nous lui ferons vivre une bonne vie et Nous les récompenserons selon le meilleur de ce qu’ils faisaient. »
- 
 > [Sourate An-Naḥl, verset 97]
  
 Le verset associe explicitement hommes et femmes dans la valeur spirituelle de la foi et des bonnes œuvres.
@@ -42374,7 +42270,6 @@ La ḥayāt ṭayyibah est une vie bonne dans un sens plus profond : une existen
 Allah ordonne :
  
 > « Lorsque tu récites le Coran, cherche refuge auprès d’Allah contre Satan le lapidé. »
- 
 > [Sourate An-Naḥl, verset 98]
  
 C’est l’origine coranique de la isti‘ādhah :
@@ -42392,7 +42287,6 @@ Même un acte très religieux a donc besoin de la protection d’Allah.
 Les versets suivants précisent :
  
 > « Il n’a aucune autorité sur ceux qui croient et placent leur confiance en leur Seigneur. »
- 
 > [Sourate An-Naḥl, verset 99]
  
 Son autorité concerne ceux qui le prennent pour allié et persistent dans l’association.
@@ -42406,7 +42300,6 @@ La protection ultime appartient à Allah.
 Allah évoque ensuite le remplacement d’un verset par un autre et les accusations des négateurs :
  
 > « Lorsque Nous remplaçons un verset par un autre — et Allah sait mieux ce qu’Il fait descendre — ils disent : “Tu n’es qu’un inventeur.” »
- 
 > [Sourate An-Naḥl, verset 101]
  
 Le passage concerne le fait qu’Allah peut faire évoluer certaines prescriptions selon Sa sagesse.
@@ -42424,7 +42317,6 @@ Les Quraysh accusaient également le Prophète ﷺ d’avoir appris le Coran aup
 Allah répond :
  
 > « La langue de celui auquel ils font allusion est étrangère, tandis que ceci est une langue arabe claire. »
- 
 > [Sourate An-Naḥl, verset 103]
  
 L’accusation illustre encore un mécanisme déjà rencontré dans les sourates précédentes : lorsque le message ne peut être ignoré, on cherche parfois à modifier l’explication de son origine.
@@ -42436,7 +42328,6 @@ Le Coran demande à l’auditeur d’examiner sérieusement ce qu’il affirme �
 Vient ensuite un verset extrêmement important concernant la contrainte :
  
 > « Quiconque renie Allah après avoir cru — sauf celui qui y est contraint alors que son cœur demeure serein dans la foi — mais ceux qui ouvrent volontairement leur poitrine à la mécréance auront sur eux la colère d’Allah. »
- 
 > [Sourate An-Naḥl, verset 106]
  
 Le Coran distingue donc clairement la parole arrachée sous une contrainte grave de l’adhésion volontaire du cœur.
@@ -42452,7 +42343,6 @@ Allah ne juge pas de la même manière celui qui choisit volontairement la mécr
 Allah revient ensuite à ceux qui ont émigré après avoir été éprouvés, puis qui ont lutté et patienté.
  
 > « Ton Seigneur, envers eux après cela, est certes Pardonneur et Miséricordieux. »
- 
 > [Sourate An-Naḥl, verset 110]
  
 Le verset est profondément encourageant.
@@ -42468,7 +42358,6 @@ Allah regarde aussi ce qui vient après : le retour, l’effort, l’émigration
 Allah donne ensuite une parabole :
  
 > « Allah propose l’exemple d’une cité qui était en sécurité et tranquille, dont la subsistance lui venait abondamment de partout. Puis elle se montra ingrate envers les bienfaits d’Allah. »
- 
 > [Sourate An-Naḥl, verset 112]
  
 Allah lui fit alors goûter la faim et la peur en raison de ce qu’elle faisait.
@@ -42486,7 +42375,6 @@ Le Coran rappelle que stabilité, nourriture et paix sont elles aussi des bienfa
 Allah ordonne :
  
 > « Mangez donc de ce qu’Allah vous a attribué de licite et de bon, et soyez reconnaissants pour le bienfait d’Allah si c’est Lui que vous adorez. »
- 
 > [Sourate An-Naḥl, verset 114]
  
 Le lien est direct :
@@ -42504,7 +42392,6 @@ Chaque repas peut devenir un rappel.
 Après avoir mentionné certaines interdictions alimentaires précises, Allah dit :
  
 > « Ne dites pas, conformément aux mensonges proférés par vos langues : “Ceci est licite et ceci est illicite”, inventant ainsi un mensonge contre Allah. »
- 
 > [Sourate An-Naḥl, verset 116]
  
 C’est un principe extrêmement important.
@@ -42522,7 +42409,6 @@ Elle consiste à respecter exactement les limites qu’Allah a réellement étab
 Vers la fin de la sourate, Allah présente Ibrāhīm عليه السلام :
  
 > « Ibrāhīm était à lui seul une communauté, entièrement soumis à Allah, monothéiste pur, et il n’était pas parmi les associateurs. »
- 
 > [Sourate An-Naḥl, verset 120]
  
 Le mot ummah employé ici pour un seul homme souligne son caractère exceptionnel : il réunissait en lui des qualités de guidance et d’exemplarité qui pouvaient faire de lui un modèle pour d’autres.
@@ -42530,7 +42416,6 @@ Le mot ummah employé ici pour un seul homme souligne son caractère exceptionne
 Puis Allah ajoute :
  
 > « reconnaissant pour Ses bienfaits. »
- 
 > [Sourate An-Naḥl, verset 121]
  
 Ce détail est particulièrement important dans cette sourate.
@@ -42564,7 +42449,6 @@ Puis il oriente sa vie vers Lui.
 Allah dit ensuite au Prophète Muhammad ﷺ :
  
 > « Puis Nous t’avons révélé : suis la religion d’Ibrāhīm, monothéiste pur ; il n’était pas parmi les associateurs. »
- 
 > [Sourate An-Naḥl, verset 123]
  
 L’Islam se présente donc dans la continuité du Tawḥīd d’Ibrāhīm.
@@ -42580,7 +42464,6 @@ La continuité prophétique est une dimension essentielle du message coranique.
 Puis vient l’un des versets les plus importants du Coran sur la manière de transmettre la religion :
  
 > « Appelle au chemin de ton Seigneur avec sagesse et bonne exhortation, et discute avec eux de la meilleure manière. »
- 
 > [Sourate An-Naḥl, verset 125]
  
 Allah ne dit pas seulement :
@@ -42624,7 +42507,6 @@ discutez correctement.
 Il dit :
  
 > « de la meilleure manière. »
- 
 > [Sourate An-Naḥl, verset 125]
  
 Lorsque quelqu’un conteste notre foi, l’ego peut rapidement entrer dans la discussion.
@@ -42670,7 +42552,6 @@ Cela protège contre deux excès :
 Le verset suivant dit :
  
 > « Si vous punissez, infligez une peine équivalente à celle que vous avez subie. Mais si vous patientez, cela est meilleur pour les patients. »
- 
 > [Sourate An-Naḥl, verset 126]
  
 Le principe comporte deux niveaux.
@@ -42706,7 +42587,6 @@ si vous patientez, c’est meilleur.
 Allah s’adresse ensuite directement au Prophète ﷺ :
  
 > « Patiente. Et ta patience ne vient que d’Allah. Ne t’afflige pas pour eux et ne sois pas oppressé par leurs complots. »
- 
 > [Sourate An-Naḥl, verset 127]
  
 Cette phrase est magnifique parce qu’Allah ordonne la patience tout en rappelant que la capacité même de patienter vient de Lui.
@@ -42726,7 +42606,6 @@ La patience devient elle-même un bienfait à demander.
 Le dernier verset dit :
  
 > « Allah est avec ceux qui pratiquent la taqwā et ceux qui agissent avec excellence. »
- 
 > [Sourate An-Naḥl, verset 128]
  
 Après 128 versets remplis de bienfaits, de signes, d’avertissements, de justice et de patience, la sourate termine sur la présence du soutien d’Allah auprès de deux catégories :
@@ -42820,7 +42699,6 @@ Puis il sort d’elle quelque chose qui bénéficie aux autres.
 Et le Coran conclut :
  
 > « Il y a vraiment là un signe pour des gens qui réfléchissent. »
- 
 > [Sourate An-Naḥl, verset 69]
  
 Cette petite créature illustre ainsi plusieurs thèmes de la sourate : guidance, ordre, bienfait, utilité et soumission à ce qu’Allah a placé dans sa nature.
@@ -42861,13 +42739,11 @@ Deux versets encadrent merveilleusement cette vision.
 Au début :
  
 > « Si vous comptiez les bienfaits d’Allah, vous ne pourriez pas les dénombrer. »
- 
 > [Sourate An-Naḥl, verset 18]
  
 Puis vers la fin :
  
 > « Ibrāhīm était reconnaissant pour Ses bienfaits. Allah l’avait choisi et guidé vers un chemin droit. »
- 
 > [Sourate An-Naḥl, versets 120-121]
  
 Comme si toute la sourate demandait :
@@ -42877,7 +42753,6 @@ Allah t’a montré Ses bienfaits. Quelle personne vas-tu devenir en les recevan
 Et elle se termine finalement en donnant la direction :
  
 > « Allah est avec ceux qui pratiquent la taqwā et ceux qui agissent avec excellence. »
- 
 > [Sourate An-Naḥl, verset 128]
  
 Voilà peut-être l’essence d’An-Naḥl : apprendre à voir la main d’Allah dans les bienfaits devenus ordinaires, puis transformer cette reconnaissance en Tawḥīd, en gratitude, en justice et en iḥsān.
