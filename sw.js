@@ -8,7 +8,7 @@
    C'est ce numéro qui déclenche le renouvellement du cache.
    ===================================================================== */
 
-const VERSION = "rdv-v6";
+const VERSION = "rdv-v7";
 
 const FICHIERS = [
   "./",
