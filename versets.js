@@ -46567,6 +46567,1644 @@ Voilà peut-être l’essence de Sourate Maryam : plus l’être humain comprend
 
 [[desc 20]]
 
+La sourate Ṭā-Hā (سورة طه), vingtième sourate du Coran, est une sourate mecquoise de 135 versets. Son nom vient tout simplement des deux lettres mystérieuses Ṭā-Hā par lesquelles elle s’ouvre. Leur signification exacte n’a pas été établie de manière certaine ; il vaut donc mieux ne pas affirmer, comme on l’entend parfois, que « Ṭā-Hā » serait nécessairement l’un des noms du Prophète Muhammad ﷺ. La sourate est profondément centrée sur Mūsā عليه السلام, dont l’histoire occupe une grande partie du texte, depuis son appel dans la vallée sacrée jusqu’à la confrontation avec Pharaon puis l’épisode du veau d’or.
+ 
+Mais Ṭā-Hā est bien davantage qu’un récit de Mūsā. C’est une sourate de consolation, de mission, de prière, de connaissance et de retour vers Allah. Le Prophète ﷺ traverse à La Mecque une période difficile : son peuple résiste, se moque et refuse la Révélation. Allah lui raconte alors longuement l’histoire d’un autre immense messager envoyé face à un tyran encore plus puissant.
+ 
+La sourate commence d’ailleurs par une phrase qui en donne immédiatement le ton :
+ 
+> « Nous n’avons pas fait descendre sur toi le Coran pour que tu sois malheureux. »
+> [Sourate Ṭā-Hā, verset 2]
+ 
+Comme si Allah rappelait à Son Messager ﷺ — et à travers lui au croyant — que la Révélation n’a pas été envoyée pour écraser l’être humain, mais pour le guider vers son Seigneur.
+ 
+## « Nous n’avons pas fait descendre le Coran pour que tu sois malheureux »
+ 
+Les premiers versets disent :
+ 
+> « Nous n’avons pas fait descendre sur toi le Coran pour que tu sois malheureux, mais seulement comme rappel pour celui qui craint Allah. »
+> [Sourate Ṭā-Hā, versets 2-3]
+ 
+Le mot tashqā évoque la peine, la détresse, le fait d’être accablé.
+ 
+Cela ne signifie évidemment pas que la foi exclut toute difficulté. Mūsā عليه السلام lui-même connaîtra la peur, l’exil, l’opposition de Pharaon et les difficultés de son propre peuple. Muhammad ﷺ sera lui aussi profondément éprouvé.
+ 
+Mais la finalité du Coran n’est pas de détruire l’homme sous une religion impossible à porter.
+ 
+Il vient lui rappeler qui est Allah, où il va, pourquoi il existe et comment traverser cette vie sans perdre sa direction.
+ 
+Le problème n’est donc pas la guidance elle-même. Ce qui pèse parfois sur l’homme est son propre éloignement, ses passions, les conséquences du péché, les épreuves de la vie ou la manière dont il porte seul ce qu’il devrait remettre à Allah.
+ 
+## Le Coran vient de Celui qui a créé la terre et les cieux
+ 
+Allah rappelle immédiatement l’origine de cette Révélation :
+ 
+> « Une révélation venant de Celui qui a créé la terre et les cieux élevés. »
+> [Sourate Ṭā-Hā, verset 4]
+ 
+Puis :
+ 
+> « Le Tout Miséricordieux S’est établi sur le Trône. À Lui appartient ce qui est dans les cieux, ce qui est sur la terre, ce qui est entre eux et ce qui est sous le sol. »
+> [Sourate Ṭā-Hā, versets 5-6]
+ 
+Avant de raconter Mūsā, Allah replace donc toute l’histoire dans une réalité beaucoup plus vaste : Celui qui parle est le Seigneur de tout ce qui existe.
+ 
+Pharaon apparaîtra bientôt comme extrêmement puissant.
+ 
+Mais avant même que son nom ne soit évoqué, le Coran a déjà rappelé qui possède réellement le ciel, la terre et tout ce qu’ils contiennent.
+ 
+Le tyran va donc entrer dans l’histoire comme une créature qui prétend à une grandeur qu’elle ne possède pas.
+ 
+## Allah connaît même ce qui est plus secret que le secret
+ 
+Allah dit :
+ 
+> « Si tu élèves la voix, Il connaît certes le secret et ce qui est plus caché encore. »
+> [Sourate Ṭā-Hā, verset 7]
+ 
+Une invocation n’a donc pas besoin d’être parfaitement formulée pour être connue d’Allah.
+ 
+Il connaît ce que l’on dit.
+ 
+Mais aussi ce que l’on n’arrive pas encore à dire.
+ 
+Une inquiétude confuse.
+Une peur que l’on cache.
+Une intention.
+Une douleur que personne autour de nous n’a remarquée.
+ 
+Puis vient :
+ 
+> « Allah ! Il n’y a aucune divinité digne d’adoration en dehors de Lui. À Lui appartiennent les plus beaux Noms. »
+> [Sourate Ṭā-Hā, verset 8]
+ 
+La connaissance des Noms d’Allah n’est donc pas une question secondaire : ils permettent de connaître Celui vers qui toute la sourate va conduire Mūsā عليه السلام.
+ 
+## Mūsā عليه السلام aperçoit un feu
+ 
+Allah demande ensuite :
+ 
+> « Le récit de Mūsā t’est-il parvenu ? »
+> [Sourate Ṭā-Hā, verset 9]
+ 
+Mūsā voyage avec sa famille lorsqu’il aperçoit un feu au loin. Il leur demande de rester sur place pendant qu’il s’en approche, pensant pouvoir rapporter une braise ou obtenir une indication sur le chemin.
+ 
+> [Sourate Ṭā-Hā, verset 10]
+ 
+C’est magnifique parce que Mūsā pense aller chercher du feu et une direction géographique.
+ 
+Il va recevoir quelque chose d’infiniment plus grand :
+ 
+la Révélation et la direction de toute sa vie.
+ 
+Un événement peut commencer dans notre perception comme quelque chose de banal.
+ 
+Mūsā ne sait pas encore que les quelques pas qu’il fait vers ce feu vont marquer un tournant dans l’histoire humaine.
+ 
+## « Ô Mūsā ! Je suis ton Seigneur »
+ 
+Lorsqu’il arrive, il est appelé :
+ 
+> « Ô Mūsā ! Je suis certes ton Seigneur. Retire donc tes sandales : tu te trouves dans la vallée sacrée de Ṭuwā. »
+> [Sourate Ṭā-Hā, versets 11-12]
+ 
+Mūsā عليه السلام vient d’entrer dans un moment d’une grandeur exceptionnelle.
+ 
+Allah lui parle.
+ 
+La vallée ordinaire devient une vallée sacrée parce que Allah a choisi d’y manifester ce moment de Révélation.
+ 
+Puis Allah lui dit :
+ 
+> « Je t’ai choisi. Écoute donc ce qui t’est révélé. »
+> [Sourate Ṭā-Hā, verset 13]
+ 
+Avant la mission, avant Pharaon, avant les miracles :
+écoute.
+ 
+Celui qui doit parler au nom d’Allah doit d’abord apprendre à écouter Allah.
+ 
+## « Je suis Allah »
+ 
+Vient alors :
+ 
+> « Certes, Moi, Je suis Allah. Il n’y a aucune divinité digne d’adoration en dehors de Moi. Adore-Moi donc. »
+> [Sourate Ṭā-Hā, verset 14]
+ 
+Voilà le premier cœur du message confié à Mūsā.
+ 
+Pas Pharaon.
+Pas la politique.
+Pas même les miracles.
+ 
+D’abord :
+ 
+Allah seul mérite l’adoration.
+ 
+Tout le reste de la mission découle de cette vérité.
+ 
+## « Accomplis la prière pour te souvenir de Moi »
+ 
+Allah poursuit :
+ 
+> « Et accomplis la prière pour te souvenir de Moi. »
+> [Sourate Ṭā-Hā, verset 14]
+ 
+Cette phrase donne une définition extraordinairement profonde de la ṣalāt.
+ 
+Pourquoi prier ?
+ 
+Parmi ses immenses finalités :
+se souvenir d’Allah.
+ 
+La vie disperse.
+Le travail absorbe.
+Les inquiétudes envahissent.
+Les passions attirent.
+Puis vient la prière et, plusieurs fois dans la journée, le serviteur revient au centre :
+ 
+Allah.
+ 
+La ṣalāt n’est donc pas seulement une obligation à « terminer ».
+ 
+Elle est un rappel organisé par Allah pour empêcher le cœur de L’oublier complètement au milieu du monde.
+ 
+## L’Heure arrivera
+ 
+Allah rappelle immédiatement à Mūsā :
+ 
+> « L’Heure va certainement arriver. »
+> [Sourate Ṭā-Hā, verset 15]
+ 
+La mission de Mūsā se situe donc entre deux réalités :
+ 
+Allah au commencement
+ 
+et
+ 
+la rencontre avec Allah à la fin.
+ 
+C’est aussi la structure de toute vie croyante.
+ 
+On vient d’Allah.
+On traverse un temps limité.
+Puis on retourne vers Lui.
+ 
+La conscience de l’Heure permet de ne pas transformer les événements présents en réalité définitive.
+ 
+Même Pharaon n’est qu’un épisode.
+ 
+## Le bâton de Mūsā
+ 
+Allah demande :
+ 
+> « Qu’est-ce que cela dans ta main droite, ô Mūsā ? »
+ 
+Il répond :
+ 
+> « C’est mon bâton. Je m’appuie dessus, j’en fais tomber des feuilles pour mes moutons et j’en ai d’autres usages. »
+> [Sourate Ṭā-Hā, versets 17-18]
+ 
+Allah sait évidemment ce que Mūsā tient dans sa main.
+ 
+Mais la question prépare le miracle.
+ 
+Le bâton est l’objet ordinaire par excellence.
+ 
+Mūsā l’utilise quotidiennement.
+ 
+Puis Allah lui dit de le jeter.
+ 
+Et ce simple bâton devient un serpent qui se déplace rapidement.
+ 
+> [Sourate Ṭā-Hā, verset 20]
+ 
+Ce que Mūsā connaissait parfaitement devient soudain quelque chose qu’il ne reconnaît plus.
+ 
+Le Créateur des lois ordinaires peut parfaitement, lorsqu’Il le veut, produire un signe qui sort de ce que nous connaissons habituellement.
+ 
+## « Prends-le et n’aie pas peur »
+ 
+Allah dit :
+ 
+> « Prends-le et n’aie pas peur. Nous le ramènerons à son état premier. »
+> [Sourate Ṭā-Hā, verset 21]
+ 
+La peur de Mūsā est humaine.
+ 
+Le courage prophétique n’est pas nécessairement l’absence de peur.
+ 
+C’est continuer à obéir lorsque Allah rassure et commande.
+ 
+Le croyant peut ressentir une émotion intense sans que cette émotion définisse entièrement son action.
+ 
+## La main lumineuse
+ 
+Allah donne ensuite à Mūsā un second signe : lorsqu’il place sa main contre son côté puis la retire, elle apparaît lumineuse, sans maladie.
+ 
+> [Sourate Ṭā-Hā, verset 22]
+ 
+Allah lui explique :
+ 
+> « afin de te montrer certains de Nos plus grands signes. »
+> [Sourate Ṭā-Hā, verset 23]
+ 
+Les miracles ne sont donc pas des spectacles destinés à divertir.
+ 
+Ce sont āyāt — des signes.
+ 
+Ils pointent au-delà d’eux-mêmes vers la puissance d’Allah et l’authenticité du messager qu’Il envoie.
+ 
+## « Va auprès de Pharaon : il a transgressé »
+ 
+Puis arrive la mission :
+ 
+> « Va auprès de Pharaon : il a vraiment dépassé les limites. »
+> [Sourate Ṭā-Hā, verset 24]
+ 
+Imaginez le contraste.
+ 
+Mūsā vient d’être seul dans la vallée.
+ 
+Quelques instants plus tard, Allah lui demande d’aller confronter l’homme le plus puissant de son monde.
+ 
+Mais Allah ne l’envoie pas sans préparation.
+ 
+Et la première réaction de Mūsā n’est pas de prétendre qu’il est parfaitement prêt.
+ 
+Il invoque.
+ 
+## L’une des plus belles invocations du Coran
+ 
+Mūsā dit :
+ 
+> « Seigneur ! Ouvre-moi ma poitrine. Facilite-moi ma mission. Dénoue un nœud de ma langue afin qu’ils comprennent mes paroles. »
+> [Sourate Ṭā-Hā, versets 25-28]
+ 
+Cette invocation est extraordinaire parce qu’elle montre ce que demande un prophète avant une grande responsabilité.
+ 
+Il ne demande pas d’abord :
+« Seigneur, détruis immédiatement mon adversaire. »
+ 
+Il demande :
+élargis ma poitrine.
+ 
+Donne-moi l’espace intérieur nécessaire pour porter cette mission.
+ 
+## Facilite mon affaire.
+ 
+Aide-moi à parler de manière compréhensible.
+ 
+Mūsā comprend donc qu’une grande mission exige aussi un cœur capable de la supporter et une parole capable d’atteindre les autres.
+ 
+« Afin qu’ils comprennent mes paroles »
+ 
+Le but n’est pas simplement :
+parler.
+ 
+Il est :
+être compris.
+ 
+C’est une leçon immense pour toute transmission religieuse.
+ 
+Une personne peut dire quelque chose de parfaitement vrai d’une manière tellement confuse, agressive ou inaccessible que son interlocuteur ne comprend presque rien.
+ 
+Mūsā عليه السلام demande précisément à Allah :
+que ma parole atteigne réellement ceux auxquels je suis envoyé.
+ 
+La clarté elle-même peut être une forme de sagesse.
+ 
+## Mūsā demande son frère Hārūn عليه السلام
+ 
+Il poursuit :
+ 
+> « Et donne-moi un assistant issu de ma famille : Hārūn, mon frère. Renforce par lui ma force et associe-le à ma mission. »
+> [Sourate Ṭā-Hā, versets 29-32]
+ 
+Mūsā est prophète.
+ 
+Il reçoit directement la parole d’Allah.
+ 
+Mais il ne considère pas que demander de l’aide diminuerait sa grandeur.
+ 
+Au contraire, il connaît ses propres besoins et demande un compagnon compétent et fiable.
+ 
+La véritable force n’est pas toujours :
+« Je vais tout faire seul. »
+ 
+Elle peut être :
+« Je sais où j’ai besoin d’un frère à mes côtés. »
+ 
+## Pourquoi veut-il Hārūn ?
+ 
+Mūsā explique :
+ 
+> « afin que nous Te glorifiions abondamment et que nous nous souvenions beaucoup de Toi. »
+> [Sourate Ṭā-Hā, versets 33-34]
+ 
+Le but de leur association n’est donc pas seulement logistique.
+ 
+Ils s’aideront aussi à se souvenir d’Allah.
+ 
+C’est un critère magnifique pour les relations :
+ 
+certaines personnes nous rendent-elles plus oublieux d’Allah ?
+ 
+Ou leur présence nous aide-t-elle à devenir meilleurs, plus constants et plus conscients de Lui ?
+ 
+Une relation peut être elle-même un moyen de dhikr.
+ 
+## « Ta demande t’est accordée, ô Mūsā »
+ 
+Allah répond :
+ 
+> « Ta demande t’est accordée, ô Mūsā. »
+> [Sourate Ṭā-Hā, verset 36]
+ 
+Quelle réponse.
+ 
+Mūsā demande.
+Allah entend.
+Puis Allah lui rappelle quelque chose d’encore plus extraordinaire :
+ 
+ce n’est pas la première fois qu’Il prend soin de lui.
+ 
+## Avant même que Mūsā sache invoquer, Allah prenait déjà soin de lui
+ 
+Allah dit :
+ 
+> « Nous t’avons déjà accordé une faveur une première fois. »
+> [Sourate Ṭā-Hā, verset 37]
+ 
+Puis Il rappelle la naissance de Mūsā.
+ 
+Pharaon tue les garçons des Enfants d’Israël.
+ 
+La mère de Mūsā reçoit l’inspiration de placer son bébé dans un coffre et de le déposer dans le fleuve.
+ 
+Humainement, mettre un nourrisson sur l’eau semble être exactement le contraire de la sécurité.
+ 
+Mais Allah transforme le fleuve lui-même en moyen de salut.
+ 
+## Le bébé déposé dans le fleuve
+ 
+Allah rappelle :
+ 
+> « Place-le dans le coffre, puis jette-le dans le fleuve. Le fleuve le rejettera sur la rive, où le recueillera un ennemi à Moi et un ennemi à lui. »
+> [Sourate Ṭā-Hā, verset 39]
+ 
+Le paradoxe est immense.
+ 
+Mūsā est sauvé du décret meurtrier de Pharaon en étant conduit jusque dans l’environnement de Pharaon.
+ 
+Le lieu du danger devient, par le décret d’Allah, le lieu de sa protection.
+ 
+Cela n’aurait jamais été le plan qu’un humain aurait spontanément conçu.
+ 
+Mais la sourate apprend précisément :
+ 
+la manière dont Allah protège n’est pas limitée par notre imagination de ce qu’une protection devrait être.
+ 
+## « J’ai répandu sur toi un amour venant de Moi »
+ 
+Allah dit ensuite à Mūsā :
+ 
+> « J’ai répandu sur toi un amour venant de Moi, afin que tu sois élevé sous Mon regard. »
+> [Sourate Ṭā-Hā, verset 39]
+ 
+C’est l’une des expressions les plus tendres de la sourate.
+ 
+Le nourrisson ne peut pas se défendre.
+Il ne peut pas argumenter.
+Il ne connaît même pas encore le danger.
+ 
+Et pourtant Allah prend soin de lui.
+ 
+Avant que Mūsā puisse connaître Allah par la Révélation, Allah connaissait déjà parfaitement Mūsā.
+ 
+## Sa mère le récupère
+ 
+La sœur de Mūsā suit discrètement le bébé. Puis, par une succession d’événements qu’Allah organise, Mūsā refuse les nourrices jusqu’à ce que sa propre mère lui soit proposée.
+ 
+Allah dit :
+ 
+> « Ainsi Nous te rendîmes à ta mère afin que son œil se réjouisse et qu’elle ne s’afflige plus. »
+> [Sourate Ṭā-Hā, verset 40]
+ 
+La mère avait remis son enfant à Allah avec un cœur probablement déchiré.
+ 
+Allah le lui rend.
+ 
+La séparation n’était pas la fin de l’histoire.
+ 
+## Toute la vie de Mūsā avait été une préparation
+ 
+Allah rappelle ensuite l’épisode où Mūsā tua accidentellement un homme, sa fuite, son séjour à Madyan et les années qu’il y passa.
+ 
+Puis vient :
+ 
+> « Ensuite tu es venu, ô Mūsā, au moment décrété. Et Je t’ai façonné pour Moi-même. »
+> [Sourate Ṭā-Hā, versets 40-41]
+ 
+« Je t’ai façonné pour Moi-même. »
+ 
+Quelle parole.
+ 
+Les différentes étapes de la vie de Mūsā qui pouvaient sembler dispersées prennent soudain une cohérence.
+ 
+Le palais.
+La fuite.
+Madyan.
+Les années d’attente.
+La vallée.
+ 
+Tout cela participe à une préparation qu’il ne voyait pas encore entièrement au moment où il la vivait.
+ 
+## Certaines étapes prennent leur sens plus tard
+ 
+C’est l’une des grandes leçons de Ṭā-Hā.
+ 
+Nous vivons souvent un événement en nous demandant :
+« Pourquoi cette étape ? »
+ 
+Mūsā ne pouvait probablement pas voir lorsqu’il quittait l’Égypte dans la peur que ce détour ferait partie d’une préparation à son retour comme messager.
+ 
+Le croyant ne doit pas inventer arbitrairement une sagesse précise derrière chaque difficulté.
+ 
+Mais il peut garder cette conviction :
+ 
+## Allah voit la totalité de ma route alors que je n’en vois qu’un morceau.
+ 
+« Toi et ton frère, partez avec Mes signes »
+ 
+Allah ordonne :
+ 
+> « Pars, toi et ton frère, avec Mes signes et ne faiblissez pas dans Mon rappel.
+> [Sourate Ṭā-Hā, verset 42]
+ 
+Puis :
+ 
+> « Allez tous deux auprès de Pharaon ; il a vraiment transgressé. »
+> [Sourate Ṭā-Hā, verset 43]
+ 
+Mais l’instruction suivante est surprenante.
+ 
+## « Parlez-lui avec douceur »
+ 
+Allah dit :
+ 
+> « Parlez-lui avec douceur ; peut-être se rappellera-t-il ou craindra-t-il. »
+> [Sourate Ṭā-Hā, verset 44]
+ 
+Pharaon n’est pas simplement quelqu’un qui possède une opinion différente.
+ 
+C’est un tyran.
+ 
+Il a persécuté un peuple et prétendra à une grandeur qui appartient à Allah.
+ 
+Et pourtant, au début de la mission :
+ 
+parlez-lui avec douceur.
+ 
+Ce verset détruit l’idée selon laquelle la fermeté dans la vérité exigerait nécessairement la brutalité dans la parole.
+ 
+On peut dire une vérité extrêmement ferme d’une manière maîtrisée.
+ 
+Et si Allah ordonne une parole douce même face à Pharaon, le croyant devrait réfléchir avant d’utiliser l’humiliation comme méthode ordinaire de da‘wah.
+ 
+## La douceur n’est pas la faiblesse
+ 
+Parler avec douceur ne signifie évidemment pas cacher la vérité.
+ 
+Mūsā va dire à Pharaon qu’il a transgressé.
+ 
+Il va lui demander de libérer les Enfants d’Israël.
+ 
+Il va contester ses prétentions.
+ 
+La douceur concerne la manière, pas l’abandon du contenu.
+ 
+C’est un équilibre difficile :
+une vérité ferme sans ego agressif.
+ 
+## Mūsā et Hārūn ont peur
+ 
+Ils disent :
+ 
+> « Seigneur ! Nous craignons qu’il ne se précipite contre nous ou qu’il ne dépasse encore davantage les limites. »
+> [Sourate Ṭā-Hā, verset 45]
+ 
+Encore une fois, les prophètes ne sont pas présentés comme des hommes dépourvus de toute émotion.
+ 
+Ils savent qui est Pharaon.
+ 
+Le danger est réel.
+ 
+Allah ne leur répond pas :
+« Vous ne devriez pas avoir peur. »
+ 
+Il leur dit :
+ 
+> « Ne craignez rien. Je suis avec vous deux : J’entends et Je vois. »
+> [Sourate Ṭā-Hā, verset 46]
+ 
+Le danger reste.
+ 
+Mais ils ne sont pas seuls dans le danger.
+ 
+## « J’entends et Je vois »
+ 
+Cette parole suffit presque comme source entière de tawakkul.
+ 
+Pharaon peut parler.
+Allah entend.
+
+Pharaon peut agir.
+Allah voit.
+ 
+Aucune menace ne se déroule dans un espace qui échapperait à Allah.
+ 
+Le croyant peut ne pas savoir exactement comment la situation va se terminer.
+ 
+Mais il peut savoir :
+Allah sait parfaitement ce qui est en train de se passer.
+ 
+## « Qui donc est votre Seigneur, ô Mūsā ? »
+ 
+Pharaon demande :
+ 
+« Qui donc est votre Seigneur, ô Mūsā ? »
+ 
+Mūsā répond :
+ 
+> « Notre Seigneur est Celui qui a donné à chaque chose sa forme puis l’a guidée. »
+> [Sourate Ṭā-Hā, versets 49-50]
+ 
+La réponse est magnifique.
+ 
+Allah ne crée pas simplement une réalité puis l’abandonne.
+ 
+Il donne à chaque créature sa constitution puis les facultés et la guidance propres à son existence.
+ 
+L’oiseau sait accomplir ce pour quoi il a été créé.
+ 
+L’abeille suit ses voies.
+ 
+Le corps humain fonctionne selon des systèmes qu’il n’a pas conçus lui-même.
+ 
+La création porte partout des formes de guidance inscrites par Allah.
+ 
+## La terre comme berceau et les chemins qu’Allah y ouvre
+ 
+Mūsā décrit Allah comme Celui qui a fait de la terre un lieu où vivre, y a tracé des chemins et fait descendre l’eau du ciel pour produire différentes végétations.
+ 
+> [Sourate Ṭā-Hā, versets 53-54]
+ 
+Puis Allah dit :
+ 
+> « Mangez et faites paître vos troupeaux. Il y a vraiment là des signes pour les doués d’intelligence. »
+> [Sourate Ṭā-Hā, verset 54]
+ 
+La nourriture elle-même devient signe.
+ 
+Ce qui entre dans notre assiette vient d’une chaîne immense de conditions que nous ne contrôlons pas entièrement.
+ 
+La gratitude commence encore une fois par regarder ce qui était devenu banal.
+ 
+## « De la terre Nous vous avons créés »
+ 
+Allah dit :
+ 
+> « D’elle Nous vous avons créés, en elle Nous vous ramènerons et d’elle Nous vous ferons sortir une autre fois. »
+> [Sourate Ṭā-Hā, verset 55]
+ 
+En un verset :
+ 
+origine.
+mort.
+résurrection.
+
+L’homme traverse trois états vis-à-vis de cette terre qu’il foule chaque jour.
+ 
+Il en vient.
+ 
+Son corps y retourne.
+ 
+Puis Allah le fera sortir de nouveau.
+ 
+La terre sur laquelle nous marchons devient ainsi un rappel permanent de notre histoire complète.
+ 
+## Pharaon voit les signes mais refuse
+ 
+Allah dit :
+ 
+> « Nous lui montrâmes tous Nos signes, mais il les traita de mensonge et refusa. »
+> [Sourate Ṭā-Hā, verset 56]
+ 
+Encore une fois, le Coran montre que la preuve et la guidance ne sont pas exactement la même chose.
+ 
+Pharaon voit.
+ 
+Mais l’orgueil l’empêche de se soumettre.
+ 
+Il transforme alors le conflit en accusation de magie et en combat pour le pouvoir.
+ 
+## Le rendez-vous avec les magiciens
+ 
+Pharaon rassemble ses magiciens pour affronter Mūsā lors d’un grand rassemblement public.
+ 
+Mūsā les avertit :
+ 
+> « Malheur à vous ! N’inventez pas de mensonge contre Allah, sinon Il vous anéantira par un châtiment. »
+> [Sourate Ṭā-Hā, verset 61]
+ 
+Même à quelques instants de l’affrontement, Mūsā ne cherche pas seulement à gagner.
+ 
+Il avertit ceux qui vont l’affronter.
+ 
+La da‘wah reste possible jusqu’au dernier moment.
+ 
+## Même Mūsā ressent de la peur devant leur magie
+ 
+Les magiciens jettent leurs cordes et leurs bâtons.
+ 
+Par leur magie, Mūsā a l’impression que ceux-ci se déplacent.
+ 
+Allah dit :
+ 
+> « Mūsā ressentit alors une peur en lui-même. »
+> [Sourate Ṭā-Hā, verset 67]
+ 
+Puis :
+ 
+> « Nous dîmes : n’aie pas peur. C’est toi qui auras le dessus. »
+> [Sourate Ṭā-Hā, verset 68]
+ 
+La peur ressentie intérieurement ne signifie donc pas que Mūsā manque de foi.
+ 
+Le cœur peut connaître une réaction humaine tandis que la foi permet ensuite de ne pas se laisser gouverner entièrement par cette réaction.
+ 
+## « Le magicien ne réussit pas, où qu’il aille »
+ 
+Allah ordonne à Mūsā de jeter son bâton, qui engloutit ce qu’ils avaient fabriqué.
+ 
+Puis :
+ 
+> « Ce qu’ils ont fabriqué n’est qu’une ruse de magicien, et le magicien ne réussit pas, où qu’il aille. »
+> [Sourate Ṭā-Hā, verset 69]
+ 
+Les magiciens comprennent immédiatement ce que le reste de la foule ne comprend peut-être pas encore.
+ 
+Eux connaissent leur propre art.
+ 
+Ils savent reconnaître ce qui appartient à la magie et ce qui dépasse leur domaine.
+ 
+## Les magiciens tombent prosternés
+ 
+Allah dit :
+ 
+> « Les magiciens tombèrent prosternés et dirent : “Nous croyons au Seigneur de Hārūn et de Mūsā.” »
+> [Sourate Ṭā-Hā, verset 70]
+ 
+La transformation est extraordinaire.
+ 
+Ils étaient venus pour vaincre Mūsā.
+Ils repartent croyants.
+Et ce changement se produit en quelques instants.
+ 
+Une vie entière d’erreur n’empêche pas Allah d’ouvrir un cœur au moment où celui-ci reconnaît sincèrement la vérité.
+ 
+## Pharaon veut même contrôler leur foi
+ 
+Pharaon leur dit :
+ 
+> « Vous croyez en lui avant que je vous en donne la permission ? »
+> [Sourate Ṭā-Hā, verset 71]
+ 
+La phrase révèle toute sa logique tyrannique.
+ 
+Il ne veut pas seulement contrôler les corps.
+ 
+Il veut contrôler ce que les hommes ont le droit de croire.
+ 
+Mais quelque chose a déjà changé chez les magiciens.
+ 
+L’homme qui leur faisait peur quelques minutes auparavant n’est plus le centre de leur réalité.
+ 
+## La foi change complètement l’échelle de la peur
+ 
+Face aux menaces de mutilation et de crucifixion de Pharaon, ils répondent :
+ 
+> « Nous ne te préférerons jamais aux preuves claires qui nous sont venues ni à Celui qui nous a créés. Décide donc ce que tu veux décider : tu ne peux décider que dans cette vie présente. »
+> [Sourate Ṭā-Hā, verset 72]
+ 
+Pharaon possède encore physiquement le pouvoir de leur faire du mal.
+ 
+Mais il vient de perdre le pouvoir ultime sur leur cœur.
+ 
+La foi n’a pas rendu son épée imaginaire.
+ 
+Elle a simplement replacé cette épée dans une échelle beaucoup plus grande :
+ 
+Pharaon peut agir dans cette vie.
+ 
+Allah possède cette vie et l’Au-delà.
+ 
+## « Nous avons cru afin que notre Seigneur nous pardonne »
+ 
+Les anciens magiciens disent ensuite :
+ 
+> « Nous avons cru en notre Seigneur afin qu’Il nous pardonne nos fautes ainsi que la magie à laquelle tu nous as contraints. Allah est meilleur et plus durable. »
+> [Sourate Ṭā-Hā, verset 73]
+ 
+Quelques instants de foi sincère reconfigurent donc leur passé.
+ 
+Ils ne prétendent pas n’avoir jamais fauté.
+ 
+Ils demandent le pardon.
+ 
+Le croyant n’est pas celui qui possède nécessairement une histoire parfaite.
+ 
+C’est celui qui, lorsqu’Allah lui montre la vérité, choisit de revenir vers Lui.
+ 
+## « Allah est meilleur et plus durable »
+ 
+Cette phrase constitue aussi l’un des grands thèmes de Ṭā-Hā :
+Allah est meilleur et plus durable.
+ 
+Pharaon possède un royaume.
+ 
+Mais il disparaîtra.
+ 
+Allah demeure.
+ 
+Le monde possède des plaisirs.
+ 
+Mais ils disparaissent.
+ 
+Ce qui est auprès d’Allah demeure.
+ 
+Toute la sourate apprend à mesurer les choses non seulement par leur puissance présente, mais par leur destination finale.
+ 
+## La traversée de la mer
+ 
+Allah ordonne ensuite à Mūsā de partir de nuit avec les Enfants d’Israël et de leur ouvrir un chemin sec à travers la mer, sans craindre d’être rattrapé ni noyé.
+ 
+> [Sourate Ṭā-Hā, verset 77]
+ 
+Pharaon les poursuit avec ses armées.
+ 
+Puis la mer les engloutit.
+ 
+Allah conclut :
+ 
+> « Pharaon égara son peuple et ne le guida pas. »
+> [Sourate Ṭā-Hā, verset 79]
+ 
+Pharaon se présentait comme chef.
+ 
+Mais le Coran juge son leadership par sa destination :
+ 
+il les a conduits vers la perte.
+ 
+Être suivi par beaucoup de monde n’est donc pas nécessairement être un guide.
+ 
+## Après la délivrance : ne pas oublier Allah
+ 
+Allah rappelle aux Enfants d’Israël qu’Il les a délivrés de leur ennemi, leur a donné rendez-vous près du mont et leur a accordé la manne et les cailles.
+ 
+> [Sourate Ṭā-Hā, verset 80]
+ 
+Après la peur vient la nourriture.
+ 
+Après l’oppression vient la liberté.
+ 
+Mais la délivrance crée elle-même une nouvelle épreuve :
+ 
+que fera le peuple lorsqu’il n’aura plus Pharaon devant lui ?
+ 
+Une personne peut être très proche d’Allah dans le danger.
+ 
+Le véritable test peut commencer lorsque le danger disparaît.
+ 
+## « Je suis immensément Pardonneur »
+ 
+Au milieu de ces avertissements, Allah dit :
+ 
+> « Je suis certes immensément Pardonneur envers celui qui se repent, croit, accomplit de bonnes œuvres puis demeure guidé. »
+> [Sourate Ṭā-Hā, verset 82]
+ 
+C’est l’un des plus beaux versets de la sourate.
+ 
+Quatre mouvements apparaissent :
+-	se repentir ;
+-	croire ;
+-	accomplir le bien ;
+-	puis persévérer dans la guidance.
+ 
+La tawbah ne consiste pas uniquement à ressentir du regret.
+ 
+Elle remet une vie en mouvement vers Allah.
+ 
+Et l’expression choisie par Allah est immense :
+« Je suis certainement Pardonneur. »
+ 
+## Mūsā se précipite vers Allah
+ 
+Mūsā devance ensuite son peuple afin de rejoindre le rendez-vous avec Allah.
+ 
+Allah lui demande pourquoi il s’est hâté.
+ 
+Mūsā répond :
+ 
+> « Ils sont là sur mes traces, et je me suis hâté vers Toi, Seigneur, afin que Tu sois satisfait. »
+> [Sourate Ṭā-Hā, verset 84]
+ 
+La phrase est magnifique :
+« Je me suis hâté vers Toi. »
+ 
+Il existe une hâte dans la dunya : courir après davantage d’argent, de statut, d’expériences.
+ 
+Et il existe une autre hâte :
+se précipiter vers ce qui rapproche d’Allah parce que l’on désire Sa satisfaction.
+ 
+## Le veau d’or
+ 
+Pendant l’absence de Mūsā, son peuple est éprouvé.
+ 
+Le Sāmirī fabrique pour eux un veau qui produit un son, et certains commencent à l’adorer.
+ 
+> [Sourate Ṭā-Hā, versets 85-88]
+ 
+L’absurdité est immédiatement soulignée :
+ 
+> « Ne voyaient-ils donc pas qu’il ne leur répondait aucune parole et ne possédait pour eux ni nuisance ni bienfait ? »
+> [Sourate Ṭā-Hā, verset 89]
+ 
+Ce qui ne peut répondre.
+Ce qui ne possède aucun pouvoir indépendant.
+Ce qui est lui-même fabriqué.
+ 
+Comment pourrait-il devenir Dieu ?
+ 
+Le Tawḥīd libère l’homme de l’adoration de ce qu’il construit lui-même.
+ 
+## Hārūn avait averti le peuple
+ 
+Hārūn عليه السلام leur avait pourtant dit :
+ 
+> « Ô mon peuple ! Vous n’êtes qu’éprouvés par cela. Votre Seigneur est Ar-Raḥmān. Suivez-moi donc et obéissez à mon ordre. »
+> [Sourate Ṭā-Hā, verset 90]
+ 
+Remarquez le Nom employé :
+Ar-Raḥmān — Le Tout Miséricordieux.
+ 
+Alors que le peuple vient de tomber dans une faute immense, Hārūn les rappelle encore vers le Seigneur de la miséricorde.
+ 
+Ils peuvent revenir.
+ 
+Mais ils refusent et disent qu’ils continueront à adorer le veau jusqu’au retour de Mūsā.
+ 
+## La colère de Mūsā عليه السلام
+ 
+Lorsque Mūsā revient et découvre la situation, il est profondément en colère et attristé.
+ 
+Il saisit Hārūn par la tête et la barbe.
+ 
+Hārūn lui explique qu’il craignait qu’une réaction plus dure ne provoque une division grave parmi les Enfants d’Israël et que Mūsā lui reproche ensuite d’avoir fragmenté le peuple.
+ 
+> [Sourate Ṭā-Hā, versets 92-94]
+ 
+L’épisode montre que deux personnes sincères peuvent évaluer différemment la meilleure manière de gérer une crise.
+ 
+Mūsā voit l’immensité de l’idolâtrie.
+ 
+Hārūn explique la difficulté d’empêcher celle-ci sans provoquer une rupture plus large en l’absence de son frère.
+ 
+Une fois l’explication donnée, l’attention se tourne vers le véritable responsable de la fabrication du veau.
+ 
+## Le Sāmirī
+ 
+Mūsā interroge le Sāmirī.
+ 
+Celui-ci donne alors son explication concernant ce qu’il avait vu et la poignée qu’il avait prise avant de la jeter.
+ 
+> [Sourate Ṭā-Hā, verset 96]
+ 
+Les exégètes ont longuement discuté de la nature précise de ce qu’il dit avoir aperçu et de plusieurs détails de son histoire.
+ 
+Le Coran ne nous donne cependant pas assez d’éléments pour transformer toutes les reconstructions ultérieures en certitudes.
+ 
+Ce qui est parfaitement clair est son rôle :
+ 
+il a contribué à fabriquer l’objet qui a détourné une partie du peuple vers l’idolâtrie.
+ 
+## Le faux dieu est détruit
+ 
+Mūsā annonce qu’il brûlera ou détruira le veau puis dispersera ses restes.
+ 
+Ensuite il recentre immédiatement le peuple :
+ 
+> « Votre Dieu est seulement Allah, en dehors de qui aucune divinité n’est digne d’adoration. Il embrasse toute chose de Sa science. »
+> [Sourate Ṭā-Hā, verset 98]
+ 
+Le récit du veau ne se termine pas sur le veau.
+ 
+Il se termine sur :
+Allah.
+ 
+C’est toute la logique du Tawḥīd.
+ 
+Ne pas passer sa vie à regarder les faux dieux.
+ 
+Revenir vers le vrai Dieu.
+ 
+## Le Coran raconte les histoires pour qu’elles deviennent un rappel
+ 
+Allah dit au Prophète ﷺ :
+ 
+> « C’est ainsi que Nous te racontons certains récits de ce qui s’est passé auparavant, et Nous t’avons donné de Notre part un rappel. »
+> [Sourate Ṭā-Hā, verset 99]
+ 
+L’histoire de Mūsā n’est donc pas racontée uniquement pour informer Muhammad ﷺ sur le passé.
+ 
+Elle devient dhikr — un rappel pour sa propre mission.
+ 
+Mūsā a été rejeté.
+Muhammad ﷺ l’est aussi.
+ 
+Mūsā a eu peur.
+Allah l’a rassuré.
+ 
+Mūsā a été envoyé face à un pouvoir immense.
+Allah l’a soutenu.
+ 
+L’histoire des prophètes devient ainsi une source de force pour celui qui vient après eux.
+ 
+## Celui qui se détourne du Coran portera une lourde charge
+ 
+Allah avertit :
+ 
+> « Quiconque s’en détourne portera au Jour de la Résurrection un lourd fardeau. »
+> [Sourate Ṭā-Hā, verset 100]
+ 
+Recevoir le Coran est un bienfait.
+ 
+Mais le bienfait devient aussi responsabilité.
+ 
+Plus la lumière est accessible, moins il est possible de prétendre que l’on n’avait aucune indication.
+ 
+Le rapport au Coran ne devrait donc pas être uniquement :
+« Est-ce que je l’ai lu ? »
+ 
+Mais aussi :
+« Qu’est-ce que cette parole est en train de modifier en moi ? »
+ 
+## Le Jour du Jugement
+ 
+La sourate décrit ensuite le Jour où l’on soufflera dans la Trompe et où les criminels seront rassemblés.
+ 
+Les hommes murmureront entre eux en estimant n’être restés dans cette vie que très peu de temps.
+ 
+> [Sourate Ṭā-Hā, versets 102-104]
+ 
+C’est un thème coranique récurrent.
+ 
+Une vie qui nous paraît aujourd’hui immense paraîtra terriblement courte lorsqu’on la regardera depuis l’éternité.
+ 
+Des dizaines d’années peuvent devenir presque :
+« quelques jours. »
+ 
+La question n’est alors plus seulement combien de temps j’ai vécu.
+ 
+Mais :
+qu’est-ce que j’ai fait de ce temps ?
+ 
+## Les montagnes seront réduites
+ 
+Les Quraysh interrogent sur les montagnes.
+ 
+Allah répond qu’Il les réduira et laissera la terre comme une vaste plaine, sans relief.
+ 
+> [Sourate Ṭā-Hā, versets 105-107]
+ 
+Les montagnes sont parmi les choses les plus stables que l’être humain puisse voir.
+ 
+Si même elles disparaissent, alors aucune structure de ce monde ne mérite d’être considérée comme absolument permanente.
+ 
+La permanence appartient à Allah.
+ 
+## Même les voix s’abaisseront devant Ar-Raḥmān
+ 
+Allah décrit alors les hommes suivant l’appel sans pouvoir s’y soustraire :
+ 
+> « Les voix s’abaisseront devant le Tout Miséricordieux et tu n’entendras qu’un murmure. »
+> [Sourate Ṭā-Hā, verset 108]
+ 
+Quel contraste avec Pharaon.
+ 
+Dans cette vie, certaines voix dominent.
+ 
+Elles ordonnent.
+Menacent.
+S’imposent.
+ 
+Au Jour dernier, toutes les voix s’abaissent devant Ar-Raḥmān.
+ 
+Le monde dans lequel un tyran semblait gigantesque retrouve enfin sa véritable échelle.
+ 
+## L’intercession n’existe qu’avec la permission d’Allah
+ 
+Allah dit :
+ 
+> « Ce jour-là, aucune intercession ne profitera sauf celle de celui auquel le Tout Miséricordieux aura donné permission et dont Il agréera la parole. »
+> [Sourate Ṭā-Hā, verset 109]
+ 
+L’intercession existe donc.
+ 
+Mais elle n’est jamais indépendante d’Allah.
+ 
+Même les créatures les plus honorées ne deviennent pas des autorités parallèles au Seigneur.
+ 
+Tout revient à :
+Sa permission.
+ 
+Cela protège encore le Tawḥīd jusque dans la manière de comprendre l’Au-delà.
+ 
+## « Les visages s’humilieront devant le Vivant, Celui qui subsiste par Lui-même »
+ 
+Allah dit :
+ 
+> « Les visages s’humilieront devant le Vivant, Celui qui subsiste par Lui-même. »
+> [Sourate Ṭā-Hā, verset 111]
+ 
+Al-Ḥayy, Al-Qayyūm.
+ 
+Les hommes meurent.
+ 
+Les royaumes meurent.
+ 
+Pharaon meurt.
+ 
+Mūsā lui-même mourra.
+ 
+Allah est Al-Ḥayy, le Vivant qui ne meurt pas.
+ 
+Tout dépend.
+ 
+Allah est Al-Qayyūm, Celui qui subsiste par Lui-même et dont dépend toute chose.
+ 
+## « Seigneur, augmente-moi en science »
+ 
+Puis vient l’une des plus célèbres invocations coraniques :
+ 
+> « Et dis : Seigneur, augmente-moi en science. »
+> [Sourate Ṭā-Hā, verset 114]
+ 
+Allah ordonne également au Prophète ﷺ de ne pas se hâter dans la récitation du Coran avant que sa révélation ne lui soit achevée.
+ 
+La juxtaposition est magnifique :
+ 
+ne te précipite pas
+ 
+et
+ 
+demande davantage de science.
+ 
+Le véritable savoir ne demande donc pas uniquement plus d’informations.
+ 
+Il demande aussi une bonne manière de les recevoir.
+ 
+Écouter avant de parler.
+ 
+Comprendre avant de conclure.
+ 
+Et continuer à demander :
+Rabbi zidnī ‘ilmā — Seigneur, augmente-moi en science.
+ 
+Même Muhammad ﷺ reçoit l’ordre de demander encore davantage de connaissance.
+ 
+Personne ne devrait donc atteindre un niveau où il pense :
+ 
+« J’en sais désormais suffisamment pour ne plus avoir besoin d’apprendre. »
+ 
+## Ādam عليه السلام et l’oubli
+ 
+La sourate revient ensuite à l’origine de l’humanité :
+ 
+> « Nous avions auparavant confié un engagement à Ādam, mais il oublia, et Nous ne trouvâmes pas chez lui de ferme détermination. »
+> [Sourate Ṭā-Hā, verset 115]
+ 
+Le récit d’Ādam permet notamment d’introduire un thème important :
+ 
+l’être humain oublie.
+ 
+Cela ne supprime pas sa responsabilité.
+ 
+Mais cela explique pourquoi il a autant besoin de dhikr — du rappel.
+ 
+Le Coran lui-même est dhikr.
+ 
+La prière est accomplie pour se souvenir d’Allah.
+ 
+L’être humain oublie.
+ 
+Allah lui donne donc des moyens de revenir continuellement au souvenir.
+ 
+## Iblīs refuse de se prosterner
+ 
+Allah rappelle l’ordre donné aux anges de se prosterner devant Ādam.
+ 
+Tous obéissent sauf Iblīs.
+ 
+Puis Allah avertit Ādam :
+ 
+> « Celui-ci est vraiment un ennemi pour toi et pour ton épouse. Qu’il ne vous fasse pas sortir du Paradis, sinon tu connaîtras la peine. »
+> [Sourate Ṭā-Hā, verset 117]
+ 
+L’ennemi est donc identifié avant la tentation.
+ 
+C’est également une miséricorde.
+ 
+Une partie de la protection consiste à connaître l’existence de ce qui cherche à nous nuire.
+ 
+## Au Paradis : aucune faim, aucune nudité, aucune soif
+ 
+Allah dit à Ādam :
+ 
+> « Tu n’y auras ni faim ni nudité. Tu n’y auras ni soif ni souffrance due au soleil. »
+> [Sourate Ṭā-Hā, versets 118-119]
+ 
+Le Paradis est ici décrit par l’absence du manque.
+ 
+Pas besoin de courir après la nourriture.
+Pas besoin de se protéger.
+Pas de soif.
+Pas de chaleur pénible.
+
+Puis Satan vient précisément leur proposer quelque chose qu’ils ne posséderaient pas :
+ 
+l’arbre de l’éternité et un royaume qui ne disparaît pas.
+ 
+> [Sourate Ṭā-Hā, verset 120]
+ 
+## Satan vend l’illusion d’une permanence
+ 
+La tentation est très révélatrice.
+ 
+Ādam se trouve déjà au Paradis.
+ 
+Mais Satan attire son attention vers :
+ce que tu pourrais encore obtenir.
+ 
+L’être humain peut posséder énormément et être rendu malheureux par la seule chose qu’on lui présente comme manquante.
+ 
+C’est l’un des mécanismes les plus puissants de la tentation :
+ 
+ne plus voir mille bienfaits parce qu’une seule chose interdite est devenue obsessionnelle.
+ 
+## La faute d’Ādam n’est pas la fin de son histoire
+ 
+Ādam et son épouse mangent de l’arbre, leur nudité leur apparaît et ils commencent à se couvrir avec les feuilles du Paradis.
+ 
+> [Sourate Ṭā-Hā, verset 121]
+ 
+Puis :
+ 
+> « Ensuite son Seigneur le choisit, accepta son repentir et le guida. »
+> [Sourate Ṭā-Hā, verset 122]
+ 
+Voilà encore un immense message de la sourate.
+ 
+Ādam faute.
+ 
+Mais Allah ne résume pas tout le reste de son existence à :
+ 
+« celui qui a fauté. »
+ 
+Il se repent.
+ 
+Allah accepte son repentir.
+ 
+Puis Allah le guide.
+ 
+Une faute réelle peut être suivie d’un retour réel.
+ 
+## « Celui qui suit Ma guidance ne s’égarera pas et ne sera pas malheureux »
+ 
+Lorsque Ādam descend sur terre, Allah donne une règle pour toute sa descendance :
+ 
+> « Si une guidance vous vient de Ma part, quiconque suit Ma guidance ne s’égarera pas et ne sera pas malheureux. »
+> [Sourate Ṭā-Hā, verset 123]
+ 
+Remarquez le lien avec le début :
+ 
+> « Nous n’avons pas fait descendre sur toi le Coran pour que tu sois malheureux. »
+> [Sourate Ṭā-Hā, verset 2]
+ 
+Et ici :
+celui qui suit la guidance ne sera pas voué à l’égarement et au malheur.
+ 
+La sourate encadre donc une grande partie de son message par cette idée :
+la guidance d’Allah n’est pas l’ennemie de l’homme. Elle est son chemin de sortie.
+ 
+« Une vie étroite » pour celui qui se détourne du rappel
+ 
+Allah poursuit :
+ 
+> « Quant à celui qui se détourne de Mon rappel, il aura une vie étroite et Nous le ressusciterons aveugle au Jour de la Résurrection. »
+> [Sourate Ṭā-Hā, verset 124]
+ 
+La ma‘īshatan ḍankā, « vie étroite », a été expliquée de différentes manières par les exégètes, dans cette vie et/ou dans le châtiment lié à l’Au-delà.
+ 
+Il faut donc éviter de transformer le verset en formule simpliste du type :
+« toute personne éloignée d’Allah sera forcément pauvre, dépressive ou matériellement malheureuse. »
+ 
+Des personnes éloignées peuvent connaître un grand confort matériel.
+ 
+Et de grands croyants peuvent connaître de lourdes épreuves.
+ 
+Le sens est plus profond : se détourner d’Allah possède une conséquence réelle, même si cette conséquence n’est pas toujours immédiatement visible dans le niveau de richesse d’une personne.
+ 
+## « Pourquoi m’as-Tu ressuscité aveugle ? »
+ 
+L’homme demandera :
+ 
+> « Seigneur ! Pourquoi m’as-Tu ressuscité aveugle alors que je voyais auparavant ? »
+ 
+Allah répond :
+ 
+> « Ainsi Nos signes t’étaient venus et tu les as oubliés ; de même aujourd’hui tu seras oublié. »
+> [Sourate Ṭā-Hā, versets 125-126]
+ 
+Le thème de l’oubli revient.
+ 
+Ādam oublie puis revient.
+ 
+D’autres oublient volontairement les signes et persistent.
+ 
+La différence n’est donc pas simplement de ne jamais oublier.
+ 
+Elle est :
+que fais-tu lorsque le rappel revient ?
+ 
+## Les ruines des générations précédentes devraient faire réfléchir
+ 
+Allah demande :
+ 
+> « Ne leur a-t-il pas servi de guidance de voir combien de générations Nous avons fait périr avant eux, dans les demeures desquelles ils marchent aujourd’hui ? »
+> [Sourate Ṭā-Hā, verset 128]
+ 
+Les ruines possèdent une étrange puissance.
+ 
+Les habitants d’autrefois avaient des projets.
+ 
+Des inquiétudes.
+Des disputes.
+Des richesses.
+ 
+Puis une génération suivante marche dans leurs anciennes maisons.
+ 
+Le monde que nous considérons comme permanent devient très rapidement le passé de quelqu’un d’autre.
+ 
+## « Patiente face à ce qu’ils disent »
+ 
+À l’approche de la fin, Allah revient directement à Muhammad ﷺ :
+ 
+> « Patiente face à ce qu’ils disent et célèbre la louange de ton Seigneur avant le lever du soleil et avant son coucher. »
+> [Sourate Ṭā-Hā, verset 130]
+ 
+Le Prophète ﷺ entend des paroles blessantes.
+ 
+Allah ne lui demande pas de passer chaque instant à répondre à chacune d’elles.
+ 
+Il lui donne une autre direction :
+patience et tasbīḥ.
+ 
+Encore une fois, la souffrance produite par les hommes est redirigée vers la relation avec Allah.
+ 
+## La journée entourée de dhikr
+ 
+Le même verset mentionne le rappel d’Allah à différents moments :
+-	avant le lever du soleil ;
+-	avant son coucher ;
+-	durant certaines heures de la nuit ;
+-	et aux extrémités du jour.
+ 
+> [Sourate Ṭā-Hā, verset 130]
+ 
+La vie croyante est ainsi entourée de moments de retour vers Allah.
+ 
+La journée ne doit pas devenir un bloc continu d’oubli interrompu seulement par une pensée religieuse occasionnelle.
+ 
+La prière et le dhikr viennent régulièrement casser cette absorption.
+ 
+## Ne pas fixer les yeux sur ce qu’Allah a donné aux autres
+ 
+Allah dit :
+ 
+> « Ne porte pas tes regards vers ce dont Nous avons fait jouir certains groupes parmi eux : parure de la vie présente par laquelle Nous les éprouvons. La subsistance de ton Seigneur est meilleure et plus durable. »
+> [Sourate Ṭā-Hā, verset 131]
+ 
+Le verset rappelle très fortement Al-Ḥijr.
+ 
+La comparaison peut voler la gratitude.
+ 
+Une personne peut posséder beaucoup et ne plus rien voir parce qu’elle fixe continuellement son attention sur :
+ce qu’Allah a donné à quelqu’un d’autre.
+ 
+Et Allah appelle même les biens convoités :
+une épreuve.
+ 
+Ce que nous envions chez l’autre n’est pas nécessairement seulement une récompense.
+ 
+C’est aussi une responsabilité dont nous ignorons peut-être le poids.
+ 
+## « Ordonne la prière à ta famille »
+ 
+Puis vient l’un des plus beaux versets concernant la vie familiale :
+ 
+> « Ordonne la prière à ta famille et persévère toi-même dans son accomplissement. »
+> [Sourate Ṭā-Hā, verset 132]
+ 
+Remarquez l’ordre :
+demande-le à ta famille
+ 
+mais aussi :
+persévère toi-même.
+ 
+La transmission familiale ne peut pas reposer uniquement sur :
+« faites ce que je vous dis. »
+ 
+Elle demande aussi :
+« voyez ce que j’essaie moi-même de vivre. »
+ 
+Un enfant comprend très vite la différence entre une prière que ses parents présentent comme importante et une prière qu’ils considèrent eux-mêmes réellement comme importante.
+ 
+## « Nous ne te demandons pas de subsistance ; c’est Nous qui t’en accordons »
+ 
+Le verset continue :
+ 
+> « Nous ne te demandons aucune subsistance ; c’est Nous qui t’accordons ta subsistance. Et la bonne fin appartient à la taqwā. »
+> [Sourate Ṭā-Hā, verset 132]
+ 
+Quelle proximité magnifique entre prière et subsistance.
+ 
+L’homme peut penser :
+« Je dois courir tellement après ma vie que je n’ai plus le temps pour Allah. »
+ 
+Allah rappelle :
+c’est Moi qui suis Ar-Razzāq.
+ 
+Cela ne signifie évidemment pas abandonner le travail ou les responsabilités.
+ 
+Mūsā lui-même agit, voyage et accomplit sa mission.
+ 
+Mais le travail ne doit jamais devenir une divinité à laquelle on sacrifie toute sa relation avec le véritable Pourvoyeur.
+ 
+## Le message n’arrive pas sans preuve
+ 
+Les négateurs demandent encore :
+« Pourquoi ne nous apporte-t-il pas un signe de son Seigneur ? »
+ 
+Allah leur rappelle que les preuves contenues dans les révélations précédentes leur sont déjà parvenues.
+ 
+> [Sourate Ṭā-Hā, verset 133]
+ 
+Puis Allah explique que s’Il les avait châtiés avant l’envoi du Messager, ils auraient pu dire :
+ 
+> « Seigneur ! Pourquoi ne nous as-Tu pas envoyé un messager afin que nous suivions Tes signes ? »
+> [Sourate Ṭā-Hā, verset 134]
+ 
+La Révélation enlève donc cette excuse.
+ 
+Allah avertit avant de juger.
+ 
+## La sourate se termine par l’attente du résultat
+ 
+Le dernier verset dit :
+ 
+> « Dis : chacun attend. Attendez donc ! Vous saurez bientôt qui sont les gens du chemin droit et qui est bien guidé. »
+> [Sourate Ṭā-Hā, verset 135]
+ 
+À La Mecque, les Quraysh possèdent encore la puissance visible.
+ 
+Muhammad ﷺ et ses compagnons paraissent beaucoup plus vulnérables.
+ 
+Mais la sourate demande :
+ne juge pas uniquement l’histoire au milieu de l’histoire.
+ 
+Attends la fin.
+ 
+C’est exactement ce que le récit de Mūsā venait de montrer.
+ 
+À un moment :
+ 
+Pharaon possède le royaume.
+ Mūsā est fugitif.
+ 
+Puis :
+ Mūsā revient.
+ 
+Pharaon est englouti.
+ 
+La vérité d’une voie ne se mesure donc pas simplement à sa puissance actuelle.
+ 
+## Une sourate sur la peur transformée en mission
+ 
+Mūsā عليه السلام traverse plusieurs formes de peur dans Ṭā-Hā.
+ 
+Il a connu la peur lorsqu’il a dû quitter l’Égypte.
+ Il a peur du serpent.
+ Il craint Pharaon.
+ Il ressent une peur intérieure devant la magie.
+ 
+Mais à chaque fois, Allah ne lui demande pas de devenir une créature sans émotions.
+ 
+Il lui apprend où aller avec sa peur.
+ 
+« N’aie pas peur. »
+« Je suis avec vous deux, J’entends et Je vois. »
+« C’est toi qui auras le dessus. »
+ 
+La foi ne signifie donc pas forcément :
+ je ne ressens plus rien.
+ 
+Elle signifie :
+ma peur n’est plus seule à décider de ma direction.
+
+## Une sourate sur le dhikr et l’oubli
+ 
+Un autre fil traverse toute la sourate : se souvenir ou oublier.
+ 
+Au début :
+« accomplis la prière pour te souvenir de Moi. »
+ 
+Mūsā demande Hārūn :
+« afin que nous nous souvenions beaucoup de Toi. »
+ 
+Allah leur ordonne :
+« ne faiblissez pas dans Mon rappel. »
+ 
+Puis Ādam :
+« oublia. »
+ 
+Et celui qui se détourne :
+« Nos signes t’étaient venus et tu les as oubliés. »
+ 
+La condition humaine apparaît donc comme une lutte entre dhikr et ghaflah, souvenir et insouciance.
+ 
+Ce n’est pas un hasard si le Coran lui-même est appelé un rappel.
+ 
+Nous avons besoin qu’Allah nous rappelle parce que nous sommes des êtres qui oublient.
+ 
+## Une sourate sur la prière
+ 
+La ṣalāt occupe également une place remarquable.
+ 
+Au premier dialogue avec Mūsā :
+« Accomplis la prière pour te souvenir de Moi. »
+ 
+À la fin, Muhammad ﷺ reçoit l’ordre de glorifier Allah aux différents moments de la journée.
+ 
+Puis :
+« Ordonne la prière à ta famille et persévère toi-même dans son accomplissement. »
+ 
+La prière apparaît donc comme une continuité entre les prophètes.
+ 
+Mūsā prie.
+Muhammad ﷺ prie.
+ 
+Le croyant apprend à faire de cette prière la structure même de sa journée.
+ 
+## Une sourate sur la connaissance et ses limites
+ 
+Ṭā-Hā dit au Prophète ﷺ :
+ « Seigneur, augmente-moi en science. »
+ 
+Mais la sourate montre également combien l’être humain peut mal interpréter ce qu’il voit.
+ 
+Pharaon voit les signes et les rejette.
+ 
+Les magiciens, eux, comprennent ce qu’ils voient et se prosternent.
+ 
+Le Sāmirī produit une interprétation qui égare son peuple.
+ 
+La science véritable ne dépend donc pas seulement de la quantité d’informations disponibles.
+ 
+Elle demande un cœur capable de les recevoir correctement.
+ 
+Et plus on sait, plus on devrait pouvoir dire humblement :
+ Rabbi zidnī ‘ilmā.
+ 
+## Une sourate où Allah accompagne Son serviteur depuis avant qu’il ne le sache
+ 
+L’un des aspects les plus émouvants de Ṭā-Hā est probablement la manière dont Allah raconte à Mūsā sa propre vie.
+ 
+Mūsā vient demander de l’aide pour sa mission.
+ 
+Allah lui répond presque :
+Je t’aide déjà depuis bien avant ce jour.
+ 
+Lorsque tu étais nourrisson.
+Lorsque ta mère avait peur.
+Lorsque le fleuve te portait.
+Lorsque tu étais dans la maison de ton ennemi.
+Lorsque tu as fui.
+Lorsque tu es arrivé à Madyan.
+ 
+Puis :
+ 
+> « Tu es venu au moment décrété, ô Mūsā. Et Je t’ai façonné pour Moi-même. »
+> [Sourate Ṭā-Hā, versets 40-41]
+ 
+Mūsā découvre alors que certaines parties de sa vie qui auraient pu ressembler à des événements isolés appartenaient à une histoire dont Allah connaissait déjà la destination.
+ 
+## La douceur même face à Pharaon
+ 
+Une autre grande leçon de la sourate mérite de rester en mémoire :
+ 
+> « Parlez-lui avec douceur. »
+> [Sourate Ṭā-Hā, verset 44]
+ 
+Si la douceur est demandée au commencement de l’appel adressé à Pharaon, elle ne peut pas être considérée comme une faiblesse honteuse dans la transmission ordinaire.
+ 
+Cela ne signifie pas rendre le vrai flou.
+ 
+Cela signifie que la vérité n’a pas besoin de notre ego pour devenir plus vraie.
+ 
+Mūsā est ferme.
+ 
+Mais il est envoyé comme messager, pas comme homme cherchant simplement à se défouler sur son adversaire.
+ 
+## Le message central de la sourate Ṭā-Hā
+ 
+Ṭā-Hā commence par :
+ 
+> « Nous n’avons pas fait descendre sur toi le Coran pour que tu sois malheureux. »
+> [Sourate Ṭā-Hā, verset 2]
+ 
+Puis Allah raconte à Muhammad ﷺ la longue histoire d’un homme qui aurait eu, humainement, toutes les raisons de se sentir dépassé.
+ 
+Mūsā عليه السلام est un ancien fugitif.
+ 
+Il craint de mal parler.
+Il a besoin de son frère.
+Il doit se présenter devant Pharaon.
+Son propre peuple lui donnera ensuite d’immenses difficultés.
+ 
+Mais Allah l’accompagne à chaque étape.
+ 
+« Je t’ai choisi. »
+« Ta demande t’est accordée. »
+« Je t’ai déjà accordé une faveur auparavant. »
+« Je t’ai façonné pour Moi-même. »
+« Je suis avec vous deux : J’entends et Je vois. »
+ 
+La sourate enseigne donc quelque chose de très profond :
+ 
+Allah ne demande pas à Son serviteur d’être autosuffisant avant de l’utiliser pour le bien.
+ 
+Mūsā reconnaît ses faiblesses.
+Puis il demande l’aide d’Allah.
+ 
+Voilà précisément ce qui le rend capable d’avancer.
+ 
+La sourate nous apprend aussi que la guidance est avant tout un rappel.
+ 
+Parce que l’homme oublie.
+
+La prière le ramène.
+Le Coran le ramène.
+Le dhikr le ramène.
+Le repentir le ramène.
+ 
+Et même après la faute d’Ādam :
+ 
+> « son Seigneur le choisit, accepta son repentir et le guida. »
+> [Sourate Ṭā-Hā, verset 122]
+ 
+Puis Allah donne la règle générale :
+ 
+> « Quiconque suit Ma guidance ne s’égarera pas et ne sera pas malheureux. »
+> [Sourate Ṭā-Hā, verset 123]
+ 
+C’est probablement l’un des plus beaux liens de toute la sourate.
+ 
+Au début :
+le Coran n’a pas été révélé pour te rendre malheureux.
+ 
+À la fin du récit d’Ādam :
+suis Ma guidance et tu ne seras pas voué à l’égarement et au malheur.
+ 
+Et entre les deux, Mūsā nous montre concrètement ce que signifie vivre cette guidance : invoquer lorsque l’on se sent insuffisant, prier pour se souvenir d’Allah, parler avec sagesse, agir malgré la peur, demander de l’aide, ne pas être trompé par la puissance apparente des tyrans, se repentir lorsque l’on tombe et continuer à chercher davantage de connaissance.
+ 
+Voilà peut-être l’essence de Ṭā-Hā :
+tu n’as pas besoin de connaître toute la route, de ne jamais ressentir de peur ou de posséder toutes les capacités avant d’avancer. Tu as besoin de savoir qui t’appelle, de te souvenir de Lui, de demander Son aide et de continuer à marcher dans la direction qu’Il t’a montrée.
+ 
+Et lorsque Mūsā ne voit encore devant lui qu’un feu dans la nuit, Allah connaît déjà tout le chemin qui va suivre.
+
+
 [[/desc]]
 
 [[desc 21]]
