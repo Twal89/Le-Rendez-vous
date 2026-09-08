@@ -48209,6 +48209,1270 @@ Et lorsque Mūsā ne voit encore devant lui qu’un feu dans la nuit, Allah conn
 
 [[desc 21]]
 
+La sourate Al-Anbiyā’ (سورة الأنبياء), vingt-et-unième sourate du Coran, est une sourate mecquoise de 112 versets. Son nom signifie « Les Prophètes », ce qui correspond parfaitement à sa structure : après avoir établi le Tawḥīd, la réalité de la Résurrection et l’authenticité de la Révélation, elle fait défiler une succession remarquable de prophètes — Mūsā, Hārūn, Ibrāhīm, Lūṭ, Nūḥ, Dāwūd, Sulaymān, Ayyūb, Ismā‘īl, Idrīs, Dhū al-Kifl, Yūnus, Zakariyyā, Yaḥyā et ‘Īsā عليهم السلام — comme autant de manifestations d’une même histoire de guidance.
+ 
+Elle appartient à cette série d’anciennes sourates mecquoises auxquelles ‘Abdullāh ibn Mas‘ūd رضي الله عنه était particulièrement attaché : il citait ensemble Banī Isrā’īl, Al-Kahf, Maryam, Ṭā-Hā et Al-Anbiyā’ comme faisant partie de ses premières et précieuses acquisitions du Coran.
+ 
+Al-Anbiyā’ possède une structure très forte. Elle commence avec une humanité distraite alors que son jugement approche, puis montre les hommes se moquant des messagers et contestant le Tawḥīd. Ensuite viennent les signes de la création et, surtout, toute une succession de prophètes : chacun traverse une situation particulière, chacun invoque, agit et revient vers Allah, et Allah leur répond. La sourate se termine enfin avec Muhammad ﷺ, défini par cette parole extraordinaire :
+ 
+> « Nous ne t’avons envoyé qu’en miséricorde pour les mondes. »
+> [Sourate Al-Anbiyā’, verset 107]
+ 
+Le fil conducteur pourrait donc être résumé ainsi : les hommes changent, les époques changent et les épreuves changent, mais le Seigneur est le même, le message fondamental est le même et le refuge des prophètes reste toujours le même : Allah.
+ 
+#  « Le règlement de leurs comptes s’est rapproché »
+ 
+La sourate s’ouvre brutalement :
+ 
+> « Le règlement de leurs comptes s’est rapproché pour les hommes, tandis qu’ils s’en détournent dans leur insouciance. »
+> [Sourate Al-Anbiyā’, verset 1]
+ 
+Le danger n’est pas ici que les hommes ignorent absolument tout.
+ 
+Le verset décrit plutôt la ghaflah, l’insouciance : vivre comme si ce que l’on sait n’avait aucune conséquence.
+ 
+On peut savoir que l’on va mourir.
+ 
+Savoir que le temps passe.
+Savoir qu’Allah existe.
+Savoir que certaines choses doivent changer.
+ 
+Et pourtant vivre chaque journée comme si l’on possédait une réserve infinie de lendemains.
+ 
+La sourate commence donc en brisant cette illusion :
+ 
+le compte approche, même lorsque notre esprit est occupé ailleurs.
+ 
+#  Entendre le rappel tout en jouant
+ 
+Allah décrit ensuite ceux auxquels arrive un nouveau rappel venant de leur Seigneur :
+ 
+> « Ils ne l’écoutent qu’en jouant, leurs cœurs distraits. »
+> [Sourate Al-Anbiyā’, versets 2-3]
+ 
+Le problème n’est pas seulement de ne jamais entendre la Révélation.
+ 
+On peut entendre sans réellement écouter.
+ 
+Une récitation peut passer dans les oreilles tandis que l’esprit se trouve ailleurs.
+ 
+Un verset peut être connu depuis des années sans jamais être appliqué à soi-même.
+ 
+Le Coran devient alors quelque chose que l’on reconnaît extérieurement sans lui permettre de pénétrer suffisamment profondément pour remettre notre vie en question.
+ 
+Al-Anbiyā’ commence donc par une question implicite :
+ 
+quand Allah me parle, mon cœur est-il réellement présent ?
+ 
+#  « Ce n’est qu’un homme comme vous »
+ 
+Les opposants au Prophète ﷺ disent :
+ 
+> « N’est-ce pas simplement un homme comme vous ? »
+> [Sourate Al-Anbiyā’, verset 3]
+ 
+Cette objection revient régulièrement dans le Coran : pourquoi un messager d’Allah serait-il humain ?
+ 
+Allah répond plus loin que les messagers précédents étaient eux aussi des hommes auxquels Il faisait révélation, puis ordonne :
+ 
+> « Demandez donc aux gens du rappel si vous ne savez pas. »
+> [Sourate Al-Anbiyā’, verset 7]
+ 
+Les prophètes ne sont pas des dieux descendus parmi les hommes.
+ 
+Ils mangent.
+Ils vivent.
+Ils connaissent la fatigue.
+Ils meurent.
+ 
+Et c’est précisément ce qui rend leur exemple applicable : ils montrent comment un être humain peut vivre en serviteur d’Allah dans une véritable existence humaine.
+ 
+#  « Demandez aux gens du rappel si vous ne savez pas »
+ 
+Le contexte immédiat concerne le fait que les messagers précédents étaient bien des êtres humains.
+ 
+Mais le principe possède une grande beauté :
+lorsque tu ne sais pas, demande à celui qui sait.
+ 
+> [Sourate Al-Anbiyā’, verset 7]
+ 
+L’une des formes les plus simples d’humilité intellectuelle consiste à pouvoir dire :
+« Je ne sais pas. »
+ 
+Nous vivons facilement comme si toute question devait recevoir immédiatement notre opinion.
+ 
+Le Coran enseigne une autre attitude : reconnaître les limites de sa compétence et chercher la connaissance auprès de ceux qui la possèdent réellement.
+ 
+#  Le Coran comme rappel et honneur
+ 
+Allah dit aux Quraysh :
+ 
+> « Nous avons certes fait descendre vers vous un Livre dans lequel se trouve votre rappel. Ne raisonnez-vous donc pas ? »
+> [Sourate Al-Anbiyā’, verset 10]
+ 
+Le mot dhikrukum peut porter l’idée de rappel, mais également celle de renom ou d’honneur selon les explications des exégètes.
+ 
+Les Quraysh regardaient la mission de Muhammad ﷺ comme une menace contre leur statut.
+ 
+Mais le Coran allait devenir précisément ce qui ferait connaître leur langue et cette génération dans le monde entier.
+ 
+Ce que l’homme perçoit parfois comme une menace pour son prestige peut être, selon Allah, exactement ce qui contient son véritable honneur.
+ 
+#  Le monde n’a pas été créé pour jouer
+ 
+Allah dit :
+ 
+> « Nous n’avons pas créé le ciel, la terre et ce qui se trouve entre eux pour jouer. »
+> [Sourate Al-Anbiyā’, verset 16]
+ 
+Cette phrase change complètement la manière de regarder l’existence.
+ 
+Si l’univers n’est pas un jeu, alors notre vie n’est pas un accident sans finalité morale.
+ 
+Le plaisir existe.
+Le rire existe.
+Le repos existe.
+ 
+Mais l’existence elle-même possède un but.
+ 
+Le Coran ne demande pas à l’homme de vivre constamment dans la tristesse. Il lui demande de ne pas transformer une vie destinée à quelque chose d’immense en simple succession de distractions avant la mort.
+ 
+#  La vérité frappe le faux jusqu’à le faire disparaître
+ 
+Allah dit :
+ 
+> « Bien au contraire, Nous lançons la vérité contre le faux ; elle le frappe à la tête et le voilà qui disparaît. »
+> [Sourate Al-Anbiyā’, verset 18]
+ 
+Le faux peut être bruyant.
+Majoritaire.
+Puissant.
+Très ancien.
+
+Mais il possède une faiblesse fondamentale :
+il n’est pas vrai.
+ 
+Le croyant apprend donc à ne pas confondre la puissance momentanée d’une idée avec sa solidité réelle.
+ 
+Une vérité peut être rejetée pendant longtemps puis finir par apparaître.
+ 
+Un mensonge peut dominer pendant longtemps puis s’effondrer.
+ 
+#  Même les anges ne s’enorgueillissent pas d’adorer Allah
+ 
+Allah décrit ceux qui sont auprès de Lui :
+ 
+> « Ils ne s’enorgueillissent pas de L’adorer et ne s’en lassent pas. Ils Le glorifient nuit et jour sans relâche. »
+> [Sourate Al-Anbiyā’, versets 19-20]
+ 
+Le contraste avec l’homme est frappant.
+ 
+Les anges, créatures extraordinaires, ne considèrent pas l’adoration comme indigne d’eux.
+ 
+Et pourtant l’être humain, fragile et dépendant, peut parfois se comporter comme si se prosterner devant son Créateur diminuait sa liberté.
+ 
+Le Coran inverse la perspective :
+ 
+la véritable élévation ne consiste pas à devenir trop grand pour adorer Allah.
+ 
+Les créatures les plus honorées sont précisément celles qui connaissent leur Seigneur et ne s’enorgueillissent pas devant Lui.
+ 
+#  S’il existait plusieurs dieux…
+ 
+Allah donne ensuite un argument extrêmement puissant concernant le Tawḥīd :
+ 
+> « S’il y avait dans les cieux et sur la terre des divinités en dehors d’Allah, tous deux seraient certainement corrompus. »
+> [Sourate Al-Anbiyā’, verset 22]
+ 
+Le Coran dirige le regard vers l’unité de l’ordre du monde.
+ 
+Le Seigneur ultime ne peut pas être un membre d’un ensemble de puissances divines concurrentes qui se disputeraient la souveraineté.
+ 
+La création fonctionne sous une autorité ultime unique.
+ 
+Allah n’est donc pas simplement « le plus puissant parmi plusieurs dieux ».
+ 
+Il est le seul Dieu véritable.
+ 
+#  Les anges eux-mêmes sont des serviteurs honorés
+ 
+Allah réfute également ceux qui attribuaient des enfants à Allah :
+ 
+> « Ils disent : “Le Tout Miséricordieux S’est donné un enfant.” Gloire à Lui ! Ce ne sont que des serviteurs honorés. »
+> [Sourate Al-Anbiyā’, verset 26]
+ 
+Les anges sont honorés.
+ 
+Mais serviteurs.
+ 
+Ils ne parlent pas avant Allah et agissent selon Son ordre.
+ 
+Ils peuvent intercéder uniquement pour ceux qu’Allah agrée.
+ 
+> [Sourate Al-Anbiyā’, versets 27-28]
+ 
+Le Coran protège ainsi toujours cette frontière :
+ 
+une créature peut posséder un rang immense sans recevoir un seul attribut de divinité indépendante.
+ 
+L’honneur maximal de la créature reste compatible avec sa servitude totale envers Allah.
+ 
+#  Les cieux et la terre étaient « réunis », puis Allah les sépara
+ 
+Vient ensuite l’un des versets les plus célèbres de la sourate :
+ 
+> « Ceux qui ont mécru n’ont-ils pas vu que les cieux et la terre étaient réunis, puis Nous les avons séparés ? Et Nous avons fait de l’eau toute chose vivante. Ne croiront-ils donc pas ? »
+> [Sourate Al-Anbiyā’, verset 30]
+ 
+Les exégètes anciens ont proposé plusieurs nuances concernant ratq et fatq : certains ont compris les cieux et la terre comme initialement joints puis séparés ; d’autres ont notamment évoqué le ciel « fermé » sans pluie et la terre sans végétation avant qu’Allah ne les ouvre à la pluie et à la croissance.
+ 
+Le message explicite est immense :
+l’univers a une histoire voulue par Allah, et son organisation présente n’est pas indépendante de Son acte créateur.
+ 
+#  « Nous avons fait de l’eau toute chose vivante »
+ 
+La seconde partie du verset est tout aussi frappante :
+ 
+> « Nous avons fait de l’eau toute chose vivante. »
+> [Sourate Al-Anbiyā’, verset 30]
+ 
+L’eau est tellement présente dans notre quotidien qu’elle semble banale.
+ 
+Mais toute vie terrestre connue dépend profondément d’elle.
+ 
+Un verre d’eau peut donc devenir un rappel :
+ce qui paraît le plus ordinaire est parfois précisément l’une des conditions fondamentales de notre existence.
+ 
+Le Coran transforme une réalité quotidienne en signe.
+ 
+#  Le Soleil et la Lune : chacun se déplace sur une trajectoire
+ 
+Allah dit :
+ 
+> « C’est Lui qui a créé la nuit et le jour, le Soleil et la Lune ; chacun évolue dans une orbite. »
+> [Sourate Al-Anbiyā’, verset 33]
+ 
+La création n’est pas décrite comme immobile.
+
+Le Soleil.
+La Lune.
+La succession du jour et de la nuit.
+ 
+Tout participe à un ordre dynamique.
+ 
+L’homme se tient sur une planète en mouvement, au sein d’un univers dont les corps suivent des trajectoires, tout en vivant souvent comme si le petit espace immédiat autour de lui constituait toute la réalité.
+ 
+Le Coran élargit continuellement son regard.
+ 
+#  Aucun être humain n’a reçu l’immortalité
+ 
+Allah dit au Prophète ﷺ :
+ 
+> « Nous n’avons accordé l’immortalité à aucun être humain avant toi. Si donc tu meurs, eux seraient-ils éternels ? »
+> [Sourate Al-Anbiyā’, verset 34]
+ 
+Muhammad ﷺ mourra.
+Ses ennemis mourront.
+Ses amis mourront.
+Les rois meurent.
+Les pauvres meurent.
+ 
+Personne n’a signé d’exception à cette règle.
+ 
+Cela réduit énormément certaines peurs humaines : l’homme qui nous paraît aujourd’hui tellement puissant se trouve soumis à la même mortalité fondamentale que tous les autres.
+ 
+#  « Toute âme goûtera la mort »
+ 
+Puis vient :
+ 
+> « Toute âme goûtera la mort. Nous vous éprouvons par le mal et par le bien comme une épreuve, et c’est vers Nous que vous serez ramenés. »
+> [Sourate Al-Anbiyā’, verset 35]
+ 
+Deux vérités sont rapprochées.
+ 
+D’abord :
+la mort.
+ 
+Puis :
+le bien et le mal sont tous deux des épreuves.
+ 
+Nous comprenons facilement qu’une maladie ou une difficulté constitue un test.
+ 
+Mais la santé est elle aussi un test.
+
+L’argent.
+La réussite.
+Le pouvoir.
+La beauté.
+Le savoir.
+ 
+La question n’est donc pas uniquement :
+« Comment vais-je réagir lorsque Allah me retire quelque chose ? »
+ 
+Elle est aussi :
+« Comment vais-je réagir lorsqu’Il me donne ? »
+ 
+#  Le Prophète ﷺ est tourné en dérision
+ 
+Allah décrit les négateurs qui, en voyant Muhammad ﷺ, le prennent en dérision.
+ 
+> [Sourate Al-Anbiyā’, verset 36]
+ 
+La sourate qui va raconter tant de prophètes rappelle ainsi au Messager ﷺ que la moquerie appartient presque à l’histoire récurrente de la prophétie.
+ 
+Une vérité n’est pas réfutée parce qu’elle devient une plaisanterie dans la bouche de ceux qui la refusent.
+ 
+Le croyant doit être capable de distinguer :
+« les gens se moquent de cette idée »
+ 
+de :
+« cette idée est fausse. »
+ 
+Ce ne sont pas les mêmes affirmations.
+ 
+#  L’homme est pressé
+ 
+Allah dit :
+ 
+> « L’homme a été créé impatient. Je vous montrerai Mes signes ; ne cherchez donc pas à Me hâter. »
+> [Sourate Al-Anbiyā’, verset 37]
+ 
+L’impatience concerne aussi notre relation avec Allah.
+ 
+Nous voulons :
+-	la réponse maintenant ;
+-	le résultat maintenant ;
+-	la justice maintenant ;
+-	comprendre maintenant.
+ 
+Puis lorsque le temps d’Allah ne correspond pas au nôtre, nous risquons de penser qu’il ne se passe rien.
+ 
+Al-Anbiyā’ va justement raconter plusieurs prophètes dont les invocations ou les épreuves rappellent que le délai ne signifie pas l’abandon.
+ 
+#  Une balance d’une justice absolue
+ 
+Allah annonce pour le Jour de la Résurrection :
+ 
+> « Nous installerons les balances justes pour le Jour de la Résurrection. Aucune âme ne sera lésée en rien. Même s’il s’agit du poids d’un grain de moutarde, Nous le ferons venir. »
+> [Sourate Al-Anbiyā’, verset 47]
+ 
+Le détail du grain de moutarde est magnifique.
+ 
+Dans cette vie, beaucoup de choses passent inaperçues.
+ 
+Une petite injustice.
+Un petit service.
+Une parole.
+Une intention.
+Une aumône que personne n’a vue.
+ 
+Auprès d’Allah, rien n’est trop petit pour être connu.
+ 
+Cela doit à la fois rassurer celui dont le bien n’a jamais été reconnu et inquiéter celui qui pense qu’une injustice devient inexistante simplement parce que personne ne l’a découverte.
+ 
+#  Mūsā et Hārūn عليهما السلام
+ 
+Allah rappelle qu’Il donna à Mūsā et Hārūn Al-Furqān, une lumière et un rappel pour les pieux.
+ 
+> [Sourate Al-Anbiyā’, verset 48]
+ 
+Le Furqān est ce qui permet de distinguer.
+ 
+La Révélation n’est donc pas seulement une accumulation d’informations.
+ 
+Elle produit un critère permettant de séparer :
+-	vérité et faux ;
+-	licite et illicite ;
+-	guidance et égarement.
+ 
+Une époque peut rendre certaines frontières floues.
+ 
+La Révélation vient précisément redonner un axe extérieur aux changements de nos préférences.
+ 
+#  Ibrāhīm عليه السلام reçoit très tôt la droiture
+ 
+Allah dit :
+ 
+> « Nous avions auparavant accordé à Ibrāhīm sa droiture, et Nous le connaissions parfaitement. »
+> [Sourate Al-Anbiyā’, verset 51]
+ 
+Puis commence l’un des épisodes les plus puissants concernant son combat contre l’idolâtrie.
+ 
+Ibrāhīm regarde les statues adorées par son père et son peuple et demande :
+ 
+> « Que sont donc ces statues auxquelles vous restez attachés ? »
+> [Sourate Al-Anbiyā’, verset 52]
+ 
+Leur réponse est révélatrice :
+ 
+> « Nous avons trouvé nos pères les adorant. »
+> [Sourate Al-Anbiyā’, verset 53]
+ 
+#  « Nos parents faisaient ainsi » n’est pas une preuve
+ 
+La défense de leur religion repose essentiellement sur l’héritage.
+ 
+Nos parents le faisaient.
+Nos ancêtres le faisaient.
+Donc nous le faisons.
+ 
+Ibrāhīm répond qu’eux-mêmes et leurs pères étaient dans un égarement manifeste.
+ 
+> [Sourate Al-Anbiyā’, verset 54]
+ 
+La sourate ne méprise pas la famille ni la tradition en elles-mêmes.
+ 
+Mais elle établit une frontière :
+ une croyance ne devient pas vraie simplement parce qu’elle est ancienne.
+ 
+Une tradition mérite d’être respectée lorsqu’elle est bonne.
+ 
+Elle mérite d’être corrigée lorsqu’elle contredit la vérité.
+ 
+#  Ibrāhīm brise les idoles
+ 
+Ibrāhīm finit par mettre les statues en pièces, à l’exception de la plus grande.
+ 
+> [Sourate Al-Anbiyā’, verset 58]
+ 
+Lorsque le peuple découvre ce qui s’est passé, on se souvient qu’un jeune homme nommé Ibrāhīm parlait contre leurs divinités.
+ 
+Ils le font venir publiquement.
+ 
+Et lorsqu’ils lui demandent s’il est responsable, il leur répond en substance :
+ 
+> « C’est plutôt la plus grande d’entre elles qui l’a fait. Interrogez-les donc, si elles peuvent parler. »
+> [Sourate Al-Anbiyā’, verset 63]
+ 
+Le raisonnement les oblige à regarder l’absurdité de leur propre position.
+ 
+#  Ils reconnaissent un instant le problème
+ 
+Allah dit qu’ils reviennent alors à eux-mêmes et se disent :
+ 
+> « C’est vous qui êtes les injustes. »
+> [Sourate Al-Anbiyā’, verset 64]
+ 
+Pendant un instant, l’argument atteint sa cible.
+ 
+Ils savent que leurs statues ne parlent pas.
+ 
+Mais plutôt que de suivre cette prise de conscience jusqu’à sa conclusion, ils retombent dans leur position précédente.
+ 
+Voilà une réalité spirituelle importante :
+ 
+comprendre quelque chose pendant quelques secondes ne garantit pas que l’ego acceptera de vivre selon cette compréhension.
+ 
+#  « Adorez-vous donc ce qui ne peut ni vous profiter ni vous nuire ? »
+ 
+Ibrāhīm leur dit :
+ 
+> « Adorez-vous en dehors d’Allah ce qui ne peut ni vous être utile ni vous nuire ? Fi de vous et de ce que vous adorez en dehors d’Allah ! Ne raisonnez-vous donc pas ? »
+> [Sourate Al-Anbiyā’, versets 66-67]
+ 
+La question du Tawḥīd revient à la dépendance réelle.
+ 
+Ce qui ne contrôle même pas son propre sort ne mérite pas l’adoration.
+ 
+Les idoles sont là.
+ Elles viennent d’être brisées.
+ Elles ne peuvent même pas se défendre.
+ 
+Le paradoxe devient visible.
+ 
+#  « Brûlez-le ! »
+ 
+Incapables de répondre à l’argument, les hommes disent :
+ 
+> « Brûlez-le et secourez vos divinités, si vous voulez agir ! »
+> [Sourate Al-Anbiyā’, verset 68]
+ 
+Lorsque l’argument devient impossible à gagner, le pouvoir peut parfois chercher à remplacer la réponse par la violence.
+ 
+Mais Allah intervient :
+ 
+> « Ô feu ! Sois fraîcheur et paix pour Ibrāhīm. »
+> [Sourate Al-Anbiyā’, verset 69]
+ 
+Le feu possède normalement une propriété connue :
+il brûle.
+ 
+Mais le feu n’est pas indépendant d’Allah.
+ 
+Celui qui a créé ses propriétés peut parfaitement lui ordonner de ne pas produire son effet habituel sur Ibrāhīm.
+ 
+#  « Fraîcheur et paix »
+ 
+La formulation est particulièrement belle.
+ 
+Allah ne dit pas seulement :
+« Ne le brûle pas. »
+ 
+Il dit :
+ 
+> « Sois fraîcheur et paix. »
+> [Sourate Al-Anbiyā’, verset 69]
+ 
+Le lieu préparé comme instrument de torture devient un lieu de sécurité.
+ 
+Comme la grotte d’Al-Kahf.
+Comme le fleuve pour Mūsā.
+ 
+Les moyens ne possèdent aucun pouvoir absolu indépendamment d’Allah.
+ 
+Là où les hommes préparent une destruction, Allah peut créer une protection.
+ 
+#  Leur complot se retourne contre eux
+ 
+Allah dit :
+ 
+> « Ils voulurent lui tendre un piège, mais Nous fîmes d’eux les plus grands perdants. »
+> [Sourate Al-Anbiyā’, verset 70]
+ 
+Ibrāhīm paraît seul.
+ 
+Son peuple paraît puissant.
+ 
+Le feu est devant lui.
+ 
+Mais la scène ne se termine pas selon le rapport de force visible au commencement.
+ 
+C’est une leçon qui traverse toute la sourate :
+ 
+ne juge pas l’histoire avant sa fin.
+ 
+#  Ibrāhīm, Lūṭ, Isḥāq et Ya‘qūb
+ 
+Allah sauve ensuite Ibrāhīm ainsi que Lūṭ vers la terre qu’Il a bénie pour les mondes.
+ 
+Puis Il donne à Ibrāhīm Isḥāq et, en surcroît, Ya‘qūb, et fait d’eux des hommes vertueux.
+ 
+> [Sourate Al-Anbiyā’, versets 71-72]
+ 
+Ibrāhīm avait quitté un peuple idolâtre.
+ 
+Allah lui donne progressivement une immense descendance prophétique.
+ 
+Ce qui semblait être l’histoire d’un jeune homme isolé devant des statues devient l’origine de générations de prophètes.
+ 
+#  De véritables guides dirigent par l’ordre d’Allah
+ 
+Allah dit :
+ 
+> « Nous fîmes d’eux des guides qui guidaient par Notre ordre, et Nous leur révélâmes l’accomplissement du bien, l’établissement de la prière et l’acquittement de la zakāt. »
+> [Sourate Al-Anbiyā’, verset 73]
+ 
+Le leadership prophétique est ainsi défini par :
+-	la guidance ;
+-	les bonnes œuvres ;
+-	la prière ;
+-	le don ;
+-	l’adoration d’Allah.
+ 
+Être un guide ne signifie donc pas seulement être suivi.
+ 
+Pharaon aussi était suivi.
+ 
+Un véritable guide conduit vers Allah.
+ 
+#  Nūḥ عليه السلام : une invocation entendue longtemps après le début de son combat
+ 
+Allah rappelle ensuite Nūḥ :
+ 
+> « Et Nūḥ, lorsqu’il Nous appela auparavant : Nous lui répondîmes et le sauvâmes, lui et sa famille, de la grande détresse. »
+> [Sourate Al-Anbiyā’, verset 76]
+ 
+Le récit est extrêmement condensé.
+ 
+Mais derrière cette phrase se trouve un prophète dont le Coran décrit ailleurs des siècles d’appel patient.
+ 
+Puis ici :
+« Il Nous appela. Nous lui répondîmes. »
+ 
+Entre ces deux propositions peuvent se trouver des années immenses d’effort.
+ 
+Cela enseigne encore :
+une réponse d’Allah n’est pas invalidée par le temps qu’elle prend selon notre perception.
+ 
+#  Dāwūd et Sulaymān عليهما السلام : deux juges, une compréhension particulière
+ 
+Allah raconte ensuite un litige concernant un champ endommagé de nuit par les moutons d’un autre groupe.
+ 
+Dāwūd et Sulaymān rendent un jugement.
+ 
+Puis Allah dit :
+ 
+> « Nous fîmes comprendre l’affaire à Sulaymān, et à chacun Nous avions donné jugement et science. »
+> [Sourate Al-Anbiyā’, versets 78-79]
+ 
+La formulation est extrêmement équilibrée.
+ 
+Allah indique que Sulaymān reçoit ici une compréhension plus juste de cette affaire particulière.
+ 
+Mais Il ajoute immédiatement :
+« à chacun Nous avions donné jugement et science. »
+ 
+Le fait qu’une personne comprenne mieux une question précise ne signifie donc pas que l’autre devient soudain ignorante ou sans valeur.
+ 
+On peut être savant et néanmoins recevoir d’un autre une compréhension plus juste sur un point donné.
+ 
+#  Dāwūd et la glorification des montagnes et des oiseaux
+ 
+Allah dit également :
+ 
+> « Nous soumîmes avec Dāwūd les montagnes et les oiseaux qui glorifiaient Allah. »
+> [Sourate Al-Anbiyā’, verset 79]
+ 
+La création entière apparaît encore comme liée au dhikr.
+ 
+Le prophète glorifie.
+Les oiseaux glorifient.
+Les montagnes participent selon la manière qu’Allah leur a donnée.
+ 
+Ce qui semble silencieux à nos oreilles n’est pas nécessairement spirituellement silencieux auprès d’Allah.
+ 
+#  Une technologie donnée comme bienfait
+ 
+Allah dit ensuite qu’Il enseigna à Dāwūd la fabrication de protections destinées à préserver les hommes dans leurs combats.
+ 
+Puis Il demande :
+ 
+> « Serez-vous donc reconnaissants ? »
+> [Sourate Al-Anbiyā’, verset 80]
+ 
+La capacité technique est donc elle-même un bienfait d’Allah.
+ 
+La religion n’est pas opposée à la compétence, à l’artisanat ou à l’innovation utile.
+ 
+Mais la question revient toujours :
+que fais-tu de la capacité que tu as reçue ?
+ 
+La technique peut protéger.
+Elle peut aussi détruire.
+ 
+Sa valeur morale dépend en partie de l’usage humain qui en est fait.
+ 
+#  Sulaymān عليه السلام et les moyens extraordinaires
+ 
+Allah mentionne ensuite le vent soumis à Sulaymān, ainsi que des créatures qui plongeaient pour lui et accomplissaient d’autres travaux.
+ 
+> [Sourate Al-Anbiyā’, versets 81-82]
+ 
+Le pouvoir de Sulaymān est extraordinaire.
+ 
+Mais le Coran ne le présente jamais comme une magie indépendante ou comme une puissance intrinsèque appartenant au prophète.
+ 
+À chaque fois, la logique est :
+Allah a soumis.
+ 
+La capacité extraordinaire de Sulaymān est donc un don, pas une rivalité avec Allah.
+ 
+#  Ayyūb عليه السلام : une invocation sans accusation
+ 
+Puis vient l’un des passages les plus touchants :
+ 
+> « Et Ayyūb, lorsqu’il appela son Seigneur : “Le mal m’a touché, et Tu es le plus Miséricordieux des miséricordieux.” »
+> [Sourate Al-Anbiyā’, verset 83]
+ 
+Remarquez la manière dont Ayyūb invoque.
+ 
+Il ne nie pas son épreuve :
+« le mal m’a touché. »
+ 
+Mais il ne transforme pas sa douleur en accusation contre Allah.
+ 
+Il termine par :
+« Tu es le plus Miséricordieux des miséricordieux. »
+ 
+Il connaît donc simultanément sa souffrance et son Seigneur.
+ 
+#  Le Coran ne donne pas tous les détails de la maladie d’Ayyūb
+ 
+De nombreux récits populaires décrivent la maladie d’Ayyūb avec des détails très précis : durée, symptômes extrêmes, réactions de son entourage, etc.
+ 
+Une partie importante de ces détails vient de traditions exégétiques diverses et ne doit pas être présentée comme si le Coran les établissait explicitement.
+ 
+Ici, Allah dit simplement :
+
+> « Nous lui répondîmes, écartâmes le mal qui le touchait et lui rendîmes sa famille ainsi que l’équivalent avec eux, par miséricorde venant de Nous et comme rappel pour les adorateurs. »
+> [Sourate Al-Anbiyā’, verset 84]
+ 
+Le cœur du récit est donc :
+épreuve, invocation, patience, miséricorde et restauration.
+ 
+#  Ismā‘īl, Idrīs et Dhū al-Kifl : la patience
+ 
+Allah mentionne ensuite :
+ 
+> « Ismā‘īl, Idrīs et Dhū al-Kifl : tous étaient parmi les patients. Nous les fîmes entrer dans Notre miséricorde ; ils étaient vraiment parmi les vertueux. »
+> [Sourate Al-Anbiyā’, versets 85-86]
+ 
+Trois noms.
+ 
+Peu de détails.
+ 
+Mais une qualité est mise en avant :
+ṣabr — patience.
+ 
+Le Coran ne mesure pas seulement une vie par le nombre d’événements extraordinaires qui y sont racontés.
+ 
+Parfois une qualité suffit à résumer un immense rang spirituel.
+ 
+#  Yūnus عليه السلام dans les ténèbres
+ 
+Puis vient Dhū an-Nūn, « l’homme au poisson », c’est-à-dire Yūnus عليه السلام.
+ 
+Allah dit qu’il partit en colère. Les exégètes anciens expliquent notamment qu’il était irrité contre son peuple, et non qu’il aurait été en colère contre Allah.
+ 
+Le verset ajoute qu’il pensa qu’Allah ne le resserrerait / contraindrait pas. La formulation arabe lan naqdira ‘alayh ne signifie pas que Yūnus aurait pensé qu’Allah était incapable de le saisir : le sens porte ici sur le fait de le soumettre à une restriction ou une épreuve.
+ 
+Puis vient l’un des plus grands du‘ā’ du Coran.
+ 
+#  « Lā ilāha illā Anta, subḥānaka… »
+ 
+Dans les ténèbres, Yūnus appelle :
+ 
+> « Il n’y a aucune divinité digne d’adoration en dehors de Toi. Gloire à Toi ! J’ai vraiment été parmi les injustes. »
+> [Sourate Al-Anbiyā’, verset 87]
+ 
+En arabe :
+ Lā ilāha illā Anta, subḥānaka, innī kuntu minaẓ-ẓālimīn.
+ 
+Cette invocation contient presque toute la structure du retour vers Allah.
+ 
+Tawḥīd :
+Lā ilāha illā Anta.
+ 
+Glorification :
+Subḥānaka.
+ 
+Reconnaissance de sa faute :
+Innī kuntu minaẓ-ẓālimīn.
+ 
+Pas d’excuse compliquée.
+Pas de transfert de responsabilité.
+
+Allah est parfait.
+ 
+Le serviteur reconnaît son propre tort.
+ 
+#  « Ainsi sauvons-Nous les croyants »
+ 
+Allah répond :
+ 
+> « Nous lui répondîmes et le sauvâmes de son angoisse. C’est ainsi que Nous sauvons les croyants. »
+> [Sourate Al-Anbiyā’, verset 88]
+ 
+La phrase dépasse directement Yūnus.
+« C’est ainsi que Nous sauvons les croyants. »
+ 
+Et le Prophète ﷺ a précisément enseigné la valeur particulière de cette invocation. Dans un hadith jugé authentique, il dit que lorsqu’un musulman invoque Allah par l’invocation de Dhū an-Nūn pour une affaire, Allah lui répond. Le récit est rapporté par At-Tirmidhī 3505.
+ 
+Cela ne signifie évidemment pas que chaque demande prendra exactement la forme et le délai que nous avons imaginés.
+ 
+Mais cette du‘ā’ possède authentiquement une immense valeur dans l’invocation.
+ 
+#  Zakariyyā عليه السلام : « Ne me laisse pas seul »
+ 
+Allah raconte ensuite :
+ 
+> « Et Zakariyyā, lorsqu’il appela son Seigneur : “Seigneur ! Ne me laisse pas seul, alors que Tu es le meilleur des héritiers.” »
+> [Sourate Al-Anbiyā’, verset 89]
+ 
+Le même Zakariyyā dont Sourate Maryam racontait longuement l’invocation apparaît ici en quelques mots.
+ 
+Il désire un enfant.
+ 
+Mais même dans son désir, il se rappelle :
+« Tu es le meilleur des héritiers. »
+ 
+Autrement dit, son besoin ne lui fait jamais oublier qu’Allah reste au-dessus même du bienfait qu’il demande.
+ 
+#  Allah lui donne Yaḥyā et réforme son épouse
+ 
+Allah dit :
+ 
+> « Nous lui répondîmes, lui donnâmes Yaḥyā et rendîmes son épouse apte pour lui. »
+> [Sourate Al-Anbiyā’, verset 90]
+ 
+Puis Allah explique pourquoi ces serviteurs occupaient ce rang :
+ 
+> « Ils s’empressaient dans les bonnes œuvres, Nous invoquaient avec espoir et crainte et étaient humbles devant Nous. »
+> [Sourate Al-Anbiyā’, verset 90]
+ 
+Voilà presque un petit portrait de la vie spirituelle :
+-	se hâter vers le bien ;
+-	invoquer Allah avec espoir ;
+-	L’invoquer avec crainte ;
+-	rester humble.
+ 
+L’espérance seule pourrait produire l’insouciance.
+La crainte seule pourrait produire le désespoir.
+ 
+Le croyant avance entre les deux.
+ 
+#  Maryam et ‘Īsā عليهما السلام
+ 
+Allah mentionne ensuite Maryam :
+ 
+> « Et celle qui avait préservé sa chasteté : Nous insufflâmes en elle de Notre Esprit et fîmes d’elle et de son fils un signe pour les mondes. »
+> [Sourate Al-Anbiyā’, verset 91]
+ 
+Maryam et ‘Īsā forment ici un signe.
+ 
+Pas une preuve que ‘Īsā serait Dieu.
+ 
+Au contraire, la sourate entière vient d’expliquer que les êtres les plus honorés restent serviteurs d’Allah.
+ 
+La naissance miraculeuse démontre la capacité du Créateur à créer selon des modalités différentes de celles auxquelles nous sommes habitués.
+ 
+#  « Cette communauté qui est la vôtre est une seule communauté »
+ 
+Après tous ces prophètes, Allah dit :
+ 
+> « Cette communauté qui est la vôtre est une communauté unique, et Je suis votre Seigneur. Adorez-Moi donc. »
+> [Sourate Al-Anbiyā’, verset 92]
+ 
+Voilà pourquoi la sourate porte si bien son nom.
+ 
+Nūḥ.
+Ibrāhīm.
+Lūṭ.
+Mūsā.
+Hārūn.
+Dāwūd.
+Sulaymān.
+Ayyūb.
+Yūnus.
+Zakariyyā.
+Yaḥyā.
+‘Īsā.
+ 
+Leurs histoires sont différentes.
+Mais leur religion dans son fondement est une : adorer Allah seul.
+ 
+Les prophètes ne sont pas les fondateurs de divinités rivales.
+Ils appartiennent à une même chaîne de Révélation.
+ 
+#  Les hommes ont ensuite fragmenté leur religion
+ 
+Allah dit immédiatement :
+ 
+> « Mais ils ont fragmenté entre eux leur affaire ; tous reviendront vers Nous. »
+> [Sourate Al-Anbiyā’, verset 93]
+ 
+La Révélation est une.
+Mais les hommes peuvent fragmenter. Ajouter. Retirer. Se disputer. 
+Transformer progressivement l’héritage reçu.
+ 
+La sourate ne demande donc pas seulement :
+« Quel prophète suis-je en train de revendiquer ? »
+ 
+Elle demande :
+« Suis-je réellement fidèle au Seigneur vers lequel ce prophète appelait ? »
+ 
+#  Aucune bonne œuvre croyante n’est perdue
+ 
+Allah dit :
+ 
+> « Quiconque accomplit de bonnes œuvres tout en étant croyant ne verra pas son effort renié ; Nous l’inscrivons pour lui. »
+> [Sourate Al-Anbiyā’, verset 94]
+ 
+Quelle consolation.
+ 
+Une bonne œuvre peut ne produire aucun applaudissement.
+ 
+Personne ne la remarque.
+ 
+Elle peut même sembler n’avoir aucune conséquence visible.
+ 
+Allah dit :
+« Nous l’inscrivons. »
+ 
+La valeur d’une œuvre ne dépend donc pas de la quantité de reconnaissance humaine qu’elle reçoit.
+ 
+#  Ya’jūj et Ma’jūj et l’approche de la promesse
+ 
+Vers la fin, la sourate mentionne l’ouverture de Ya’jūj et Ma’jūj, qui se précipiteront de toute hauteur, puis l’approche de la promesse véritable.
+ 
+> [Sourate Al-Anbiyā’, versets 96-97]
+ 
+Le passage revient ainsi exactement au thème du début :
+le compte approche.
+ 
+Au premier verset, les hommes sont insouciants.
+ 
+Au verset 97, lorsque la promesse devient visible, leurs regards se figent et ils reconnaissent :
+« Malheur à nous ! Nous étions insouciants de cela. »
+ 
+La sourate forme presque une boucle.
+ 
+Au commencement :
+insouciance avant de voir.
+ 
+À la fin :
+regret après avoir vu.
+ 
+La foi consiste précisément à agir pendant qu’il est encore temps de choisir.
+ 
+#  Ceux qui ont été adorés sans l’avoir demandé ne sont pas condamnés avec leurs adorateurs
+ 
+Les versets 98 et suivants avertissent les polythéistes concernant les faux objets de leur adoration.
+ 
+Mais Allah précise ensuite :
+ 
+> « Ceux auxquels une belle promesse avait été précédemment faite de Notre part en seront éloignés. »
+> [Sourate Al-Anbiyā’, verset 101]
+ 
+Cette précision est importante.
+ 
+Des créatures vertueuses peuvent avoir été adorées par des hommes sans avoir jamais demandé cette adoration — comme des prophètes ou des anges.
+ 
+Elles ne deviennent évidemment pas coupables du shirk commis à leur sujet.
+ 
+Le Coran distingue toujours l’adorateur qui associe de la créature innocente que certains ont indûment divinisée.
+ 
+#  Les croyants n’entendront même pas le grondement de l’Enfer
+ 
+Allah dit au sujet de ceux qui ont reçu la belle promesse :
+ 
+> « Ils n’en entendront même pas le grondement et demeureront éternellement dans ce que leurs âmes désirent. La grande terreur ne les attristera pas et les anges les accueilleront : “Voici votre jour qui vous avait été promis.” »
+> [Sourate Al-Anbiyā’, versets 102-103]
+ 
+Après avoir commencé par des hommes effrayés devant l’approche du jugement, la sourate montre donc une autre manière de rencontrer ce jour :
+accueilli par les anges.
+ 
+Le même Jour.
+ 
+Mais une expérience radicalement différente selon la relation que l’on avait entretenue avec Allah avant son arrivée.
+ 
+#  Le ciel sera replié et la création recommencée
+ 
+Allah dit :
+ 
+> « Le jour où Nous replierons le ciel comme on replie le rouleau des écrits. De même que Nous avons commencé la première création, Nous la recommencerons. »
+> [Sourate Al-Anbiyā’, verset 104]
+ 
+Le raisonnement est simple :
+l’homme trouve la résurrection extraordinaire.
+ 
+Allah lui rappelle :
+tu as déjà été créé une première fois.
+ 
+Celui qui a commencé la création n’a aucune difficulté à la recommencer.
+ 
+C’est le même argument que nous avions rencontré dans Sourate Maryam.
+ 
+La première création devient preuve de la possibilité de la seconde.
+ 
+#  « Mes serviteurs vertueux hériteront de la terre »
+ 
+Allah dit :
+ 
+> « Nous avons certes écrit dans le Zabūr, après le Rappel, que la terre sera héritée par Mes serviteurs vertueux. »
+> [Sourate Al-Anbiyā’, verset 105]
+ 
+Les exégètes ont donné plusieurs nuances au terme « terre » ici : certains l’ont compris en lien avec l’héritage de la terre dans cette vie, d’autres avec la terre du Paradis, et certains ont retenu une portée englobant la bonne issue accordée aux serviteurs vertueux. Il vaut donc mieux éviter d’en faire une prédiction politique simple et unique.
+ 
+Le principe central est clair :
+la fin véritable n’appartient pas à l’injustice.
+ 
+Les tyrans peuvent dominer un moment.
+ 
+Les croyants peuvent paraître faibles un moment.
+ 
+Mais Allah rattache l’héritage ultime à la ṣalāḥ — la rectitude.
+ 
+#  « Nous ne t’avons envoyé qu’en miséricorde pour les mondes »
+ 
+Puis vient l’un des plus beaux versets décrivant la mission de Muhammad ﷺ :
+ 
+> « Nous ne t’avons envoyé qu’en miséricorde pour les mondes. »
+> [Sourate Al-Anbiyā’, verset 107]
+ 
+La mission prophétique n’est donc pas définie fondamentalement par la colère, l’humiliation ou le désir de condamner.
+ 
+Elle est :
+raḥmah — miséricorde.
+ 
+Cela ne signifie pas que le Prophète ﷺ n’avertit jamais ou que toute action est moralement équivalente.
+ 
+La miséricorde peut aussi avertir, corriger et poser des limites.
+ 
+Mais l’objectif de la Révélation est de sauver l’homme de ce qui le détruit, non de jouir de sa perte.
+ 
+Et cela est confirmé par un hadith authentique : lorsqu’on demanda au Prophète ﷺ d’invoquer la malédiction contre les polythéistes, il répondit :
+ 
+> « Je n’ai pas été envoyé pour maudire ; j’ai été envoyé comme miséricorde. »
+> [Sahih Muslim 2599]
+ 
+#  La miséricorde n’efface pas le Tawḥīd
+ 
+Le verset suivant dit immédiatement :
+ 
+> « Dis : il m’est seulement révélé que votre Dieu est un Dieu unique. Allez-vous donc vous soumettre ? »
+> [Sourate Al-Anbiyā’, verset 108]
+ 
+La miséricorde du Prophète ﷺ n’est donc jamais une religion sans vérité.
+ 
+Il est miséricorde en apportant le Tawḥīd.
+ 
+Il ne dit pas aux hommes que toutes leurs conceptions de Dieu sont automatiquement correctes.
+ 
+Il leur apporte quelque chose qui peut les sauver précisément parce qu’il les appelle :
+vers Allah seul.
+ 
+#  Le Prophète ﷺ ne connaît pas indépendamment la date du jugement
+ 
+Allah lui ordonne ensuite de dire qu’il ne sait pas si ce qui leur est promis est proche ou lointain.
+ 
+> [Sourate Al-Anbiyā’, versets 109-110]
+ 
+Encore une fois, le rang immense du Messager ﷺ n’abolit jamais la servitude.
+ 
+Il connaît de l’invisible ce qu’Allah lui révèle.
+ 
+Il ne devient pas indépendant dans la connaissance du futur.
+ 
+Le Tawḥīd est ainsi protégé jusque dans la manière d’honorer le meilleur des hommes.
+ 
+#  La sourate se termine par une demande de justice
+ 
+Le dernier verset dit :
+ 
+> « Seigneur ! Juge en toute vérité. Et notre Seigneur est le Tout Miséricordieux, Celui dont nous implorons le secours contre ce que vous affirmez. »
+> [Sourate Al-Anbiyā’, verset 112]
+ 
+La sourate avait commencé avec :
+« leur jugement s’est rapproché. »
+ 
+Elle se termine par :
+« Seigneur, juge en toute vérité. »
+ 
+Toute l’histoire entre les deux est donc placée devant la justice d’Allah.
+ 
+Les moqueries.
+Les mensonges.
+Les épreuves.
+Les invocations.
+Les tyrans.
+Les prophètes.
+ 
+Tout aboutit finalement devant Celui qui ne perd aucune information et ne lèse personne du poids d’un grain de moutarde.
+ 
+#  Une sourate où presque chaque prophète traverse une forme d’impossibilité
+ 
+Lorsque l’on prend du recul, quelque chose de magnifique apparaît.
+ 
+Ibrāhīm عليه السلام :
+jeté dans le feu.
+ 
+Allah transforme le feu en fraîcheur et paix.
+ 
+Nūḥ عليه السلام :
+appelle pendant très longtemps.
+ 
+Allah répond et le sauve.
+ 
+Ayyūb عليه السلام :
+touché par l’épreuve.
+ 
+Allah enlève le mal.
+ 
+Yūnus عليه السلام :
+dans les ténèbres.
+ 
+Allah entend son invocation.
+ 
+Zakariyyā عليه السلام :
+se retrouve sans enfant malgré son âge.
+ 
+Allah lui donne Yaḥyā.
+ 
+Maryam عليها السلام :
+conçoit sans père humain.
+ 
+Allah en fait un signe.
+ 
+Encore et encore, la sourate montre un serviteur arrivé à la limite de ses moyens visibles, puis le pouvoir d’Allah apparaître là où les causes humaines ne suffisent plus.
+ 
+Cela ne signifie pas que chaque difficulté sera résolue ici-bas exactement comme nous l’espérons.
+ 
+Mais cela détruit une idée :
+ « Si moi je ne vois aucune issue, alors aucune issue n’existe. »
+ 
+Notre vision n’est pas la mesure de ce qu’Allah peut faire.
+ 
+#  Une sourate sur les invocations exaucées
+ 
+Un autre motif remarquable est la répétition de cette expression :
+ 
+« Nous lui répondîmes. »
+ 
+Nūḥ appelle.
+Allah répond.
+ 
+Ayyūb appelle.
+Allah répond.
+ 
+Yūnus appelle.
+Allah répond.
+ 
+Zakariyyā appelle.
+Allah répond.
+ 
+Chaque situation est différente.
+ 
+Mais la réponse ramène vers un seul Seigneur.
+ 
+La sourate des Prophètes devient ainsi aussi une sourate des du‘ā’ des prophètes.
+ 
+Et elle montre plusieurs manières d’invoquer.
+ 
+Ayyūb :
+« Le mal m’a touché et Tu es le plus Miséricordieux. »
+ 
+Yūnus :
+« Il n’y a de Dieu que Toi, gloire à Toi, j’ai été parmi les injustes. »
+ 
+Zakariyyā :
+« Ne me laisse pas seul, et Tu es le meilleur des héritiers. »
+ 
+Différentes situations.
+ 
+Mais toutes commencent par connaître Celui à qui l’on parle.
+ 
+#  Les prophètes ne demandent pas tous la même chose, mais ils reviennent tous au même Seigneur
+ 
+C’est précisément ce qui donne son unité à Al-Anbiyā’.
+ 
+Un prophète demande un enfant.
+Un autre demande d’être délivré de la détresse.
+Un autre demande la guérison.
+Un autre appelle Allah depuis les ténèbres.
+Un autre confronte un tyran.
+Un autre affronte son propre peuple.
+Les problèmes sont différents.
+ 
+Le Seigneur ne change pas.
+ 
+La sourate enseigne donc à ne pas chercher une seule « méthode extérieure » applicable mécaniquement à toutes les situations.
+ 
+La constante est plus profonde :
+Tawḥīd, confiance, prière, patience, repentance, action et retour vers Allah.
+ 
+#  Une sourate contre l’orgueil
+ 
+L’orgueil apparaît également sous plusieurs formes.
+ 
+Les Quraysh refusent parce que le messager est humain.
+Les idolâtres d’Ibrāhīm préfèrent leur tradition à la raison.
+ 
+Les hommes attribuent à certaines créatures une divinité qu’elles ne possèdent pas.
+ 
+Et face à tout cela, les prophètes représentent la soumission.
+ 
+Ibrāhīm accepte d’être jeté au feu plutôt que d’adorer autre qu’Allah.
+ 
+Yūnus reconnaît :
+« j’ai été parmi les injustes. »
+ 
+Zakariyyā se présente dans le besoin.
+ 
+Ayyūb reconnaît sa douleur tout en louant la miséricorde d’Allah.
+ 
+La grandeur prophétique apparaît ainsi moins comme :
+« Je n’ai besoin de personne »
+ 
+que comme :
+« Je sais exactement de Qui je dépends. »
+ 
+#  Une sourate où les miracles ne remplacent jamais le Tawḥīd
+ 
+Le feu devient frais.
+Les montagnes glorifient avec Dāwūd.
+Le vent est soumis à Sulaymān.
+Ayyūb est délivré.
+Yūnus est sauvé.
+Zakariyyā reçoit Yaḥyā.
+‘Īsā naît miraculeusement.
+ 
+Mais aucun de ces miracles ne transforme jamais le prophète en Dieu.
+ 
+Au contraire, plus les miracles sont grands, plus le Coran rappelle que c’est Allah qui agit.
+ 
+Le miracle ne révèle pas la divinité du prophète.
+ 
+Il révèle la puissance du Seigneur qui l’a envoyé.
+ 
+#  Le message central de la sourate Al-Anbiyā’
+ 
+Al-Anbiyā’ commence par une humanité distraite :
+ 
+> « Le règlement de leurs comptes s’est rapproché tandis qu’ils s’en détournent dans leur insouciance. »
+> [Sourate Al-Anbiyā’, verset 1]
+ 
+Puis elle demande au lecteur de lever les yeux vers l’univers.
+ 
+Un seul ordre.
+Une seule création.
+Un seul Dieu.
+ 
+Elle rappelle ensuite que :
+ 
+> « Toute âme goûtera la mort. »
+> [Sourate Al-Anbiyā’, verset 35]
+ 
+Puis elle ouvre presque une galerie de prophètes.
+ 
+Et tous racontent finalement la même chose.
+ 
+L’être humain peut se retrouver :
+ 
+devant le feu,
+dans la maladie,
+dans les ténèbres,
+dans la vieillesse,
+face à un tyran,
+face à un peuple qui refuse d’écouter,
+ ou devant une situation qu’il ne comprend pas.
+ 
+Mais aucun de ces endroits n’est hors de portée d’Allah.
+ 
+Ibrāhīm apprend :
+le feu obéit à Allah.
+ 
+Ayyūb apprend :
+l’épreuve n’annule pas la miséricorde d’Allah.
+ 
+Yūnus apprend :
+aucune ténèbre n’empêche Allah d’entendre.
+ 
+Zakariyyā apprend :
+les causes biologiques ne limitent pas le Créateur des causes.
+ 
+Et Muhammad ﷺ apprend, à travers tous ceux qui l’ont précédé :
+tu appartiens à une histoire plus ancienne que les moqueries de Quraysh.
+ 
+Voilà pourquoi, après toutes ces histoires, Allah dit :
+ 
+> « Cette communauté qui est la vôtre est une communauté unique, et Je suis votre Seigneur. Adorez-Moi donc. »
+> [Sourate Al-Anbiyā’, verset 92]
+ 
+Tout converge vers cela.
+Une humanité.
+Une chaîne de prophètes.
+Un jugement.
+Un Seigneur.
+ 
+Et finalement un dernier Messager ﷺ dont Allah résume la mission par :
+ 
+> « Nous ne t’avons envoyé qu’en miséricorde pour les mondes. »
+> [Sourate Al-Anbiyā’, verset 107]
+ 
+Voilà peut-être l’essence d’Al-Anbiyā’ : regarder tous les prophètes, toutes leurs épreuves et toutes leurs invocations jusqu’à comprendre qu’ils ne racontent pas des religions différentes, mais une seule et même vérité répétée à travers l’histoire : lorsque tout change autour de toi, attache-toi à Celui qui ne change pas.
+
+
 [[/desc]]
 
 [[desc 22]]
