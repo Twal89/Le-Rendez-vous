@@ -50624,6 +50624,1629 @@ Voilà peut-être l’essence d’Al-Ḥajj : un jour toute l’humanité sera r
 
 [[desc 23]]
 
+La sourate Al-Mu’minūn (سورة المؤمنون), vingt-troisième sourate du Coran, est une sourate mecquoise de 118 versets. Son nom signifie « Les Croyants », en référence à son ouverture immédiatement célèbre : « Les croyants ont certes réussi ». Toute la première partie décrit ensuite ce qui caractérise concrètement ces croyants : leur prière, leur rapport aux paroles inutiles, leur chasteté, leur fidélité aux engagements et leur constance dans l’adoration.
+ 
+Al-Mu’minūn possède une construction particulièrement forte. Elle commence par la réussite des croyants, puis nous ramène à l’origine de l’être humain, à sa création, à sa mort et à sa résurrection. Elle traverse ensuite l’histoire des prophètes — notamment Nūḥ, Mūsā, Hārūn et ‘Īsā عليهم السلام — pour montrer que leur message fondamental est un. Puis elle revient vers l’homme qui refuse l’Au-delà, lui fait reconnaître qu’Allah est le Créateur et le Maître de toute chose, avant de le placer finalement devant la mort et le regret impossible :
+ 
+> « Seigneur, fais-moi revenir afin que je fasse le bien… »
+> [Sourate Al-Mu’minūn, versets 99-100]
+ 
+Et la réponse est : il n’y aura plus de retour.
+ 
+La sourate nous apprend ainsi ce qu’est véritablement le falāḥ, la réussite. Ce n’est pas simplement obtenir davantage dans cette vie. C’est construire dès maintenant un cœur, une prière et une conduite capables de nous accompagner jusque devant Allah.
+ 
+## « Les croyants ont certes réussi »
+ 
+La première phrase ne dit pas :
+ 
+peut-être réussiront-ils.
+ 
+Elle affirme :
+ 
+> « Les croyants ont certes réussi. »
+> [Sourate Al-Mu’minūn, verset 1]
+ 
+Le mot aflaḥa porte l’idée de réussite, de bonheur véritable, d’aboutissement.
+ 
+Mais Allah ne laisse pas le mot « croyant » comme une simple étiquette.
+ 
+Les versets suivants répondent immédiatement à la question :
+ 
+à quoi ressemble la foi lorsqu’elle commence réellement à transformer une personne ?
+ 
+Et la première qualité mentionnée concerne la ṣalāt.
+ 
+## La première qualité : le khushū‘ dans la prière
+ 
+Allah dit :
+ 
+> « Ceux qui sont humbles et recueillis dans leur prière. »
+> [Sourate Al-Mu’minūn, verset 2]
+ 
+Le khushū‘ désigne notamment l’humilité, le calme et la soumission intérieure devant Allah. Ibn ‘Abbās et plusieurs anciens exégètes l’ont expliqué par la crainte respectueuse et la tranquillité, tandis que d’autres ont particulièrement insisté sur le khushū‘ du cœur.
+ 
+La sourate aurait pu commencer la description du croyant par énormément de choses.
+ 
+Elle commence par :
+ 
+sa manière de se tenir devant Allah.
+ 
+Car la prière peut extérieurement être accomplie alors que le cœur voyage ailleurs.
+ 
+Le corps est tourné vers la qiblah.
+ 
+La langue récite.
+ 
+Mais l’esprit pense au travail, à un message, à une inquiétude ou à ce qu’il fera après le salām.
+ 
+Al-Mu’minūn rappelle que l’objectif n’est pas uniquement de faire la prière, mais de chercher progressivement à être présent dans la prière.
+ 
+## La réussite commence par la ṣalāt… et revient à la ṣalāt
+ 
+Il existe un détail magnifique dans les premiers versets.
+ 
+Au début :
+ 
+> « Ceux qui sont humbles dans leur prière. »
+> [Sourate Al-Mu’minūn, verset 2]
+ 
+Et à la fin de la liste :
+ 
+> « Ceux qui veillent sur leurs prières. »
+> [Sourate Al-Mu’minūn, verset 9]
+ 
+La ṣalāt ouvre et ferme la description.
+ 
+D’abord sa qualité intérieure : le khushū‘.
+ 
+Puis sa préservation dans le temps : ne pas la négliger, la perdre ou la traiter comme quelque chose de secondaire.
+ 
+La vie du croyant est ainsi presque placée entre deux dimensions de la prière : présence et constance.
+ 
+## Se détourner des futilités
+ 
+Allah décrit ensuite :
+ 
+> « Ceux qui se détournent des paroles et occupations futiles. »
+> [Sourate Al-Mu’minūn, verset 3]
+ 
+Le terme laghw est large : ce qui est vain, inutile, vide, sans bénéfice véritable, et peut selon les contextes englober des paroles blâmables.
+ 
+Il ne signifie évidemment pas que le croyant doit devenir incapable de rire, de se détendre ou de profiter d’une conversation légère.
+ 
+Le problème apparaît lorsque le futile prend tellement de place qu’il dévore ce qui est important.
+ 
+Une minute de distraction n’est pas une vie d’insouciance.
+ 
+Mais des journées entières peuvent disparaître dans :
+-	des disputes inutiles ;
+-	du contenu sans fin ;
+-	des conversations qui ne mènent nulle part ;
+-	le commentaire permanent de la vie des autres.
+ 
+Le croyant connaît la valeur de son temps.
+ 
+Il n’est pas obligé de répondre à tout ce qui réclame son attention.
+ 
+## Donner et purifier
+ 
+Allah mentionne ensuite ceux qui accomplissent la zakāt.
+ 
+> [Sourate Al-Mu’minūn, verset 4]
+ 
+La foi ne reste donc pas enfermée entre le cœur et Allah.
+ 
+Elle touche les biens que l’on possède.
+ 
+L’argent peut facilement donner à l’être humain l’impression :
+« c’est à moi parce que je l’ai gagné. »
+ 
+Le Coran reconnaît l’effort humain mais rappelle que la richesse reste un bienfait, une responsabilité et un test.
+ 
+Le croyant accepte donc qu’une partie de ce qu’il possède ait des droits qui dépassent sa seule consommation personnelle.
+ 
+## Préserver sa chasteté
+ 
+Allah poursuit :
+ 
+> « Ceux qui préservent leur chasteté, sauf avec leurs épouses ou celles que leur main droite possédait, car alors ils ne sont pas blâmables. Quant à ceux qui cherchent au-delà, ce sont eux les transgresseurs. »
+> [Sourate Al-Mu’minūn, versets 5-7]
+ 
+Dans le contexte historique de la Révélation, le texte mentionne également la réalité juridique de l’esclavage qui existait alors dans toutes les grandes sociétés de la région ; celle-ci appartient aujourd’hui à un cadre historique qui ne doit pas être détaché de ses règles juridiques propres.
+ 
+Le principe moral central reste particulièrement clair :
+ 
+le désir sexuel n’est ni nié ni considéré comme mauvais en lui-même, mais il possède des limites.
+ 
+L’Islam ne demande pas à l’être humain de prétendre qu’il n’a pas de désir.
+ 
+Il lui demande de ne pas faire de ce désir son propre législateur.
+ 
+La maîtrise de soi fait donc partie de la description du croyant qui réussit.
+ 
+## Les dépôts et les engagements
+ 
+Allah dit :
+ 
+> « Ceux qui veillent fidèlement sur les dépôts qui leur sont confiés et sur leurs engagements. »
+> [Sourate Al-Mu’minūn, verset 8]
+ 
+La foi apparaît ici dans quelque chose d’extrêmement concret :
+ 
+peut-on te faire confiance ?
+ 
+Une amānah peut être de l’argent.
+ 
+Un objet.
+Une responsabilité professionnelle.
+Une confidence.
+Une fonction.
+Une personne dont on doit prendre soin.
+ 
+Et l’engagement peut être un contrat, une promesse ou une responsabilité assumée.
+ 
+Il est donc possible de mesurer une partie de la qualité spirituelle d’une personne non seulement dans la mosquée, mais également dans ce qu’elle fait lorsque quelqu’un lui confie quelque chose.
+ 
+## Les héritiers d’Al-Firdaws
+ 
+Après cette liste, Allah conclut :
+ 
+> « Ce sont eux les héritiers, ceux qui hériteront Al-Firdaws ; ils y demeureront éternellement. »
+> [Sourate Al-Mu’minūn, versets 10-11]
+ 
+Le début disait :
+« les croyants ont réussi. »
+ 
+Nous savons maintenant où cette réussite aboutit :
+Al-Firdaws.
+ 
+Le succès coranique n’est donc pas mesuré uniquement à l’intérieur des quelques décennies de cette vie.
+ 
+Une situation qui ressemble extérieurement à un échec peut être une immense réussite auprès d’Allah.
+ 
+Et une réussite que le monde entier applaudit peut finalement être vide si elle éloigne de Lui.
+ 
+## De quoi l’homme a-t-il été créé ?
+ 
+Après avoir décrit le croyant qui réussit, Allah ramène brusquement l’être humain à son origine :
+ 
+> « Nous avons certes créé l’homme d’un extrait d’argile. »
+> [Sourate Al-Mu’minūn, verset 12]
+ 
+Les exégètes relient ici l’argile à la création originelle d’Ādam عليه السلام.
+ 
+Puis la sourate passe à la descendance humaine :
+ 
+> « Puis Nous en avons fait une goutte dans un réceptacle sûr. »
+> [Sourate Al-Mu’minūn, verset 13]
+ 
+L’homme qui peut devenir extrêmement orgueilleux est ainsi invité à regarder son commencement physique.
+ 
+Avant les diplômes.
+Avant l’argent.
+Avant le statut.
+Avant même son premier souffle.
+ 
+Il dépendait totalement d’un processus qu’il ne dirigeait pas.
+ 
+## Les étapes de la formation humaine
+ 
+Allah poursuit :
+ 
+> « Puis Nous avons fait de la goutte une adhérence, de l’adhérence une masse de chair, puis Nous avons formé de cette masse des os et revêtu les os de chair ; ensuite Nous l’avons fait devenir une autre création. Béni soit Allah, le meilleur des créateurs. »
+> [Sourate Al-Mu’minūn, verset 14]
+ 
+Le passage décrit, dans le langage coranique, une progression dans la formation de l’être humain.
+ 
+Il est légitime de contempler ces versets à la lumière de ce que l’on connaît aujourd’hui du développement embryonnaire.
+ 
+Mais il est préférable d’éviter de transformer chaque mot arabe en équivalence technique parfaitement rigide avec une catégorie scientifique moderne, puis de faire dépendre la vérité du verset de cette correspondance.
+ 
+Le message explicite du passage est déjà immense :
+l’être humain n’apparaît pas achevé en un instant.
+ 
+Allah le fait passer d’un état à un autre, jusqu’à cette « autre création » qu’est l’être humain constitué et vivant.
+ 
+Puis :
+« Béni soit Allah. »
+ 
+La contemplation de notre propre développement doit conduire vers le Créateur.
+ 
+## Puis, malgré cette merveille, nous mourons
+ 
+Après avoir décrit cette construction extraordinaire, Allah dit simplement :
+ 
+> « Puis, après cela, vous mourrez certainement. »
+> [Sourate Al-Mu’minūn, verset 15]
+ 
+Le contraste est brutal.
+ 
+Un corps se construit pendant des mois.
+Grandit pendant des années.
+Apprend.
+Aime.
+Travaille.
+Accumule des souvenirs.
+ 
+Puis :
+il meurt.
+ 
+Mais le récit ne s’arrête pas là.
+ 
+## « Puis vous serez ressuscités »
+ 
+Allah ajoute immédiatement :
+ 
+> « Puis, au Jour de la Résurrection, vous serez ressuscités. »
+> [Sourate Al-Mu’minūn, verset 16]
+ 
+La mort n’est donc pas le dernier chapitre de l’être humain.
+ 
+La même sourate qui vient de décrire sa première formation affirme sa seconde venue.
+ 
+Et le raisonnement est naturel :
+si Allah est Celui qui a produit l’existence à travers toutes ces étapes, pourquoi la recréation serait-elle impossible ?
+ 
+La première création devient déjà un argument pour la Résurrection.
+ 
+## Les sept voies au-dessus de nous
+ 
+Allah rappelle ensuite qu’Il a créé au-dessus des hommes sept voies, et qu’Il n’est pas inattentif à la création.
+ 
+> [Sourate Al-Mu’minūn, verset 17]
+ 
+Le monde humain peut sembler immense lorsque nous sommes absorbés par nos problèmes.
+ 
+Puis le Coran lève le regard vers les cieux.
+ 
+Notre vie se déroule à l’intérieur d’une création incomparablement plus vaste.
+ 
+Mais cette immensité ne signifie pas que l’individu deviendrait insignifiant pour Allah :
+« Nous ne sommes pas inattentifs à la création. »
+ 
+L’immensité du cosmos ne diminue pas la connaissance qu’Allah possède de chacun de Ses serviteurs.
+ 
+## L’eau descend avec mesure
+ 
+Allah dit :
+ 
+> « Nous avons fait descendre du ciel une eau selon une mesure déterminée, puis Nous l’avons maintenue dans la terre ; et Nous sommes parfaitement capables de la faire disparaître. »
+> [Sourate Al-Mu’minūn, verset 18]
+ 
+L’eau est encore une fois présentée comme un bienfait que l’homme ne possède pas absolument.
+ 
+Nous creusons.
+Nous pompons.
+Nous stockons.
+ 
+Mais nous n’avons pas créé le cycle de l’eau.
+ 
+Et Allah rappelle quelque chose que nous oublions facilement :
+ce qui paraît garanti pourrait ne pas l’être.
+ 
+La gratitude apparaît lorsque l’on cesse de confondre :
+« j’y ai accès aujourd’hui »
+ 
+avec :
+« cela m’appartient de manière absolue. »
+ 
+## Jardins, fruits et oliviers
+ 
+Grâce à cette eau, Allah fait pousser des jardins de palmiers et de vignes, de nombreux fruits, ainsi qu’un arbre poussant notamment au mont Sinaï et produisant de l’huile.
+ 
+> [Sourate Al-Mu’minūn, versets 19-20]
+ 
+La création devient une sorte de table ouverte devant l’homme.
+ 
+Eau.
+Fruits.
+Huile.
+Nourriture.
+ 
+Mais comme dans An-Naḥl, ces réalités matérielles sont transformées en signes spirituels.
+ 
+La nourriture n’est pas seulement quelque chose que l’on consomme.
+ 
+Elle peut être quelque chose que l’on reçoit consciemment.
+ 
+## Les animaux comme enseignement
+ 
+Allah dit :
+ 
+> « Il y a certes pour vous dans les bestiaux un enseignement : Nous vous abreuvons de ce qui se trouve dans leurs ventres, vous y trouvez de nombreux avantages et vous en mangez. 
+> [Sourate Al-Mu’minūn, verset 21]
+ 
+Puis Il rappelle que les animaux et les navires servent également au transport.
+ 
+> [Sourate Al-Mu’minūn, verset 22]
+ 
+Une grande partie de la vie humaine dépend ainsi de systèmes et de créatures que l’homme n’a pas conçus lui-même.
+ 
+Le progrès technique peut modifier les moyens.
+ 
+Mais il ne supprime pas la dépendance fondamentale envers la création qu’Allah a mise à disposition.
+ 
+## Nūḥ عليه السلام : « Adorez Allah »
+ 
+Commence alors la succession des messagers.
+ 
+Nūḥ dit à son peuple :
+ 
+> « Ô mon peuple ! Adorez Allah. Vous n’avez aucune divinité en dehors de Lui. Ne Le craindrez-vous donc pas ? »
+> [Sourate Al-Mu’minūn, verset 23]
+ 
+Voilà le message qui va traverser toute la sourate.
+ 
+Les prophètes ne viennent pas fonder chacun un dieu différent.
+ 
+Ils ramènent continuellement l’humanité vers le même Seigneur.
+ 
+Le contenu central de leur appel est remarquablement stable :
+Allah seul mérite l’adoration.
+ 
+## « Ce n’est qu’un homme comme vous »
+ 
+Les notables répondent :
+ 
+> « Ce n’est qu’un homme comme vous qui veut prendre le dessus sur vous. »
+> [Sourate Al-Mu’minūn, verset 24]
+ 
+Remarquez la manière dont le message religieux est requalifié.
+ 
+Nūḥ appelle au Tawḥīd.
+ 
+Ses adversaires disent en substance :
+« Il cherche le pouvoir. »
+ 
+Plutôt que de répondre à ce qu’il enseigne, on lui attribue une motivation cachée.
+ 
+C’est un mécanisme humain très ancien :
+ 
+si l’on ne veut pas affronter une idée, on peut essayer de discréditer l’intention de celui qui la porte.
+ 
+## Ils utilisent son humanité contre lui
+ 
+Le peuple dit encore que, si Allah avait réellement voulu envoyer quelque chose, Il aurait fait descendre des anges.
+ 
+Puis ils accusent Nūḥ de folie.
+ 
+> [Sourate Al-Mu’minūn, versets 24-25]
+ 
+Le même schéma reviendra avec Muhammad ﷺ.
+ 
+Un messager humain paraît trop ordinaire pour certains.
+ 
+Mais précisément, un messager humain peut :
+-	manger ;
+-	se marier ;
+-	travailler ;
+-	souffrir ;
+-	patienter ;
+-	obéir.
+ 
+Il montre ainsi comment un humain peut adorer Allah au milieu d’une vie humaine.
+ 
+## Nūḥ invoque lorsqu’il est rejeté
+ 
+Nūḥ dit :
+ 
+> « Seigneur ! Secours-moi puisqu’ils me traitent de menteur. »
+> [Sourate Al-Mu’minūn, verset 26]
+ 
+Allah lui ordonne alors de construire l’Arche sous Sa surveillance et selon Sa révélation.
+ 
+> [Sourate Al-Mu’minūn, verset 27]
+ 
+Là encore, le tawakkul ne signifie pas :
+attends sans agir.
+ 
+Le secours d’Allah arrive avec une construction à réaliser.
+ 
+Nūḥ doit travailler.
+Préparer.
+Obéir aux instructions.
+ 
+Puis remettre le résultat à Allah.
+ 
+## « Seigneur, fais-moi débarquer en un lieu béni »
+ 
+Après le salut, Allah enseigne cette invocation :
+ 
+> « Seigneur ! Fais-moi débarquer en un lieu béni. Tu es le meilleur de ceux qui accordent un lieu d’arrivée. »
+> [Sourate Al-Mu’minūn, verset 29]
+ 
+C’est une très belle du‘ā’ pour les transitions.
+ 
+Quitter une situation ne suffit pas toujours.
+ 
+Il faut encore demander :
+Seigneur, fais que l’endroit où j’arrive soit bon pour moi.
+ 
+Nous pouvons sortir d’un problème et entrer dans un autre.
+ 
+Nūḥ demande donc non seulement le salut, mais une arrivée bénie.
+ 
+## « Il y a là des signes et Nous mettons les hommes à l’épreuve »
+ 
+Allah conclut le récit de Nūḥ :
+ 
+> « Il y a certes là des signes, et Nous mettons réellement à l’épreuve. »
+> [Sourate Al-Mu’minūn, verset 30]
+ 
+La vie entière se déroule ainsi entre signes et épreuves.
+ 
+Voir un signe ne supprime pas le test.
+ 
+Il le rend parfois plus clair.
+ 
+Plus la guidance devient évidente, plus la manière dont nous y répondons devient significative.
+ 
+## Une autre génération apparaît
+ 
+Allah dit qu’Il fit surgir après eux une autre génération, puis envoya parmi elle un messager disant encore :
+ 
+> « Adorez Allah. Vous n’avez aucune divinité en dehors de Lui. »
+> [Sourate Al-Mu’minūn, versets 31-32]
+ 
+Le Coran ne nomme pas explicitement ici le peuple et le messager dans ce passage. Les exégètes ont proposé différentes identifications.
+ 
+Il est donc préférable de conserver la généralité voulue par le texte plutôt que d’imposer un nom avec certitude.
+ 
+Et cette généralité sert justement le message :
+ 
+les peuples changent.
+L’appel reste le même.
+ 
+## Le confort matériel peut devenir un argument contre la vérité
+ 
+Les notables de ce peuple sont décrits comme mécréants, niant l’Au-delà et ayant reçu une vie confortable.
+ 
+Ils disent :
+ 
+> « Ce n’est qu’un homme comme vous : il mange de ce que vous mangez et boit de ce que vous buvez. »
+> [Sourate Al-Mu’minūn, verset 33]
+ 
+Leur confort n’a pas simplement produit de la gratitude.
+ 
+Il a contribué à une forme de sentiment d’autosuffisance.
+ 
+La prospérité peut être une bénédiction.
+ 
+Mais elle devient dangereuse lorsqu’elle crée l’illusion :
+ 
+« Puisque ma vie fonctionne très bien ainsi, pourquoi aurais-je besoin d’une guidance qui me demande de changer ? »
+ 
+## Le refus de la Résurrection
+ 
+Ils s’étonnent également qu’après être morts, devenus terre et ossements, ils puissent être ramenés à la vie.
+ 
+> [Sourate Al-Mu’minūn, versets 35-37]
+ 
+Puis ils affirment :
+ 
+> « Il n’y a que notre vie présente : nous mourons et nous vivons, et nous ne serons pas ressuscités. »
+> [Sourate Al-Mu’minūn, verset 37]
+ 
+Voilà une autre conception complète de l’existence.
+ 
+Si aucune résurrection n’existe, cette vie devient tout ce qu’il y a.
+ 
+Les calculs changent.
+La justice définitive disparaît.
+Le sacrifice pour Allah devient incompréhensible.
+ 
+C’est pourquoi la croyance en l’Au-delà transforme profondément la manière dont une personne donne du sens à ses choix.
+ 
+## « Puis Nous envoyâmes Nos messagers successivement »
+ 
+Après la destruction de cette génération, Allah dit :
+ 
+> « Puis Nous envoyâmes Nos messagers successivement. Chaque fois qu’un messager venait à une communauté, elle le traitait de menteur. »
+> [Sourate Al-Mu’minūn, verset 44]
+ 
+La succession crée presque un rythme historique.
+ 
+Messager.
+Appel.
+Rejet.
+Conséquence.
+Puis un autre peuple.
+ 
+Le Coran demande aux Quraysh :
+pensez-vous réellement être le premier peuple à réagir ainsi ?
+ 
+Et il demande implicitement à toute génération suivante :
+qu’est-ce qui vous garantit que vous ne répétez pas les mêmes mécanismes sous une forme différente ?
+ 
+## Mūsā et Hārūn عليهما السلام face à Pharaon
+ 
+Allah rappelle ensuite :
+ 
+> « Puis Nous envoyâmes Mūsā et son frère Hārūn avec Nos signes et une preuve manifeste, à Pharaon et à ses notables. Mais ils s’enorgueillirent. »
+> [Sourate Al-Mu’minūn, versets 45-46]
+ 
+Le problème fondamental est encore :
+l’orgueil.
+ 
+Pharaon et ses notables disent :
+ 
+> « Croirions-nous en deux hommes comme nous alors que leur peuple nous est soumis ? »
+> [Sourate Al-Mu’minūn, verset 47]
+ 
+La domination politique devient ici un obstacle intellectuel et spirituel.
+ 
+Ils ne demandent pas uniquement :
+leur message est-il vrai ?
+ 
+Ils pensent :
+comment pourrions-nous suivre des hommes appartenant à un peuple sur lequel nous dominons ?
+ 
+Le statut social déforme leur capacité à reconnaître la vérité.
+ 
+## Le pouvoir ne garantit pas d’être du bon côté de l’histoire
+ 
+Pharaon possède :
+-	le pouvoir ;
+-	l’administration ;
+-	les notables ;
+-	les ressources.
+ 
+Mūsā et Hārūn semblent extérieurement beaucoup plus faibles.
+ 
+Pourtant le Coran résume :
+ 
+> « Ils les traitèrent de menteurs et furent parmi les détruits. »
+> [Sourate Al-Mu’minūn, verset 48]
+ 
+Encore une fois :
+ne confonds pas puissance immédiate et vérité.
+ 
+Une civilisation peut sembler impossible à ébranler.
+ 
+Puis devenir quelques lignes dans l’histoire.
+ 
+## Mūsā reçoit le Livre pour que son peuple soit guidé
+ 
+Allah dit :
+ 
+> « Nous avons certes donné le Livre à Mūsā afin qu’ils soient guidés. »
+> [Sourate Al-Mu’minūn, verset 49]
+
+La finalité revient :
+guidance.
+ 
+Les livres révélés ne sont pas envoyés pour devenir uniquement :
+-	des objets sacrés ;
+-	des symboles identitaires ;
+-	ou des textes récités sans transformation.
+ 
+Ils sont envoyés pour guider.
+ 
+La véritable question n’est donc pas seulement :
+« Est-ce que je respecte le Livre ? »
+ 
+Mais :
+« Est-ce qu’il oriente réellement ma vie ? »
+ 
+## Maryam et ‘Īsā عليهما السلام : « un signe »
+ 
+Allah dit ensuite :
+ 
+> « Nous avons fait du fils de Maryam et de sa mère un signe, et Nous leur avons donné refuge sur une hauteur stable disposant d’un lieu de repos et d’une source. »
+> [Sourate Al-Mu’minūn, verset 50]
+ 
+Le Coran présente ici Maryam et ‘Īsā ensemble comme un signe.
+ 
+Mais il ne précise pas explicitement dans ce verset la localisation exacte de cette hauteur et de cette source. Plusieurs lieux ont été proposés dans le tafsīr.
+ 
+Il vaut donc mieux ne pas transformer une identification traditionnelle en certitude coranique.
+ 
+L’essentiel reste :
+Allah les protège et fait de leur histoire un signe de Sa puissance.
+ 
+## Tous les messagers sont invités à manger du bon et à agir correctement
+ 
+Après cette longue succession, Allah dit :
+ 
+> « Ô Messagers ! Mangez de ce qui est bon et licite et accomplissez de bonnes œuvres. Je sais parfaitement ce que vous faites. »
+> [Sourate Al-Mu’minūn, verset 51]
+ 
+Le verset rassemble les messagers sous une même instruction.
+ 
+Ils sont prophètes.
+Mais ils mangent.
+Ils vivent humainement.
+Et même leur nourriture est reliée à leur relation avec Allah.
+ 
+Le spirituel et le matériel ne sont donc pas deux mondes complètement séparés.
+ 
+Ce que l’on consomme et ce que l’on accomplit appartiennent à une même vie de servitude envers Allah.
+ 
+## « Votre communauté est une communauté unique »
+ 
+Puis vient :
+ 
+> « Cette communauté qui est la vôtre est une communauté unique, et Je suis votre Seigneur. Craignez-Moi donc. »
+> [Sourate Al-Mu’minūn, verset 52]
+ 
+Le même message apparaissait dans Al-Anbiyā’.
+ 
+Les prophètes appartiennent à une seule chaîne fondamentale de Tawḥīd.
+ 
+Nūḥ n’adore pas un dieu différent de celui de Mūsā.
+Mūsā n’adore pas un dieu différent de celui de ‘Īsā.
+‘Īsā n’appelle pas vers un dieu différent de celui vers lequel Muhammad ﷺ appelle.
+ 
+Leurs législations peuvent comporter certaines différences.
+ 
+Mais le fondement est :
+un Seigneur, une soumission, un Tawḥīd.
+ 
+## Puis les hommes ont fragmenté leur religion
+ 
+Allah dit :
+ 
+> « Mais ils se sont divisés en groupes au sujet de leur religion, chaque faction se réjouissant de ce qu’elle possède. »
+> [Sourate Al-Mu’minūn, verset 53]
+ 
+La phrase est très fine.
+ 
+Le problème n’est pas seulement la division.
+ 
+C’est aussi :
+« chacun se réjouit de ce qu’il possède. »
+ 
+Une personne peut finir par aimer davantage :
+-	son groupe ;
+-	son étiquette ;
+-	son école ;
+-	son camp,
+ 
+que la vérité elle-même.
+ 
+À ce moment-là, elle ne demande plus :
+« Qu’est-ce qui plaît à Allah ? »
+ 
+Elle demande :
+« Comment puis-je prouver que mon groupe a toujours raison ? »
+ 
+La révélation est alors utilisée pour nourrir l’identité plutôt que pour la corriger lorsque cela devient nécessaire.
+ 
+## Richesse et enfants ne signifient pas nécessairement qu’Allah approuve
+ 
+Allah demande :
+ 
+> « Pensent-ils que les biens et les enfants que Nous leur accordons signifient que Nous Nous empressons de leur donner les bonnes choses ? Non ! Mais ils ne comprennent pas. »
+> [Sourate Al-Mu’minūn, versets 55-56]
+ 
+Voilà une correction extrêmement importante.
+ 
+Recevoir beaucoup n’est pas automatiquement une preuve :
+« Allah est satisfait de moi. »
+ 
+Et recevoir moins n’est pas automatiquement :
+« Allah m’a humilié. »
+ 
+La richesse est une donnée de l’épreuve.
+ 
+Elle n’est pas le bulletin spirituel d’une personne.
+ 
+On peut recevoir davantage comme faveur.
+ 
+Comme responsabilité.
+ 
+Comme test.
+ 
+Et parfois même comme délai.
+ 
+## Les croyants qui font le bien… mais ont encore peur
+ 
+Allah décrit ensuite ceux qui craignent respectueusement leur Seigneur, croient en Ses signes, ne Lui associent rien, puis :
+ 
+> « Ceux qui donnent ce qu’ils donnent tandis que leurs cœurs sont remplis de crainte parce qu’ils retourneront vers leur Seigneur. »
+> [Sourate Al-Mu’minūn, verset 60]
+ 
+‘Ā’ishah رضي الله عنها demanda au Prophète ﷺ qui étaient ces personnes.
+ 
+Elle se demanda s’il s’agissait de gens commettant de grands péchés comme le vol ou la consommation d’alcool puis ayant peur.
+ 
+Le Prophète ﷺ répondit que non : ce sont ceux qui jeûnent, prient et donnent en aumône tout en craignant que leurs œuvres ne soient pas acceptées. Le hadith est rapporté par At-Tirmidhī et jugé ḥasan.
+ 
+C’est une nuance magnifique.
+ 
+## Faire le bien sans devenir sûr de soi devant Allah
+ 
+Le croyant accomplit une bonne œuvre.
+ 
+Mais il ne dit pas immédiatement :
+« C’est bon, Allah me doit maintenant quelque chose. »
+ 
+Il se demande :
+ 
+Était-ce sincère ?
+Ai-je fait correctement ?
+Allah l’acceptera-t-Il ?
+ 
+Cette crainte n’est pas censée produire une obsession maladive ou désespérée.
+ 
+Elle protège plutôt contre l’autosatisfaction spirituelle.
+ 
+Le croyant espère beaucoup en Allah.
+ 
+Mais il ne commence jamais à se considérer comme quelqu’un qui aurait dépassé le besoin de Sa miséricorde.
+ 
+## Ce sont précisément eux qui se précipitent vers le bien
+ 
+Allah poursuit :
+ 
+> « Ceux-là se précipitent dans les bonnes œuvres et sont les premiers à les accomplir. »
+> [Sourate Al-Mu’minūn, verset 61]
+ 
+Voilà l’équilibre.
+ 
+La peur de ne pas être accepté ne les paralyse pas.
+ 
+Elle ne leur fait pas dire :
+« Puisque je ne sais pas si Allah acceptera, autant ne rien faire. »
+ 
+Au contraire :
+ils se dépêchent vers le bien.
+ 
+Humilité devant Allah.
+ 
+Mais énergie dans l’action.
+ 
+## Allah ne charge aucune âme au-delà de ce qu’elle peut supporter
+ 
+Allah dit :
+ 
+> « Nous ne chargeons aucune âme qu’à la mesure de sa capacité. »
+> [Sourate Al-Mu’minūn, verset 62]
+ 
+Le même principe apparaît sous différentes formulations dans le Coran.
+ 
+Allah connaît parfaitement la créature à laquelle Il donne Ses commandements.
+ 
+Cela ne signifie pas que toute obligation sera toujours facile ou agréable.
+ 
+Le croyant peut traverser des choses extrêmement difficiles.
+ 
+Mais Allah ne juge pas une personne comme si elle avait possédé une capacité qu’elle n’avait réellement pas.
+ 
+La justice divine tient compte de toute la réalité que nous-mêmes ne connaissons jamais complètement chez les autres.
+ 
+## Un registre qui parle avec vérité
+ 
+Le verset poursuit :
+ 
+> « Nous détenons un Livre qui parle avec vérité, et ils ne seront pas lésés. »
+> [Sourate Al-Mu’minūn, verset 62]
+ 
+Voilà l’autre côté.
+ 
+Allah ne demande pas l’impossible.
+ 
+Et Il ne perd aucune information sur ce qui a réellement été fait.
+ 
+Une personne ne sera pas jugée à partir :
+-	d’une rumeur ;
+-	d’une impression ;
+-	d’un dossier incomplet ;
+-	d’un témoignage erroné.
+ 
+Le jugement d’Allah possède ce qu’aucun tribunal humain ne possède :
+ 
+la connaissance absolument complète.
+ 
+## Le problème n’est pas toujours l’absence de preuve
+ 
+Allah dit ensuite que leurs cœurs sont plongés dans la confusion au sujet de cela et qu’ils ont d’autres œuvres qu’ils continueront d’accomplir.
+ 
+Puis Il leur demande :
+ 
+> « N’ont-ils donc pas médité la Parole ? Ou leur est-il venu quelque chose qui n’était jamais venu à leurs premiers ancêtres ? »
+> [Sourate Al-Mu’minūn, verset 68]
+ 
+Et :
+ 
+> « N’ont-ils pas reconnu leur Messager au point de le renier ? »
+> [Sourate Al-Mu’minūn, verset 69]
+ 
+Muhammad ﷺ n’était pas un inconnu soudainement apparu à La Mecque.
+ 
+Ils connaissaient son histoire parmi eux.
+ 
+Le problème ne pouvait donc pas simplement être :
+« nous ne savons rien de cet homme. »
+ 
+## « Ou disent-ils qu’il est fou ? »
+ 
+Allah demande :
+ 
+> « Ou disent-ils qu’il est atteint de folie ? Bien au contraire, il leur a apporté la vérité, mais la plupart d’entre eux détestent la vérité. »
+> [Sourate Al-Mu’minūn, verset 70]
+ 
+La phrase est sévère.
+ 
+Parfois, l’obstacle n’est pas que la vérité soit trop difficile à identifier.
+ 
+C’est qu’elle ne correspond pas à ce que l’on voulait qu’elle soit.
+ 
+Une vérité peut exiger :
+-	d’abandonner une habitude ;
+-	de reconnaître une faute ;
+-	de perdre un privilège ;
+-	de modifier une conception héritée.
+ 
+Alors le cœur peut commencer à chercher non pas :
+« Est-ce vrai ? »
+ 
+mais :
+« Comment puis-je éviter d’avoir à l’accepter ? »
+ 
+## Et si la vérité suivait nos passions ?
+ 
+Allah dit :
+ 
+> « Si la vérité suivait leurs passions, les cieux, la terre et tous ceux qui s’y trouvent seraient certainement corrompus. »
+> [Sourate Al-Mu’minūn, verset 71]
+ 
+C’est une phrase immense.
+ 
+La vérité n’est pas créée par nos désirs.
+ 
+Le fait de vouloir profondément qu’une chose soit juste ne la rend pas juste.
+Le fait de détester une obligation ne la rend pas fausse.
+ 
+Le Coran vient justement introduire un critère qui ne change pas continuellement avec nos envies.
+ 
+Si chaque désir humain devenait automatiquement vérité, il n’existerait plus de vérité commune.
+ 
+Il n’existerait que des volontés concurrentes.
+ 
+## Le Prophète ﷺ ne leur demande pas d’argent
+ 
+Allah demande ensuite :
+ 
+> « Leur demandes-tu une rémunération ? Mais la rémunération de ton Seigneur est meilleure, et Il est le meilleur des pourvoyeurs. »
+> [Sourate Al-Mu’minūn, verset 72]
+ 
+Muhammad ﷺ n’appelle donc pas son peuple parce qu’il chercherait à construire une activité lucrative autour de la Révélation.
+ 
+Il transmet une mission confiée par Allah.
+ 
+Et Allah poursuit :
+ 
+> « Tu les appelles certainement vers un chemin droit. »
+> [Sourate Al-Mu’minūn, verset 73]
+ 
+## Refuser l’Au-delà finit par déformer le chemin
+ 
+Allah dit :
+ 
+> « Ceux qui ne croient pas à l’Au-delà s’écartent vraiment du chemin. »
+> [Sourate Al-Mu’minūn, verset 74]
+ 
+L’Au-delà modifie profondément la géométrie morale d’une vie.
+ 
+Si tout se termine à la mort, alors certaines décisions peuvent paraître absurdes :
+-	rendre un bien volé alors que personne ne le découvrira ;
+-	pardonner lorsque la vengeance serait avantageuse ;
+-	refuser de l’argent illicite ;
+-	sacrifier un intérêt personnel pour une vérité.
+ 
+Mais si Allah voit et si la vie continue après la mort, le calcul change complètement.
+ 
+## Certains ne reviennent vers Allah qu’au moment de la détresse
+ 
+Allah explique que même s’Il leur faisait miséricorde et retirait leur souffrance, certains persisteraient dans leur transgression.
+ 
+> [Sourate Al-Mu’minūn, verset 75]
+ 
+Puis :
+ 
+> « Nous les avons certes saisis par le châtiment, mais ils ne se sont pas soumis à leur Seigneur et ne L’ont pas imploré humblement. »
+> [Sourate Al-Mu’minūn, verset 76]
+ 
+L’épreuve ne garantit donc pas automatiquement une transformation spirituelle.
+ 
+Deux personnes peuvent vivre la même difficulté.
+ 
+L’une devient plus humble.
+L’autre plus dure.
+ 
+Ce n’est pas l’événement seul qui détermine ce qu’il produit.
+ 
+Il rencontre un cœur.
+ 
+## L’ouïe, la vue et le cœur : trois bienfaits rarement remerciés
+ 
+Allah dit :
+ 
+> « C’est Lui qui a créé pour vous l’ouïe, les yeux et les cœurs. Mais vous êtes bien peu reconnaissants. »
+> [Sourate Al-Mu’minūn, verset 78]
+ 
+Pouvoir entendre.
+Voir.
+Réfléchir.
+ 
+Ces réalités nous paraissent tellement naturelles que nous oublions qu’elles auraient parfaitement pu ne pas nous être données.
+ 
+Et ces facultés ont une finalité :
+elles doivent permettre de reconnaître les signes.
+ 
+Le problème n’est donc pas uniquement de posséder des yeux.
+ 
+Il est :
+qu’est-ce que je regarde avec eux ?
+ 
+Pas uniquement posséder une intelligence.
+ 
+Mais :
+qu’est-ce que cette intelligence me conduit à reconnaître ?
+ 
+## Allah donne la vie et la mort
+ 
+Allah dit :
+ 
+> « C’est Lui qui donne la vie et donne la mort, et c’est à Lui qu’appartient l’alternance de la nuit et du jour. Ne raisonnerez-vous donc pas ? »
+> [Sourate Al-Mu’minūn, verset 80]
+ 
+Vie.
+Mort.
+Nuit.
+Jour.
+ 
+La sourate place côte à côte les grands cycles que l’homme traverse sans les contrôler.
+ 
+Nous pouvons parfois choisir l’heure à laquelle nous allons dormir.
+ 
+Nous ne choisissons pas que la nuit existe.
+ 
+Nous pouvons prendre soin de notre santé.
+ 
+Nous ne possédons pas la vie elle-même.
+ 
+## « Qui possède la terre et ceux qui s’y trouvent ? »
+ 
+À partir du verset 84, Allah conduit les polythéistes dans une série de questions.
+ 
+« À qui appartiennent la terre et ceux qui s’y trouvent, si vous savez ? »
+ 
+Ils répondent :
+« À Allah. »
+
+> [Sourate Al-Mu’minūn, versets 84-85]
+ 
+Puis :
+« Qui est le Seigneur des sept cieux et le Seigneur du Trône immense ? »
+ 
+Ils répondent encore :
+« Allah. »
+ 
+> [Sourate Al-Mu’minūn, versets 86-87]
+ 
+Puis :
+« Dans la main de qui se trouve la souveraineté de toute chose, qui protège et contre qui nul ne peut être protégé ? »
+ 
+Encore :
+Allah.
+ 
+> [Sourate Al-Mu’minūn, versets 88-89]
+ 
+## Leur problème n’était donc pas simplement de nier qu’Allah existe
+ 
+Ces versets sont fondamentaux pour comprendre le shirk des Quraysh.
+ 
+Ils pouvaient reconnaître :
+-	qu’Allah possède la terre ;
+-	qu’Il est Seigneur des cieux ;
+-	qu’Il possède la souveraineté ultime.
+ 
+Et malgré cela, ils associaient à Son adoration.
+ 
+Le Tawḥīd coranique ne consiste donc pas uniquement à dire :
+« Je crois qu’un Créateur existe. »
+ 
+La question suivante est :
+« Puisqu’Il est le Créateur et le Maître de tout, pourquoi adorer, invoquer comme divinité ou attribuer un culte à autre que Lui ? »
+ 
+Le Coran conduit leur propre croyance en Allah jusqu’à sa conséquence logique.
+ 
+## Un seul ordre dans l’univers parce qu’il n’existe qu’un seul Dieu
+ 
+Allah dit :
+ 
+> « Allah ne S’est attribué aucun enfant et il n’existe aucune divinité avec Lui. Sinon chaque divinité s’en irait avec ce qu’elle aurait créé et certaines chercheraient à dominer les autres. Gloire à Allah au-dessus de ce qu’ils Lui attribuent. »
+> [Sourate Al-Mu’minūn, verset 91]
+ 
+Le verset présente un argument de cohérence : une multiplicité de dieux indépendants possédant chacun une souveraineté absolue conduirait à des domaines concurrents et à une lutte de domination, et non à l’unité d’autorité que manifeste la création.
+ 
+Allah n’est donc pas le plus grand membre d’une famille de divinités.
+ 
+Il est l’unique Dieu.
+ 
+## Connaisseur de l’invisible et du visible
+ 
+Allah poursuit :
+ 
+> « Connaisseur de l’invisible et du visible, Il est bien au-dessus de ce qu’ils Lui associent. »
+> [Sourate Al-Mu’minūn, verset 92]
+ 
+Nous vivons essentiellement dans le visible.
+ 
+Nous jugeons à partir de :
+-	ce que nous savons ;
+-	ce que nous observons ;
+-	ce que l’on nous raconte.
+ 
+Allah connaît aussi ce qui nous est totalement inaccessible.
+ 
+Le passé complet.
+Le futur.
+Les intentions.
+Les conséquences.
+L’invisible.
+ 
+Cela donne au tawakkul sa logique :
+je remets mon affaire à Celui qui possède des informations que je ne posséderai jamais entièrement.
+ 
+## Une invocation pour ne pas être parmi les injustes
+ 
+Allah enseigne au Prophète ﷺ :
+ 
+> « Seigneur ! Si Tu me montres ce qui leur est promis, alors Seigneur, ne me place pas parmi les gens injustes. »
+> [Sourate Al-Mu’minūn, versets 93-94]
+ 
+Même le Messager ﷺ est invité à demander la protection d’Allah.
+ 
+Le croyant ne devrait donc jamais développer cette attitude :
+« Le danger spirituel concerne toujours les autres. »
+ 
+Il voit une faute.
+Il la condamne.
+ 
+Mais il demande aussi :
+« Seigneur, protège-moi moi-même. »
+ 
+## Repousser le mal par ce qui est meilleur
+ 
+Allah dit :
+ 
+> « Repousse le mal par ce qui est meilleur. Nous savons parfaitement ce qu’ils décrivent. »
+> [Sourate Al-Mu’minūn, verset 96]
+ 
+Cela ne signifie pas qu’aucune justice ni aucune limite ne serait jamais permise.
+ 
+Le principe concerne ici particulièrement la manière de répondre aux paroles et comportements mauvais dans le contexte mecquois.
+ 
+Le croyant ne laisse pas toujours l’autre choisir la qualité morale de sa propre réponse.
+ 
+Quelqu’un parle mal.
+Il n’est pas obligé de parler mal à son tour.
+ 
+Quelqu’un se comporte avec bassesse.
+Il peut refuser de descendre au même niveau.
+ 
+Parfois la victoire morale consiste précisément à ne pas devenir ce que l’on condamne.
+ 
+## Chercher refuge contre les suggestions des démons
+ 
+Allah enseigne ensuite :
+ 
+> « Dis : Seigneur ! Je cherche refuge auprès de Toi contre les suggestions des démons, et je cherche refuge auprès de Toi, Seigneur, contre leur présence auprès de moi. »
+> [Sourate Al-Mu’minūn, versets 97-98]
+ 
+Une autre magnifique du‘ā’.
+ 
+Le croyant ne surestime pas sa propre force psychologique ou spirituelle.
+ 
+Il ne dit pas :
+« Je connais suffisamment Satan ; il ne peut rien me faire. »
+ 
+Il cherche refuge auprès d’Allah.
+ 
+Connaître le danger ne dispense pas de demander la protection.
+ 
+## Lorsque la mort arrive : « Faites-moi revenir »
+ 
+Puis la sourate arrive à une scène terrible :
+ 
+> « Jusqu’à ce que, lorsque la mort vient à l’un d’eux, il dise : “Seigneur ! Faites-moi revenir.” »
+> [Sourate Al-Mu’minūn, verset 99]
+ 
+Pourquoi veut-il revenir ?
+
+Pas pour acheter une plus grande maison. 
+Pas pour terminer un voyage.
+Pas pour obtenir davantage de célébrité.
+ 
+Il dit :
+ 
+> « Afin que j’accomplisse une bonne œuvre dans ce que j’ai laissé. »
+> [Sourate Al-Mu’minūn, verset 100]
+ 
+Au moment où le monde s’éloigne, la hiérarchie des priorités change brutalement.
+ 
+Ce qui paraissait urgent devient secondaire.
+ 
+Et ce qui était continuellement repoussé devient soudain la seule chose que l’on souhaiterait encore faire.
+ 
+## Mais le retour n’aura pas lieu
+ 
+Allah répond :
+ 
+> « Non ! Ce n’est qu’une parole qu’il prononce. »
+> [Sourate Al-Mu’minūn, verset 100]
+ 
+Aujourd’hui :
+il peut agir.
+ 
+Après la mort :
+il peut regretter.
+ 
+Ce ne sont pas la même chose.
+ 
+Le verset transforme donc notre présent en quelque chose de très précieux :
+nous sommes actuellement dans le temps où le retour est encore possible.
+ 
+Tant que la mort n’est pas venue, la porte de l’action existe encore.
+ 
+## Le Barzakh jusqu’à la Résurrection
+ 
+Le verset continue :
+ 
+> « Derrière eux se trouve un barzakh jusqu’au jour où ils seront ressuscités. »
+> [Sourate Al-Mu’minūn, verset 100]
+ 
+Le barzakh désigne ici la barrière ou l’état intermédiaire séparant la mort de la Résurrection. Les exégètes anciens l’expliquent comme ce qui se trouve entre cette vie et l’Au-delà final, jusqu’au Jour où les morts seront relevés.
+ 
+L’Islam ne décrit donc pas la mort comme le néant absolu.
+ 
+Elle marque le passage vers une autre étape de l’existence.
+ 
+Mais elle ferme la période normale des œuvres volontaires de cette vie.
+ 
+Voilà pourquoi le mort demande précisément à revenir.
+ 
+## Le Jour où les liens terrestres ne pourront plus nous protéger
+ 
+Allah dit :
+ 
+> « Lorsque l’on soufflera dans la Trompe, il n’y aura plus entre eux de liens de parenté qui puissent leur profiter ce jour-là, et ils ne s’interrogeront pas entre eux. »
+> [Sourate Al-Mu’minūn, verset 101]
+ 
+Cela ne signifie pas nécessairement qu’aucun être humain ne reconnaîtra jamais aucun proche dans toutes les scènes du Jour dernier ; d’autres versets décrivent différentes rencontres et réactions.
+ 
+Le point ici est que la généalogie ne sauve pas.
+ 
+Être :
+-	fils d’un homme pieux ;
+-	frère d’une personne vertueuse ;
+-	descendant d’une famille respectée,
+ 
+ne remplace pas sa propre relation avec Allah.
+ 
+Au moment décisif, le nom de famille ne pèse pas à la place des œuvres et de la miséricorde d’Allah.
+ 
+## Les balances
+ 
+Allah dit :
+ 
+> « Ceux dont les balances seront lourdes seront les gagnants. Quant à ceux dont les balances seront légères, ce sont ceux qui auront perdu leurs propres âmes. »
+> [Sourate Al-Mu’minūn, versets 102-103]
+ 
+Remarquez le retour du thème de la réussite.
+ 
+Au premier verset : 
+« les croyants ont réussi. »
+ 
+Ici, à la fin de l’histoire humaine :
+ceux dont la balance est lourde sont les réussis.
+ 
+Le Coran définit ainsi la réussite depuis le début jusqu’à la fin.
+ 
+Pas seulement par ce que l’homme accumule.
+ 
+Mais par ce qui possède du poids auprès d’Allah.
+ 
+## Ceux qui se moquaient des croyants
+ 
+Dans le dialogue avec les gens du Feu, Allah leur rappelle :
+ 
+> « Il y avait parmi Mes serviteurs un groupe qui disait : “Seigneur ! Nous croyons. Pardonne-nous et fais-nous miséricorde, car Tu es le meilleur des miséricordieux.” Mais vous les preniez en moquerie au point que cela vous faisait oublier Mon rappel. »
+> [Sourate Al-Mu’minūn, versets 109-110]
+ 
+La phrase est extraordinairement fine :
+se moquer des croyants les a occupés au point de leur faire oublier Allah.
+ 
+Ils regardaient tellement les autres qu’ils ont oublié leur propre état.
+ 
+C’est une maladie qui peut exister sous différentes formes.
+ 
+Passer sa vie à observer, commenter et ridiculiser le rapport des autres à Allah peut devenir une nouvelle manière de ne jamais s’interroger sur le sien.
+ 
+## Allah récompense leur patience
+ 
+Allah dit :
+ 
+> « Aujourd’hui, Je les récompense pour leur patience : ce sont eux les gagnants. »
+ 
+> [Sourate Al-Mu’minūn, verset 111]
+ 
+Encore :
+les gagnants.
+ 
+Pendant leur vie, ils pouvaient sembler ridicules aux yeux de leurs adversaires.
+ 
+Ils étaient moqués.
+ 
+Mais l’Au-delà renverse complètement l’échelle de jugement.
+ 
+Ceux dont on riait sont déclarés gagnants par Allah.
+ 
+Le croyant apprend donc à ne pas baser toute son identité sur le verdict immédiat des gens autour de lui.
+ 
+## « Combien d’années êtes-vous restés sur terre ? »
+ 
+Allah demandera :
+« Combien d’années êtes-vous restés sur terre ? »
+ 
+Ils répondront :
+ 
+« Nous y sommes restés un jour ou une partie d’un jour. »
+> [Sourate Al-Mu’minūn, versets 112-113]
+ 
+Une vie qui semblait interminable paraît soudain extrêmement courte lorsqu’elle est comparée à l’Au-delà.
+ 
+Soixante ans.
+Quatre-vingts ans.
+Cent ans.
+ 
+Depuis l’intérieur de la vie, cela semble énorme.
+Depuis l’éternité, presque rien.
+ 
+La perspective change la valeur du temps.
+ 
+## « Si seulement vous aviez su »
+ 
+Allah dit :
+ 
+> « Vous n’y êtes restés que peu de temps, si seulement vous aviez su. »
+> [Sourate Al-Mu’minūn, verset 114]
+ 
+Cela ne signifie pas que la vie présente n’a aucune importance.
+ 
+Au contraire.
+ 
+Elle est courte mais décisive.
+ 
+Quelques décennies déterminent une destination dont la durée dépasse toute comparaison.
+ 
+La petitesse de la vie ne la rend donc pas inutile.
+ 
+Elle la rend urgente.
+ 
+## « Pensiez-vous que Nous vous avions créés sans but ? »
+ 
+Puis arrive l’un des versets les plus puissants de toute la sourate :
+ 
+> « Pensiez-vous que Nous vous avions créés sans but et que vous ne seriez pas ramenés vers Nous ? »
+> [Sourate Al-Mu’minūn, verset 115]
+ 
+Le mot traduit par « sans but » porte l’idée de futilité, jeu, absence de finalité.
+ 
+Le verset touche directement la question :
+pourquoi suis-je là ?
+ 
+Le Coran répond d’abord négativement :
+tu n’es pas ici pour rien.
+ 
+Ta vie n’est pas une séquence biologique accidentelle qui commence, consomme quelques ressources puis disparaît sans aucune destination.
+ 
+Tu as été créé.
+ 
+Et tu seras ramené vers Celui qui t’a créé.
+ 
+## La finalité de la vie change la manière de vivre chaque journée
+ 
+Si nous avons été créés sans but, alors une grande partie de nos choix n’a qu’une valeur temporaire.
+ 
+Mais si nous revenons vers Allah, alors :
+-	une prière possède un sens ;
+-	un sacrifice possède un sens ;
+-	un interdit possède un sens ;
+-	une injustice secrète possède une conséquence ;
+-	une bonne œuvre secrète possède une valeur.
+ 
+La croyance en Allah et en l’Au-delà transforme ainsi les actes les plus ordinaires de la journée.
+ 
+Même ce que personne ne voit devient important.
+ 
+Parce que quelqu’un le voit.
+ 
+## « Exalté soit Allah, le Roi véritable »
+ 
+Allah poursuit :
+ 
+> « Exalté soit Allah, le Roi véritable. Il n’existe aucune divinité en dehors de Lui, Seigneur du Trône sublime. »
+> [Sourate Al-Mu’minūn, verset 116]
+ 
+Après avoir demandé :
+« Pensiez-vous avoir été créés sans but ? »
+ 
+Allah rappelle immédiatement qui dirige réellement cette existence.
+ 
+## Al-Malik al-Ḥaqq — le Roi véritable.
+ 
+Les rois terrestres possèdent temporairement.
+ 
+Ils reçoivent une terre qu’ils n’ont pas créée.
+Dirigent des hommes qu’ils n’ont pas créés.
+Puis quittent eux-mêmes leur royaume.
+ 
+Allah est le Roi qui ne reçoit Son royaume de personne et ne le perd jamais.
+ 
+## Invoquer une autre divinité sans aucune preuve
+ 
+Allah dit ensuite :
+ 
+> « Quiconque invoque avec Allah une autre divinité sans disposer d’aucune preuve à son sujet devra en rendre compte auprès de son Seigneur. »
+> [Sourate Al-Mu’minūn, verset 117]
+ 
+La formule « sans aucune preuve » est remarquable.
+ 
+Le shirk n’est pas seulement condamné comme émotion religieuse mal dirigée.
+ 
+Il est également présenté comme une prétention sans fondement.
+ 
+Quelle preuve existe-t-il qu’une autre créature possède la divinité ?
+Qu’elle mérite l’adoration ?
+Qu’elle partage la souveraineté absolue d’Allah ?
+ 
+Le Tawḥīd est aussi une exigence de cohérence intellectuelle.
+ 
+## La dernière parole de la sourate : demander pardon et miséricorde
+ 
+Après les descriptions du croyant, la création humaine, les prophètes, le Tawḥīd, la mort, le Barzakh, la Résurrection, les balances, le Paradis et l’Enfer, la sourate se termine d’une manière étonnamment douce :
+ 
+> « Et dis : Seigneur ! Pardonne et fais miséricorde. Tu es le meilleur des miséricordieux. »
+> [Sourate Al-Mu’minūn, verset 118]
+ 
+En arabe :
+Rabbi-ghfir warḥam wa Anta khayru r-rāḥimīn.
+ 
+Après 117 versets, le croyant ne reçoit pas l’instruction :
+« Maintenant que tu connais tout cela, sois sûr de toi. »
+ 
+Il reçoit :
+demande pardon.
+ 
+demande miséricorde.
+ 
+C’est une conclusion extraordinaire.
+ 
+## Le croyant commence par agir et finit par demander la miséricorde
+ 
+Au début de la sourate, le croyant :
+-	prie avec khushū‘ ;
+-	évite le futile ;
+-	donne ;
+-	préserve sa chasteté ;
+-	respecte ses engagements ;
+-	protège ses prières.
+ 
+On pourrait imaginer qu’après tout cela, il se considère méritant par lui-même.
+ 
+Mais la sourate se termine :
+« Seigneur, pardonne et fais miséricorde. »
+ 
+Voilà l’équilibre islamique.
+ 
+Œuvrer sérieusement.
+ 
+Puis ne jamais oublier que le salut reste un immense bienfait d’Allah.
+ 
+La bonne œuvre n’autorise pas l’arrogance.
+ 
+Elle devrait conduire à davantage de gratitude et d’humilité.
+ 
+## Une sourate qui définit la réussite différemment
+ 
+Le mot « réussite » est essentiel dans Al-Mu’minūn.
+ 
+Au début :
+ 
+> « Les croyants ont réussi. »
+> [Sourate Al-Mu’minūn, verset 1]
+ 
+À la fin, lorsque les balances sont installées :
+ 
+> « Ceux dont les balances seront lourdes, ce sont eux les gagnants. »
+> [Sourate Al-Mu’minūn, verset 102]
+ 
+Puis lorsque les croyants autrefois moqués sont récompensés :
+ 
+> « Ce sont eux les gagnants. »
+> [Sourate Al-Mu’minūn, verset 111]
+ 
+La sourate construit donc presque une définition complète du succès.
+ 
+Réussir n’est pas simplement obtenir ce que l’on veut.
+ 
+C’est devenir quelqu’un dont :
+-	la prière possède du khushū‘ ;
+-	le cœur connaît Allah ;
+-	la conduite reste droite ;
+-	les œuvres possèdent du poids ;
+-	et la rencontre avec Allah se termine par Son agrément.
+ 
+## Une sourate sur la cohérence entre l’intérieur et l’extérieur
+ 
+Al-Mu’minūn unit constamment le cœur et l’action.
+ 
+Khushū‘ dans la prière :
+intérieur.
+ 
+Préserver les prières :
+action.
+ 
+Craindre que les œuvres ne soient pas acceptées :
+intérieur.
+ 
+Se précipiter vers les bonnes œuvres :
+action.
+ 
+Tawḥīd :
+conviction du cœur.
+ 
+Respect des dépôts et engagements :
+comportement concret.
+ 
+La foi coranique n’est donc ni une simple émotion intérieure ni une mécanique extérieure dépourvue de cœur.
+ 
+Elle cherche l’unité des deux.
+ 
+## Une sourate sur l’illusion de l’autosuffisance
+ 
+L’être humain passe de :
+-	l’argile ;
+-	à une goutte ;
+-	puis à différentes étapes de développement ;
+-	puis à la vie ;
+-	puis à la mort ;
+-	puis à la résurrection.
+ 
+Et pourtant, au milieu de cette courte période de force, il peut finir par penser :
+« Je n’ai besoin de personne. »
+ 
+Les peuples des prophètes commettent précisément cette erreur.
+ 
+Ils possèdent richesse.
+Pouvoir.
+Notables.
+Confort.
+ 
+Puis ils regardent le messager comme s’il était celui qui avait besoin d’eux.
+ 
+La sourate ramène l’échelle à sa place :
+ 
+nous étions faibles.
+Nous redeviendrons faibles.
+Et nous reviendrons vers Allah.
+ 
+## Une sourate où tous les prophètes appartiennent à une même religion fondamentale
+ 
+Nūḥ dit :
+« Adorez Allah. »
+ 
+Les messagers se succèdent.
+ 
+Mūsā et Hārūn sont envoyés avec les signes.
+‘Īsā et Maryam sont un signe.
+ 
+Puis Allah rassemble l’ensemble :
+ 
+> « Cette communauté qui est la vôtre est une communauté unique et Je suis votre Seigneur. »
+> [Sourate Al-Mu’minūn, verset 52]
+ 
+Les différences historiques ne doivent donc jamais masquer l’unité du message fondamental.
+ 
+Tous ramènent finalement l’homme vers :
+Allah seul.
+ 
+## Une sourate sur ce que l’on fait avant qu’il soit trop tard
+ 
+Le début décrit ce que font les croyants pendant qu’ils en ont encore la possibilité.
+ 
+Ils prient.
+Donnent.
+Se préservent.
+Respectent leurs engagements.
+ 
+Puis vers la fin apparaît celui qui n’a pas utilisé ce temps :
+ 
+> « Seigneur ! Fais-moi revenir afin que j’accomplisse une bonne œuvre. »
+> [Sourate Al-Mu’minūn, versets 99-100]
+ 
+La structure est presque un avertissement silencieux :
+fais aujourd’hui ce que tu supplierais de pouvoir faire si ta vie venait de se terminer.
+ 
+Voilà une manière extrêmement puissante de décider de ses priorités.
+ 
+## Le message central de la sourate Al-Mu’minūn
+ 
+Al-Mu’minūn commence avec une déclaration :
+ 
+> « Les croyants ont certes réussi. »
+> [Sourate Al-Mu’minūn, verset 1]
+ 
+Puis elle nous montre pourquoi.
+ 
+Parce que leur foi n’est pas seulement un mot.
+ 
+Elle apparaît dans leur prière.
+
+Dans leur parole.
+Dans leur argent.
+Dans leur sexualité.
+Dans leurs engagements.
+Dans leur rapport aux autres.
+ 
+Et surtout dans leur conscience qu’ils retourneront vers leur Seigneur.
+ 
+La sourate nous ramène ensuite à notre création afin de casser l’orgueil.
+ 
+Elle nous montre les peuples passés afin de casser l’illusion que notre époque serait différente de toutes celles qui l’ont précédée.
+ 
+Elle rassemble les prophètes afin de nous rappeler que leur message est un :
+Allah seul mérite l’adoration.
+ 
+Elle nous montre des hommes riches pensant que leurs biens prouvent qu’Allah les favorise, puis répond :
+non, vous ne comprenez pas.
+ 
+Elle nous montre de véritables croyants qui font énormément de bien mais dont les cœurs restent tremblants à l’idée de retourner vers Allah.
+ 
+Puis elle nous place nous-mêmes devant la mort.
+ 
+Et là, la grande illusion disparaît :
+« Seigneur, fais-moi revenir. »
+ 
+Mais le temps de l’action est terminé.
+ 
+Il reste le Barzakh.
+Puis la Résurrection.
+Puis la balance.
+Et enfin le verdict.
+ 
+C’est pourquoi l’une des questions les plus importantes arrive presque à la fin :
+ 
+> « Pensiez-vous que Nous vous avions créés sans but et que vous ne seriez pas ramenés vers Nous ? »
+> [Sourate Al-Mu’minūn, verset 115]
+ 
+La réponse de toute la sourate est :
+non.
+ 
+Tu n’es pas né pour rien.
+Ta prière n’est pas pour rien.
+Tes choix ne sont pas pour rien.
+Tes efforts ne sont pas pour rien.
+Tes fautes ne sont pas oubliées.
+Tes bonnes œuvres cachées ne sont pas perdues.
+Et cette vie n’est pas une parenthèse sans destination.
+ 
+Tu retournes vers Al-Malik al-Ḥaqq, le Roi véritable.
+ 
+Mais cette prise de conscience ne doit pas conduire au désespoir.
+ 
+La toute dernière parole de la sourate nous montre exactement comment terminer :
+ 
+> « Seigneur ! Pardonne et fais miséricorde. Tu es le meilleur des miséricordieux. »
+> [Sourate Al-Mu’minūn, verset 118]
+ 
+Voilà peut-être l’essence d’Al-Mu’minūn : la véritable réussite consiste à vivre aujourd’hui comme quelqu’un qui sait qu’il retournera demain vers Allah — en priant avec présence, en protégeant ce qui lui est confié, en faisant le bien sans orgueil et en sachant qu’au terme de tous ses efforts, il aura encore besoin de dire : “Seigneur, pardonne-moi et fais-moi miséricorde.”
+
+
 [[/desc]]
 
 [[desc 24]]
