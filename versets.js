@@ -52251,6 +52251,1497 @@ Voilà peut-être l’essence d’Al-Mu’minūn : la véritable réussite consi
 
 [[desc 24]]
 
+La sourate An-Nūr (سورة النور), vingt-quatrième sourate du Coran, est une sourate médinoise de 64 versets. Son nom signifie « La Lumière », en référence au célèbre verset 35 : « Allah est la Lumière des cieux et de la terre ». Contrairement aux grandes sourates mecquoises précédentes, qui insistaient beaucoup sur le Tawḥīd, les prophètes et la Résurrection face aux négateurs, An-Nūr s’adresse à une communauté musulmane désormais constituée, qui doit apprendre à vivre ensemble selon la guidance d’Allah.
+
+Elle traite donc de sujets très concrets : la chasteté, le mariage, les accusations sexuelles, les rumeurs, la protection de l’honneur, le regard, la pudeur, l’intimité des maisons, la permission d’entrer, la vie familiale et l’obéissance à Allah et à Son Messager ﷺ.
+
+Mais au milieu de toutes ces règles sociales apparaît soudain l’un des passages les plus lumineux et les plus contemplatifs du Coran :
+
+> « Allah est la Lumière des cieux et de la terre… Lumière sur lumière. »
+> [Sourate An-Nūr, verset 35]
+
+Ce placement est profondément significatif.
+
+La « lumière » n’est pas présentée dans une sourate détachée du quotidien.
+
+Elle apparaît au milieu de règles concernant ce que l’on regarde, ce que l’on dit, ce que l’on répète, comment on entre chez les autres, comment on protège l’intimité et comment on maîtrise ses désirs.
+
+Comme si la sourate enseignait que la lumière spirituelle ne consiste pas seulement à ressentir quelque chose de sublime : elle doit aussi éclairer nos comportements les plus ordinaires.
+
+## Une sourate qui commence par insister sur son caractère obligatoire
+
+An-Nūr s’ouvre d’une manière inhabituelle :
+
+> « Voici une sourate que Nous avons fait descendre et dont Nous avons rendu les prescriptions obligatoires ; Nous y avons fait descendre des versets clairs afin que vous vous rappeliez. »
+> [Sourate An-Nūr, verset 1]
+
+Avant même de donner les règles, Allah attire l’attention sur leur sérieux.
+
+Cette sourate n’est pas une simple série de recommandations facultatives concernant les bonnes manières.
+
+Elle cherche à protéger des réalités extrêmement importantes :
+- l’honneur ;
+- la filiation ;
+- la famille ;
+- l’intimité ;
+- la réputation ;
+- la chasteté ;
+- et la stabilité de la communauté.
+
+Certaines fautes sexuelles concernent évidemment les individus qui les commettent.
+
+Mais leurs conséquences peuvent également toucher un conjoint, des enfants, une famille et parfois toute une société.
+
+C’est pourquoi An-Nūr entoure ces questions de règles très fortes.
+
+## La gravité du zinā
+
+Allah établit au verset 2 une sanction légale pour le zinā, la relation sexuelle illicite.
+
+> « La femme et l’homme qui commettent le zinā : infligez à chacun d’eux cent coups de fouet… »
+> [Sourate An-Nūr, verset 2]
+
+Le verset appartient à un cadre judiciaire, et non à une permission donnée aux individus de punir eux-mêmes qui que ce soit.
+
+La jurisprudence islamique classique entoure ces peines de conditions, de procédures et de standards de preuve extrêmement précis ; la Sunnah apporte également des distinctions juridiques supplémentaires selon les situations.
+
+Le point central de la sourate est cependant déjà clair :
+la sexualité n’est pas considérée comme moralement indifférente.
+
+Elle possède une place légitime.
+
+Mais elle possède aussi des limites.
+
+## Protéger l’honneur est aussi important que condamner le péché
+
+Immédiatement après avoir parlé du zinā, Allah établit quelque chose de tout aussi remarquable :
+une protection très forte contre les fausses accusations.
+
+Allah dit :
+
+> « Ceux qui accusent des femmes chastes puis ne produisent pas quatre témoins, infligez-leur quatre-vingts coups de fouet et n’acceptez plus leur témoignage. »
+> [Sourate An-Nūr, verset 4]
+
+Le message est essentiel :
+
+la religion ne dit pas seulement :
+« l’immoralité sexuelle est grave. »
+
+Elle dit également :
+« accuser quelqu’un d’immoralité sexuelle sans preuve est extrêmement grave. »
+
+Le Coran refuse donc deux extrêmes :
+- banaliser la faute ;
+- détruire l’honneur des gens sur la base de soupçons et de rumeurs.
+
+La réputation d’un être humain n’est pas un jouet.
+
+Dans le cadre juridique du qadhf, l’accusation de zinā exige un niveau de preuve exceptionnellement élevé : quatre témoins.
+
+## Le repentir reste possible
+
+Le verset suivant ajoute :
+
+> « Sauf ceux qui se repentent après cela et se réforment. Allah est Pardonneur et Miséricordieux. »
+> [Sourate An-Nūr, verset 5]
+
+Même après avoir commis quelque chose d’aussi destructeur qu’une fausse accusation portant sur l’honneur sexuel d’une personne, la porte du repentir auprès d’Allah n’est pas fermée.
+
+Mais remarquez :
+
+le verset ne dit pas seulement :
+« se repentent. »
+
+Il dit :
+« se repentent et se réforment. »
+
+Une tawbah sincère ne consiste donc pas toujours uniquement à regretter intérieurement.
+
+Lorsque notre faute a produit du mal autour de nous, le repentir doit autant que possible transformer aussi notre comportement.
+
+## Que se passe-t-il lorsqu’un mari accuse son épouse ?
+
+Une difficulté juridique particulière apparaît lorsqu’un homme accuse sa propre épouse d’adultère mais ne dispose pas de quatre témoins.
+
+Les versets 6 à 9 instituent alors la procédure du li‘ān, dans laquelle chacun prononce devant Allah des témoignages solennels et appelle sur lui-même la malédiction ou la colère d’Allah s’il ment.
+
+> [Sourate An-Nūr, versets 6-9]
+
+Le passage évite deux injustices.
+
+D’un côté :
+une accusation extrêmement grave ne peut être simplement prononcée sans conséquence.
+
+De l’autre :
+la situation particulière d’un époux affirmant avoir constaté quelque chose est traitée par une procédure spécifique, plutôt que par une vengeance privée.
+
+Encore une fois, la sourate transforme un conflit émotionnel extrêmement explosif en une question soumise à la loi et à Allah.
+
+## Puis vient l’une des plus grandes crises de la vie de ‘Ā’ishah رضي الله عنها
+
+À partir du verset 11, la sourate aborde ḥadīthat al-ifk, « l’affaire de la calomnie ».
+
+Lors d’un retour d’expédition, ‘Ā’ishah رضي الله عنها, épouse du Prophète ﷺ, se retrouva momentanément séparée de la caravane. Elle fut ensuite ramenée par Ṣafwān ibn al-Mu‘aṭṭal رضي الله عنه.
+
+Des personnes profitèrent de la situation pour lancer puis diffuser une accusation d’adultère.
+
+La rumeur se propagea jusque dans la communauté musulmane.
+
+Ā’ishah رضي الله عنها elle-même a raconté longuement cette épreuve dans un récit authentique rapporté notamment par Al-Bukhārī. Finalement, Allah révéla directement les versets d’An-Nūr proclamant son innocence.
+
+Il est difficile d’imaginer l’intensité de cette épreuve.
+
+Une femme innocente.
+L’épouse du Prophète ﷺ.
+Sa réputation attaquée.
+Une communauté qui parle.
+
+Et pendant un temps, aucune révélation n’arrive encore pour trancher.
+
+Puis Allah Lui-même descend son innocence dans le Coran récité jusqu’à la fin des temps.
+
+## « Ne pensez pas que cela ait été un mal pour vous »
+
+Allah dit :
+
+> « Ceux qui ont propagé la calomnie sont un groupe parmi vous. Ne pensez pas que cela soit un mal pour vous ; au contraire, cela comporte un bien pour vous. »
+> [Sourate An-Nūr, verset 11]
+
+Le verset ne dit évidemment pas que la souffrance de ‘Ā’ishah n’était pas réelle.
+
+Elle l’était.
+La famille du Prophète ﷺ a souffert.
+La communauté a été éprouvée.
+
+Mais Allah explique qu’au-delà de cette douleur immédiate, un bien durable va sortir de la crise.
+
+Grâce à cet événement, des principes concernant :
+- la rumeur ;
+- la preuve ;
+- la réputation ;
+- le soupçon ;
+- la parole ;
+- le pardon
+
+seront inscrits dans le Coran pour toutes les générations suivantes.
+
+Une chose peut donc être réellement douloureuse tout en produisant, dans la sagesse d’Allah, un bien que ceux qui la vivent ne peuvent pas encore voir.
+
+## Une rumeur n’a pas besoin d’être inventée par tout le monde pour rendre tout le monde responsable
+
+Allah dit :
+
+> « Chacun d’eux portera la part de péché qu’il aura acquise, et celui d’entre eux qui en a pris la plus grande part aura un immense châtiment. »
+> [Sourate An-Nūr, verset 11]
+
+Tout le monde n’a pas joué le même rôle.
+
+Certains lancent.
+D’autres amplifient.
+D’autres répètent.
+D’autres écoutent avec plaisir.
+D’autres ajoutent un détail.
+
+La responsabilité est donc proportionnée, mais elle n’est pas limitée à celui qui invente la première phrase.
+
+Une rumeur devient puissante précisément parce que plusieurs personnes décident :
+« Je vais simplement la transmettre. »
+
+## Le premier réflexe aurait dû être de penser du bien
+
+Allah demande :
+
+> « Pourquoi, lorsque vous l’avez entendue, les croyants et les croyantes n’ont-ils pas pensé du bien d’eux-mêmes et dit : “C’est une calomnie évidente” ? »
+> [Sourate An-Nūr, verset 12]
+
+L’expression « pensé du bien d’eux-mêmes » est particulièrement belle.
+
+Les croyants forment une communauté.
+
+Attaquer injustement l’honneur de l’un d’eux revient à abîmer quelque chose qui appartient au corps collectif.
+
+Le premier réflexe devant une accusation extraordinaire ne devrait donc pas être :
+« Oh ! Raconte-moi tout. »
+
+Mais :
+« Quelles sont les preuves ? Est-ce seulement plausible ? Ai-je le droit de répéter cela ? »
+
+## Une accusation extraordinaire exige une preuve extraordinaire
+
+Allah revient immédiatement aux quatre témoins :
+
+> « Pourquoi n’ont-ils pas produit quatre témoins ? Puisqu’ils n’ont pas produit de témoins, ce sont eux, auprès d’Allah, les menteurs. »
+> [Sourate An-Nūr, verset 13]
+
+Une réputation ne doit donc pas être détruite par :
+- « tout le monde en parle » ;
+- « quelqu’un m’a dit » ;
+- « j’ai entendu que » ;
+- « ça paraît évident ».
+
+Il existe des choses pour lesquelles la prudence dans la parole est une obligation morale.
+
+## « Vous le transmettiez de langue en langue »
+
+Allah décrit ensuite avec une précision étonnamment moderne le fonctionnement d’une rumeur :
+
+> « Vous le transmettiez de vos langues et disiez de vos bouches ce dont vous n’aviez aucune connaissance. Vous pensiez cela insignifiant alors qu’auprès d’Allah c’était immense. »
+> [Sourate An-Nūr, verset 15]
+
+L’image est parfaite :
+une langue reçoit.
+
+Puis transmet immédiatement à une autre.
+
+Sans que l’information ne passe réellement par la vérification.
+
+La technologie change.
+
+Autrefois, la rumeur passait de bouche à oreille.
+
+Aujourd’hui, elle peut être transférée en quelques secondes à des milliers de personnes.
+
+Mais le principe d’An-Nūr reste exactement le même :
+le fait qu’une information soit facile à partager ne signifie pas que tu as le droit de la partager.
+
+## « Vous pensiez cela insignifiant »
+
+Cette phrase mérite à elle seule de s’arrêter :
+
+> « Vous pensiez cela insignifiant alors qu’auprès d’Allah c’était immense. »
+> [Sourate An-Nūr, verset 15]
+
+Nous évaluons souvent nos paroles selon l’effort qu’elles nous coûtent.
+
+Une phrase prend deux secondes.
+Un clic prend une seconde.
+
+Donc nous avons l’impression que l’acte est petit.
+
+Mais Allah évalue aussi les conséquences.
+
+Une phrase très courte peut :
+- briser un mariage ;
+- détruire une réputation ;
+- provoquer une haine familiale ;
+- traumatiser une personne ;
+- poursuivre quelqu’un pendant des années.
+
+La facilité du geste ne mesure pas la gravité de ce qu’il produit.
+
+## Quelle aurait dû être la réponse ?
+
+Allah enseigne :
+
+> « Pourquoi, lorsque vous l’avez entendu, n’avez-vous pas dit : “Il ne nous appartient pas de parler de cela. Gloire à Toi ! C’est une immense calomnie.” »
+> [Sourate An-Nūr, verset 16]
+
+C’est un modèle extraordinaire de retenue.
+
+Il existe des situations où le meilleur commentaire est :
+« Je n’ai pas le droit de parler de ça. »
+
+Pas parce que toute critique est interdite.
+
+Pas parce que toute accusation est nécessairement fausse.
+
+Mais parce qu’une personne qui ne sait pas n’a pas à transformer son ignorance en parole.
+
+## « Qu’une chose semblable ne se reproduise jamais »
+
+Allah dit :
+
+> « Allah vous exhorte à ne jamais recommencer une chose semblable, si vous êtes croyants. »
+> [Sourate An-Nūr, verset 17]
+
+L’objectif n’est donc pas seulement de résoudre l’affaire de ‘Ā’ishah رضي الله عنها.
+
+Allah veut éduquer toute la communauté.
+
+Une crise devient ainsi une école.
+
+La vraie question après une faute collective n’est pas seulement :
+« Qui était coupable ? »
+
+Mais aussi :
+« Qu’avons-nous appris pour empêcher que cela recommence ? »
+
+## Aimer que l’immoralité se répande
+
+Allah avertit :
+
+> « Ceux qui aiment que la turpitude se répande parmi les croyants auront un châtiment douloureux dans cette vie et dans l’Au-delà. Allah sait et vous ne savez pas. »
+> [Sourate An-Nūr, verset 19]
+
+Le verset ne parle même pas seulement de commettre la turpitude.
+
+Il parle de ceux qui aiment la voir se diffuser.
+
+Cela inclut dans le contexte la propagation de scandales sexuels et de récits obscènes sans preuve. Les exégètes relient directement ce passage à l’éducation donnée après l’affaire de la calomnie.
+
+Une société peut finir par développer une fascination pour :
+- les scandales ;
+- l’intimité exposée ;
+- les humiliations ;
+- les fautes privées des autres.
+
+Le Coran demande :
+qu’est-ce que ton cœur ressent lorsque l’honneur d’une personne est détruit ?
+
+Du plaisir ?
+De la curiosité ?
+Ou de la retenue et de la compassion ?
+
+## « Ne suivez pas les pas de Satan »
+
+Allah dit ensuite :
+
+> « Ô vous qui croyez ! Ne suivez pas les pas de Satan. »
+> [Sourate An-Nūr, verset 21]
+
+Le mot pas est important.
+
+Satan ne conduit pas nécessairement quelqu’un du premier instant vers la plus grande faute.
+
+Il peut commencer par :
+écoute seulement.
+
+Puis :
+répète seulement à une personne.
+
+Puis :
+ajoute seulement ton interprétation.
+
+Puis la rumeur devient une réalité sociale.
+
+Le péché peut avoir une trajectoire.
+
+La sagesse consiste parfois à couper le chemin dès le premier pas.
+
+## Abū Bakr رضي الله عنه et une leçon extraordinaire sur le pardon
+
+Parmi ceux qui avaient participé à la propagation de la calomnie se trouvait Misṭaḥ ibn Uthāthah رضي الله عنه, un parent pauvre qu’Abū Bakr aṣ-Ṣiddīq رضي الله عنه aidait financièrement.
+
+Lorsque l’innocence de ‘Ā’ishah fut révélée, Abū Bakr — son père — jura qu’il ne donnerait plus rien à Misṭaḥ après ce qu’il avait fait.
+
+Humainement, la réaction se comprend parfaitement.
+
+Puis Allah révéla :
+
+> « Que les gens de mérite et d’aisance parmi vous ne jurent pas de ne plus donner aux proches, aux pauvres et à ceux qui ont émigré dans le chemin d’Allah. Qu’ils pardonnent et passent outre. N’aimez-vous pas qu’Allah vous pardonne ? »
+> [Sourate An-Nūr, verset 22]
+
+Abū Bakr répondit alors qu’il souhaitait évidemment qu’Allah lui pardonne et recommença à aider Misṭaḥ. Le récit est authentiquement rapporté par ‘Ā’ishah elle-même dans Ṣaḥīḥ al-Bukhārī.
+
+## « N’aimez-vous pas qu’Allah vous pardonne ? »
+
+Cette question est extraordinaire parce qu’elle change complètement l’échelle.
+
+Abū Bakr pourrait penser :
+« Est-ce que Misṭaḥ mérite mon pardon après ce qu’il a dit sur ma fille ? »
+
+Allah déplace la question :
+« Toi, aimerais-tu que Moi Je te pardonne ? »
+
+Le croyant commence alors à regarder le pardon non seulement à partir de ce que l’autre mérite, mais aussi à partir du pardon dont lui-même a besoin auprès d’Allah.
+
+Cela ne signifie pas qu’il faut toujours rétablir immédiatement toute relation, supprimer toutes les conséquences ou se replacer dans une situation dangereuse.
+
+Mais le verset appelle à empêcher la blessure de devenir une haine éternelle qui ferme le cœur à la miséricorde.
+
+## La gravité d’accuser les femmes chastes
+
+Allah avertit encore :
+
+> « Ceux qui accusent les femmes chastes, innocentes et croyantes sont maudits dans cette vie et dans l’Au-delà, et ils auront un immense châtiment. »
+> [Sourate An-Nūr, verset 23]
+
+Le terme traduit par « innocentes » évoque ici notamment celles qui sont loin même d’imaginer ce dont on les accuse.
+
+C’est ce qui rend la calomnie particulièrement cruelle :
+une personne peut vivre dans l’innocence pendant que, ailleurs, des gens construisent une version fictive de sa vie.
+
+An-Nūr défend avec une force extraordinaire le droit à l’honneur.
+
+## Le jour où notre propre corps témoignera
+
+Allah poursuit :
+
+> « Le jour où leurs langues, leurs mains et leurs pieds témoigneront contre eux de ce qu’ils faisaient. »
+> [Sourate An-Nūr, verset 24]
+
+Dans cette vie, la langue peut nier ce qu’elle a prononcé.
+
+La main peut effacer ce qu’elle a écrit.
+
+Un homme peut dire :
+« Je n’ai jamais fait cela. »
+
+Au Jour dernier, les instruments mêmes de l’action deviennent témoins.
+
+Puis Allah dit :
+
+> « Ce jour-là, Allah leur donnera pleinement leur juste rétribution et ils sauront qu’Allah est la Vérité manifeste. »
+> [Sourate An-Nūr, verset 25]
+
+## « Les mauvaises… pour les mauvais »
+
+Le passage de la calomnie se termine par le célèbre verset :
+
+> « Les mauvaises sont pour les mauvais, et les mauvais pour les mauvaises ; les bonnes sont pour les bons et les bons pour les bonnes. Ceux-là sont innocents de ce que les autres disent. »
+> [Sourate An-Nūr, verset 26]
+
+Ce verset est parfois utilisé comme s’il constituait une promesse absolue que toute personne vertueuse épousera nécessairement ici-bas un conjoint vertueux, ce qui créerait immédiatement des difficultés face aux nombreux exemples contraires de l’histoire humaine.
+
+Or plusieurs grands exégètes anciens, notamment Ibn ‘Abbās رضي الله عنهما, ont expliqué dans le contexte de l’Ifk que les « mauvaises » et « bonnes » choses peuvent désigner les mauvaises et bonnes paroles : les paroles abjectes conviennent aux gens abjects, tandis que ‘Ā’ishah رضي الله عنها est innocente de ce qui a été dit à son sujet. Une autre lecture classique l’applique également aux hommes et aux femmes.
+
+Il vaut donc mieux ne pas réduire le verset à une formule simpliste du type :
+« si ton conjoint est mauvais, c’est forcément que toi aussi tu es mauvais. »
+
+Ce n’est pas ce que l’histoire des prophètes permet d’affirmer.
+
+Le contexte immédiat est avant tout l’innocence des personnes pures face aux paroles impures dont elles sont victimes.
+
+## Après avoir protégé l’honneur, Allah protège la maison
+
+Le verset 27 change en apparence de sujet :
+
+> « Ô vous qui croyez ! N’entrez pas dans des maisons autres que les vôtres avant de demander la permission et de saluer leurs habitants. »
+> [Sourate An-Nūr, verset 27]
+
+Mais le lien est profond.
+
+La sourate vient de protéger l’intimité morale.
+
+Elle protège maintenant l’intimité physique.
+
+Une maison n’est pas un lieu public.
+
+Même si tu connais très bien celui qui habite à l’intérieur, il possède le droit de décider quand tu peux entrer dans son espace privé.
+
+Les exégètes soulignent ici l’institution de l’isti’dhān, la demande de permission avant l’entrée.
+
+## Le salām avant d’entrer
+
+Allah relie l’entrée à deux choses :
+
+Permission
+et
+salutation.
+
+La maison d’un croyant n’est donc pas envahie brusquement.
+
+On annonce sa présence.
+
+On dit :
+As-salāmu ‘alaykum.
+
+Puis on attend.
+
+Ce sont de petites règles en apparence.
+
+Mais elles protègent énormément :
+- l’intimité ;
+- la pudeur ;
+- le repos ;
+- les relations familiales ;
+- les situations dans lesquelles une personne ne souhaite simplement pas être vue.
+
+## Si personne ne répond, on n’entre pas
+
+Allah dit :
+
+> « Si vous n’y trouvez personne, n’y entrez pas jusqu’à ce que permission vous soit donnée. »
+> [Sourate An-Nūr, verset 28]
+
+Une porte non verrouillée n’est pas une autorisation.
+
+Une personne absente conserve des droits sur son espace.
+
+Le respect ne disparaît pas simplement parce que techniquement nous pourrions entrer.
+
+## « Si l’on vous dit : retournez, alors retournez »
+
+Allah poursuit :
+
+> « Et si l’on vous dit : “Retournez”, alors retournez. C’est plus pur pour vous. »
+> [Sourate An-Nūr, verset 28]
+
+Voilà aussi une magnifique éducation de l’ego.
+
+Tu frappes.
+
+Quelqu’un ne peut pas ou ne veut pas te recevoir.
+
+Le Coran ne t’autorise pas à construire immédiatement une offense personnelle :
+« Comment ose-t-il ne pas me recevoir ? »
+
+Il dit :
+retourne.
+
+Et même :
+« c’est plus pur pour vous. »
+
+Respecter la limite posée par quelqu’un fait partie de la pureté du comportement.
+
+## La pudeur commence par les hommes
+
+Vient ensuite le célèbre passage sur le regard et la pudeur.
+
+Et le premier ordre est adressé aux hommes :
+
+> « Dis aux croyants de baisser une partie de leurs regards et de préserver leur chasteté. Cela est plus pur pour eux. »
+> [Sourate An-Nūr, verset 30]
+
+C’est important.
+
+La pudeur coranique n’est pas présentée comme :
+« les femmes doivent s’habiller d’une certaine manière afin que les hommes puissent regarder comme ils veulent. »
+
+Non.
+
+L’homme reçoit sa propre responsabilité :
+baisse ton regard.
+préserve ta chasteté.
+
+Tu es responsable de tes yeux et de ton comportement.
+
+## Baisser le regard ne signifie pas marcher les yeux fermés
+
+L’expression arabe ne demande évidemment pas à l’homme de ne jamais regarder aucune femme dans aucun contexte.
+
+Il s’agit de maîtriser le regard, notamment lorsqu’il devient désirant, insistant ou dirigé vers ce qui n’est pas licite à regarder.
+
+Le premier regard peut parfois arriver involontairement.
+
+Mais une personne peut décider ensuite :
+- de prolonger ;
+- de revenir ;
+- de rechercher ;
+- de fixer.
+
+La maîtrise commence précisément lorsque la volonté entre en jeu.
+
+## Puis Allah s’adresse aux femmes
+
+Le verset suivant dit :
+
+> « Et dis aux croyantes de baisser une partie de leurs regards, de préserver leur chasteté et de ne montrer de leurs parures que ce qui en paraît. »
+> [Sourate An-Nūr, verset 31]
+
+L’ordre fondamental est parallèle :
+
+hommes :
+regard et chasteté.
+
+femmes :
+regard et chasteté.
+
+La morale sexuelle islamique implique donc les deux sexes.
+
+## « Qu’elles rabattent leurs khumur sur leurs poitrines »
+
+Allah poursuit :
+
+> « Qu’elles rabattent leurs voiles sur leurs poitrines. »
+> [Sourate An-Nūr, verset 31]
+
+Le mot khumur est le pluriel de khimār, un voile/couverture porté sur la tête, et juyūb renvoie aux ouvertures du vêtement au niveau du cou et de la poitrine. Le verset demande donc de rabattre le khimār de manière à couvrir cette zone. Cette prescription constitue l’un des textes coraniques centraux de la tenue pudique féminine.
+
+Les juristes musulmans ont ensuite discuté de plusieurs détails concernant exactement ce qui peut rester apparent, notamment la question du visage et des mains.
+
+Il vaut donc mieux distinguer :
+- ce que le verset énonce explicitement ;
+- et les discussions juridiques ultérieures concernant les limites détaillées de la ‘awrah.
+
+Mais l’idée centrale est incontestable :
+la pudeur doit se traduire également dans la manière de se vêtir et de présenter ses parures.
+
+## Le Coran va jusqu’au bruit des bijoux cachés
+
+Le verset dit encore :
+
+> « Qu’elles ne frappent pas de leurs pieds de manière à faire connaître ce qu’elles cachent de leurs parures. »
+> [Sourate An-Nūr, verset 31]
+
+Le détail est extraordinaire.
+
+Le vêtement peut cacher un bijou.
+Mais le bruit du bijou peut attirer l’attention vers lui.
+
+Allah ne traite donc pas uniquement la surface du vêtement.
+
+Il traite aussi l’intention de mettre volontairement en évidence ce qui devrait rester discret.
+
+Encore une fois, la pudeur est à la fois extérieure et intérieure.
+
+## Après toutes ces règles : « repentez-vous tous »
+
+Le verset 31 se termine :
+
+> « Et repentez-vous tous devant Allah, ô croyants, afin que vous réussissiez. »
+> [Sourate An-Nūr, verset 31]
+
+C’est extrêmement important.
+
+Après avoir parlé du regard, de la chasteté et de la pudeur, Allah ne crée pas une communauté de gens qui regarderaient les fautes des autres avec supériorité.
+
+Il dit :
+« repentez-vous tous. »
+
+Hommes.
+Femmes.
+
+Tous.
+
+Parce que personne n’arrive devant ces règles avec l’assurance de n’avoir jamais fauté par le regard, la pensée ou le comportement.
+
+La pudeur islamique doit donc produire de la vigilance envers soi-même avant de produire une obsession pour la faute des autres.
+
+## Faciliter le mariage
+
+Allah dit ensuite :
+
+> « Mariez les célibataires parmi vous ainsi que les vertueux parmi vos serviteurs et vos servantes. S’ils sont pauvres, Allah les enrichira par Sa grâce. »
+> [Sourate An-Nūr, verset 32]
+
+Le placement est logique.
+
+Allah ne dit pas seulement :
+contrôlez vos désirs.
+
+Il demande également à la société de faciliter la voie licite permettant de les vivre.
+
+Une morale qui impose des limites mais rend ensuite le mariage inutilement inaccessible crée elle-même des difficultés.
+
+Les familles et la communauté sont donc invitées à ne pas faire de la richesse la condition absolue de toute union.
+
+## La pauvreté ne doit pas être le seul critère de refus
+
+Le verset ne promet évidemment pas qu’un mariage rendra automatiquement chaque couple riche.
+
+Il rappelle plutôt que la pauvreté actuelle n’enferme pas l’avenir :
+« Allah les enrichira par Sa grâce. »
+
+La personne doit évidemment évaluer ses responsabilités et ses possibilités.
+
+Mais elle ne doit pas croire :
+« parce que mes ressources sont modestes aujourd’hui, Allah ne pourra jamais ouvrir une autre porte demain. »
+
+## Celui qui ne peut pas se marier doit rechercher la chasteté
+
+Allah équilibre immédiatement :
+
+> « Que ceux qui ne trouvent pas de moyen de se marier restent chastes jusqu’à ce qu’Allah les enrichisse par Sa grâce. »
+> [Sourate An-Nūr, verset 33]
+
+Autrement dit :
+le désir ne crée pas automatiquement un droit de franchir les limites.
+
+La difficulté est reconnue.
+
+Mais la réponse est :
+‘iffah — maîtrise et chasteté.
+
+Le croyant attend ce qui est licite sans déclarer que son besoin rend soudain l’interdit licite.
+
+## Le Coran encourage aussi l’affranchissement
+
+Le même verset parle des esclaves qui demandaient un contrat d’affranchissement, mukātabah, et ordonne de conclure avec eux un tel contrat si l’on reconnaît du bien en eux, tout en les aidant avec les biens accordés par Allah.
+
+> [Sourate An-Nūr, verset 33]
+
+Dans la société où l’esclavage existait comme institution ancienne, le Coran introduit ainsi des mécanismes permettant la sortie de cet état.
+
+Le maître n’est pas présenté comme propriétaire absolu de toute possibilité de liberté : Allah l’encourage à permettre l’affranchissement et à aider matériellement celui qui le cherche.
+
+## Interdiction de contraindre des femmes esclaves à la prostitution
+
+Allah ajoute dans le même verset :
+
+> « Ne contraignez pas vos servantes à la prostitution pour rechercher les biens passagers de cette vie alors qu’elles désirent rester chastes. »
+> [Sourate An-Nūr, verset 33]
+
+Le contexte révèle une pratique sordide : exploiter sexuellement des femmes esclaves pour en tirer un profit.
+
+Le Coran l’interdit.
+
+Et il précise que si elles ont subi cette contrainte, la faute ne repose pas sur les victimes contraintes :
+
+> « Allah, après qu’elles ont été contraintes, est Pardonneur et Miséricordieux. »
+> [Sourate An-Nūr, verset 33]
+
+La contrainte compte moralement.
+
+La victime n’est pas jugée comme celle qui choisit volontairement l’acte.
+
+## Après les règles vient la Lumière
+
+Puis, après avoir parlé :
+- du zinā ;
+- des accusations ;
+- de la rumeur ;
+- du pardon ;
+- des maisons ;
+- des regards ;
+- de la pudeur ;
+- du mariage ;
+- de la chasteté,
+
+Allah dit :
+
+> « Nous avons certes fait descendre vers vous des versets qui expliquent clairement les choses, des exemples de ceux qui vous ont précédés et une exhortation pour les pieux. »
+> [Sourate An-Nūr, verset 34]
+
+Et immédiatement après arrive :
+
+« Allah est la Lumière des cieux et de la terre »
+
+> « Allah est la Lumière des cieux et de la terre. »
+> [Sourate An-Nūr, verset 35]
+
+C’est l’un des versets les plus célèbres et les plus contemplés du Coran.
+
+Il ne faut pas le réduire à l’idée d’une lumière physique créée comparable à celle d’une lampe ou du Soleil.
+
+Les exégètes ont expliqué cette expression de plusieurs manières complémentaires autour de la lumière, de la guidance et du fait qu’Allah illumine les cieux et la terre. Ibn ‘Abbās رضي الله عنهما est notamment rapporté comme l’ayant expliqué en lien avec Celui qui guide les habitants des cieux et de la terre.
+
+Puis Allah ne dit pas simplement :
+« Sa lumière est une lampe. »
+
+Il donne une parabole.
+
+## La niche, la lampe et le verre
+
+Allah dit :
+
+> « L’exemple de Sa lumière est semblable à une niche où se trouve une lampe. La lampe est dans un verre, et le verre est comme un astre brillant. »
+> [Sourate An-Nūr, verset 35]
+
+Imaginez une niche construite de manière à recueillir et concentrer la lumière.
+
+À l’intérieur :
+une lampe.
+
+La lampe elle-même est protégée par un verre parfaitement lumineux.
+
+Puis ce verre devient presque :
+« comme un astre brillant. »
+
+Une lumière n’est donc pas dispersée au hasard.
+
+Elle est :
+- concentrée ;
+- protégée ;
+- amplifiée.
+
+Les exégètes ont développé différentes lectures de cette parabole, notamment en lien avec la guidance d’Allah et la lumière de la foi dans le cœur du croyant.
+
+## Un olivier béni
+
+La lampe est alimentée :
+
+> « par un arbre béni, un olivier ni oriental ni occidental, dont l’huile semble presque éclairer sans même que le feu ne la touche. »
+> [Sourate An-Nūr, verset 35]
+
+L’image atteint presque une pureté parfaite.
+
+Une huile si claire qu’elle semble déjà lumineuse avant même d’être allumée.
+
+Puis arrive la formule :
+
+> « Lumière sur lumière. »
+> [Sourate An-Nūr, verset 35]
+
+Guidance sur guidance.
+
+Prédisposition saine rencontrant la Révélation.
+
+Foi nourrie par le Coran.
+
+Connaissance accompagnée d’un cœur réceptif.
+
+Les exégètes ont donné plusieurs formulations pour expliquer les éléments précis de la parabole, mais son mouvement général est évident :
+
+Allah fait entrer Sa guidance dans des cœurs et la fait croître.
+
+## « Allah guide vers Sa lumière qui Il veut »
+
+Le verset conclut :
+
+> « Allah guide vers Sa lumière qui Il veut. Allah propose des paraboles aux hommes et Allah connaît parfaitement toute chose. »
+> [Sourate An-Nūr, verset 35]
+
+La lumière n’est donc pas seulement une connaissance que l’homme fabrique tout seul.
+
+Elle est guidance.
+Et la guidance est un don que l’on cherche auprès d’Allah.
+
+On étudie.
+On réfléchit.
+On écoute.
+
+Mais on demande également :
+« Seigneur, éclaire mon cœur. »
+
+## Où cette lumière apparaît-elle ?
+
+Les versets suivants poursuivent :
+
+> « Dans des maisons qu’Allah a permis que l’on élève et où Son nom soit mentionné. »
+> [Sourate An-Nūr, verset 36]
+
+Les exégètes comprennent ici particulièrement les mosquées : lieux où le nom d’Allah est rappelé matin et soir.
+
+La lumière du verset 35 n’est donc pas une spiritualité uniquement intérieure et abstraite.
+
+Elle conduit vers :
+- le dhikr ;
+- la prière ;
+- les lieux d’adoration.
+
+## Des hommes que le commerce ne détourne pas d’Allah
+
+Allah décrit :
+
+> « Des hommes que ni le commerce ni la vente ne distraient du rappel d’Allah, de l’accomplissement de la prière et de l’acquittement de la zakāt. »
+> [Sourate An-Nūr, verset 37]
+
+Remarquez :
+Allah ne dit pas qu’ils ne commercent pas.
+
+Ils commercent.
+Ils vendent.
+Ils travaillent.
+
+Mais le commerce ne réussit pas à prendre la place d’Allah.
+
+Voilà une conception très équilibrée de la vie spirituelle.
+
+Le croyant n’est pas obligé d’abandonner le marché pour se rappeler Allah.
+
+Il doit empêcher le marché d’entrer tellement dans son cœur qu’il lui fasse oublier Allah.
+
+## La fausse lumière : le mirage
+
+Après avoir décrit la lumière de la guidance, Allah décrit les œuvres des négateurs :
+
+> « Quant à ceux qui ont mécru, leurs œuvres sont semblables à un mirage dans une plaine : l’assoiffé le prend pour de l’eau jusqu’à ce qu’il y arrive et n’y trouve rien. »
+> [Sourate An-Nūr, verset 39]
+
+Le contraste avec le verset de la Lumière est remarquable.
+
+D’un côté :
+une vraie lumière.
+
+De l’autre :
+quelque chose qui ressemble à de l’eau mais n’en est pas.
+
+Une vie peut être construite sur des choses qui donnent l’impression de pouvoir combler complètement l’homme.
+
+Argent.
+Réputation.
+Désirs.
+Pouvoir.
+
+Puis il arrive au bout et découvre :
+ce n’était pas ce que je croyais.
+
+## Puis une autre image : les ténèbres de la mer profonde
+
+Allah donne une seconde parabole :
+
+> « Ou comme des ténèbres dans une mer profonde, recouverte de vagues, au-dessus desquelles se trouvent d’autres vagues, au-dessus desquelles se trouvent des nuages : ténèbres les unes au-dessus des autres. »
+> [Sourate An-Nūr, verset 40]
+
+Puis :
+
+> « Celui à qui Allah ne donne pas de lumière n’a aucune lumière. »
+> [Sourate An-Nūr, verset 40]
+
+La sourate oppose donc deux mondes spirituels.
+
+lumière sur lumière.
+Et
+ténèbres sur ténèbres.
+
+Plusieurs petites obscurités peuvent s’accumuler :
+- un péché banalisé ;
+- une vérité repoussée ;
+- une habitude ;
+- un orgueil ;
+- une mauvaise influence.
+
+Puis le cœur finit par ne presque plus distinguer où se trouve la sortie.
+
+## Les oiseaux aussi glorifient Allah
+
+Allah demande :
+
+> « Ne vois-tu pas qu’Allah est glorifié par tous ceux qui sont dans les cieux et sur la terre, ainsi que par les oiseaux déployant leurs ailes ? Chacun connaît sa prière et sa glorification. »
+> [Sourate An-Nūr, verset 41]
+
+Une fois encore, le monde matériel du Coran n’est pas spirituellement vide.
+
+L’oiseau que nous regardons simplement comme un animal en vol possède également une relation avec son Créateur selon la manière qu’Allah lui a donnée.
+
+La création tout entière devient presque une immense assemblée de dhikr.
+
+L’homme est invité à prendre volontairement sa place parmi ceux qui se souviennent d’Allah.
+
+## Le royaume des cieux et de la terre appartient à Allah
+
+Allah dit :
+
+> « À Allah appartient la royauté des cieux et de la terre, et vers Allah est la destination. »
+> [Sourate An-Nūr, verset 42]
+
+Deux idées :
+tout Lui appartient maintenant.
+Et :
+tout revient vers Lui ensuite.
+
+La vie humaine se déroule donc entièrement à l’intérieur de la propriété d’Allah.
+
+Nous n’avons jamais été vraiment indépendants entre notre naissance et notre mort.
+
+## Nuages, pluie, grêle et éclairs
+
+Allah attire ensuite le regard vers le ciel :
+
+> « Ne vois-tu pas qu’Allah pousse doucement les nuages, puis les rassemble, puis en fait un amas ? Tu vois alors la pluie en sortir. »
+> [Sourate An-Nūr, verset 43]
+
+Le verset évoque également la grêle et l’éclat des éclairs.
+
+Puis Allah rappelle l’alternance de la nuit et du jour.
+
+> [Sourate An-Nūr, versets 43-44]
+
+La sourate de la Lumière nous apprend ainsi à regarder la lumière réelle du monde physique tout en remontant vers Celui qui gouverne ses cycles.
+
+Il n’est pas nécessaire d’inventer un « miracle scientifique » extrêmement précis à chaque détail.
+
+Le signe est déjà là :
+observe le ciel que tu n’as pas créé et les systèmes dont ta vie dépend.
+
+## Toute créature vivante créée d’eau
+
+Allah dit :
+
+> « Allah a créé toute créature vivante à partir d’eau. Certaines rampent sur le ventre, certaines marchent sur deux jambes et d’autres sur quatre. Allah crée ce qu’Il veut. »
+> [Sourate An-Nūr, verset 45]
+
+Après les règles de société, Allah élargit soudain le regard vers la diversité du vivant.
+
+Reptation.
+Bipédie.
+Quadrupédie.
+Formes différentes.
+
+Mais une origine dépendante de la volonté créatrice d’Allah.
+
+Le monde vivant lui-même est un livre ouvert pour celui qui réfléchit.
+
+## Dire « nous croyons » ne suffit pas toujours
+
+La sourate revient ensuite au comportement humain.
+
+Allah décrit certaines personnes qui disent :
+« Nous croyons en Allah et au Messager et nous obéissons. »
+
+Puis une partie d’entre elles se détourne.
+
+> [Sourate An-Nūr, verset 47]
+
+Le problème apparaît surtout lorsqu’elles doivent accepter un jugement qui ne va pas dans leur intérêt.
+
+Tant que la religion confirme ce que l’homme voulait déjà :
+« nous obéissons. »
+
+Mais lorsqu’elle lui demande de renoncer à quelque chose :
+le test commence réellement.
+
+## La foi n’est pas choisir Allah seulement quand Son jugement m’avantage
+
+Allah demande si ces personnes ont une maladie dans le cœur, doutent ou craignent qu’Allah et Son Messager ne soient injustes envers elles.
+
+> [Sourate An-Nūr, verset 50]
+
+Puis Il oppose à leur attitude celle des vrais croyants :
+
+> « La parole des croyants, lorsqu’ils sont appelés vers Allah et Son Messager afin qu’il juge entre eux, consiste seulement à dire : “Nous avons entendu et nous avons obéi.” »
+> [Sourate An-Nūr, verset 51]
+
+Puis :
+
+> « Ceux-là sont les gagnants. »
+> [Sourate An-Nūr, verset 51]
+
+## « Nous avons entendu et nous avons obéi »
+
+Cette formule ne signifie pas éteindre son intelligence.
+
+Le Coran invite continuellement à réfléchir.
+
+Elle signifie plutôt :
+lorsque j’ai réellement établi que quelque chose vient d’Allah et de Son Messager ﷺ, ma préférence personnelle ne devient pas une autorité supérieure à la Révélation.
+
+Je peux chercher à comprendre la sagesse.
+Je peux poser des questions.
+
+Mais je ne dis pas :
+« J’accepterai seulement si le jugement final correspond exactement à ce que j’avais déjà décidé. »
+
+## La réussite définie une nouvelle fois
+
+Allah dit :
+
+> « Quiconque obéit à Allah et à Son Messager, craint Allah et pratique la taqwā envers Lui : ceux-là sont les gagnants. »
+> [Sourate An-Nūr, verset 52]
+
+La réussite revient encore comme dans Al-Mu’minūn.
+
+Mais elle n’est pas définie par :
+- la popularité ;
+- la richesse ;
+- la liberté de faire tout ce que l’on veut.
+
+Elle est reliée à :
+obéissance, crainte respectueuse et taqwā.
+
+## « Obéissez à Allah et obéissez au Messager »
+
+Allah rappelle ensuite :
+
+> « Dis : obéissez à Allah et obéissez au Messager. »
+> [Sourate An-Nūr, verset 54]
+
+Le Prophète ﷺ possède une responsabilité.
+La communauté en possède une autre.
+
+Il doit transmettre.
+Les hommes répondent de leur réaction à ce qu’il transmet.
+
+Cela protège également le Messager ﷺ de la conception selon laquelle il pourrait forcer intérieurement les hommes à croire.
+
+La guidance du cœur reste auprès d’Allah.
+
+## La promesse faite aux croyants
+
+Allah dit :
+
+> « Allah a promis à ceux d’entre vous qui croient et accomplissent de bonnes œuvres qu’Il leur accordera succession et établissement sur terre comme Il l’a accordé à ceux qui les ont précédés… et qu’Il remplacera leur peur par la sécurité. »
+> [Sourate An-Nūr, verset 55]
+
+Puis vient immédiatement la condition fondamentale :
+
+> « Ils M’adoreront sans rien M’associer. »
+> [Sourate An-Nūr, verset 55]
+
+La sécurité et l’établissement ne constituent donc pas l’objectif suprême.
+
+Le sommet reste :
+adorer Allah seul.
+
+Le pouvoir politique ou social n’est jamais une fin spirituelle suffisante en lui-même.
+
+Il devient un bien lorsqu’il permet une vie plus fidèle à Allah.
+
+## Après les grandes questions de société, Allah entre jusque dans la chambre familiale
+
+À partir du verset 58, la sourate revient à l’intimité de la maison.
+
+Allah ordonne que les jeunes enfants n’ayant pas encore atteint la puberté, ainsi que dans le contexte historique les serviteurs présents au foyer, demandent permission avant d’entrer à trois moments précis :
+
+- avant la prière du Fajr ;
+- au moment du repos de midi lorsque les vêtements peuvent être allégés ;
+- après la prière du ‘Ishā’.
+
+Allah appelle ces moments :
+
+> « trois moments d’intimité pour vous. »
+> [Sourate An-Nūr, verset 58]
+
+## Même les enfants doivent apprendre que leurs parents ont une intimité
+
+C’est extrêmement fin.
+
+Un enfant peut vivre dans la même maison.
+Il peut entrer librement beaucoup plus souvent qu’un visiteur extérieur.
+
+Mais cela ne signifie pas qu’il n’existe aucune frontière.
+
+Allah apprend donc la pudeur à l’intérieur même de la famille.
+
+Les parents ont une intimité conjugale et corporelle que l’enfant n’a pas à surprendre.
+
+La pudeur s’enseigne aussi par l’organisation des espaces et des moments.
+
+## Après la puberté, la règle devient plus stricte
+
+Allah dit ensuite :
+
+> « Lorsque les enfants parmi vous atteignent la puberté, qu’ils demandent permission comme ceux qui les ont précédés. »
+> [Sourate An-Nūr, verset 59]
+
+Avant la puberté :
+permission renforcée aux moments particulièrement intimes.
+
+Après :
+les règles ordinaires d’entrée des adultes s’appliquent.
+
+Le Coran reconnaît ainsi que l’enfant grandit et que les règles de pudeur doivent évoluer avec sa maturation.
+
+## Une règle particulière pour certaines femmes âgées
+
+Allah dit :
+
+> « Quant aux femmes âgées qui n’espèrent plus le mariage, il n’y a aucun péché pour elles à déposer certains de leurs vêtements extérieurs sans exhiber leurs parures ; mais rester pudiques est meilleur pour elles. »
+> [Sourate An-Nūr, verset 60]
+
+Les exégètes classiques comprennent ici les vêtements extérieurs supplémentaires, comme le jilbāb ou le manteau porté au-dessus de la tenue habituelle, et non une permission générale de découvrir l’ensemble de la ‘awrah. Le verset précise d’ailleurs qu’il ne s’agit pas d’exhiber volontairement la parure.
+
+La règle montre également que la législation prend en compte les différentes étapes de la vie.
+
+Les prescriptions ne sont pas nécessairement identiques dans toutes les situations humaines.
+
+## Le Coran mentionne aussi les personnes malades ou en situation de handicap autour de la table
+
+Le verset 61 affirme qu’il n’y a pas de gêne pour l’aveugle, le boiteux, le malade ou les autres croyants à manger dans plusieurs maisons familiales, chez des amis, ensemble ou séparément.
+
+> [Sourate An-Nūr, verset 61]
+
+Les exégètes rapportent plusieurs contextes expliquant ces hésitations : certains craignaient notamment de léser les personnes handicapées en mangeant avec elles, tandis que d’autres personnes concernées hésitaient elles-mêmes à manger chez des proches. Le verset lève ces scrupules excessifs.
+
+La piété ne consiste donc pas à créer des interdictions là où Allah a donné de la facilité.
+
+## « Lorsque vous entrez dans des maisons, saluez-vous »
+
+Le même verset dit :
+
+> « Lorsque vous entrez dans des maisons, adressez-vous mutuellement une salutation venant d’Allah, bénie et bonne. »
+> [Sourate An-Nūr, verset 61]
+
+La maison croyante est ainsi entourée de :
+permission avant d’entrer,
+respect de l’intimité,
+
+puis :
+salām.
+
+La première parole qui entre dans la maison devrait porter la paix.
+
+## L’étiquette dans les affaires collectives
+
+Allah parle ensuite des croyants réunis avec le Prophète ﷺ pour une affaire commune.
+
+Ils ne doivent pas quitter l’assemblée sans lui demander permission.
+
+> [Sourate An-Nūr, verset 62]
+
+Les exégètes appliquent cela aux situations nécessitant la présence collective autour du Messager ﷺ, par exemple une consultation, une affaire publique ou certaines circonstances importantes.
+
+La foi crée donc également une discipline collective.
+
+On ne pense pas seulement :
+« Je suis libre de partir quand je veux. »
+
+On demande :
+« Est-ce que ma présence est nécessaire pour ce que nous accomplissons ensemble ? »
+
+## Le respect dû au Messager ﷺ
+
+Allah dit ensuite :
+
+> « Ne considérez pas l’appel du Messager parmi vous comme l’appel que vous vous adressez les uns aux autres. »
+> [Sourate An-Nūr, verset 63]
+
+Les exégètes ont mentionné plusieurs nuances, notamment le fait de ne pas s’adresser au Prophète ﷺ avec la désinvolture employée entre personnes ordinaires, et le sérieux de son appel lorsqu’il convoque les croyants.
+
+Le principe général reste :
+Muhammad ﷺ n’est pas un homme quelconque dans sa fonction.
+
+Il est humain.
+
+Mais il est le Messager d’Allah.
+
+Le respect de sa mission fait partie de la foi.
+
+## Allah connaît ceux qui se glissent discrètement hors de l’assemblée
+
+Le verset 63 évoque aussi ceux qui s’éclipsent en se cachant derrière les autres.
+
+Ils peuvent tromper l’assemblée.
+
+Mais pas Allah.
+
+Une grande partie d’An-Nūr tourne justement autour de cette idée :
+
+on peut contrôler son apparence devant les hommes, mais Allah connaît ce qui se passe derrière les murs, derrière les paroles et dans les cœurs.
+
+C’est pourquoi la vraie pudeur ne peut pas être uniquement sociale.
+
+Elle doit devenir taqwā.
+
+## La sourate se termine exactement là où toute lumière doit conduire
+
+Le dernier verset dit :
+
+> « C’est à Allah qu’appartient tout ce qui est dans les cieux et sur la terre. Il sait parfaitement dans quel état vous êtes. Et le jour où ils seront ramenés vers Lui, Il les informera de ce qu’ils ont fait. Allah connaît parfaitement toute chose. »
+> [Sourate An-Nūr, verset 64]
+
+La sourate avait parlé :
+- de ce que les gens racontent ;
+- de ce qu’ils regardent ;
+- de ce qu’ils cachent ;
+- de ce qui se déroule dans les maisons ;
+- de ce qui se passe dans les cœurs.
+
+Elle termine par :
+Allah sait.
+
+Voilà ce qui donne finalement leur cohérence à toutes les règles précédentes.
+
+Même lorsqu’aucun humain ne voit :
+Allah voit.
+
+Même lorsque personne ne connaît la vérité d’une accusation :
+Allah sait.
+
+Même lorsque l’intention derrière un geste paraît invisible :
+Allah sait.
+
+## Une sourate qui protège avant même que le mal ne se produise
+
+An-Nūr ne traite pas uniquement les fautes après qu’elles ont eu lieu.
+
+Elle construit des barrières avant.
+
+Pour protéger la chasteté :
+baissez le regard.
+
+Pour protéger l’intimité :
+demandez permission avant d’entrer.
+
+Pour protéger la réputation :
+n’acceptez pas une accusation sans preuve.
+
+Pour protéger la communauté :
+ne diffusez pas les rumeurs.
+
+Pour protéger les désirs :
+facilitez le mariage.
+
+Pour protéger le cœur :
+repentez-vous tous devant Allah.
+
+La sagesse est donc souvent préventive.
+
+Il vaut mieux fermer une porte au début que tenter de réparer tout ce qui a été détruit après qu’elle a été franchie.
+
+## Une sourate sur le regard
+
+Le regard apparaît sous plusieurs formes.
+
+Le regard sexuel :
+« baissez vos regards. »
+
+Le regard porté sur la réputation d’autrui :
+
+ne croyez pas automatiquement le pire.
+
+Le regard sur les signes de la création :
+
+nuages,
+oiseaux,
+jour,
+nuit.
+
+Et enfin le regard intérieur :
+Allah guide vers Sa lumière qui Il veut.
+
+Comme si la sourate enseignait :
+la manière dont tu regardes façonne progressivement ce qui entre dans ton cœur.
+
+Tous les regards ne sont pas neutres.
+
+Certains conduisent vers la lumière.
+
+D’autres commencent les pas de Satan.
+
+## Une sourate sur la parole
+
+La parole est tout aussi centrale.
+
+Une accusation peut détruire.
+Une rumeur peut se multiplier.
+Une parole répétée sans connaissance peut être immense auprès d’Allah.
+
+À l’inverse :
+le salām apporte la paix dans les maisons.
+
+Le dhikr remplit les mosquées.
+
+Le croyant dit :
+« Nous avons entendu et nous avons obéi. »
+
+La bouche peut donc devenir un instrument de ténèbres ou un instrument de lumière.
+
+## Une sourate sur la dignité de la vie privée
+
+Un autre thème particulièrement moderne est le droit à l’intimité.
+
+Ne pas entrer dans une maison sans permission.
+
+Accepter de repartir lorsqu’on ne veut pas nous recevoir.
+
+Apprendre aux enfants à demander permission à certains moments.
+
+Préserver la pudeur corporelle.
+
+Ne pas transformer les fautes privées et les soupçons en spectacles publics.
+
+An-Nūr enseigne ainsi quelque chose de très fin :
+tout ce qui est vrai n’a pas forcément besoin d’être exposé publiquement, et tout ce qui est privé n’appartient pas aux autres.
+
+La curiosité ne crée pas automatiquement un droit d’accès.
+
+## L’affaire de l’Ifk résume une grande partie de la sourate
+
+Une femme est calomniée.
+
+Que faut-il faire ?
+
+Ne pas croire automatiquement.
+Demander une preuve.
+Penser du bien.
+Ne pas transmettre.
+Reconnaître la gravité d’une parole.
+
+Puis lorsque la vérité apparaît :
+ne pas nécessairement transformer la justice en vengeance éternelle.
+
+Allah demande même à Abū Bakr رضي الله عنه :
+
+> « N’aimez-vous pas qu’Allah vous pardonne ? »
+> [Sourate An-Nūr, verset 22]
+
+La sourate protège donc simultanément :
+- la justice ;
+- la réputation ;
+- la vérité ;
+- et la possibilité du pardon.
+
+C’est un équilibre extraordinairement difficile.
+
+## La lumière du verset 35 éclaire en réalité toute la sourate
+
+Au premier abord, on pourrait se demander pourquoi le célèbre Āyat an-Nūr se trouve au milieu de règles sur le regard, les maisons et la chasteté.
+
+Mais c’est peut-être précisément là sa beauté.
+
+La lumière d’Allah n’est pas destinée à rester une contemplation théorique.
+
+Elle éclaire :
+
+Ce que je regarde.
+Ce que je porte.
+Ce que je raconte.
+Ce que je crois d’un autre.
+La manière dont j’entre chez lui.
+La manière dont je respecte son intimité.
+La manière dont je vis ma sexualité.
+La manière dont je travaille sans oublier la prière.
+
+Puis cette lumière trouve son symbole :
+une niche.
+une lampe.
+un verre brillant.
+une huile pure.
+
+Et :
+
+> « Lumière sur lumière. »
+> [Sourate An-Nūr, verset 35]
+
+## Le contraire de la lumière n’est pas seulement l’ignorance
+
+An-Nūr montre également que les ténèbres peuvent venir de choses que l’on connaît très bien.
+
+Une personne sait qu’elle ne possède aucune preuve.
+
+Mais elle transmet la rumeur.
+
+Elle sait qu’elle doit détourner son regard.
+
+Mais elle choisit de le prolonger.
+
+Elle sait que le jugement vient d’Allah.
+
+Mais elle ne l’accepte que lorsqu’il lui convient.
+
+Les ténèbres spirituelles ne sont donc pas toujours :
+« je ne savais pas. »
+
+Elles peuvent être :
+« je savais, mais je n’ai pas voulu laisser cette connaissance me gouverner. »
+
+C’est pourquoi la lumière demande aussi l’obéissance.
+
+## Le message central de la sourate An-Nūr
+
+An-Nūr commence par une déclaration très forte :
+
+> « Voici une sourate que Nous avons fait descendre et dont Nous avons rendu les prescriptions obligatoires. »
+> [Sourate An-Nūr, verset 1]
+
+Puis Allah commence à construire une communauté éclairée.
+
+Il protège la chasteté.
+Il protège l’honneur.
+Il protège l’accusé contre la calomnie.
+Il protège la maison contre l’intrusion.
+Il protège l’œil contre ce qui corrompt le cœur.
+Il protège les relations sexuelles par des limites.
+Il facilite le mariage.
+Il protège la femme exploitée contre la contrainte.
+Il apprend aux enfants eux-mêmes le respect de l’intimité.
+Et surtout, il apprend à toute une communauté à contrôler sa langue.
+
+Puis, au milieu de tout cela :
+
+> « Allah est la Lumière des cieux et de la terre. »
+> [Sourate An-Nūr, verset 35]
+
+Comme si le message était :
+voilà pourquoi toutes ces règles existent.
+
+Elles ne sont pas une collection arbitraire d’interdictions.
+
+Elles cherchent à créer un espace où la lumière peut entrer sans être constamment obscurcie par le désir, le soupçon, la rumeur et l’intrusion.
+
+Le croyant apprend donc que la lumière ne se cherche pas uniquement dans les grands moments spirituels.
+
+Elle se cherche aussi lorsqu’il décide :
+- de détourner les yeux.
+- de ne pas transférer une rumeur.
+- de frapper avant d’entrer.
+- de respecter un “non”.
+- de pardonner alors qu’il aurait envie de rester dans la rancune.
+- de quitter son commerce quelques minutes pour la prière.
+
+Et de dire, lorsque le jugement d’Allah devient clair :
+
+> « Nous avons entendu et nous avons obéi. »
+> [Sourate An-Nūr, verset 51]
+
+Voilà peut-être l’essence d’An-Nūr :
+la lumière d’Allah ne transforme pas seulement ce que l’on croit ; elle transforme ce que l’on regarde, ce que l’on dit, ce que l’on montre, ce que l’on cache et la manière dont on traite l’honneur et l’intimité des autres.
+
+Et lorsque cette lumière entre réellement dans le cœur, elle commence progressivement à éclairer toute la vie.
+
+
 [[/desc]]
 
 [[desc 25]]
