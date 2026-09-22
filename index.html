@@ -144,12 +144,25 @@ nav{ display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-botto
 .onglet.desc[disabled], .onglet.ph[disabled]{ opacity:.22; }
 .curseur{
   position:absolute; right:12px; top:64px; bottom:64px; width:2px; border-radius:2px;
-  background:rgba(201,162,39,.12); opacity:0; transition:opacity .3s; pointer-events:none;
+  background:rgba(201,162,39,.12); opacity:0; pointer-events:none;
+  transition:opacity .3s, width .2s;
 }
-.curseur.actif{ opacity:1; }
+/* zone de prise invisible, plus large que le fin trait doré */
+.curseur::before{ content:''; position:absolute; top:0; bottom:0; left:-10px; right:-10px; }
+.curseur.actif{ opacity:1; pointer-events:auto; cursor:default; }
 .curseur i{
   position:absolute; left:0; width:100%; border-radius:2px;
   background:rgba(201,162,39,.7); display:block;
+  transition:background .2s, box-shadow .2s;
+}
+/* au survol et pendant la saisie : le trait s'épaissit et s'illumine */
+.curseur.actif:hover, .curseur.saisi{ width:4px; }
+.curseur.actif:hover i, .curseur.saisi i{
+  background:var(--or-clair); box-shadow:0 0 10px rgba(227,195,101,.65);
+}
+body[data-theme="clair"] .curseur.actif:hover i,
+body[data-theme="clair"] .curseur.saisi i{
+  background:#8A6C10; box-shadow:0 0 8px rgba(138,108,16,.45);
 }
 .texte.ar{
   font-family:'Amiri','Scheherazade New','Geeza Pro','Traditional Arabic',serif;
@@ -1477,6 +1490,45 @@ scene.addEventListener("pointerup", relacher);
 scene.addEventListener("pointercancel", relacher);
 window.addEventListener("resize", ajusterTout);
 if (document.fonts && document.fonts.ready) document.fonts.ready.then(ajusterTout);
+
+/* ---- saisie du curseur de défilement (à droite de la carte) ---- */
+document.querySelectorAll(".curseur").forEach(function(c){
+  const boite = c.parentElement.querySelector(".corps");
+  let saisi = false, prise = 0;
+
+  const placer = function(e){
+    const rail = c.getBoundingClientRect();
+    const pouce = c.firstElementChild.getBoundingClientRect();
+    const course = rail.height - pouce.height;
+    const r = course > 0 ? Math.min(Math.max((e.clientY - rail.top - prise) / course, 0), 1) : 0;
+    boite.scrollTop = r * (boite.scrollHeight - boite.clientHeight);
+  };
+
+  c.addEventListener("pointerdown", function(e){
+    if (boiteVisible() !== boite) return;   /* uniquement sur la face visible */
+    e.stopPropagation();                     /* la carte ne réagit pas */
+    e.preventDefault();
+    const pouce = c.firstElementChild.getBoundingClientRect();
+    /* saisi sur le trait : il suit la souris sans sauter ;
+       clic ailleurs sur le rail : le trait vient se placer sous la souris */
+    prise = (e.clientY >= pouce.top && e.clientY <= pouce.bottom)
+      ? e.clientY - pouce.top : pouce.height / 2;
+    saisi = true;
+    c.classList.add("saisi");
+    c.setPointerCapture(e.pointerId);
+    placer(e);
+  });
+  c.addEventListener("pointermove", function(e){ if (saisi) placer(e); });
+  const lacher = function(){ saisi = false; c.classList.remove("saisi"); };
+  c.addEventListener("pointerup", lacher);
+  c.addEventListener("pointercancel", lacher);
+
+  /* la molette marche aussi quand la souris est posée sur le curseur */
+  c.addEventListener("wheel", function(e){
+    e.preventDefault();
+    boite.scrollTop += e.deltaY * (e.deltaMode === 1 ? 16 : 1);
+  }, { passive:false });
+});
 
 /* ---- glissement sur la barre de progression ---- */
 (function(){
