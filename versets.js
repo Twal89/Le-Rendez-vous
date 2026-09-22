@@ -54938,6 +54938,773 @@ Allah nous a donné un critère pour ne pas être gouvernés uniquement par nos 
 
 [[desc 26]]
 
+La sourate Ash-Shuʿarā’ (سورة الشعراء), vingt-sixième sourate du Coran, est une sourate mecquoise de 227 versets. Son nom signifie « Les Poètes », en référence aux derniers versets dans lesquels Allah distingue les poètes entraînant les hommes dans l’égarement de ceux qui croient, accomplissent de bonnes œuvres et utilisent leur parole au service de la vérité.
+
+La grande majorité de la sourate appartient clairement à la période mecquoise. Certains savants ont toutefois rapporté des avis selon lesquels ses derniers versets auraient été révélés plus tard ; il est donc préférable de simplement la présenter comme une sourate mecquoise sans transformer ces avis secondaires en certitude.
+
+Ash-Shuʿarā’ possède une structure particulièrement reconnaissable.
+
+Elle commence par le chagrin du Prophète Muhammad ﷺ devant le refus de son peuple, puis raconte successivement les histoires de Mūsā, Ibrāhīm, Nūḥ, Hūd, Ṣāliḥ, Lūṭ et Shuʿayb عليهم السلام.
+
+Les détails changent.
+Les peuples changent.
+Les formes d’opposition changent.
+
+Mais une même réalité revient encore et encore : Allah envoie un messager, celui-ci appelle sincèrement son peuple, une grande partie refuse par orgueil ou attachement à ses habitudes, puis vient le jugement d’Allah.
+
+Et presque chaque récit se termine par le même formule :
+
+> « Voilà bien là un signe ! Mais la plupart d’entre eux ne croient pas. Et ton Seigneur est en vérité Lui le Tout-Puissant, le Très Miséricordieux. »
+> [Sourate Ash-Shuʿarā’, versets 8-9]
+
+Cette formule constitue l’un des grands fils conducteurs de toute la sourate.
+
+## « Il se peut que tu te consumes de chagrin »
+
+La sourate s’ouvre par les lettres :
+
+> « Ṭā-Sīn-Mīm. Voici les versets du Livre explicite. »
+> [Sourate Ash-Shuʿarā’, versets 1-2]
+
+Puis Allah s’adresse immédiatement à Son Messager ﷺ :
+
+> « Il se peut que tu te consumes de chagrin parce qu’ils ne sont pas croyants. »
+> [Sourate Ash-Shuʿarā’, verset 3]
+
+Cette parole révèle quelque chose de très profond sur le Prophète Muhammad ﷺ.
+
+Le refus des hommes ne lui était pas indifférent.
+
+Il ne prêchait pas simplement pour accomplir une mission extérieure avant de se détourner froidement de ceux qui refusaient.
+
+Il désirait réellement leur guidance.
+
+Leur éloignement d’Allah le faisait souffrir.
+
+Mais Allah lui apprend également une limite essentielle : le Messager transmet ; il ne possède pas les cœurs.
+
+Allah dit ensuite :
+
+> « Si Nous voulions, Nous ferions descendre du ciel sur eux un signe devant lequel leurs nuques resteraient courbées. »
+> [Sourate Ash-Shuʿarā’, verset 4]
+
+Allah pourrait parfaitement imposer un signe tellement écrasant que toute résistance apparente disparaîtrait.
+
+Mais l’existence terrestre n’a pas été conçue de cette manière.
+
+L’être humain reçoit des signes, une révélation, des avertissements et une possibilité de choisir.
+
+Le Prophète ﷺ doit donc appeler avec toute sa sincérité sans porter sur ses épaules ce qu’Allah ne lui a pas donné à contrôler.
+
+## Les signes sont déjà autour de nous
+
+Quelques versets plus loin, Allah attire l’attention vers la terre :
+
+> « N’ont-ils pas observé la terre, combien Nous y avons fait pousser de toutes sortes de nobles espèces ? »
+> [Sourate Ash-Shuʿarā’, verset 7]
+
+Le problème n’est donc pas toujours l’absence de signes extraordinaires.
+
+Il arrive que l’être humain demande un miracle alors qu’il vit déjà au milieu d’une création extraordinaire.
+
+Une terre apparemment morte reçoit de l’eau.
+
+Une graine presque invisible devient une plante.
+
+Des formes, des couleurs et des espèces innombrables apparaissent selon des lois qu’Allah maintient.
+
+Puis vient la formule :
+
+> « Voilà bien là un signe ! Mais la plupart d’entre eux ne croient pas. Et ton Seigneur est en vérité Lui le Tout-Puissant, le Très Miséricordieux. »
+> [Sourate Ash-Shuʿarā’, versets 8-9]
+
+Ces deux Noms — Al-ʿAzīz, le Tout-Puissant, et Ar-Raḥīm, le Très Miséricordieux — accompagneront les récits qui suivent.
+
+Allah possède la puissance de juger ceux qui persistent dans l’injustice.
+
+Mais Il est aussi Celui qui envoie d’abord des messagers, avertit, explique et ouvre la porte du retour.
+
+La puissance divine n’est pas séparée de la miséricorde.
+
+## Mūsā عليه السلام face à Pharaon
+
+Le premier grand récit de la sourate est celui de Mūsā عليه السلام.
+
+Allah lui ordonne :
+
+> « Va vers le peuple injuste, le peuple de Pharaon. Ne craindront-ils donc pas Allah ? »
+> [Sourate Ash-Shuʿarā’, versets 10-11]
+
+Mūsā عليه السلام exprime immédiatement ses craintes.
+
+Il redoute qu’ils le traitent de menteur, ressent une gêne dans sa poitrine et rappelle également l’affaire de l’homme qu’il avait autrefois tué involontairement.
+
+Allah ne lui demande pourtant pas d’être un homme ne ressentant aucune peur.
+
+Il lui demande d’avancer malgré elle.
+
+Hārūn عليه السلام l’accompagnera.
+
+Lorsqu’ils se présentent devant Pharaon, celui-ci ne commence pas par répondre au message de Mūsā.
+
+Il l’attaque personnellement.
+
+Il lui rappelle qu’il a grandi dans son palais et évoque son acte passé :
+
+> « Ne t’avons-nous pas élevé chez nous alors que tu étais enfant ? Et n’as-tu pas passé parmi nous plusieurs années de ta vie ? Puis tu as commis l’acte que tu as commis… »
+> [Sourate Ash-Shuʿarā’, versets 18-19]
+
+Mūsā عليه السلام ne nie pas son passé.
+
+Il reconnaît qu’il avait commis cet acte alors qu’il n’avait pas encore reçu la révélation, puis rappelle qu’Allah lui a accordé la sagesse et l’a établi parmi les messagers.
+
+Une leçon importante apparaît ici :
+un passé imparfait n’empêche pas nécessairement Allah de transformer totalement l’avenir d’un homme.
+
+Mūsā عليه السلام n’est pas défini éternellement par la pire erreur de sa vie.
+
+Il s’en est éloigné, Allah l’a guidé et il se trouve maintenant devant l’homme le plus puissant d’Égypte pour lui transmettre la parole d’Allah.
+
+## « Et qu’est-ce que le Seigneur des mondes ? »
+
+Pharaon demande :
+
+> « Et qu’est-ce que le Seigneur des mondes ? »
+> [Sourate Ash-Shuʿarā’, verset 23]
+
+Mūsā عليه السلام lui répond en dirigeant son regard vers une souveraineté infiniment plus grande que la sienne :
+
+> « Le Seigneur des cieux et de la terre et de ce qui existe entre eux, si seulement vous pouviez en avoir la certitude. »
+> [Sourate Ash-Shuʿarā’, verset 24]
+
+Puis :
+
+> « Votre Seigneur et le Seigneur de vos premiers ancêtres. »
+> [Sourate Ash-Shuʿarā’, verset 26]
+
+Et :
+
+> « Le Seigneur du Levant et du Couchant et de ce qui existe entre eux, si seulement vous raisonnez. »
+> [Sourate Ash-Shuʿarā’, verset 28]
+
+Pharaon possède un territoire.
+Allah possède les cieux et la terre.
+
+Pharaon appartient à une génération.
+Allah est le Seigneur des générations présentes et passées.
+
+Pharaon exerce un pouvoir politique.
+Allah est Celui qui fait apparaître chaque matin le soleil à l’Orient et le fait disparaître à l’Occident.
+
+La prétention de Pharaon devient minuscule lorsqu’elle est replacée à l’échelle de la création.
+
+## Quand les arguments deviennent des menaces
+
+Pharaon finit par dire :
+
+> « Si tu adoptes une autre divinité que moi, je te mettrai certainement parmi les prisonniers. »
+> [Sourate Ash-Shuʿarā’, verset 29]
+
+Lorsqu’il ne peut pas répondre à la vérité, il utilise son pouvoir.
+
+C’est un mécanisme qui revient souvent dans les récits coraniques : celui qui domine politiquement peut être tenté de croire que sa capacité à punir remplace un argument.
+
+Mais Mūsā عليه السلام produit alors les signes qu’Allah lui a donnés.
+
+Son bâton devient visiblement un serpent.
+Sa main apparaît lumineuse.
+
+Pharaon transforme immédiatement l’affaire en menace politique et accuse Mūsā d’être un magicien voulant chasser les habitants de leur terre.
+
+La question religieuse devient une affaire de peur collective.
+
+## Les magiciens : quelques instants qui changent une vie
+
+Pharaon rassemble alors les meilleurs magiciens.
+
+Ils viennent initialement avec une motivation très éloignée de la foi.
+
+Ils demandent :
+
+> « Aurons-nous vraiment une récompense si nous sommes les vainqueurs ? »
+> [Sourate Ash-Shuʿarā’, verset 41]
+
+Quelques instants plus tard, leur vie entière bascule.
+
+Lorsque Mūsā عليه السلام jette son bâton et que celui-ci engloutit réellement leurs illusions, les magiciens comprennent mieux que la foule ce qu’ils viennent de voir.
+
+Ils savent reconnaître la magie.
+
+Et précisément parce qu’ils la connaissent, ils savent que ce qui se déroule devant eux n’en est pas.
+
+Ils tombent alors prosternés :
+
+> « Nous croyons au Seigneur des mondes, le Seigneur de Mūsā et de Hārūn. »
+> [Sourate Ash-Shuʿarā’, versets 47-48]
+
+Quelques minutes auparavant, ils recherchaient la faveur de Pharaon.
+
+Maintenant, Pharaon les menace de leur couper les mains et les pieds en sens opposé et de les crucifier.
+
+Mais quelque chose a changé à l’intérieur d’eux.
+
+Ils répondent :
+
+> « Il n’y a aucun mal. Nous retournerons vers notre Seigneur. »
+> [Sourate Ash-Shuʿarā’, verset 50]
+
+La foi a soudainement changé leur manière de mesurer le danger.
+
+Pharaon peut désormais menacer leur corps.
+Il ne possède plus leur cœur.
+
+## La mer : lorsque toutes les causes visibles semblent disparaître
+
+Plus tard, Mūsā عليه السلام quitte l’Égypte avec les enfants d’Israël.
+
+Pharaon les poursuit avec son armée.
+
+Lorsque les deux groupes s’aperçoivent, les compagnons de Mūsā disent :
+
+> « Nous allons certainement être rattrapés. »
+> [Sourate Ash-Shuʿarā’, verset 61]
+
+D’un point de vue purement visible, leur conclusion semble logique.
+
+Devant eux : la mer.
+
+Derrière eux : l’armée de Pharaon.
+
+Mais Mūsā répond :
+
+> « Jamais ! Mon Seigneur est avec moi et Il me guidera. »
+> [Sourate Ash-Shuʿarā’, verset 62]
+
+Cette parole ne signifie pas que le croyant doit nier les difficultés visibles.
+
+Mūsā voit parfaitement la mer.
+Il voit parfaitement Pharaon.
+
+Mais il sait aussi quelque chose que ses compagnons oublient dans l’instant de panique :
+
+les causes visibles ne sont pas les limites du pouvoir d’Allah.
+
+Allah ordonne alors à Mūsā de frapper la mer avec son bâton.
+Elle s’ouvre.
+
+Les croyants traversent.
+Pharaon et son armée sont engloutis.
+
+Et le récit se termine encore :
+
+> « Voilà bien là un signe ! Mais la plupart d’entre eux ne croient pas. Et ton Seigneur est en vérité Lui le Tout-Puissant, le Très Miséricordieux. »
+> [Sourate Ash-Shuʿarā’, versets 67-68]
+
+## Ibrāhīm عليه السلام : « Qu’adorez-vous ? »
+
+Après Mūsā vient Ibrāhīm عليه السلام.
+
+Il demande à son père et à son peuple :
+
+> « Qu’adorez-vous ? »
+> [Sourate Ash-Shuʿarā’, verset 70]
+
+Ils répondent qu’ils adorent des idoles et qu’ils demeurent attachés à leur culte.
+
+Ibrāhīm leur pose alors des questions extrêmement simples :
+Les idoles vous entendent-elles ?
+Vous apportent-elles un bénéfice ?
+Peuvent-elles vous nuire ?
+
+Leur réponse révèle la véritable racine de leur pratique :
+
+> « Mais nous avons trouvé nos ancêtres agissant ainsi. »
+> [Sourate Ash-Shuʿarā’, verset 74]
+
+Ils ne présentent pas une preuve.
+Ils présentent une habitude héritée.
+
+Le Coran enseigne ainsi qu’une tradition ancienne n’est pas automatiquement vraie simplement parce qu’elle est ancienne.
+
+Respecter ses ancêtres ne signifie pas leur attribuer l’infaillibilité.
+
+## « Celui qui m’a créé, c’est Lui qui me guide »
+
+Ibrāhīm عليه السلام décrit ensuite son Seigneur dans l’un des passages les plus beaux de la sourate :
+
+> « Celui qui m’a créé, c’est Lui qui me guide ; et c’est Lui qui me nourrit et me donne à boire ; et lorsque je suis malade, c’est Lui qui me guérit ; et c’est Lui qui me fera mourir puis me redonnera la vie ; et c’est de Lui que j’espère le pardon de mes fautes au Jour de la Rétribution. »
+> [Sourate Ash-Shuʿarā’, versets 78-82]
+
+Toute l’existence humaine apparaît dans quelques phrases.
+
+La création.
+La guidance.
+La nourriture.
+L’eau.
+La maladie et la guérison.
+La mort.
+La résurrection.
+Le pardon.
+
+Ibrāhīm عليه السلام ne voit pas Allah seulement dans les moments spectaculaires.
+
+Il Le reconnaît dans chaque dimension de son existence.
+
+## Une invocation pour ce qui compte réellement
+
+Ibrāhīm عليه السلام poursuit :
+
+> « Seigneur ! Accorde-moi sagesse et joins-moi aux vertueux. Fais que j’aie une mention honorable parmi les générations futures. Fais de moi l’un des héritiers du Jardin des délices. »
+> [Sourate Ash-Shuʿarā’, versets 83-85]
+
+Il demande la sagesse.
+La compagnie des vertueux.
+Une trace de vérité après sa mort.
+Et le Paradis.
+
+Puis il décrit le Jour où les valeurs terrestres seront renversées :
+
+> « Le jour où ni les biens ni les enfants ne seront d’aucune utilité, sauf celui qui viendra à Allah avec un cœur sain. »
+> [Sourate Ash-Shuʿarā’, versets 88-89]
+
+Ibn Kathīr rapporte plusieurs explications des premières générations autour du qalb salīm, le cœur sain, avec un point central très clair : c’est notamment un cœur préservé du shirk, tourné sincèrement vers Allah.
+
+Dans ce monde, nous évaluons souvent la réussite selon ce que l’homme possède autour de lui.
+
+Le verset nous oblige à regarder ce qu’il porte en lui.
+
+Un patrimoine peut disparaître.
+Une réputation peut disparaître.
+
+Les relations les plus importantes de ce monde ne permettent pas d’échapper au jugement d’Allah.
+
+Ce qui accompagne réellement le serviteur est la foi avec laquelle son cœur revient vers son Seigneur.
+
+## Nūḥ عليه السلام : la vérité n’est pas réservée à une élite
+
+Vient ensuite Nūḥ عليه السلام.
+
+Comme plusieurs prophètes de la sourate, il dit :
+
+> « Je suis pour vous un messager digne de confiance. Craignez donc Allah et obéissez-moi. Je ne vous demande pour cela aucun salaire ; ma récompense n’incombe qu’au Seigneur des mondes. »
+> [Sourate Ash-Shuʿarā’, versets 107-109]
+
+Cette formule reviendra presque mot pour mot chez plusieurs messagers.
+
+Le message n’est pas une entreprise personnelle.
+
+Ils ne cherchent pas à bâtir leur fortune à travers la prédication.
+
+Ils transmettent pour Allah.
+
+Le peuple de Nūḥ lui reproche notamment d’être suivi par des personnes qu’il considère socialement comme inférieures.
+
+Nūḥ refuse cette logique.
+
+Il n’a pas été envoyé pour examiner la position sociale de ceux qui croient ni pour expulser les croyants afin de séduire une élite.
+
+La valeur d’un homme auprès d’Allah ne se mesure pas à son prestige terrestre.
+
+Finalement, Nūḥ et les croyants sont sauvés dans l’Arche et ceux qui persistent dans le rejet sont noyés.
+
+Puis revient encore la même formule.
+
+## Hūd عليه السلام et l’illusion de durer éternellement
+
+Hūd عليه السلام est envoyé au peuple de ʿĀd.
+
+La sourate évoque leur puissance matérielle et leur goût pour les constructions :
+
+> « Construisez-vous sur chaque hauteur un monument par frivolité ? Et édifiez-vous des constructions comme si vous deviez vivre éternellement ? »
+> [Sourate Ash-Shuʿarā’, versets 128-129]
+
+Le problème n’est pas simplement de construire.
+
+Le reproche vise ce que ces constructions révèlent de leur rapport au monde : ostentation, arrogance et illusion de permanence.
+
+Ils bâtissent comme si la mort n’allait jamais interrompre leur puissance.
+
+Hūd leur rappelle pourtant Celui qui leur a accordé leurs troupeaux, leurs enfants, leurs jardins et leurs sources.
+
+La richesse n’est pas présentée comme mauvaise en elle-même.
+
+Le danger apparaît lorsqu’un bienfait cesse de conduire à la reconnaissance et nourrit au contraire le sentiment d’autosuffisance.
+
+## Ṣāliḥ عليه السلام : vivre dans l’abondance sans oublier Allah
+
+Le peuple de Thamūd apparaît ensuite.
+
+Il vit parmi les jardins, les sources, les cultures et les palmiers et taille habilement des demeures dans les montagnes.
+
+Une civilisation peut donc posséder des techniques impressionnantes et rester spirituellement aveugle.
+
+Allah leur donne le signe de la chamelle.
+
+Ṣāliḥ عليه السلام leur demande de respecter le partage de l’eau et de ne lui faire aucun mal.
+
+Mais ils finissent par l’attaquer.
+
+Le Coran décrit ensuite leur regret, devenu inutile lorsque le châtiment arrive.
+
+Un autre principe apparaît :
+le regret n’est pas la même chose que le repentir lorsqu’il ne vient qu’après la disparition complète de la possibilité de choisir.
+
+## Lūṭ عليه السلام et les limites que l’être humain veut renverser
+
+Le récit de Lūṭ عليه السلام reprend encore la même formule :
+
+> « Je suis pour vous un messager digne de confiance. Craignez donc Allah et obéissez-moi. »
+> [Sourate Ash-Shuʿarā’, versets 162-163]
+
+Il condamne ensuite les pratiques sexuelles de son peuple et leur reproche de délaisser ce qu’Allah leur a créé dans leurs épouses pour transgresser les limites qu’Il a établies.
+
+Son peuple ne répond pas par une réfutation.
+Il le menace d’expulsion.
+
+Lūṭ عليه السلام affirme clairement son rejet de leurs actes et demande à Allah de le sauver, lui et sa famille.
+
+Allah les sauve, à l’exception d’une femme restée parmi ceux qui subirent le châtiment ; les exégètes l’identifient à l’épouse de Lūṭ mentionnée dans d’autres passages du Coran.
+
+Le récit rappelle ainsi que la proximité familiale avec un prophète ne remplace jamais la foi personnelle.
+
+## Shuʿayb عليه السلام : la religion jusque dans les transactions
+
+Le dernier grand récit prophétique est celui de Shuʿayb عليه السلام et des gens d’Al-Aykah.
+
+Son appel concerne naturellement le Tawḥīd et la crainte d’Allah, mais la sourate insiste aussi sur leur comportement économique :
+
+> « Donnez la pleine mesure et ne soyez pas de ceux qui causent des pertes. Pesez avec une balance exacte. Ne diminuez pas aux gens leurs biens et ne semez pas la corruption sur terre. »
+> [Sourate Ash-Shuʿarā’, versets 181-183]
+
+La religion atteint ici les balances du marché.
+
+On ne peut pas prétendre craindre Allah dans la mosquée puis tromper les hommes dans les transactions.
+
+Une fraude de quelques grammes.
+Un prix mensonger.
+Une mesure volontairement faussée.
+Un droit retiré discrètement à quelqu’un.
+
+Tout cela appartient aussi au domaine moral sur lequel Allah juge l’être humain.
+
+La spiritualité coranique n’est jamais séparée de la justice concrète.
+
+## Sept histoires, mais un seul message
+
+Lorsque l’on regarde ces récits ensemble, leur répétition devient elle-même un enseignement.
+
+Mūsā rencontre la tyrannie politique.
+
+Ibrāhīm affronte l’idolâtrie héritée des ancêtres.
+
+Nūḥ affronte le mépris social.
+
+Hūd affronte l’arrogance d’une civilisation puissante.
+
+Ṣāliḥ affronte un peuple prospère qui transgresse malgré le signe reçu.
+
+Lūṭ affronte une corruption morale que son peuple refuse d’abandonner.
+
+Shuʿayb affronte notamment la fraude économique et l’injustice.
+
+Les péchés changent.
+
+La racine revient souvent : l’homme refuse qu’Allah soit Celui qui fixe la vérité et les limites.
+
+Et les prophètes répètent presque tous :
+Craignez Allah.
+
+Obéissez au messager qu’Il vous envoie.
+Je ne vous demande aucune récompense.
+
+Leur mission est une.
+Leur Seigneur est Un.
+Et l’histoire humaine répète les mêmes grandes épreuves sous des formes différentes.
+
+## « Le Tout-Puissant, le Très Miséricordieux »
+
+Après chacun de ces récits revient presque systématiquement :
+
+> « Et ton Seigneur est en vérité Lui le Tout-Puissant, le Très Miséricordieux. »
+
+Cette combinaison est particulièrement belle.
+
+Allah aurait pu rappeler uniquement Sa puissance après la destruction de ces peuples.
+
+Mais Il rappelle aussi Sa miséricorde.
+
+Pourquoi ?
+Parce que le châtiment n’est pas venu sans avertissement.
+
+Des messagers sont venus.
+Ils ont parlé.
+Ils ont expliqué.
+Ils ont répété.
+Ils n’ont demandé aucun salaire.
+Ils ont supporté les insultes et les menaces.
+
+La miséricorde précède donc le jugement à travers l’appel, l’avertissement et la possibilité de se repentir.
+
+Mais la miséricorde d’Allah ne signifie pas non plus que l’injustice et le rejet volontaire n’auront jamais de conséquence.
+
+Al-ʿAzīz et Ar-Raḥīm.
+Puissance et miséricorde.
+
+Justice et possibilité du retour.
+
+## D’où vient réellement ce Coran ?
+
+Après tous ces récits, la sourate revient au sujet annoncé dès son ouverture : le Coran.
+
+Allah déclare :
+
+> « Et ceci est certainement une révélation du Seigneur des mondes. L’Esprit fidèle est descendu avec cela sur ton cœur, afin que tu sois du nombre des avertisseurs, en une langue arabe claire. »
+> [Sourate Ash-Shuʿarā’, versets 192-195]
+
+L’« Esprit fidèle », Ar-Rūḥ al-Amīn, est identifié par les exégètes comme Jibrīl عليه السلام. Ibn Kathīr et At-Ṭabarī rapportent cette interprétation de plusieurs générations anciennes.
+
+Le passage établit ainsi une chaîne extrêmement claire :
+
+la source est le Seigneur des mondes ;
+celui qui transmet la Révélation est Jibrīl عليه السلام ;
+elle descend sur le cœur de Muhammad ﷺ ;
+et elle est exprimée dans une langue arabe claire.
+
+Le Coran n’est donc ni une improvisation du Prophète ﷺ, ni la parole d’un poète, ni l’inspiration d’un démon.
+
+## Le Coran descend « sur ton cœur »
+
+Allah ne dit pas seulement que Jibrīl apporte le Coran à Muhammad ﷺ.
+
+Il dit :
+
+> « sur ton cœur »
+> [Sourate Ash-Shuʿarā’, verset 194]
+
+La Révélation n’est pas simplement une information entendue extérieurement.
+
+Elle est déposée dans le cœur du Messager ﷺ.
+
+Et cela suggère aussi quelque chose pour celui qui lit le Coran aujourd’hui.
+
+Le véritable objectif n’est pas uniquement que les yeux parcourent des lettres ou que la langue produise des sons.
+
+Le Coran doit atteindre le cœur.
+Transformer les critères.
+Modifier les peurs.
+Corriger les désirs.
+Raffermir lorsque l’on se sent encerclé comme les compagnons de Mūsā.
+
+Purifier jusqu’à rechercher ce qalb salīm dont parlait Ibrāhīm.
+
+## « Avertis les gens qui te sont les plus proches »
+
+Allah dit ensuite à Muhammad ﷺ :
+
+> « Avertis les gens qui te sont les plus proches. »
+> [Sourate Ash-Shuʿarā’, verset 214]
+
+Un hadith authentique rapporte qu’après la révélation de ce commandement, le Prophète ﷺ appela les Quraysh et avertit ses proches, leur expliquant que leur lien de parenté avec lui ne pouvait pas les dispenser personnellement de répondre devant Allah. Dans une autre version authentique, il monte sur Ṣafā et appelle les différents clans avant de les avertir.
+
+C’est une leçon immense.
+
+Être le proche d’un prophète ne suffit pas.
+Être l’enfant d’un croyant ne suffit pas.
+Appartenir à une famille pieuse ne suffit pas.
+
+Chacun finira par rencontrer Allah avec sa propre foi et ses propres œuvres.
+
+La proximité familiale peut transmettre une éducation.
+Elle ne peut pas transférer automatiquement le salut.
+
+## « Abaisse ton aile pour les croyants »
+
+Juste après avoir demandé au Prophète ﷺ d’avertir ses proches, Allah lui dit :
+
+> « Et abaisse ton aile pour ceux des croyants qui te suivent. »
+> [Sourate Ash-Shuʿarā’, verset 215]
+
+L’image est magnifique.
+
+Celui qui transmet la vérité ne doit pas devenir arrogant à cause de la vérité qu’il possède.
+
+Il doit être ferme sur le message et doux envers les croyants.
+
+La connaissance d’Allah devrait produire de l’humilité.
+Pas le mépris.
+
+La mission prophétique réunit donc avertissement et compassion.
+
+## Le Coran n’est pas descendu avec les démons
+
+Les Quraysh pouvaient associer certaines formes de discours extraordinaires aux devins qui prétendaient recevoir des informations des jinn.
+
+La sourate répond directement :
+
+> « Ce ne sont pas les diables qui sont descendus avec lui. Cela ne leur convient pas et ils n’en seraient pas capables. »
+> [Sourate Ash-Shuʿarā’, versets 210-211]
+
+Puis Allah explique sur qui les démons descendent réellement :
+
+> « Sur tout grand menteur pécheur. »
+> [Sourate Ash-Shuʿarā’, verset 222]
+
+La différence entre Révélation et mensonge inspiré ne se trouve donc pas seulement dans la beauté du langage.
+
+Elle apparaît dans sa source, sa vérité et ce vers quoi elle conduit.
+
+## Pourquoi la sourate s’appelle-t-elle « Les Poètes » ?
+
+La sourate se termine sur l’une des accusations lancées contre le Prophète ﷺ : celle d’être un poète.
+
+Allah dit :
+
+> « Quant aux poètes, ce sont les égarés qui les suivent. Ne vois-tu pas qu’ils divaguent dans chaque vallée et qu’ils disent ce qu’ils ne font pas ? »
+> [Sourate Ash-Shuʿarā’, versets 224-226]
+
+Le passage ne constitue pourtant pas une condamnation de toute poésie.
+
+Le verset suivant établit immédiatement une exception :
+
+> « Excepté ceux qui croient, accomplissent de bonnes œuvres, se rappellent beaucoup Allah et se défendent après avoir subi une injustice. »
+> [Sourate Ash-Shuʿarā’, verset 227]
+
+Le problème n’est donc pas la poésie en elle-même.
+
+Le problème est une parole détachée de la vérité et de la rectitude : dire sans agir, errer d’un discours à l’autre et entraîner les autres dans l’égarement.
+
+Le Prophète ﷺ a d’ailleurs authentiquement approuvé une poésie juste. Il a dit qu’il existe de la sagesse dans certaines poésies, et il encouragea Ḥassān ibn Thābit رضي الله عنه lorsqu’il défendait les musulmans et le Messager par ses vers.
+
+Ainsi, la fin de la sourate répond parfaitement à l’accusation adressée au Coran.
+
+Le Coran n’est pas de la poésie.
+Mais la poésie elle-même n’est pas nécessairement mauvaise.
+
+Ce qui compte est ce qu’elle porte, celui qu’elle sert et ce qu’elle produit.
+
+## Dire ce que l’on fait
+
+Une phrase de la fin de la sourate mérite particulièrement d’être méditée :
+
+> « Ils disent ce qu’ils ne font pas. »
+> [Sourate Ash-Shuʿarā’, verset 226]
+
+Le principe dépasse largement la poésie.
+
+L’être humain peut aimer les belles paroles sur la patience tout en étant incapable de patienter.
+
+Parler magnifiquement de générosité tout en étant avare.
+Parler de pardon tout en nourrissant ses rancœurs.
+Parler d’Allah sans faire de place réelle à Allah dans sa journée.
+
+Ash-Shuʿarā’ rappelle ainsi que la valeur d’une parole ne dépend pas seulement de sa beauté.
+
+La parole la plus impressionnante devient dangereuse lorsqu’elle n’a plus de lien avec la vérité et l’action.
+
+## De Mūsā aux poètes : la bataille autour de la parole
+
+Un lien magnifique traverse finalement toute la sourate.
+
+Mūsā reçoit la parole d’Allah et doit la porter devant Pharaon.
+
+Ibrāhīm utilise la parole pour briser intellectuellement l’idolâtrie de son peuple.
+
+Nūḥ, Hūd, Ṣāliḥ, Lūṭ et Shuʿayb répètent inlassablement leur appel.
+
+Le Coran descend par Jibrīl sur le cœur de Muhammad ﷺ dans une langue arabe claire.
+
+Puis la sourate se termine en distinguant deux usages de la parole : celle qui égare et celle qui défend la vérité.
+
+Ash-Shuʿarā’ est donc aussi, d’une certaine manière, une sourate sur la responsabilité de la parole.
+
+Une parole peut transmettre la Révélation.
+Une parole peut avertir.
+Une parole peut défendre l’injustice.
+Une parole peut manipuler une foule comme celle de Pharaon.
+Une parole peut appeler à Allah.
+Une parole peut aussi dire ce qu’elle ne fait jamais.
+
+Ce que nous disons n’est donc jamais totalement insignifiant.
+
+## Le message central de la sourate Ash-Shuʿarā’
+
+Ash-Shuʿarā’ commence avec un Prophète ﷺ qui souffre parce que les hommes refusent de croire.
+
+Allah lui rappelle alors que la guidance des cœurs ne lui appartient pas.
+
+Puis Il déroule devant lui l’histoire de ceux qui l’ont précédé.
+
+Mūsā عليه السلام fut menacé par Pharaon.
+
+Ibrāhīm عليه السلام affronta la religion héritée de ses ancêtres.
+
+Nūḥ عليه السلام fut méprisé à cause des croyants modestes qui le suivaient.
+
+Hūd عليه السلام avertit une civilisation aveuglée par sa puissance.
+
+Ṣāliḥ عليه السلام parla à un peuple prospère qui transgressa le signe d’Allah.
+
+Lūṭ عليه السلام fut menacé d’expulsion pour avoir dénoncé la corruption de son peuple.
+
+Shuʿayb عليه السلام appela à une foi qui atteignait jusque dans les balances du marché.
+
+Tous rencontrèrent le refus.
+
+Mais le refus des hommes ne transforma jamais le faux en vérité.
+
+Et après chacun de ces récits, Allah répète presque la même phrase :
+
+> « Voilà bien là un signe ! Mais la plupart d’entre eux ne croient pas. Et ton Seigneur est en vérité Lui le Tout-Puissant, le Très Miséricordieux. »
+
+La vérité ne se mesure donc pas au nombre de personnes qui l’acceptent.
+
+Un prophète peut avoir raison face à une civilisation entière.
+
+Quelques magiciens peuvent reconnaître en quelques secondes ce qu’un roi refuse pendant des années.
+
+Une petite communauté peut se retrouver devant une mer avec une armée derrière elle et entendre malgré tout son prophète dire :
+
+> « Jamais ! Mon Seigneur est avec moi et Il me guidera. »
+
+Et un homme peut se présenter devant Allah sans que sa richesse, sa famille ou son prestige ne puissent lui servir, sauf s’il revient à Lui :
+
+> « avec un cœur sain. »
+
+Voilà peut-être le cœur d’Ash-Shuʿarā’.
+
+Le croyant n’est pas chargé de fabriquer la vérité, ni de la rendre vraie par le nombre de ceux qui la suivent.
+
+Il doit la reconnaître, la recevoir dans son cœur, essayer de la vivre et la transmettre avec sincérité.
+
+La sourate commence par le chagrin de Muhammad ﷺ devant ceux qui ne croient pas.
+
+Elle se termine par ceux qui utilisent leurs paroles sans les vivre — puis par l’exception de ceux qui croient, accomplissent les bonnes œuvres et se rappellent beaucoup Allah.
+
+Entre les deux se trouve toute une histoire de la Révélation :
+
+des prophètes parlent ;
+des peuples choisissent ;
+
+Allah patiente et avertit ;
+certains se repentent ;
+d’autres persistent ;
+et finalement chacun découvre que la parole d’Allah était vraie.
+
+Ash-Shuʿarā’ apprend ainsi au croyant à ne pas mesurer la vérité selon les réactions du monde.
+
+La vérité reste vraie lorsqu’elle est rejetée.
+
+La guidance reste un don d’Allah.
+
+La puissance d’un Pharaon n’empêche pas la mer de s’ouvrir.
+
+Le prestige d’une civilisation ne la rend pas éternelle.
+
+Et la beauté des mots ne vaut rien si le cœur et les actes ne les suivent pas.
+
+Ce qui demeure finalement est ce qui venait d’Allah, ce qui conduisait vers Lui et ce que le serviteur aura réellement laissé entrer dans son cœur.
+
+
 [[/desc]]
 
 [[desc 27]]
