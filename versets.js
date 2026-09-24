@@ -55709,6 +55709,823 @@ Ce qui demeure finalement est ce qui venait d’Allah, ce qui conduisait vers Lu
 
 [[desc 27]]
 
+La sourate An-Naml (سورة النمل), vingt-septième sourate du Coran, est une sourate mecquoise de 93 versets. Son nom signifie « Les Fourmis », en référence à l’épisode remarquable dans lequel Sulaymān عليه السلام entend une fourmi avertir les autres de rentrer dans leurs demeures afin de ne pas être écrasées involontairement par son armée.
+
+An-Naml appartient à une série de sourates mecquoises centrées sur la vérité de la Révélation, le Tawḥīd, la Résurrection et les récits des prophètes. Mais elle possède une atmosphère particulière.
+
+La sourate précédente, Ash-Shuʿarā’, montrait surtout des peuples qui refusent leurs messagers jusqu’à leur destruction. An-Naml présente elle aussi Mūsā, Ṣāliḥ et Lūṭ عليهم السلام, mais son récit le plus développé est différent : celui de Sulaymān عليه السلام et de la reine de Saba’, où une souveraine initialement adoratrice du soleil finit par reconnaître Allah et se soumettre à Lui.
+
+La sourate devient ainsi une méditation sur la manière dont l’être humain réagit aux signes d’Allah.
+
+Certains voient et refusent.
+
+Certains possèdent une immense puissance et restent reconnaissants.
+
+Certains complotent contre la vérité.
+
+Et une reine entourée de richesse et de pouvoir accepte finalement de reconnaître qu’elle s’était trompée.
+
+## « Une guidance et une bonne annonce pour les croyants »
+
+La sourate commence par les lettres :
+
+> « Ṭā-Sīn. Voici les versets du Coran et d’un Livre explicite. »
+> [Sourate An-Naml, verset 1]
+
+Puis Allah décrit le Coran comme :
+
+> « Une guidance et une bonne annonce pour les croyants. »
+> [Sourate An-Naml, verset 2]
+
+Mais le verset suivant précise immédiatement quels croyants sont concernés :
+ceux qui accomplissent la prière, donnent la zakāt et ont la certitude de l’Au-delà.
+
+La foi n’est donc pas seulement une adhésion intellectuelle à l’existence d’Allah.
+
+Elle produit une manière de vivre.
+
+La relation avec Allah apparaît dans la prière.
+
+La relation avec les autres apparaît notamment dans le don.
+
+Et toute l’existence est orientée par la certitude que cette vie n’est pas la dernière.
+
+À l’inverse, Allah évoque ceux qui ne croient pas à l’Au-delà et dont les actes leur paraissent beaux.
+
+C’est une idée importante qui reviendra indirectement dans toute la sourate.
+
+L’être humain ne fait pas toujours le mal en se disant :
+« Je choisis consciemment le mal. »
+
+Il peut finir par trouver beau ce qui l’éloigne d’Allah.
+
+Le danger spirituel n’est donc pas seulement de commettre une faute.
+
+C’est aussi de perdre progressivement la capacité de la reconnaître comme telle.
+
+## Mūsā عليه السلام et le feu aperçu dans la nuit
+
+La sourate revient ensuite à Mūsā عليه السلام.
+
+Alors qu’il voyage avec sa famille, il aperçoit un feu et leur dit :
+
+> « Je vais vous en rapporter une nouvelle ou vous apporter un tison ardent afin que vous puissiez vous réchauffer. »
+> [Sourate An-Naml, verset 7]
+
+Mūsā pense se diriger vers quelque chose de très ordinaire.
+Un feu.
+
+Peut-être une information sur la route.
+Peut-être de quoi réchauffer sa famille.
+
+Mais cet instant banal devient l’un des plus extraordinaires de son existence.
+
+Lorsqu’il arrive, il reçoit l’appel d’Allah.
+
+La scène rappelle que l’être humain ne sait pas toujours ce qu’Allah a placé derrière les événements les plus simples de sa vie.
+
+Mūsā cherche du feu.
+Il reçoit une mission prophétique.
+Il cherche une direction sur une route terrestre.
+Allah l’oriente vers une mission qui changera l’histoire.
+
+## Le bâton et la peur de Mūsā عليه السلام
+
+Allah ordonne ensuite à Mūsā de jeter son bâton.
+
+Lorsqu’il le voit se mouvoir comme un serpent, Mūsā se détourne et prend peur.
+
+Allah lui dit :
+
+> « Ô Mūsā ! N’aie pas peur. Les messagers n’ont aucune crainte auprès de Moi. »
+> [Sourate An-Naml, verset 10]
+
+Il est important de comprendre que le courage prophétique ne signifie pas l’absence absolue d’émotions humaines.
+
+Mūsā عليه السلام ressent de la peur.
+Mais Allah le rassure et il continue.
+
+La foi n’est donc pas toujours de ne rien ressentir.
+
+Elle consiste souvent à avancer malgré ce que l’on ressent parce que l’on fait confiance à Allah.
+
+Allah lui montre également le signe de sa main devenant lumineuse et lui annonce que ces signes feront partie de ceux qu’il présentera à Pharaon et à son peuple.
+
+Mais malgré les signes évidents, ceux-ci les rejetteront.
+
+Allah explique :
+
+> « Ils les nièrent injustement et orgueilleusement, tandis qu’au fond d’eux-mêmes ils en avaient la certitude. »
+> [Sourate An-Naml, verset 14]
+
+Ce verset établit une distinction fondamentale entre ne pas savoir et refuser ce que l’on reconnaît intérieurement.
+
+Le problème de Pharaon n’est pas simplement un manque d’informations.
+
+L’orgueil intervient.
+
+La vérité peut devenir coûteuse lorsqu’elle exige de renoncer à une position, à une domination ou à l’image que l’on possède de soi-même.
+
+## Dāwūd et Sulaymān عليهما السلام : savoir que le bienfait vient d’Allah
+
+La sourate passe ensuite à Dāwūd et Sulaymān عليهما السلام.
+
+Allah dit :
+
+> « Nous avons effectivement donné la connaissance à Dāwūd et Sulaymān. Et ils dirent : “Louange à Allah qui nous a favorisés par rapport à beaucoup de Ses serviteurs croyants.” »
+> [Sourate An-Naml, verset 15]
+
+Le premier effet de la connaissance chez eux est donc la gratitude.
+
+Ils ne disent pas :
+« Regardez ce que nous avons réussi à devenir. »
+
+Ils disent :
+« Louange à Allah. »
+
+C’est une différence immense.
+
+Une même compétence peut produire deux réactions opposées.
+
+Elle peut faire grandir l’ego :
+« Je possède ce que les autres n’ont pas. »
+
+Ou elle peut faire grandir la reconnaissance :
+« Allah m’a accordé quelque chose que je ne possédais pas par moi-même. »
+
+Sulaymān عليه السلام reçoit ensuite un royaume extraordinaire.
+
+Le Coran mentionne qu’il connaît le langage des oiseaux et que ses armées comprennent des jinn, des hommes et des oiseaux organisés en rangs.
+
+Ce pouvoir est exceptionnel.
+
+Mais ce qui intéresse profondément la sourate n’est pas uniquement ce que Sulaymān possède.
+
+C’est ce qu’il devient intérieurement lorsqu’il le possède.
+
+## La fourmi qui donne son nom à la sourate
+
+L’armée de Sulaymān arrive dans une vallée peuplée de fourmis.
+
+Une fourmi dit :
+
+> « Ô fourmis ! Entrez dans vos demeures de peur que Sulaymān et ses armées ne vous écrasent sans s’en rendre compte. »
+> [Sourate An-Naml, verset 18]
+
+Sulaymān عليه السلام comprend sa parole.
+
+Et sa réaction est magnifique :
+
+> « Il sourit, amusé par ses paroles, et dit : “Seigneur ! Inspire-moi d’être reconnaissant pour le bienfait dont Tu m’as comblé ainsi que mes parents, et d’accomplir une bonne œuvre que Tu agrées. Et fais-moi entrer, par Ta miséricorde, parmi Tes serviteurs vertueux.” »
+> [Sourate An-Naml, verset 19]
+
+Voilà probablement l’un des versets qui résument le mieux la personnalité de Sulaymān عليه السلام dans cette sourate.
+
+-	Il possède un royaume incomparable.
+-	Il commande à des armées impressionnantes.
+-	Il comprend même ce qu’Allah lui permet de comprendre du langage des animaux.
+
+Et pourtant son premier réflexe est :
+Seigneur, aide-moi à être reconnaissant.
+
+## Le véritable danger du bienfait
+
+La réaction de Sulaymān enseigne quelque chose d’essentiel.
+
+L’épreuve n’est pas uniquement la souffrance.
+Le bienfait est lui aussi une épreuve.
+
+Lorsque l’être humain reçoit beaucoup, une question apparaît :
+
+Que fera-t-il de ce qu’il possède ?
+Attribuera-t-il tout à son intelligence ?
+Deviendra-t-il arrogant ?
+Utilisera-t-il sa puissance contre les autres ?
+
+Ou comprendra-t-il que ce qu’il possède lui a été confié par Allah ?
+
+Sulaymān ne demande d’ailleurs pas simplement :
+« Fais-moi remercier. »
+
+Il demande aussi :
+
+> « Et d’accomplir une bonne œuvre que Tu agrées. »
+
+La gratitude véritable ne reste donc pas seulement dans les mots.
+
+Elle transforme l’utilisation que l’on fait du bienfait.
+
+## La huppe absente
+
+Sulaymān عليه السلام inspecte ensuite les oiseaux de son armée.
+
+Il remarque l’absence de la huppe — al-hudhud.
+
+Il annonce qu’elle devra fournir une justification claire.
+
+Puis la huppe revient avec une information surprenante :
+
+> « J’ai appris ce que tu n’as point appris et je t’apporte de Saba’ une nouvelle certaine. »
+> [Sourate An-Naml, verset 22]
+
+La phrase est remarquable.
+
+Un immense prophète-roi reçoit une information qu’il ne possédait pas d’un petit oiseau.
+
+La connaissance appartient ultimement à Allah.
+
+Même celui à qui beaucoup de savoir a été donné ne sait pas tout.
+
+La huppe décrit alors un royaume gouverné par une femme possédant un trône remarquable.
+
+Le Coran ne donne pas son nom.
+
+Elle est simplement présentée comme une femme qui règne sur le peuple de Saba’. Le nom Bilqīs, très célèbre dans la tradition musulmane, appartient aux récits exégétiques et historiques postérieurs ; il ne faut donc pas le présenter comme un nom donné par le Coran lui-même.
+
+Mais le problème principal observé par la huppe n’est pas son pouvoir.
+C’est son culte.
+
+> « Je l’ai trouvée, elle et son peuple, se prosternant devant le soleil au lieu d’Allah. »
+> [Sourate An-Naml, verset 24]
+
+## Sulaymān vérifie avant de croire
+
+Sulaymān ne réagit pas en prenant immédiatement l’information pour certaine simplement parce qu’elle lui est rapportée.
+
+Il répond :
+
+> « Nous allons voir si tu as dit vrai ou si tu es du nombre des menteurs. »
+> [Sourate An-Naml, verset 27]
+
+C’est une magnifique leçon de méthode.
+
+La huppe affirme posséder une information.
+Sulaymān l’écoute.
+
+Mais il la vérifie.
+-	Il ne rejette pas automatiquement la nouvelle.
+-	Il ne l’accepte pas aveuglément non plus.
+-	Il cherche à établir sa vérité.
+
+Dans une époque où une information peut parcourir le monde en quelques secondes, cette attitude possède une actualité évidente :
+
+recevoir une information n’est pas encore savoir qu’elle est vraie.
+
+## La lettre de Sulaymān عليه السلام
+
+Sulaymān envoie alors une lettre à la reine.
+
+Lorsqu’elle la reçoit, elle annonce à ses notables :
+
+> « Ô notables ! Une noble lettre m’a été adressée. Elle vient de Sulaymān et elle dit : “Au nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux. Ne vous montrez pas hautains envers moi et venez à moi en toute soumission.” »
+> [Sourate An-Naml, versets 29-31]
+
+La lettre commence donc par :
+Bismi-Llāhi r-Raḥmāni r-Raḥīm.
+
+Puis vient immédiatement la question de l’orgueil :
+« Ne vous montrez pas hautains. »
+
+Car l’obstacle fondamental entre l’être humain et Allah n’est souvent pas seulement l’absence d’information.
+
+C’est le refus de se soumettre.
+
+## Une reine qui consulte
+
+La réaction de la reine mérite également d’être observée.
+
+Elle ne décide pas immédiatement d’engager son peuple dans une guerre.
+
+Elle réunit ses notables et leur demande conseil.
+
+Ils lui répondent qu’ils possèdent force et puissance militaire, mais lui laissent la décision.
+
+Elle réfléchit alors aux conséquences d’une guerre et choisit d’envoyer un cadeau à Sulaymān pour observer sa réaction.
+
+Le Coran nous présente ainsi une souveraine qui raisonne, consulte et cherche à comprendre la situation avant de prendre une décision.
+
+Mais son cadeau ne produit pas l’effet recherché.
+
+Sulaymān répond :
+
+> « Est-ce avec des richesses que vous voulez m’aider ? Ce qu’Allah m’a donné est meilleur que ce qu’Il vous a donné. »
+> [Sourate An-Naml, verset 36]
+
+Sulaymān ne cherche pas à enrichir son royaume grâce à elle.
+
+Son appel n’est pas à vendre.
+
+La question n’est pas :
+« Combien allez-vous me donner ? »
+
+La question est :
+Qui mérite votre adoration ?
+
+## Le trône transporté
+
+Lorsque la venue de la reine se précise, Sulaymān demande :
+
+> « Ô notables ! Qui de vous m’apportera son trône avant qu’ils ne viennent à moi soumis ? »
+> [Sourate An-Naml, verset 38]
+
+Un puissant jinn propose de l’apporter avant que Sulaymān ne se lève de sa place.
+
+Puis le Coran dit :
+
+> « Celui qui avait une connaissance du Livre dit : “Je te l’apporterai avant que ton regard ne revienne vers toi.” »
+> [Sourate An-Naml, verset 40]
+
+Son identité exacte n’est pas donnée par le Coran.
+
+Certains tafsīrs lui attribuent un nom, souvent Āṣif ibn Barkhiyā, mais cela relève de la tradition exégétique et ne doit pas être présenté comme une information coranique certaine.
+
+Ce que le Coran veut surtout montrer apparaît dans la réaction de Sulaymān.
+
+Lorsqu’il voit le trône devant lui, il ne dit pas :
+« Voilà la preuve de ma grandeur. »
+
+Il dit :
+
+> « Ceci est une grâce de mon Seigneur pour m’éprouver : serai-je reconnaissant ou ingrat ? »
+> [Sourate An-Naml, verset 40]
+
+Encore une fois, le miracle devient immédiatement une question de gratitude.
+
+## « Celui qui remercie, ne remercie que pour lui-même »
+
+Sulaymān poursuit :
+
+> « Quiconque est reconnaissant, c’est pour lui-même qu’il est reconnaissant ; et quiconque est ingrat… mon Seigneur Se suffit à Lui-même et Il est Généreux. »
+> [Sourate An-Naml, verset 40]
+
+Allah n’a pas besoin de notre gratitude.
+Nos louanges n’augmentent pas Son Royaume.
+Notre ingratitude ne le diminue pas.
+
+Lorsque nous remercions Allah, le bénéfice revient vers nous.
+
+La gratitude protège le cœur de l’illusion d’autosuffisance.
+
+Elle transforme les biens possédés en moyens de rapprochement avec Allah.
+
+## Le trône modifié : une nouvelle épreuve
+
+Sulaymān demande ensuite que le trône de la reine soit légèrement modifié afin d’observer si elle le reconnaîtra.
+
+Lorsqu’elle arrive, on lui demande :
+
+> « Ton trône est-il ainsi ? »
+
+Elle répond avec prudence :
+
+> « C’est comme si c’était lui. »
+> [Sourate An-Naml, verset 42]
+
+La réponse révèle une certaine intelligence.
+
+Elle ne se précipite ni dans une affirmation absolue ni dans un refus.
+
+Le récit avance progressivement vers ce qui sera son véritable changement : non pas simplement reconnaître un trône, mais reconnaître son Seigneur.
+
+## Le palais de verre et la soumission de la reine
+
+On lui dit ensuite d’entrer dans le palais.
+
+Lorsqu’elle voit le sol, elle croit qu’il s’agit d’une étendue d’eau et découvre ses jambes pour la traverser.
+
+Sulaymān lui explique : 
+« C’est un palais pavé de cristal. »
+
+Alors vient la véritable conclusion de tout le récit.
+
+La reine déclare :
+
+> « Seigneur ! Je me suis fait du tort à moi-même. Je me soumets avec Sulaymān à Allah, Seigneur des mondes. »
+> [Sourate An-Naml, verset 44]
+
+Elle ne se soumet pas à Sulaymān comme divinité.
+Elle se soumet avec Sulaymān à Allah.
+
+Cette nuance est fondamentale.
+
+Le but du prophète n’est pas de remplacer une idolâtrie par sa propre glorification.
+
+Il conduit les hommes vers Allah.
+
+## Deux formes de pouvoir
+
+Le récit met ainsi face à face deux formes de puissance.
+
+La reine possède un royaume important, un trône magnifique et des conseillers.
+
+Sulaymān possède une puissance encore plus extraordinaire.
+
+Mais la différence essentielle n’est pas la quantité de richesse.
+C’est leur relation initiale avec cette richesse.
+
+La reine et son peuple se prosternent devant le soleil.
+
+Sulaymān se prosterne devant le Créateur du soleil.
+
+Et lorsqu’il voit un miracle extraordinaire se produire devant lui, il dit :
+« Ceci est une grâce de mon Seigneur pour m’éprouver. »
+
+Le croyant n’est donc pas nécessairement celui qui ne possède rien.
+
+Il est celui qui sait que ce qu’il possède ne doit jamais prendre la place de Celui qui le lui a donné.
+
+## Ṣāliḥ عليه السلام et les deux camps de Thamūd
+
+La sourate revient ensuite au peuple de Thamūd.
+
+Allah leur envoie leur frère Ṣāliḥ عليه السلام avec cet appel simple :
+
+> « Adorez Allah. »
+> [Sourate An-Naml, verset 45]
+
+Mais le peuple se divise rapidement en deux groupes opposés.
+
+Certains rejettent Ṣāliḥ et lui attribuent même, à lui et à ceux qui le suivent, les malheurs qui leur arrivent.
+
+Ṣāliḥ leur répond que ce qu’ils considèrent comme mauvais présage relève d’Allah et qu’ils sont en réalité mis à l’épreuve.
+
+Puis la sourate révèle quelque chose de particulièrement sombre :
+
+> « Il y avait dans la ville neuf individus qui semaient la corruption sur terre et ne faisaient rien de bon. »
+> [Sourate An-Naml, verset 48]
+
+Ces hommes décident de comploter contre Ṣāliḥ عليه السلام.
+
+Ils jurent même par Allah qu’ils l’attaqueront de nuit, lui et sa famille, puis nieront leur responsabilité.
+
+Il y a ici une contradiction impressionnante :
+ils utilisent le nom d’Allah pour organiser un crime contre le messager d’Allah.
+
+La simple utilisation d’un vocabulaire religieux ne garantit donc aucune piété.
+
+Un homme peut prononcer le nom d’Allah tout en ayant un cœur profondément éloigné de Lui.
+
+## « Ils complotèrent et Nous déjouâmes leur complot »
+
+Allah dit :
+
+> « Ils complotèrent. Et Nous déjouâmes leur complot sans qu’ils s’en rendent compte. »
+> [Sourate An-Naml, verset 50]
+
+Les hommes préparent leur plan.
+Ils pensent contrôler le déroulement des événements.
+
+Mais ils oublient qu’ils évoluent eux-mêmes à l’intérieur d’une réalité entièrement connue d’Allah.
+
+Le récit s’achève par leur destruction, tandis qu’Allah sauve ceux qui croyaient et Le craignaient.
+
+Le complot qui devait éliminer le prophète devient finalement une étape vers la chute des comploteurs eux-mêmes.
+
+## Lūṭ عليه السلام : lorsque la pureté devient un reproche
+
+An-Naml évoque ensuite Lūṭ عليه السلام.
+
+Il reproche à son peuple les relations sexuelles entre hommes auxquelles ils se livrent et décrit leur comportement comme une turpitude.
+
+Mais leur réponse est particulièrement révélatrice :
+
+> « Expulsez de votre cité la famille de Lūṭ ! Ce sont des gens qui veulent rester purs. »
+> [Sourate An-Naml, verset 56]
+
+Ce qui devrait être une qualité devient, dans leur bouche, un reproche.
+
+C’est l’un des signes d’un renversement des valeurs :
+lorsque la société ne se contente plus de pratiquer un mal, mais commence à regarder celui qui refuse ce mal comme le véritable problème.
+
+Allah sauve Lūṭ et sa famille, à l’exception de son épouse qui reste parmi ceux qui subissent le châtiment.
+
+Encore une fois, la proximité familiale avec un prophète ne suffit pas sans foi personnelle.
+
+## « Est-il une divinité avec Allah ? »
+
+Après ces récits, le ton de la sourate change.
+
+Allah pose une série de questions extraordinaires qui obligent l’être humain à regarder le monde qui l’entoure.
+
+-	Qui a créé les cieux et la terre ?
+-	Qui fait descendre l’eau du ciel ?
+-	Qui fait pousser des jardins dont l’homme serait incapable de faire pousser lui-même les arbres ?
+
+Puis revient cette question :
+
+> « Est-il une divinité avec Allah ? »
+> [Sourate An-Naml, verset 60]
+
+Allah rappelle ensuite Celui qui a rendu la terre habitable, y a placé des rivières et des montagnes et a établi une séparation entre différentes eaux.
+
+Puis encore :
+
+> « Est-il une divinité avec Allah ? »
+> [Sourate An-Naml, verset 61]
+
+Puis :
+
+> « Qui répond à l’angoissé lorsqu’il L’invoque, dissipe le mal et vous fait succéder sur terre ? Est-il une divinité avec Allah ? »
+> [Sourate An-Naml, verset 62]
+
+Puis vient Celui qui guide dans les ténèbres de la terre et de la mer, qui envoie les vents annonçant Sa miséricorde, qui commence la création et la recommencera et qui pourvoit aux êtres humains depuis le ciel et la terre.
+
+À chaque étape, la même question revient.
+Qui fait réellement cela ?
+
+## « Qui répond à l’angoissé lorsqu’il L’invoque ? »
+
+Le verset 62 possède une force spirituelle particulière :
+
+> « Qui répond à l’angoissé lorsqu’il L’invoque et dissipe le mal ? »
+
+L’être humain peut passer une grande partie de sa vie entouré de moyens matériels.
+
+Mais certaines situations lui rappellent brutalement sa fragilité.
+
+-	Une maladie.
+-	Une peur.
+-	Une perte.
+-	Une impasse.
+-	Un moment où les solutions qu’il contrôlait habituellement disparaissent.
+
+La sourate ramène alors le cœur vers Celui qui possède toutes les causes.
+
+Cela ne signifie pas abandonner les moyens matériels.
+
+Sulaymān lui-même organise, vérifie, consulte et agit.
+
+Mais derrière les causes se trouve Celui dont aucune cause ne peut être indépendante.
+
+## La preuve doit accompagner ce que l’on affirme
+
+Après avoir énuméré les signes de la création, Allah lance ce défi :
+
+> « Apportez votre preuve, si vous êtes véridiques. »
+> [Sourate An-Naml, verset 64]
+
+La foi coranique n’est donc pas présentée comme une invitation à croire n’importe quelle affirmation religieuse sans examen.
+
+Le Coran demande constamment :
+-	Quelle est votre preuve ?
+-	Sur quoi repose ce que vous affirmez ?
+
+Une croyance héritée, une tradition populaire ou une affirmation extraordinaire ne devient pas vraie simplement parce qu’elle est répétée depuis longtemps.
+
+## Qui connaît l’invisible ?
+
+Allah déclare ensuite :
+
+> « Dis : “Nul de ceux qui sont dans les cieux et sur la terre ne connaît l’Invisible, sauf Allah.” »
+> [Sourate An-Naml, verset 65]
+
+Le verset affirme l’exclusivité de la connaissance parfaite et indépendante de l’invisible à Allah.
+
+Allah peut évidemment révéler certaines informations cachées à ceux qu’Il choisit parmi Ses messagers.
+
+Mais aucun être créé ne possède par lui-même une connaissance totale et autonome de l’invisible.
+
+Même Sulaymān عليه السلام, malgré son immense royaume, ignorait ce que la huppe venait de découvrir à Saba’.
+
+La sourate elle-même en donne donc un exemple.
+
+## Le Coran tranche certaines divergences
+
+Allah rappelle ensuite que le Coran raconte aux enfants d’Israël une grande partie des choses sur lesquelles ils divergeaient.
+
+Puis Il décrit le Livre comme :
+
+> « Une guidance et une miséricorde pour les croyants. »
+> [Sourate An-Naml, verset 77]
+
+La Révélation ne vient pas seulement donner des informations.
+Elle vient guider.
+
+L’objectif ultime n’est pas de posséder davantage de connaissances religieuses que les autres.
+
+C’est de savoir comment revenir vers Allah.
+
+Allah rassure ensuite Son Prophète ﷺ :
+
+> « Place donc ta confiance en Allah, car tu es dans la vérité évidente. »
+> [Sourate An-Naml, verset 79]
+
+Muhammad ﷺ n’est pas chargé de contrôler la réponse de tous les hommes.
+
+Il transmet.
+Allah guide qui Il veut.
+
+La sourate compare même ceux qui refusent obstinément d’entendre à des morts ou à des sourds auxquels l’appel ne parvient plus réellement.
+
+Le problème n’est pas l’absence du son.
+C’est l’absence de réceptivité du cœur.
+
+## La Bête de la terre
+
+Puis apparaît l’un des passages eschatologiques les plus connus de la sourate :
+
+> « Et lorsque la Parole se réalisera contre eux, Nous ferons sortir de terre pour eux une bête qui leur parlera, car les gens n’avaient pas la certitude de Nos signes. »
+> [Sourate An-Naml, verset 82]
+
+Cette créature est généralement appelée Dābbat al-Arḍ, la Bête de la terre.
+
+Un hadith authentique rapporté par Muslim mentionne effectivement la Bête parmi les grands signes qui apparaîtront avant l’Heure.
+
+Mais il est important de rester dans les limites de ce qui est solidement établi.
+
+De nombreuses descriptions circulent concernant son apparence exacte, sa taille, l’endroit précis d’où elle sortira ou la manière détaillée dont elle agira.
+
+Toutes ne reposent pas sur des textes authentiques.
+
+La prudence consiste donc à affirmer ce que le Coran et les hadiths authentiques établissent, sans transformer les récits secondaires en certitudes religieuses.
+
+## Le jour où la Trompe sera soufflée
+
+La sourate transporte ensuite le lecteur vers le Jour dernier :
+
+> « Et le jour où l’on soufflera dans la Trompe, tous ceux qui sont dans les cieux et sur la terre seront effrayés, sauf ceux qu’Allah voudra préserver. Et tous viendront à Lui humiliés. »
+> [Sourate An-Naml, verset 87]
+
+Toutes les hiérarchies humaines disparaissent.
+-	Les rois.
+-	Les peuples.
+-	Les riches.
+-	Les pauvres.
+-	Les puissants.
+Tous viennent devant Allah.
+
+Puis la sourate décrit les montagnes :
+
+> « Tu verras les montagnes, que tu croyais immobiles, passer comme passent les nuages. Telle est l’œuvre d’Allah qui a parfaitement façonné toute chose. »
+> [Sourate An-Naml, verset 88]
+
+Dans le contexte immédiat, le passage se situe au milieu de la description du bouleversement de la fin des temps et du Jour dernier.
+
+Il est donc préférable de le comprendre d’abord dans ce contexte coranique plutôt que d’en faire artificiellement une prétendue prédiction scientifique moderne sur le mouvement actuel des continents ou la rotation terrestre.
+
+Le Coran parle ici de la puissance d’Allah et du bouleversement de ce que l’homme croyait le plus stable.
+
+Même les montagnes ne sont pas éternelles.
+
+## Le bien que l’on apporte avec soi
+
+Allah poursuit :
+
+> « Quiconque viendra avec une bonne action aura mieux encore, et ils seront à l’abri de la frayeur ce jour-là. »
+> [Sourate An-Naml, verset 89]
+
+Puis ceux qui viendront avec le mal connaîtront la conséquence de leurs actes.
+
+La question finale n’est donc pas simplement :
+Qu’avais-tu ?
+
+Mais :
+Qu’as-tu apporté avec toi ?
+
+Le royaume de Sulaymān disparaît.
+Le trône de la reine de Saba’ disparaît.
+Les maisons de Thamūd disparaissent.
+Les civilisations disparaissent.
+
+Ce qui reste devant Allah est la foi et ce que l’homme a réellement accompli.
+
+## « Il m’a seulement été ordonné d’adorer le Seigneur de cette cité »
+
+La sourate approche de sa conclusion en ramenant tout le message à quelque chose de très simple.
+
+Allah ordonne à Muhammad ﷺ de dire :
+
+> « Il m’a seulement été ordonné d’adorer le Seigneur de cette cité qu’Il a rendue sacrée. Toute chose Lui appartient. Et il m’a été ordonné d’être du nombre des soumis. »
+> [Sourate An-Naml, verset 91]
+
+« Cette cité » désigne La Mecque.
+
+Mais Allah rappelle immédiatement que s’Il est le Seigneur de cette cité sacrée :
+toute chose Lui appartient.
+
+Le Dieu adoré à La Mecque n’est pas une divinité locale.
+
+Il est le Seigneur de toute existence.
+
+Puis le Prophète ﷺ reçoit l’ordre :
+
+> « Et de réciter le Coran. »
+> [Sourate An-Naml, verset 92]
+
+Celui qui se guide ne le fait que pour lui-même.
+Et celui qui s’égare ne retire rien à Allah.
+
+La mission du Messager reste de transmettre et d’avertir.
+
+## Le message central de la sourate An-Naml
+
+An-Naml est une sourate profondément marquée par les signes.
+
+-	Le bâton de Mūsā devient un signe.
+-	La fourmi devient un signe.
+-	La huppe apporte un signe.
+-	Le trône déplacé devient un signe.
+-	Le palais de verre participe au cheminement de la reine.
+
+La pluie, les jardins, les rivières, les montagnes, la mer, les vents, la nuit et le jour sont des signes.
+
+La Bête de la terre sera un signe.
+
+Et à la fin, Allah annonce :
+
+> « Il vous fera voir Ses signes et vous les reconnaîtrez. »
+> [Sourate An-Naml, verset 93]
+
+Mais toute la sourate montre qu’observer un signe ne suffit pas automatiquement à être guidé.
+
+Pharaon voit les signes et les rejette par orgueil.
+
+Les comploteurs de Thamūd connaissent Allah au point de jurer par Son nom, mais utilisent ce serment pour préparer un assassinat.
+
+Le peuple de Lūṭ voit le prophète et choisit de l’expulser.
+
+À l’inverse, la reine de Saba’ observe, réfléchit, reconnaît progressivement la vérité et finit par dire :
+
+> « Seigneur ! Je me suis fait du tort à moi-même. Je me soumets avec Sulaymān à Allah, Seigneur des mondes. »
+
+La différence ne se trouve donc pas uniquement dans ce que les yeux voient.
+
+Elle se trouve dans ce que le cœur accepte d’en faire.
+
+Sulaymān عليه السلام constitue probablement la grande figure spirituelle de la sourate.
+
+Il reçoit connaissance, autorité, richesse, armées, capacités extraordinaires et miracles.
+
+Mais chaque fois que sa puissance pourrait nourrir son ego, il la renvoie vers Allah.
+
+Lorsqu’il comprend la fourmi :
+« Seigneur, inspire-moi d’être reconnaissant. »
+
+Lorsque le trône apparaît devant lui :
+« Ceci est une grâce de mon Seigneur pour m’éprouver : serai-je reconnaissant ou ingrat ? »
+
+Voilà l’une des grandes leçons d’An-Naml :
+la véritable grandeur n’est pas de posséder beaucoup.
+
+C’est de pouvoir posséder beaucoup sans oublier Celui qui nous l’a donné.
+
+La sourate enseigne également que la foi n’est pas hostile à la réflexion.
+
+Sulaymān vérifie l’information de la huppe.
+La reine consulte ses conseillers.
+
+Les affirmations religieuses sont défiées :
+« Apportez votre preuve si vous êtes véridiques. »
+
+Les signes de la création sont présentés à l’intelligence humaine.
+
+Mais la connaissance seule ne suffit pas lorsque l’orgueil prend le contrôle du cœur.
+
+Pharaon en est la preuve.
+
+Et derrière toutes ces histoires revient finalement une seule question :
+
+> « Est-il une divinité avec Allah ? »
+
+-	Qui a créé ?
+-	Qui fait descendre la pluie ?
+-	Qui fait pousser ?
+-	Qui guide ?
+-	Qui répond à l’angoissé ?
+-	Qui commence la création ?
+-	Qui la recommencera ?
+-	Qui connaît parfaitement l’invisible ?
+-	Qui jugera ?
+
+La réponse de la sourate est constante :
+Allah.
+
+An-Naml commence donc par présenter le Coran comme une guidance et une bonne annonce pour les croyants.
+
+Puis elle montre plusieurs manières de recevoir cette guidance.
+
+-	Certains la combattent.
+-	Certains complotent contre elle.
+-	Certains sont trop orgueilleux pour l’accepter.
+
+Et certains, comme la reine de Saba’, comprennent finalement que reconnaître la vérité n’est pas une humiliation.
+
+La véritable humiliation était de se prosterner devant une créature.
+
+La véritable dignité est de pouvoir dire :
+« Je me soumets à Allah, Seigneur des mondes. »
+
+Et lorsque le croyant reçoit lui-même un bienfait, une connaissance ou une réussite, An-Naml lui apprend à répondre comme Sulaymān عليه السلام :
+
+> « Seigneur ! Inspire-moi d’être reconnaissant pour le bienfait dont Tu m’as comblé, ainsi que mes parents, et d’accomplir une bonne œuvre que Tu agrées. Et fais-moi entrer, par Ta miséricorde, parmi Tes serviteurs vertueux. »
+> [Sourate An-Naml, verset 19]
+
+Car au bout du compte, ce n’est ni le royaume, ni le pouvoir, ni l’intelligence, ni même les capacités extraordinaires qui constituent la plus grande réussite.
+
+C’est de recevoir les signes d’Allah, de les reconnaître, puis de revenir vers Lui avec un cœur qui sait d’où vient tout bienfait.
+
+
+
 [[/desc]]
 
 [[desc 28]]
