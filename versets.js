@@ -56530,6 +56530,1030 @@ C’est de recevoir les signes d’Allah, de les reconnaître, puis de revenir v
 
 [[desc 28]]
 
+La sourate Al-Qaṣaṣ (سورة القصص), vingt-huitième sourate du Coran, est une sourate mecquoise de 88 versets. Son nom signifie « Le Récit » ou « Les Récits », et vient notamment du verset 25, lorsque Mūsā عليه السلام raconte son histoire à l’homme qu’il rencontre après avoir fui l’Égypte :
+
+> « Puis, lorsqu’il fut arrivé auprès de lui et lui eut raconté son histoire… »
+> [Sourate Al-Qaṣaṣ, verset 25]
+
+Le mot qaṣaṣ évoque l’idée de raconter les événements en suivant leur déroulement.
+
+Et c’est exactement ce que fait cette sourate.
+
+Al-Qaṣaṣ constitue l’un des récits les plus détaillés de la jeunesse de Mūsā عليه السلام dans le Coran.
+
+-	Ash-Shuʿarā’ nous avait montré Mūsā face à Pharaon.
+-	An-Naml avait brièvement évoqué son voyage et le feu qu’il aperçoit.
+-	Al-Qaṣaṣ revient beaucoup plus loin en arrière.
+
+Elle nous montre Mūsā avant même sa naissance.
+
+Sa mère.
+Le bébé placé dans le fleuve.
+Son arrivée dans la maison de Pharaon.
+Son enfance.
+L’homme qu’il tue involontairement.
+Sa fuite solitaire vers Madyan.
+Ses années loin d’Égypte.
+
+Puis son retour, sa mission prophétique et son affrontement avec Pharaon.
+
+Et après l’histoire de Mūsā apparaît celle de Qārūn, un homme que sa richesse conduira à une autre forme d’arrogance.
+
+Ainsi, Pharaon et Qārūn incarnent deux grandes illusions humaines :
+
+le pouvoir peut faire croire à l’homme qu’il domine les autres ;
+
+la richesse peut lui faire croire qu’il ne doit sa réussite qu’à lui-même.
+
+La sourate détruit les deux illusions.
+
+## « Nous voulons favoriser ceux qui avaient été opprimés »
+
+La sourate commence par :
+
+> « Ṭā-Sīn-Mīm. Voici les versets du Livre explicite. Nous te racontons en toute vérité une partie de l’histoire de Mūsā et de Pharaon, pour des gens qui croient. »
+> [Sourate Al-Qaṣaṣ, versets 1-3]
+
+Puis Allah décrit la situation politique en Égypte.
+
+Pharaon s’est élevé sur terre.
+
+Il a divisé la population en groupes et opprime une partie d’entre eux, les enfants d’Israël.
+
+Il fait tuer leurs fils et laisse vivre leurs femmes.
+
+À vue humaine, tout semble sous son contrôle.
+
+Il possède le pouvoir.
+Les soldats.
+Les institutions.
+La capacité de décider qui peut vivre et qui peut mourir.
+
+Mais immédiatement après cette description apparaît l’un des grands principes de toute la sourate :
+
+> « Mais Nous voulions favoriser ceux qui avaient été opprimés sur terre, faire d’eux des guides et faire d’eux les héritiers. »
+> [Sourate Al-Qaṣaṣ, verset 5]
+
+Pharaon prépare quelque chose.
+Mais Allah prépare autre chose.
+
+C’est l’un des fils les plus profonds d’Al-Qaṣaṣ.
+
+L’homme voit les événements en train de se produire.
+
+Allah voit leur commencement, leur fin et toutes les causes invisibles qui les relient.
+
+Pharaon tue les garçons des enfants d’Israël pour préserver son pouvoir.
+
+Et pourtant, celui par lequel Allah provoquera sa chute grandira finalement dans sa propre maison.
+
+Le tyran déploie toute sa puissance pour empêcher le décret d’Allah.
+
+Et cette même puissance participe, sans qu’il le sache, à son accomplissement.
+
+## La mère de Mūsā عليه السلام : faire confiance lorsque tout semble impossible
+
+Allah inspire à la mère de Mūsā :
+
+> « Allaite-le. Et si tu crains pour lui, jette-le dans le fleuve. N’aie pas peur et ne t’afflige pas. Nous te le rendrons et Nous ferons de lui un messager. »
+> [Sourate Al-Qaṣaṣ, verset 7]
+
+L’ordre est humainement bouleversant.
+
+Une mère craint que son enfant soit tué.
+Et pour le sauver, elle doit le placer dans l’eau.
+
+Tout instinct naturel pourrait lui dire :
+« Garde-le contre toi. »
+
+Mais Allah lui demande précisément de le laisser partir.
+
+Il faut remarquer que le tawakkul n’est pas ici une simple sensation intérieure de sérénité.
+
+La mère agit.
+Elle allaite son enfant.
+Elle suit l’instruction.
+
+Puis elle confie ce qu’elle aime le plus au décret d’Allah.
+
+La confiance véritable peut parfois signifier avancer alors que le cœur est encore bouleversé.
+
+Le bébé est ensuite recueilli par la famille de Pharaon.
+
+Allah dit :
+
+> « La famille de Pharaon le recueillit afin qu’il devienne pour eux un ennemi et une cause d’affliction. »
+> [Sourate Al-Qaṣaṣ, verset 8]
+
+Eux ne le savent pas.
+Ils pensent avoir trouvé un enfant.
+
+Mais l’histoire possède déjà une direction qu’ils ne voient pas.
+
+## « Une joie pour mes yeux et les tiens »
+
+La femme de Pharaon dit :
+
+> « Il sera une joie pour mes yeux et les tiens. Ne le tuez pas. Peut-être nous sera-t-il utile ou l’adopterons-nous comme enfant. »
+> [Sourate Al-Qaṣaṣ, verset 9]
+
+Le Coran ne donne pas son nom dans ce passage.
+
+La tradition islamique l’identifie à Āsiyah, l’épouse croyante de Pharaon mentionnée favorablement ailleurs dans la tradition prophétique.
+
+Mais ce qui importe ici est l’ironie extraordinaire de la scène.
+
+L’homme qui fait tuer les garçons des enfants d’Israël accepte qu’un enfant d’Israël soit élevé dans son propre foyer.
+
+Allah peut protéger quelqu’un au cœur même du lieu où le danger semble le plus grand.
+
+Cela ne signifie pas que le croyant recherche volontairement le danger.
+
+Mais cela rappelle que la protection d’Allah n’est pas limitée par les endroits qui nous paraissent sûrs ou dangereux.
+
+## Le cœur de la mère de Mūsā
+
+Pendant ce temps, le cœur de la mère de Mūsā est presque vidé par l’angoisse.
+
+Allah dit qu’elle aurait presque révélé son identité si Allah n’avait pas raffermi son cœur.
+
+C’est un détail magnifique.
+
+Elle obéit à Allah.
+Mais elle souffre.
+
+Elle a confiance.
+Mais son cœur demeure celui d’une mère.
+
+La foi ne transforme pas nécessairement l’être humain en quelqu’un qui ne ressent plus rien.
+
+Allah raffermit son cœur.
+
+Il ne lui reproche pas d’avoir un cœur.
+
+La sœur de Mūsā suit alors discrètement le panier et observe ce qui se passe.
+
+Allah avait fait en sorte que Mūsā refuse les nourrices.
+
+Sa sœur peut alors proposer une famille capable de s’occuper de lui.
+
+Et finalement, la propre mère de Mūsā est ramenée auprès de son enfant pour l’allaiter.
+
+Allah dit :
+
+> « Ainsi Nous le rendîmes à sa mère afin que son œil se réjouisse, qu’elle ne s’afflige pas et qu’elle sache que la promesse d’Allah est vérité. »
+> [Sourate Al-Qaṣaṣ, verset 13]
+
+Elle avait reçu la promesse :
+« Nous te le rendrons. »
+
+Puis Allah la réalise.
+
+Mais entre la promesse et sa réalisation, il y avait le fleuve.
+
+L’incertitude.
+La peur.
+L’attente.
+
+Voilà quelque chose de très important dans la relation avec Allah.
+
+Une promesse divine peut être certaine alors même que le chemin qui y conduit reste incompréhensible pour l’être humain.
+
+## Mūsā عليه السلام devient adulte
+
+Lorsque Mūsā atteint sa pleine maturité, Allah dit :
+
+> « Nous lui accordâmes sagesse et savoir. C’est ainsi que Nous récompensons les bienfaisants. »
+> [Sourate Al-Qaṣaṣ, verset 14]
+
+Puis survient un événement qui marquera profondément sa vie.
+
+Mūsā entre dans la ville à un moment où ses habitants sont inattentifs.
+
+Il y trouve deux hommes en train de se battre.
+
+L’un appartient à son peuple.
+L’autre appartient au peuple de Pharaon.
+
+L’homme de son peuple lui demande de l’aide.
+
+Mūsā frappe alors l’autre homme.
+Et celui-ci meurt.
+
+Le Coran ne présente pas cet acte comme un meurtre prémédité.
+
+Mūsā voulait intervenir dans la confrontation, mais son coup entraîne une conséquence qu’il n’avait manifestement pas recherchée.
+
+Sa réaction est immédiate :
+
+> « Cela est l’œuvre de Satan. C’est vraiment un ennemi qui égare manifestement. »
+> [Sourate Al-Qaṣaṣ, verset 15]
+
+Puis :
+
+> « Seigneur ! Je me suis fait du tort à moi-même. Pardonne-moi. »
+> [Sourate Al-Qaṣaṣ, verset 16]
+
+Et Allah lui pardonne.
+
+## La réaction du croyant après la faute
+
+Ce passage enseigne beaucoup sur le repentir.
+
+Mūsā ne construit pas immédiatement toute une justification pour protéger son ego.
+
+Il ne dit pas :
+« Après tout, l’autre homme appartenait au camp oppresseur. »
+
+Il regarde sa propre action.
+Il reconnaît sa faute.
+Et il demande pardon.
+
+La maturité spirituelle ne consiste pas à ne jamais commettre d’erreur.
+
+Elle consiste aussi à savoir ce que l’on fait après l’erreur.
+
+Mūsā promet alors à Allah de ne plus être un soutien pour les criminels.
+
+Mais le lendemain, il retrouve le même homme de son peuple impliqué dans une nouvelle dispute.
+
+Lorsque Mūsā s’apprête à intervenir, les événements deviennent confus et la nouvelle du meurtre précédent se répand.
+
+Un homme arrive alors en courant depuis l’extrémité de la ville.
+
+Il lui dit :
+
+> « Ô Mūsā ! Les notables délibèrent à ton sujet pour te tuer. Sors donc. Je suis pour toi un conseiller sincère. »
+> [Sourate Al-Qaṣaṣ, verset 20]
+
+Mūsā quitte alors l’Égypte.
+Seul.
+Craignant d’être rattrapé.
+
+## Quitter tout ce que l’on connaît
+
+Le jeune homme qui avait grandi dans l’environnement de la cour de Pharaon devient soudain un fugitif.
+
+Il n’a plus de palais.
+Plus de protection politique.
+Plus de sécurité apparente.
+
+Il quitte la ville en disant :
+
+> « Seigneur ! Sauve-moi de ce peuple injuste. »
+> [Sourate Al-Qaṣaṣ, verset 21]
+
+Puis il prend la direction de Madyan :
+
+> « Peut-être mon Seigneur me guidera-t-Il sur le droit chemin. »
+> [Sourate Al-Qaṣaṣ, verset 22]
+
+Le contraste est frappant.
+
+Il ne connaît même pas exactement le chemin.
+Mais il connaît Celui à qui demander la guidance.
+
+Mūsā perd presque toutes les sécurités visibles.
+
+Mais c’est précisément sur cette route qu’Allah prépare la prochaine partie de son existence.
+
+Ce que Mūsā pourrait vivre comme une catastrophe devient une transition.
+
+La fuite deviendra protection.
+L’exil deviendra formation.
+Madyan deviendra foyer.
+
+Et des années plus tard, la route de retour vers l’Égypte deviendra la route vers la prophétie.
+
+## Les deux femmes au puits de Madyan
+
+Arrivé à Madyan, Mūsā trouve des hommes abreuvant leurs troupeaux.
+
+À distance, deux femmes retiennent leurs bêtes.
+
+Il leur demande pourquoi elles attendent.
+
+Elles expliquent :
+
+> « Nous n’abreuverons que lorsque les bergers seront partis, et notre père est fort âgé. »
+> [Sourate Al-Qaṣaṣ, verset 23]
+
+Mūsā intervient et abreuve leurs bêtes.
+Puis il se retire à l’ombre.
+
+Il vient de fuir son pays.
+Il n’a presque rien.
+Il est seul.
+
+Et pourtant, lorsqu’il voit deux personnes dans le besoin, il les aide.
+
+Ensuite il prononce une invocation d’une grande simplicité :
+
+> « Seigneur ! J’ai grand besoin du bien que Tu feras descendre vers moi. »
+> [Sourate Al-Qaṣaṣ, verset 24]
+
+Il ne dicte pas à Allah la forme précise de ce bien.
+
+Il ne dit pas :
+« Donne-moi exactement telle maison, tel emploi et telle somme. »
+
+Il reconnaît seulement :
+Je suis pauvre devant tout bien que Tu voudras m’accorder.
+
+Quelques instants plus tard, l’une des deux femmes revient.
+
+Une porte vient de s’ouvrir.
+
+## « La meilleure personne que tu puisses engager est forte et digne de confiance »
+
+L’une des femmes vient chercher Mūsā et lui annonce que leur père souhaite le récompenser pour son aide.
+
+Lorsqu’il arrive auprès de l’homme et lui raconte son histoire, celui-ci lui dit :
+
+> « N’aie plus peur. Tu as échappé au peuple injuste. »
+> [Sourate Al-Qaṣaṣ, verset 25]
+
+Le Coran ne donne pas explicitement l’identité de cet homme.
+
+Une tradition exégétique très répandue l’identifie au prophète Shuʿayb عليه السلام, mais d’autres avis existent. Il vaut donc mieux ne pas présenter cette identification comme une certitude révélée.
+
+L’une des deux femmes dit ensuite :
+
+> « Ô mon père ! Engage-le. Le meilleur que tu puisses engager est celui qui est fort et digne de confiance. »
+> [Sourate Al-Qaṣaṣ, verset 26]
+
+Deux qualités sont réunies :
+la capacité et l’intégrité.
+
+-	Être honnête sans être capable d’accomplir une mission peut ne pas suffire.
+-	Être extrêmement compétent sans être digne de confiance peut devenir dangereux.
+
+Le Coran rassemble les deux :
+fort et digne de confiance.
+
+## Un nouveau foyer pour Mūsā عليه السلام
+
+L’homme propose ensuite à Mūsā de lui donner l’une de ses filles en mariage à condition qu’il travaille pour lui huit années, avec la possibilité d’en compléter dix.
+
+Mūsā accepte.
+
+Le fugitif sans foyer reçoit donc :
+-	un lieu sûr
+-	un travail
+-	une famille
+-	et une période de stabilité.
+
+Mais tout cela n’est pas encore la destination finale.
+
+Allah est en train de le préparer.
+
+On voit ici encore comment la vie d’un croyant peut changer entièrement en quelques étapes.
+
+Mūsā quitte l’Égypte en craignant pour sa vie.
+
+Il marche vers l’inconnu.
+Il aide deux femmes simplement pour Allah.
+Il invoque.
+
+Et derrière cette bonne action se trouve une nouvelle existence qu’il ne pouvait pas anticiper.
+
+Cela ne signifie évidemment pas que chaque bonne action produira immédiatement une récompense matérielle visible.
+
+Mais cela enseigne que le croyant ne sait jamais quelles portes Allah peut ouvrir à partir d’un acte sincère.
+
+## Le retour et le feu
+
+Des années passent.
+
+Mūsā termine la période convenue et repart avec sa famille.
+
+Sur la route, il aperçoit un feu du côté du mont.
+
+Il dit à sa famille de patienter :
+
+> « Peut-être vous en rapporterai-je une nouvelle ou un tison du feu afin que vous puissiez vous réchauffer. »
+> [Sourate Al-Qaṣaṣ, verset 29]
+
+Comme dans An-Naml, Mūsā pense chercher quelque chose de simple.
+Une direction.
+
+De la chaleur.
+
+Mais lorsqu’il atteint le lieu, Allah l’appelle :
+
+> « Ô Mūsā ! Je suis Allah, Seigneur des mondes. »
+> [Sourate Al-Qaṣaṣ, verset 30]
+
+Le fugitif d’autrefois devient messager d’Allah.
+
+## « Mon frère Hārūn est plus éloquent que moi »
+
+Allah lui montre les signes du bâton et de la main puis lui ordonne de retourner vers Pharaon.
+
+Mūsā se souvient immédiatement de son passé :
+
+> « Seigneur ! J’ai tué l’un des leurs et je crains qu’ils ne me tuent. »
+> [Sourate Al-Qaṣaṣ, verset 33]
+
+Puis il demande :
+
+> « Mon frère Hārūn est plus éloquent que moi. Envoie-le donc avec moi comme soutien pour confirmer mes paroles. »
+> [Sourate Al-Qaṣaṣ, verset 34]
+
+Cette demande est magnifique.
+
+Mūsā ne considère pas qu’être choisi par Allah signifie qu’il doit désormais prétendre être meilleur dans tous les domaines.
+
+Il reconnaît une qualité particulière chez son frère.
+
+Hārūn est plus éloquent.
+
+Il demande son aide.
+
+La véritable confiance en Allah n’empêche donc pas de reconnaître les compétences des autres.
+
+Et la véritable responsabilité ne signifie pas devoir tout faire seul.
+
+Allah accepte sa demande et lui promet qu’ils ne seront pas atteints par leurs ennemis.
+
+Ainsi, l’homme qui avait fui l’Égypte seul y retourne maintenant envoyé par Allah.
+
+Le lieu de sa peur devient le lieu de sa mission.
+
+## Pharaon : lorsque le pouvoir fabrique sa propre réalité
+
+Face aux signes de Mūsā, Pharaon accuse encore le message d’être de la magie.
+
+Puis il déclare :
+
+> « Ô notables ! Je ne connais pour vous aucune autre divinité que moi. »
+> [Sourate Al-Qaṣaṣ, verset 38]
+
+Il ordonne même à Hāmān de lui construire une haute structure afin qu’il puisse, selon son discours moqueur, regarder vers le Dieu de Mūsā.
+
+Pharaon ne manque pas seulement de preuves.
+
+Son pouvoir lui a donné l’habitude de définir lui-même ce qui doit être considéré comme vrai.
+
+Allah dit :
+
+> « Il s’enorgueillit sur terre, lui et ses soldats, sans aucun droit, et ils pensaient qu’ils ne seraient pas ramenés vers Nous. »
+> [Sourate Al-Qaṣaṣ, verset 39]
+
+Voilà l’une des racines du problème.
+
+S’ils croyaient réellement qu’ils devraient comparaître devant Allah, leur pouvoir terrestre changerait de signification.
+
+Le sentiment de ne jamais devoir rendre de comptes transforme facilement l’autorité en tyrannie.
+
+Puis Allah dit :
+
+> « Nous le saisîmes donc, lui et ses soldats, et les jetâmes dans la mer. »
+> [Sourate Al-Qaṣaṣ, verset 40]
+
+L’homme qui semblait tenir le destin de toute une population entre ses mains ne peut finalement pas sauver sa propre vie.
+
+## Muhammad ﷺ n’était pas présent : le récit est une Révélation
+
+Après l’histoire de Mūsā, Allah s’adresse directement au Prophète Muhammad ﷺ.
+
+Il lui rappelle :
+
+> « Tu n’étais pas sur le versant occidental lorsque Nous confiâmes à Mūsā le commandement, et tu n’étais pas parmi les témoins. »
+> [Sourate Al-Qaṣaṣ, verset 44]
+
+Puis Allah répète qu’il n’était pas parmi les habitants de Madyan et qu’il n’était pas présent auprès du mont lorsque Mūsā fut appelé.
+
+Pourquoi insister ?
+Parce que Muhammad ﷺ ne raconte pas ces événements comme témoin historique.
+
+Il les connaît par la Révélation.
+
+Le Coran attire ainsi l’attention sur sa propre origine.
+
+Le Prophète ﷺ ne s’attribue pas ces connaissances à lui-même.
+
+Allah les lui révèle afin qu’il avertisse les hommes.
+
+## « Tu ne guides pas celui que tu aimes »
+
+Puis vient l’un des versets les plus profonds de la sourate :
+
+> « Tu ne guides pas celui que tu aimes, mais Allah guide qui Il veut. »
+> [Sourate Al-Qaṣaṣ, verset 56]
+
+Un hadith authentique rapporté notamment par Al-Bukhārī relie ce verset à Abū Ṭālib, l’oncle du Prophète ﷺ. À l’approche de sa mort, le Prophète lui demanda de prononcer la profession de foi, mais Abū Ṭālib mourut sans l’accepter.
+
+Le verset ne signifie évidemment pas que le Prophète ne guidait pas au sens de montrer le chemin.
+
+Le Coran lui-même lui attribue cette fonction ailleurs.
+
+Mais la guidance qui fait réellement entrer la foi dans le cœur appartient à Allah.
+
+C’est une leçon difficile mais libératrice.
+
+On peut aimer profondément quelqu’un.
+Lui expliquer.
+Prier pour lui.
+L’accompagner.
+Lui montrer le meilleur comportement possible.
+
+Mais on ne possède pas son cœur.
+
+La foi ne se force pas.
+
+Même le Prophète ﷺ ne pouvait pas produire la guidance intérieure dans le cœur de la personne qu’il aimait.
+
+## « Si nous suivons la guidance, nous serons arrachés de notre terre »
+
+Les Quraysh avancent ensuite une objection :
+
+> « Si nous suivons avec toi la guidance, nous serons arrachés de notre terre. »
+> [Sourate Al-Qaṣaṣ, verset 57]
+
+Ils perçoivent donc peut-être quelque chose de la force du message, mais craignent les conséquences sociales et politiques de son acceptation.
+
+C’est encore une manière très humaine de refuser une vérité :
+non pas nécessairement parce qu’on la trouve fausse,
+mais parce qu’on a peur de ce qu’elle coûtera.
+
+Allah leur rappelle pourtant qu’Il leur a accordé un sanctuaire sûr vers lequel affluent toutes sortes de produits.
+
+La sécurité qu’ils craignent de perdre vient déjà d’Allah.
+
+Ils cherchent donc à préserver, contre Allah, quelque chose qu’Allah leur a Lui-même accordé.
+
+## Combien de civilisations ont cru leur confort permanent ?
+
+Allah rappelle ensuite combien de cités ont vécu dans l’abondance avant de tomber à cause de leur arrogance.
+
+Leurs habitations demeurent presque désertes après eux.
+
+Encore une fois, Al-Qaṣaṣ travaille sur la même illusion :
+
+ce qui existe maintenant paraît durable simplement parce que nous sommes habitués à le voir.
+
+Mais les empires disparaissent.
+Les fortunes changent de mains.
+Les villes puissantes deviennent des ruines.
+
+Le croyant apprend donc à ne jamais confondre stabilité présente et permanence véritable.
+
+## Allah crée et choisit
+
+Allah dit :
+
+> « Ton Seigneur crée ce qu’Il veut et choisit. Le choix ne leur appartient pas. »
+> [Sourate Al-Qaṣaṣ, verset 68]
+
+Le verset rétablit la place de la créature.
+
+Nous faisons des choix à l’intérieur de notre existence.
+-	Mais nous n’avons pas choisi d’exister.
+-	Nous n’avons pas choisi notre époque.
+-	Notre naissance.
+-	Nos capacités initiales.
+-	La structure de l’univers.
+-	Ni qui Allah désigne comme prophète.
+
+L’être humain n’est pas le centre souverain de toute réalité.
+
+Il est une créature dotée de responsabilité à l’intérieur d’un ordre beaucoup plus vaste dont Allah est le Seigneur.
+
+## La nuit et le jour : des bienfaits devenus invisibles par habitude
+
+Allah pose ensuite deux questions extraordinaires.
+
+Que se passerait-il si Allah faisait durer la nuit jusqu’au Jour de la Résurrection ?
+
+Quelle divinité pourrait apporter la lumière ?
+
+Puis :
+
+Que se passerait-il si Allah faisait durer le jour continuellement ?
+
+Quelle divinité pourrait ramener une nuit dans laquelle vous reposer ?
+
+La nuit et le jour nous semblent tellement normaux que nous cessons presque de les voir comme des bienfaits.
+
+Mais la sourate nous oblige à imaginer leur absence.
+
+La gratitude grandit souvent lorsqu’on apprend à regarder ce que l’habitude avait rendu invisible.
+
+## Qārūn : l’autre visage de l’arrogance
+
+Après Pharaon vient Qārūn.
+
+Allah dit :
+
+> « Qārūn était du peuple de Mūsā, mais il se montra injuste envers eux. Nous lui avions donné des trésors dont les clefs auraient été lourdes à porter pour un groupe d’hommes robustes. »
+> [Sourate Al-Qaṣaṣ, verset 76]
+
+Le Coran établit clairement que Qārūn appartient au peuple de Mūsā.
+
+Certains récits exégétiques précisent davantage son lien familial avec Mūsā, mais ces détails ne sont pas nécessaires pour comprendre le récit et ne doivent pas être élevés au rang d’information coranique certaine.
+
+Sa richesse est immense.
+
+Même les clefs associées à ses trésors sont décrites comme un lourd fardeau pour des hommes forts.
+
+Mais son peuple lui donne des conseils magnifiques.
+
+## « Recherche l’Au-delà avec ce qu’Allah t’a donné »
+
+Ils lui disent :
+
+> « Ne te réjouis pas avec arrogance, car Allah n’aime pas ceux qui exultent. Recherche, à travers ce qu’Allah t’a donné, la demeure dernière, sans oublier ta part en ce monde. Fais le bien comme Allah t’a fait du bien et ne recherche pas la corruption sur terre. »
+> [Sourate Al-Qaṣaṣ, versets 76-77]
+
+Ces versets présentent un équilibre remarquable.
+
+Le Coran ne dit pas :
+« Jette toute ta richesse. »
+
+Il dit :
+utilise ce qu’Allah t’a donné pour rechercher l’Au-delà.
+
+Et en même temps :
+« N’oublie pas ta part en ce monde. »
+
+L’Islam ne demande donc pas nécessairement de rejeter toute jouissance licite de la vie terrestre.
+
+Le problème apparaît lorsque le monde devient la finalité ultime.
+
+Le croyant peut avoir de l’argent.
+Une maison.
+Un commerce.
+Un patrimoine.
+
+Mais il doit transformer ce qu’il possède en moyen de bien.
+
+« Fais le bien comme Allah t’a fait du bien. »
+
+Allah t’a donné ?
+Donne.
+
+Allah t’a facilité ?
+Facilite.
+
+Allah t’a accordé des capacités ?
+Utilise-les d’une manière qu’Il aime.
+
+## « Cela m’a été donné grâce à une science que je possède »
+
+Qārūn répond :
+
+> « Cela ne m’a été donné que grâce à une science que je possède. »
+> [Sourate Al-Qaṣaṣ, verset 78]
+
+Voilà son erreur fondamentale.
+
+Il ne nie pas nécessairement l’existence d’Allah dans la formulation du récit.
+
+Mais il attribue fondamentalement sa réussite à lui-même.
+
+Ma science.
+Mes capacités.
+Moi.
+
+C’est une tentation extraordinairement actuelle.
+
+L’être humain peut travailler très dur.
+
+Être compétent.
+Prendre de bonnes décisions.
+Mais il peut finir par oublier toutes les conditions qu’il n’a jamais créées lui-même.
+
+Qui lui a donné son intelligence ?
+Sa santé ?
+Ses opportunités ?
+Les personnes rencontrées ?
+Le pays dans lequel il vit ?
+Les capacités qu’il utilise ?
+Les circonstances qui ont permis à ses efforts de produire un résultat ?
+
+Reconnaître Allah n’annule pas l’effort humain.
+
+Mais cela replace l’effort à sa juste place.
+
+Le croyant travaille.
+
+Puis il sait que sa réussite n’est jamais entièrement auto-créée.
+
+## Lorsque Qārūn sort dans toute sa parure
+
+Qārūn sort devant son peuple avec tout son apparat.
+
+Ceux qui désirent la vie terrestre s’émerveillent :
+
+> « Si seulement nous avions comme ce qui a été donné à Qārūn ! Il possède vraiment une immense fortune. »
+> [Sourate Al-Qaṣaṣ, verset 79]
+
+-	Ils ne voient que l’image.
+-	La richesse.
+-	Le prestige.
+-	L’apparence de la réussite.
+
+Mais ceux qui possèdent la connaissance répondent :
+
+> « Malheur à vous ! La récompense d’Allah est meilleure pour celui qui croit et accomplit de bonnes œuvres. »
+> [Sourate Al-Qaṣaṣ, verset 80]
+
+Deux groupes regardent exactement la même personne.
+Mais ils ne voient pas la même chose.
+
+Les premiers voient :
+« J’aimerais avoir sa vie. »
+
+Les seconds voient plus loin.
+
+C’est une leçon extrêmement importante à l’époque de l’exposition permanente de la richesse et du succès.
+
+Nous voyons souvent la vitrine.
+Pas la réalité complète.
+
+Et surtout pas la destination finale.
+
+## Lorsque le modèle envié disparaît sous terre
+
+Puis Allah dit :
+
+> « Nous fîmes donc engloutir par la terre sa personne et sa demeure. »
+> [Sourate Al-Qaṣaṣ, verset 81]
+
+Toute cette richesse.
+Toutes ces clefs.
+Toute cette parure.
+
+Et soudain, plus rien de cela ne peut le protéger.
+
+La réaction de ceux qui l’enviaient la veille est saisissante :
+
+> « Ah ! Il est vrai qu’Allah étend la subsistance à qui Il veut parmi Ses serviteurs et la restreint. Si Allah ne nous avait pas favorisés, Il nous aurait fait engloutir. »
+> [Sourate Al-Qaṣaṣ, verset 82]
+
+Hier :
+« Si seulement nous avions ce qu’il possède ! »
+
+Aujourd’hui :
+« Allah nous a protégés. »
+
+Leur vision de la réussite vient d’être entièrement renversée.
+
+Ce que nous envions chez quelqu’un pourrait parfois être précisément l’épreuve dont Allah nous protège.
+
+Nous ne connaissons jamais toute l’histoire d’une personne simplement parce que nous voyons ce qu’elle possède.
+
+## Pharaon et Qārūn : deux illusions, une même racine
+
+Il existe un lien puissant entre les deux grandes figures négatives de la sourate.
+
+Pharaon dit, en substance :
+le pouvoir est à moi.
+
+Qārūn dit :
+la richesse vient de moi.
+
+L’un s’enorgueillit par son autorité.
+L’autre par ses biens et sa connaissance.
+
+Mais tous deux oublient Allah.
+
+Et tous deux voient finalement disparaître ce qu’ils croyaient posséder solidement.
+
+L’eau engloutit Pharaon.
+
+La terre engloutit Qārūn.
+
+Celui qui contrôlait un empire ne peut se sauver de l’eau.
+
+Celui qui possédait des trésors ne peut se sauver de la terre.
+
+## À qui appartient réellement l’Au-delà ?
+
+Allah conclut le récit de Qārūn par un principe immense :
+
+> « Cette demeure dernière, Nous la réservons à ceux qui ne recherchent ni élévation sur terre ni corruption. Et la fin heureuse appartient aux pieux. »
+> [Sourate Al-Qaṣaṣ, verset 83]
+
+Il ne s’agit donc pas seulement d’éviter certains péchés extérieurs.
+
+La sourate touche une maladie intérieure :
+vouloir s’élever au-dessus des autres.
+
+Chercher constamment la supériorité.
+
+-	Être vu.
+-	Dominer.
+-	Être admiré.
+
+Pharaon recherchait l’élévation.
+
+Qārūn l’affichait.
+
+Le croyant, lui, cherche la proximité d’Allah.
+
+## « Celui qui t’a imposé le Coran te ramènera certainement vers un lieu de retour »
+
+Vers la fin de la sourate, Allah dit à Muhammad ﷺ :
+
+> « Celui qui t’a prescrit le Coran te ramènera certainement vers un lieu de retour. »
+> [Sourate Al-Qaṣaṣ, verset 85]
+
+Ibn ʿAbbās رضي الله عنهما a expliqué authentiquement ce « lieu de retour » comme étant La Mecque, une interprétation rapportée dans Ṣaḥīḥ Al-Bukhārī.
+
+Cette parole possède une beauté particulière dans une sourate dominée par l’histoire d’un homme forcé de quitter sa terre.
+
+Mūsā quitte l’Égypte.
+
+Puis Allah l’y ramène investi d’une mission.
+
+Muhammad ﷺ connaîtra lui aussi l’éloignement de sa ville.
+
+Et Allah lui promet le retour.
+
+L’exil n’est donc pas nécessairement la fin de l’histoire.
+
+Ce que le croyant quitte pour Allah peut lui être rendu d’une manière qu’il n’imaginait pas.
+
+## « Tu n’espérais pas que le Livre te serait transmis »
+
+Allah rappelle ensuite au Prophète ﷺ :
+
+> « Tu n’espérais nullement que le Livre te serait transmis. Il l’a été seulement par une miséricorde de ton Seigneur. »
+> [Sourate Al-Qaṣaṣ, verset 86]
+
+Muhammad ﷺ n’avait pas construit un projet personnel consistant à devenir prophète.
+
+La Révélation lui est accordée par Allah.
+
+Encore une fois, la sourate combat l’idée de l’être humain entièrement auto-construit.
+
+Mūsā n’avait pas prévu de devenir prophète lorsqu’il cherchait un feu.
+
+Muhammad ﷺ n’avait pas fabriqué la Révélation.
+
+Qārūn, lui, tombe précisément dans l’erreur inverse :
+
+« Cela m’a été donné grâce à une science que je possède. »
+
+## « Toute chose périra sauf Son Visage »
+
+La sourate se termine par l’une des proclamations les plus puissantes du Coran :
+
+> « Et n’invoque aucune autre divinité avec Allah. Il n’y a de divinité digne d’adoration que Lui. Toute chose périra sauf Son Visage. À Lui appartient le jugement et vers Lui vous serez ramenés. »
+> [Sourate Al-Qaṣaṣ, verset 88]
+
+Toute la sourate semble converger vers ce verset.
+
+Pharaon semblait immense.
+
+Il a péri.
+Son armée a péri.
+
+Qārūn semblait immense.
+Il a péri.
+Ses trésors n’ont pas pu le protéger.
+
+Les palais disparaissent.
+Les royaumes disparaissent.
+Les fortunes disparaissent.
+Les hommes disparaissent.
+
+Allah demeure.
+
+Voilà pourquoi Lui seul mérite l’adoration absolue.
+
+Tout ce que l’on pourrait prendre comme finalité en dehors de Lui est destiné à disparaître.
+
+## Le message central de la sourate Al-Qaṣaṣ
+
+Al-Qaṣaṣ raconte une histoire.
+
+Mais elle enseigne surtout qui dirige réellement l’histoire.
+
+Au commencement, Pharaon semble tout contrôler.
+Il décide quels enfants doivent mourir.
+
+Les enfants d’Israël sont faibles.
+
+La mère de Mūsā est seule face à une machine politique gigantesque.
+
+Et pourtant, Allah dit :
+
+> « Nous voulions favoriser ceux qui avaient été opprimés sur terre. »
+
+Puis les événements commencent à se dérouler.
+
+-	Un bébé est mis dans l’eau.
+-	Le fleuve l’amène chez Pharaon.
+-	La famille du tyran l’élève.
+-	Sa mère le récupère.
+-	Il grandit.
+-	Il commet une erreur.
+-	Il se repent.
+-	Il fuit.
+-	Il croit avoir tout perdu.
+
+Puis il trouve Madyan.
+Un travail.
+Une famille.
+Des années de préparation.
+Il reprend la route.
+Il cherche un feu.
+
+Et il entend :
+
+> « Ô Mūsā ! Je suis Allah, Seigneur des mondes. »
+
+L’homme qui fuyait Pharaon revient ensuite affronter Pharaon.
+
+Voilà l’un des plus beaux messages d’Al-Qaṣaṣ :
+
+tu ne comprends pas toujours ce qu’Allah construit pendant que tu traverses les événements.
+
+La mère de Mūsā ne voit qu’un fleuve lorsqu’elle y dépose son enfant.
+
+Mūsā ne voit qu’un exil lorsqu’il fuit l’Égypte.
+
+Il ne voit que deux femmes attendant près d’un puits lorsqu’il décide de les aider.
+
+Il ne voit qu’un feu lorsqu’il marche vers le mont.
+
+Mais derrière chacun de ces événements, Allah fait avancer une histoire.
+
+La sourate n’enseigne pas pour autant que le croyant doit rester passif.
+
+La mère de Mūsā agit.
+Sa sœur enquête.
+Mūsā fuit lorsqu’il est menacé.
+Il marche vers Madyan.
+Il aide.
+Il travaille.
+Il accepte un contrat.
+Il demande Hārūn comme soutien.
+Il affronte Pharaon.
+
+La confiance en Allah ne remplace jamais l’action.
+
+Elle change la manière dont on comprend l’action.
+
+Puis vient Qārūn pour montrer l’autre extrême.
+
+L’homme peut travailler, apprendre, s’enrichir et réussir.
+
+Mais s’il regarde finalement tout ce qu’il possède et dit intérieurement :
+« Tout cela vient de moi »,
+
+il a oublié l’essentiel.
+
+La sourate met donc face à face deux phrases.
+
+Mūsā, lorsqu’il ne possède presque rien, dit :
+
+> « Seigneur ! J’ai grand besoin du bien que Tu feras descendre vers moi. »
+
+Qārūn, lorsqu’il possède presque tout ce qu’un homme pourrait désirer, dit :
+
+> « Cela m’a été donné grâce à une science que je possède. »
+
+L’un reconnaît sa dépendance envers Allah.
+
+L’autre se croit autosuffisant.
+
+Et le Coran montre lequel des deux a réellement compris sa situation.
+
+Al-Qaṣaṣ apprend ainsi au croyant à ne jamais juger son histoire uniquement à partir de l’étape qu’il traverse actuellement.
+
+-	Un fleuve peut conduire un enfant vers sa protection.
+-	Une fuite peut conduire vers une nouvelle vie.
+-	Un exil peut préparer une mission.
+-	Une faiblesse apparente peut précéder une délivrance.
+-	Une immense fortune peut précéder une chute.
+-	Et une perte peut cacher une protection.
+
+À la fin, après les palais de Pharaon, les trésors de Qārūn, la peur de la mère de Mūsā, l’exil du prophète et toutes les transformations de l’histoire, une seule réalité demeure :
+
+> « Toute chose périra sauf Son Visage. À Lui appartient le jugement et vers Lui vous serez ramenés. »
+
+C’est peut-être cela, finalement, que toute la sourate cherche à apprendre au cœur :
+ne t’attache jamais à une situation comme si elle était éternelle.
+
+Ni à ta peur.
+Ni à ta puissance.
+Ni à ta pauvreté.
+Ni à ta richesse.
+Ni à ton exil.
+Ni à ta réussite.
+
+Tout cela change.
+
+Allah, Lui, demeure.
+
+Et lorsque le croyant comprend réellement cela, il peut traverser les changements de son histoire avec la même certitude que celle qui accompagne silencieusement Mūsā عليه السلام depuis le fleuve jusqu’à la prophétie :
+
+le plan d’Allah dépasse toujours ce que nos yeux sont capables de voir.
+
 [[/desc]]
 
 [[desc 29]]
