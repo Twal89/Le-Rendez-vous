@@ -57558,6 +57558,802 @@ le plan d’Allah dépasse toujours ce que nos yeux sont capables de voir.
 
 [[desc 29]]
 
+La sourate Al-ʿAnkabūt (سورة العنكبوت), vingt-neuvième sourate du Coran, est une sourate mecquoise de 69 versets. Son nom signifie « L’Araignée », en référence à la parabole du verset 41, dans laquelle Allah compare ceux qui prennent des protecteurs en dehors de Lui à l’araignée qui se construit une demeure extrêmement fragile.
+
+Al-ʿAnkabūt est une sourate profondément marquée par l’épreuve de la foi.
+
+Elle commence presque immédiatement par une question :
+
+> « Les gens pensent-ils qu’on les laissera dire : “Nous croyons”, sans qu’ils soient éprouvés ? »
+> [Sourate Al-ʿAnkabūt, verset 2]
+
+Cette question donne la clé de toute la sourate.
+
+Croire n’est pas seulement prononcer une affirmation.
+
+La foi rencontre nécessairement des moments où elle doit devenir réelle :
+
+-	lorsqu’elle coûte quelque chose
+-	lorsqu’elle oblige à résister à la pression
+-	lorsqu’une personne aimée pousse dans une direction opposée
+-	lorsque les hommes se moquent
+-	lorsque les circonstances deviennent difficiles
+-	ou lorsque l’on ne voit pas encore clairement l’issue qu’Allah prépare
+
+La sourate raconte alors Nūḥ, Ibrāhīm, Lūṭ et Shuʿayb عليهم السلام, puis rappelle les peuples de ʿĀd et Thamūd ainsi que Qārūn, Pharaon et Hāmān.
+
+Tous représentent différentes formes de résistance à la vérité.
+
+Et au milieu de ces histoires apparaît l’araignée.
+
+Elle devient l’image de toutes les sécurités auxquelles l’homme s’accroche lorsqu’il oublie Allah.
+
+Elles peuvent sembler protectrices.
+
+Mais lorsqu’arrive l’épreuve véritable, on découvre parfois qu’on avait construit sa vie sous une toile d’araignée.
+
+## « Nous croyons » : le début, pas l’aboutissement
+
+Après les lettres :
+
+> « Alif-Lām-Mīm »
+
+Allah demande :
+
+> « Les gens pensent-ils qu’on les laissera dire : “Nous croyons”, sans qu’ils soient éprouvés ? Nous avons certes éprouvé ceux qui vécurent avant eux. Allah fera ainsi apparaître ceux qui sont véridiques et ceux qui mentent. »
+> [Sourate Al-ʿAnkabūt, versets 2-3]
+
+Allah connaît évidemment déjà parfaitement les cœurs.
+
+L’épreuve n’a donc pas pour fonction de Lui apprendre quelque chose qu’Il ignorerait.
+
+Elle fait apparaître dans la réalité ce qui était caché dans les intentions.
+
+La foi affirmée devient une foi vécue.
+
+Ou, au contraire, l’épreuve révèle que certaines paroles n’étaient pas profondément enracinées.
+
+Cela ne signifie pas que chaque difficulté particulière signifie qu’Allah serait mécontent d’une personne.
+Bien au contraire.
+
+Le Prophète Muhammad ﷺ fut interrogé sur ceux qui subissent les épreuves les plus difficiles.
+
+Il répondit que ce sont les prophètes, puis ceux qui leur ressemblent le plus dans la fermeté religieuse ; l’homme est éprouvé selon la solidité de sa foi. Le hadith est rapporté par At-Tirmidhī, qui le qualifie de ḥasan ṣaḥīḥ.
+
+L’épreuve n’est donc pas nécessairement le signe d’une mauvaise relation avec Allah.
+
+Elle peut précisément accompagner une foi profonde.
+
+## L’épreuve révèle ce sur quoi nous nous appuyons
+
+Lorsque tout va bien, beaucoup de choses peuvent ressembler à la foi.
+
+Il est facile de dire :
+« J’ai confiance en Allah »
+
+lorsque les événements suivent exactement ce que l’on espérait.
+
+Mais l’épreuve pose une question différente :
+À quoi mon cœur s’accroche-t-il lorsque ce que je contrôlais disparaît ?
+
+C’est cette question qui finira par rejoindre l’image centrale de la sourate :
+la maison de l’araignée.
+
+Allah dit également :
+
+> « Quiconque lutte ne lutte que pour lui-même. Allah Se passe parfaitement de tous les mondes. »
+> [Sourate Al-ʿAnkabūt, verset 6]
+
+Nos efforts n’apportent rien à Allah.
+
+Allah n’a pas besoin de notre prière.
+De notre jeûne.
+De notre patience.
+De notre résistance au péché.
+
+C’est nous qui avons besoin de tout cela.
+
+Lorsque l’homme lutte pour rester fidèle à Allah, il travaille en réalité pour sauver et purifier sa propre âme.
+
+## Les parents : bonté, mais pas obéissance dans le shirk
+
+La sourate aborde ensuite une épreuve particulièrement difficile : celle qui vient de personnes que l’on aime.
+
+Allah dit :
+
+> « Nous avons enjoint à l’être humain de bien agir envers ses parents. Mais s’ils s’efforcent de te faire associer à Moi ce dont tu n’as aucune connaissance, alors ne leur obéis pas. Vers Moi sera votre retour. »
+> [Sourate Al-ʿAnkabūt, verset 8]
+
+Deux principes sont réunis dans le même verset.
+
+La bonté envers les parents demeure.
+
+Mais :
+l’obéissance à une créature s’arrête lorsqu’elle exige de désobéir au Créateur.
+
+Le Coran ne dit pas :
+« Puisqu’ils veulent t’éloigner de la foi, maltraite-les. »
+
+Il maintient le devoir de bonté.
+
+Mais il fixe une limite à l’obéissance.
+
+C’est une forme de maturité spirituelle particulièrement difficile :
+
+continuer à aimer et respecter quelqu’un tout en refusant de le suivre lorsqu’il demande ce qu’Allah interdit.
+
+## Lorsque la pression des hommes devient une épreuve
+
+Allah décrit ensuite une autre catégorie :
+
+> « Parmi les gens, certains disent : “Nous croyons en Allah.” Mais lorsqu’ils subissent un tort à cause d’Allah, ils considèrent l’épreuve infligée par les hommes comme le châtiment d’Allah. »
+> [Sourate Al-ʿAnkabūt, verset 10]
+
+La pression sociale peut devenir tellement forte que l’être humain commence à considérer l’opposition des hommes comme quelque chose d’insupportable.
+
+Il sait peut-être intérieurement quelle est la vérité.
+
+Mais il ne veut pas perdre sa réputation, ses relations, son confort, son statut ou l’approbation de son entourage.
+
+La sourate rappelle alors que la réaction des hommes est temporaire.
+
+La relation avec Allah est éternelle.
+
+La foi implique parfois d’apprendre à supporter d’être mal compris sans transformer cette souffrance en haine ou en arrogance.
+
+## Personne ne portera les fautes d’un autre
+
+Ceux qui rejettent la foi disent ensuite aux croyants :
+
+> « Suivez notre voie et nous porterons vos fautes. »
+
+Mais Allah répond qu’ils ne porteront rien de leurs fautes.
+
+> [Sourate Al-ʿAnkabūt, versets 12-13]
+
+Personne ne pourra se présenter au Jour dernier et dire :
+
+« J’ai désobéi parce que cette personne m’avait promis d’assumer les conséquences à ma place. »
+
+Chacun porte sa responsabilité.
+
+Cela n’empêche pas celui qui égare les autres de porter également la responsabilité de son influence.
+
+Mais celui qui choisit de suivre l’égarement n’est pas automatiquement innocent pour autant.
+
+## Nūḥ عليه السلام : neuf cent cinquante années parmi son peuple
+
+Allah rappelle ensuite Nūḥ عليه السلام :
+
+> « Nous avons envoyé Nūḥ vers son peuple. Il demeura parmi eux mille ans moins cinquante années. Puis le déluge les saisit alors qu’ils étaient injustes. »
+> [Sourate Al-ʿAnkabūt, verset 14]
+
+Le Coran affirme donc qu’il demeura 950 années parmi son peuple.
+
+Il ne dit pas nécessairement que 950 ans constituent la totalité exacte de sa vie : le verset parle spécifiquement de la période durant laquelle il demeura auprès de son peuple.
+
+Mais l’enseignement est déjà vertigineux.
+
+Imaginez appeler pendant des siècles.
+
+Voir plusieurs générations naître et mourir.
+
+Continuer malgré le refus.
+Continuer malgré les moqueries.
+Continuer alors que les résultats visibles paraissent extrêmement faibles.
+
+Nūḥ عليه السلام devient une réponse vivante au début de la sourate.
+
+La foi est éprouvée dans la durée.
+
+Nous avons souvent tendance à mesurer la valeur d’un effort par la rapidité de son résultat.
+
+Le récit de Nūḥ enseigne une autre mesure.
+
+La réussite d’un prophète n’est pas simplement le nombre de personnes qui répondent immédiatement à son appel.
+
+Elle se trouve aussi dans sa fidélité à la mission qu’Allah lui a confiée.
+
+## Ibrāhīm عليه السلام : « Adorez Allah et craignez-Le »
+
+Vient ensuite Ibrāhīm عليه السلام.
+
+Il dit à son peuple :
+
+> « Adorez Allah et craignez-Le. Cela est meilleur pour vous, si seulement vous saviez. »
+> [Sourate Al-ʿAnkabūt, verset 16]
+
+Puis il leur rappelle que les idoles qu’ils adorent ne possèdent pas réellement leur subsistance.
+
+Il leur dit :
+
+> « Recherchez donc votre subsistance auprès d’Allah, adorez-Le et soyez-Lui reconnaissants. C’est vers Lui que vous serez ramenés. »
+> [Sourate Al-ʿAnkabūt, verset 17]
+
+La question de la subsistance rejoint directement celle du Tawḥīd.
+
+De qui dépend véritablement ma vie ?
+
+Qui possède réellement les ressources ?
+
+Qui ouvre ou ferme les portes ?
+
+L’homme utilise naturellement des causes :
+-	il travaille
+-	il commerce
+-	il apprend
+-	il organise
+-	Mais le croyant sait que les causes elles-mêmes ne sont pas des divinités.
+
+Elles ne possèdent aucun pouvoir indépendant d’Allah.
+
+## Regarder comment la création commence
+
+Ibrāhīm invite ensuite les hommes à observer :
+
+> « Parcourez la terre et regardez comment Il a commencé la création. Puis Allah produira la création dernière. Allah est capable de toute chose. »
+> [Sourate Al-ʿAnkabūt, verset 20]
+
+Le Coran invite donc l’être humain à regarder le monde.
+À observer.
+À réfléchir.
+
+La création présente devient un signe permettant de méditer sur la possibilité de la Résurrection.
+
+Celui qui a produit une première création n’est pas incapable d’en produire une nouvelle.
+
+Encore une fois, il n’est pas nécessaire de forcer ici un « miracle scientifique » moderne.
+
+L’argument coranique est plus fondamental :
+l’existence elle-même est déjà un signe.
+
+## « Tuez-le ou brûlez-le »
+
+Quelle est la réponse du peuple d’Ibrāhīm à ses arguments ?
+
+> « La seule réponse de son peuple fut : “Tuez-le ou brûlez-le !” »
+> [Sourate Al-ʿAnkabūt, verset 24]
+
+Lorsqu’ils ne veulent plus répondre à son message, ils cherchent à supprimer celui qui le porte.
+
+Mais Allah dit :
+
+> « Allah le sauva du feu. »
+> [Sourate Al-ʿAnkabūt, verset 24]
+
+La même structure revient.
+
+Le croyant est éprouvé.
+La situation paraît impossible.
+Puis Allah ouvre une issue que les hommes ne contrôlent pas.
+
+## Les liens qui disparaîtront au Jour dernier
+
+Ibrāhīm explique ensuite à son peuple qu’ils ont pris des idoles en dehors d’Allah en raison des liens qui les unissent dans cette vie.
+
+Mais au Jour de la Résurrection, ces alliances se transformeront.
+
+Ceux qui s’encourageaient mutuellement dans l’erreur se désavoueront les uns les autres.
+
+C’est une leçon difficile.
+
+Une relation n’est pas nécessairement bonne simplement parce qu’elle est affectivement forte.
+
+Si deux personnes s’aident à s’éloigner d’Allah, leur proximité peut devenir une source de regret.
+
+La véritable amitié est celle qui aide aussi à atteindre une bonne destination.
+
+## « Je vais émigrer vers mon Seigneur »
+
+Lūṭ عليه السلام croit en Ibrāhīm.
+
+Puis Ibrāhīm déclare :
+
+> « Je vais émigrer vers mon Seigneur. C’est Lui le Tout-Puissant, le Sage. »
+> [Sourate Al-ʿAnkabūt, verset 26]
+
+L’expression est magnifique.
+
+Bien sûr, Allah n’est pas enfermé dans un lieu vers lequel Ibrāhīm voyagerait physiquement.
+
+Le sens est qu’il quitte un environnement dans lequel il ne peut plus accomplir correctement ce qu’Allah lui demande et se dirige vers l’endroit où il pourra mieux Lui obéir.
+
+L’émigration devient alors plus qu’un déplacement géographique.
+
+C’est quitter quelque chose pour Allah.
+
+Parfois, la fidélité exige de ne pas rester attaché à un lieu, une habitude ou une situation simplement parce qu’on les connaît depuis toujours.
+
+## Lūṭ عليه السلام et son peuple
+
+La sourate évoque ensuite Lūṭ عليه السلام.
+
+Il condamne les relations sexuelles entre hommes pratiquées par son peuple ainsi que d’autres formes de corruption qu’il leur reproche.
+
+Mais leur réponse est encore une fois de provoquer le châtiment au lieu de se repentir.
+
+Puis les anges viennent annoncer à Ibrāhīm la destruction du peuple de Lūṭ.
+
+Ibrāhīm s’inquiète :
+
+> « Lūṭ s’y trouve ! »
+
+Les anges lui répondent qu’ils savent parfaitement qui s’y trouve et qu’Allah sauvera Lūṭ et sa famille, sauf son épouse qui restera parmi ceux qui subiront le châtiment.
+
+Le jugement d’Allah n’est donc pas aveugle.
+
+Il sait parfaitement distinguer ceux qui vivent dans une même ville.
+
+Une société peut être jugée.
+Mais chaque personne demeure connue individuellement d’Allah.
+
+## Shuʿayb عليه السلام : foi et honnêteté économique
+
+Allah rappelle ensuite les gens de Madyan et leur prophète Shuʿayb عليه السلام.
+
+Il leur dit :
+
+> « Ô mon peuple ! Adorez Allah, espérez le Jour dernier et ne semez pas la corruption sur terre. »
+> [Sourate Al-ʿAnkabūt, verset 36]
+
+Comme dans Ash-Shuʿarā’, la foi est liée à la manière de se comporter dans la société.
+
+Croire en Allah et au Jour dernier doit produire des conséquences dans la manière de traiter les autres.
+
+La religion n’est pas uniquement une expérience intérieure.
+Elle possède une dimension morale et sociale.
+
+Mais le peuple rejette Shuʿayb et le châtiment les saisit.
+
+Encore une fois, la sourate montre que l’épreuve n’atteint pas seulement les croyants.
+
+Ceux qui commettent l’injustice connaissent eux aussi un jour la conséquence de leurs choix.
+
+## ʿĀd, Thamūd, Qārūn, Pharaon et Hāmān
+
+La sourate accélère ensuite.
+
+Allah rappelle ʿĀd et Thamūd.
+
+Leurs demeures témoignaient encore de leur histoire.
+
+Satan avait embelli leurs œuvres et les avait détournés du chemin alors qu’ils étaient capables d’observer et de raisonner.
+
+Puis Allah cite Qārūn, Pharaon et Hāmān.
+
+Mūsā leur avait apporté des preuves évidentes, mais ils s’étaient montrés arrogants.
+
+Puis vient une phrase qui résume plusieurs civilisations :
+
+> « Nous saisîmes chacun pour son péché. »
+> [Sourate Al-ʿAnkabūt, verset 40]
+
+Allah explique ensuite que certains furent atteints par un vent chargé de pierres, d’autres par le Cri, certains furent engloutis par la terre et d’autres noyés.
+
+Puis Il conclut :
+
+> « Allah ne leur fit aucun tort ; mais ils se faisaient du tort à eux-mêmes. »
+> [Sourate Al-ʿAnkabūt, verset 40]
+
+Leurs histoires étaient différentes.
+
+Mais leur racine était semblable :
+ils avaient reçu des avertissements puis persisté dans l’injustice.
+
+## Pourquoi la sourate s’appelle-t-elle « L’Araignée » ?
+
+Vient alors l’image qui donne son nom à la sourate :
+
+> « Ceux qui prennent des protecteurs en dehors d’Allah ressemblent à l’araignée qui se construit une maison. Or la plus fragile des maisons est certainement la maison de l’araignée, si seulement ils savaient. »
+> [Sourate Al-ʿAnkabūt, verset 41]
+
+Ibn Kathīr explique directement la parabole par ceux qui prennent des divinités et des protecteurs en dehors d’Allah, espérant qu’ils les secourront, leur donneront leur subsistance ou les sauveront dans les difficultés. Leur situation ressemble à celle de quelqu’un qui chercherait une véritable protection dans une toile d’araignée.
+
+Il n’est donc pas nécessaire de transformer ce verset en théorie scientifique sur les propriétés mécaniques de la soie d’araignée.
+
+Le Coran nous donne lui-même le sujet de la comparaison :
+
+la fragilité d’une protection recherchée en dehors d’Allah.
+
+L’idole peut être une statue.
+
+Mais, plus largement dans la méditation spirituelle, l’homme peut aussi donner à certaines choses une confiance qui ne devrait appartenir qu’à Allah :
+-	l’argent
+-	le statut
+-	une personne
+-	un réseau
+-	une position professionnelle
+-	sa propre intelligence
+
+Toutes ces choses peuvent être utilisées comme causes.
+
+Mais aucune ne mérite que le cœur la considère comme une sécurité absolue.
+
+-	Une fortune peut disparaître.
+-	Une personne peut mourir.
+-	Une entreprise peut tomber.
+-	Une santé peut changer.
+-	Une réputation peut s’effondrer.
+-	Une civilisation entière peut disparaître.
+
+La sourate vient de nous montrer Nūḥ, les peuples d’Ibrāhīm et de Lūṭ, Madyan, ʿĀd, Thamūd, Qārūn et Pharaon.
+
+Tous avaient quelque chose qui leur semblait solide.
+
+Et pourtant, ce qui n’était pas attaché à Allah finit par révéler sa fragilité.
+
+## Les paraboles demandent de réfléchir
+
+Allah ajoute :
+
+> « Telles sont les paraboles que Nous proposons aux gens, mais seuls ceux qui possèdent la connaissance les comprennent réellement. »
+> [Sourate Al-ʿAnkabūt, verset 43]
+
+La parabole n’est donc pas une simple jolie image.
+
+Elle demande un travail du cœur et de l’intelligence.
+
+Le lecteur doit se demander :
+Quelle est ma toile d’araignée ?
+
+À quoi est-ce que j’attribue intérieurement une sécurité que cette chose ne possède pas réellement ?
+
+## « Accomplis la prière »
+
+Allah dit ensuite :
+
+> « Récite ce qui t’a été révélé du Livre et accomplis la prière. La prière préserve certes de la turpitude et du blâmable. Et le rappel d’Allah est plus grand encore. »
+> [Sourate Al-ʿAnkabūt, verset 45]
+
+Ce verset décrit l’une des grandes fonctions de la ṣalāt.
+
+La prière ne devrait pas rester isolée du reste de la journée.
+
+Cinq fois par jour, le croyant se remet devant Allah.
+
+Il récite Sa parole.
+Il s’incline.
+Il se prosterne.
+Il demande la guidance.
+
+Cette répétition est censée progressivement former le cœur et freiner le péché.
+
+Cela ne signifie pas qu’une personne qui prie ne commettra jamais aucune faute.
+
+Les croyants restent humains.
+
+Mais une prière véritablement entretenue constitue une force qui ramène continuellement l’âme vers Allah.
+
+Si la prière ne change absolument rien au comportement, le croyant doit donc s’interroger non sur l’inutilité de la prière, mais sur la manière dont il la vit.
+
+## Discuter avec les gens du Livre « de la meilleure manière »
+
+Allah dit :
+
+> « Ne discutez avec les gens du Livre que de la manière la meilleure, sauf avec ceux d’entre eux qui commettent l’injustice. Et dites : “Nous croyons à ce qui nous a été révélé et à ce qui vous a été révélé. Notre Dieu et votre Dieu est Un, et c’est à Lui que nous sommes soumis.” »
+> [Sourate Al-ʿAnkabūt, verset 46]
+
+Le verset établit un principe remarquable de dialogue religieux.
+
+La divergence existe.
+
+Le Coran ne prétend pas que toutes les doctrines sont identiques.
+
+Mais la discussion doit être menée de la meilleure manière.
+
+Le musulman n’est pas obligé de devenir agressif simplement parce qu’il est convaincu de sa foi.
+
+Il peut défendre ce qu’il croit vrai tout en restant juste, respectueux et intelligent dans sa manière de parler.
+
+Le verset rappelle également la continuité de la Révélation :
+
+le Dieu de Mūsā, de ʿĪsā et de Muhammad عليهم الصلاة والسلام n’est pas trois divinités différentes.
+
+Le message islamique se présente comme un retour au même Dieu unique qui envoya les prophètes.
+
+## Le Prophète ﷺ et l’origine du Coran
+
+Allah dit à Muhammad ﷺ :
+
+> « Avant cela, tu ne récitais aucun livre et tu n’en écrivais aucun de ta main droite ; sinon ceux qui cherchent à nier auraient pu avoir des doutes. »
+> [Sourate Al-ʿAnkabūt, verset 48]
+
+Le verset rappelle que Muhammad ﷺ n’était pas connu avant la Révélation comme un homme étudiant et recopiant des Écritures afin de fabriquer ensuite un texte religieux.
+
+Le Coran présente cela comme un élément dans la discussion sur son origine.
+
+Puis Allah dit :
+
+> « Ce sont au contraire des versets clairs dans les poitrines de ceux à qui la connaissance a été donnée. »
+> [Sourate Al-ʿAnkabūt, verset 49]
+
+La Révélation n’est donc pas seulement conservée matériellement.
+
+Elle est également apprise, récitée et portée dans les cœurs.
+
+## « Le Livre qui t’a été révélé ne leur suffit-il donc pas ? »
+
+Certains réclamaient des signes supplémentaires.
+
+Allah répond :
+
+> « Ne leur suffit-il donc pas que Nous ayons fait descendre sur toi le Livre qui leur est récité ? Il y a vraiment là une miséricorde et un rappel pour des gens qui croient. »
+> [Sourate Al-ʿAnkabūt, verset 51]
+
+Le Coran lui-même est présenté comme un signe.
+
+Les hommes peuvent toujours demander :
+« Encore une preuve. »
+
+Puis :
+« Encore un miracle. »
+
+Puis :
+« Quelque chose de plus spectaculaire. »
+
+Mais parfois, le problème n’est plus le manque de signes.
+
+C’est le refus de regarder sérieusement ceux qui sont déjà présents.
+
+## « Toute âme goûtera la mort »
+
+Allah s’adresse ensuite à Ses serviteurs croyants :
+
+> « Ô Mes serviteurs qui avez cru ! Ma terre est vaste. Adorez-Moi donc. Toute âme goûtera la mort. Puis c’est vers Nous que vous serez ramenés. »
+> [Sourate Al-ʿAnkabūt, versets 56-57]
+
+Dans le contexte des persécutions et des difficultés rencontrées par les croyants, la largeur de la terre rappelle qu’un lieu ne doit pas devenir une excuse permanente pour abandonner l’adoration lorsqu’il existe réellement une possibilité de partir.
+
+Puis vient immédiatement la mort.
+
+Pourquoi ?
+Parce que même l’émigration la plus lointaine reste temporaire.
+
+Le véritable voyage se termine auprès d’Allah.
+
+## Les animaux qui ne transportent pas leurs provisions
+
+Allah dit ensuite :
+
+> « Combien de créatures ne transportent pas leur propre subsistance ! Allah leur accorde leur subsistance ainsi qu’à vous. »
+> [Sourate Al-ʿAnkabūt, verset 60]
+
+L’être humain peut avoir peur de perdre sa subsistance lorsqu’il obéit à Allah.
+
+Mais Allah lui rappelle les innombrables créatures qui vivent sans entrepôts, comptes bancaires ou réserves organisées comme celles des hommes.
+
+Cela ne signifie pas abandonner la planification.
+
+Le Coran n’interdit pas de prévoir.
+
+Mais la planification ne doit pas devenir l’illusion que nous créons nous-mêmes notre subsistance indépendamment d’Allah.
+
+## Ils reconnaissent Allah… mais adorent autre que Lui
+
+Allah remarque ensuite quelque chose d’étonnant chez les polythéistes de La Mecque.
+
+Si on leur demande :
+Qui a créé les cieux et la terre ?
+Qui a soumis le soleil et la lune ?
+
+Ils répondent :
+Allah.
+
+Et si on leur demande :
+Qui fait descendre l’eau du ciel et redonne vie à la terre après sa mort ?
+
+Ils reconnaissent également Allah.
+
+Le problème n’est donc pas qu’ils ignorent totalement l’existence du Créateur.
+
+Le problème est qu’ils ne tirent pas la conclusion du Tawḥīd dans leur adoration.
+
+Reconnaître qu’Allah est Créateur ne suffit pas si l’on dirige ensuite des actes d’adoration vers d’autres.
+
+## « Cette vie d’ici-bas n’est que divertissement et jeu »
+
+Allah dit :
+
+> « Cette vie présente n’est que divertissement et jeu. La demeure de l’Au-delà est la véritable vie, s’ils savaient. »
+> [Sourate Al-ʿAnkabūt, verset 64]
+
+Cela ne signifie pas que tout ce qui existe dans la vie terrestre serait inutile.
+
+Le Coran lui-même ordonne de travailler, d’être juste, d’aider, de construire des familles et d’accomplir de bonnes œuvres.
+
+Ce que le verset remet en cause est la comparaison entre cette vie temporaire et la permanence de l’Au-delà.
+
+Une existence de quelques décennies peut paraître immense lorsqu’on ne voit qu’elle.
+
+Mais face à l’éternité, sa véritable proportion apparaît.
+
+Le croyant vit donc dans ce monde sérieusement, tout en sachant que ce monde n’est pas son dernier domicile.
+
+## Le bateau dans la tempête
+
+Allah décrit ensuite une scène humaine très profonde :
+
+> « Lorsqu’ils montent sur un bateau, ils invoquent Allah en Lui vouant sincèrement le culte. Puis lorsqu’Il les ramène sains et saufs sur la terre ferme, voilà qu’ils Lui donnent des associés. »
+> [Sourate Al-ʿAnkabūt, verset 65]
+
+Dans le danger extrême, certaines illusions disparaissent.
+
+Lorsque les causes ordinaires ne suffisent plus, le cœur peut reconnaître soudain sa dépendance envers Allah.
+
+Mais une fois revenu en sécurité, l’homme oublie.
+
+La véritable foi consiste à reconnaître Allah sur la terre ferme comme au milieu de la tempête.
+
+Ne pas attendre que toutes les sécurités visibles disparaissent pour se souvenir de Lui.
+
+## La sécurité du sanctuaire
+
+Allah rappelle enfin aux Quraysh :
+
+> « Ne voient-ils pas que Nous avons établi un sanctuaire sûr tandis qu’autour d’eux les gens sont enlevés ? »
+> [Sourate Al-ʿAnkabūt, verset 67]
+
+Ils bénéficient eux-mêmes d’une sécurité particulière autour de La Mecque.
+
+Pourtant, au lieu de remercier Celui qui leur accorde cette sécurité, ils utilisent ce bienfait tout en rejetant Son message.
+
+Encore une fois, l’homme peut profiter quotidiennement des dons d’Allah au point d’oublier le Donateur.
+
+## « Ceux qui luttent pour Nous, Nous les guiderons sur Nos chemins »
+
+La sourate se termine par l’un de ses plus beaux versets :
+
+> « Quant à ceux qui luttent pour Nous, Nous les guiderons certainement sur Nos chemins. Et Allah est assurément avec les bienfaisants. »
+> [Sourate Al-ʿAnkabūt, verset 69]
+
+Le terme employé exprime l’effort intense accompli pour Allah.
+
+Dans son tafsīr, As-Saʿdī inclut notamment l’émigration pour Allah, la lutte contre les ennemis, l’effort pour suivre ce qui Lui plaît, ainsi que l’effort dans la recherche et l’enseignement de la connaissance religieuse. Ibn Kathīr comprend également le verset comme une promesse d’aide et de guidance pour ceux qui s’efforcent sincèrement dans la voie d’Allah.
+
+Il serait donc réducteur de comprendre ce verset uniquement comme une référence au combat armé.
+
+Il exprime plus largement une réalité spirituelle :
+la guidance accompagne l’effort sincère.
+
+On pourrait parfois penser :
+« Je dois d’abord être parfaitement guidé, puis j’agirai. »
+
+Le verset montre aussi le mouvement inverse :
+avance sincèrement vers Allah, et Allah t’ouvrira davantage Ses chemins.
+
+-	Fais l’effort de comprendre.
+-	Fais l’effort de résister à ce qui t’éloigne de Lui.
+-	Fais l’effort de prier.
+-	Fais l’effort de corriger tes fautes.
+-	Fais l’effort de chercher la vérité avec sincérité.
+
+Et Allah promet Sa guidance.
+
+## De l’épreuve à la guidance
+
+Il existe une magnifique symétrie entre le commencement et la fin d’Al-ʿAnkabūt.
+
+Au commencement :
+
+> « Les gens pensent-ils qu’on les laissera dire : “Nous croyons”, sans qu’ils soient éprouvés ? »
+
+À la fin :
+
+> « Ceux qui luttent pour Nous, Nous les guiderons certainement sur Nos chemins. »
+
+Entre les deux se trouve toute la vie du croyant.
+
+Il affirme sa foi.
+Puis cette foi est éprouvée.
+
+Il doit faire un effort.
+Il tombe parfois.
+Il se relève.
+Il apprend à distinguer les vraies sécurités des fausses.
+
+Et dans cet effort sincère, Allah lui ouvre progressivement davantage de chemins.
+
+## Le message central de la sourate Al-ʿAnkabūt
+
+Al-ʿAnkabūt enseigne quelque chose que l’être humain aimerait parfois éviter :
+la foi n’élimine pas l’épreuve.
+
+Elle lui donne un sens.
+
+-	Nūḥ عليه السلام croit, et il doit patienter pendant des siècles.
+-	Ibrāhīm عليه السلام croit, et son peuple veut le brûler.
+-	Lūṭ عليه السلام croit, et il vit au milieu d’une société qui refuse son appel.
+-	Shuʿayb عليه السلام croit, et son peuple le rejette.
+-	Muhammad ﷺ et les premiers croyants croient, et ils connaissent la pression, les persécutions et la nécessité de rester fermes.
+
+Les prophètes sont précisément parmi les plus éprouvés.
+
+La question n’est donc pas :
+« Si Allah m’aime, pourquoi existe-t-il des difficultés ? »
+
+La sourate nous apprend plutôt à demander :
+« Que révèle cette difficulté sur ma foi et sur ce à quoi mon cœur s’accroche ? »
+
+Car au milieu de la sourate se trouve l’araignée.
+
+Elle a construit quelque chose qui ressemble à une maison.
+
+Une structure existe réellement.
+
+Elle peut même paraître élaborée.
+
+Mais ce n’est pas une forteresse.
+
+Et Allah dit :
+
+> « La plus fragile des maisons est certainement la maison de l’araignée. »
+
+De la même manière, l’être humain peut construire autour de lui beaucoup de choses :
+-	argent
+-	relations
+-	carrière
+-	prestige
+-	intelligence
+-	projets
+-	sécurité matérielle
+
+L’Islam ne lui demande pas nécessairement de les abandonner.
+
+Il lui demande de ne pas les confondre avec Allah.
+
+Utilise les causes.
+Mais n’adore pas les causes.
+
+Travaille.
+Mais sache Qui t’accorde ta subsistance.
+
+Aime les gens.
+Mais sache que leurs cœurs appartiennent à Allah.
+
+Construis.
+Mais sache que toute construction terrestre disparaîtra.
+
+Planifie.
+Mais sache que ton plan demeure à l’intérieur du décret d’Allah.
+
+Voilà pourquoi l’image de l’araignée est si puissante.
+
+Le problème n’est pas simplement d’avoir une maison fragile.
+
+Le vrai danger est de croire qu’elle est indestructible.
+
+Al-ʿAnkabūt retire donc progressivement au croyant toutes ses fausses certitudes afin de lui donner une certitude plus solide.
+
+-	Les hommes peuvent te mettre à l’épreuve.
+-	Les proches peuvent te pousser dans une mauvaise direction.
+-	Une société entière peut rejeter la vérité.
+-	Une sécurité matérielle peut disparaître.
+-	La terre elle-même peut devenir trop étroite et obliger à partir.
+
+Mais Allah demeure.
+
+Et la sourate ne se termine pas par :
+« Ceux qui croient n’auront plus aucune difficulté. »
+
+Elle se termine par quelque chose de plus profond :
+
+> « Ceux qui luttent pour Nous, Nous les guiderons certainement sur Nos chemins. »
+
+La promesse n’est donc pas l’absence d’effort.
+
+La promesse est la guidance au cœur de l’effort.
+
+La foi commence peut-être par :
+« Nous croyons. »
+
+Mais Al-ʿAnkabūt nous apprend qu’elle grandit lorsque cette parole traverse l’épreuve et devient une manière de vivre.
+
+Et lorsqu’un croyant découvre que certaines choses auxquelles il s’accrochait n’étaient finalement que des toiles d’araignée, ce n’est pas nécessairement la fin de sa sécurité.
+
+Cela peut être le commencement d’une sécurité beaucoup plus profonde :
+celle de comprendre enfin que le seul refuge qui ne se brise jamais est Allah.
+
+
 [[/desc]]
 
 [[desc 30]]
