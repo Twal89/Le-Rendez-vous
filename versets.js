@@ -58358,6 +58358,776 @@ celle de comprendre enfin que le seul refuge qui ne se brise jamais est Allah.
 
 [[desc 30]]
 
+La sourate Ar-Rūm (سورة الروم), trentième sourate du Coran, est une sourate mecquoise de 60 versets. Son nom signifie « Les Romains », en référence aux premiers versets qui évoquent la défaite de l’Empire romain d’Orient — que l’on appelle aujourd’hui communément l’Empire byzantin — face aux Perses sassanides, puis annoncent qu’après cette défaite, les Romains connaîtront à leur tour la victoire.
+
+Ar-Rūm possède une construction particulièrement belle.
+
+Elle commence par un événement politique qui semblait dépendre entièrement des armées, des empires et des rapports de force.
+
+Puis elle élargit progressivement le regard.
+
+-	L’histoire.
+-	La création de l’être humain.
+-	Le couple.
+-	Les langues et les couleurs.
+-	Le sommeil.
+-	La pluie.
+-	Le vent.
+-	La vie et la mort.
+-	La fiṭrah.
+-	La richesse.
+-	Les conséquences des actions humaines.
+-	La Résurrection.
+
+Tout devient āyah, un signe.
+
+Ainsi, la sourate apprend à regarder le monde visible sans s’arrêter à lui.
+
+Derrière l’histoire humaine, il y a Allah.
+
+Derrière les lois de la nature, il y a Allah.
+
+Derrière la vie du corps et du cœur, il y a Allah.
+
+Et derrière la mort se trouve encore le retour vers Lui.
+
+## « Les Romains ont été vaincus »
+
+La sourate commence par :
+
+> « Alif-Lām-Mīm. Les Romains ont été vaincus, dans le territoire le plus proche. Mais après leur défaite, ils seront vainqueurs, dans quelques années. À Allah appartient le commandement avant comme après. »
+> [Sourate Ar-Rūm, versets 1-4]
+
+Au début du VIIᵉ siècle, les Perses sassanides remportèrent effectivement de grandes victoires contre l’Empire romain d’Orient.
+
+La situation romaine était devenue extrêmement difficile.
+
+C’est dans ce contexte que le Coran annonce :
+ils ont été vaincus, mais ils vaincront à leur tour.
+
+Le terme arabe biḍʿ sinīn, traduit par « quelques années », désigne classiquement une durée comprise entre trois et neuf années. Les récits exégétiques relient ensuite cette annonce au redressement militaire de l’empereur Héraclius contre les Perses. Le Coran lui-même ne donne cependant ni le nom de la bataille précise ni une chronologie historique détaillée.
+
+La prophétie possède évidemment une importance en elle-même.
+
+Mais la phrase qui suit est peut-être encore plus fondamentale :
+
+> « À Allah appartient le commandement avant comme après. »
+
+La Perse gagne ?
+Le commandement appartient à Allah.
+
+Rome reprend l’avantage ?
+Le commandement appartient toujours à Allah.
+
+Les empires changent.
+La souveraineté d’Allah ne change pas.
+
+## Lorsque les rapports de force nous trompent
+
+Un empire peut sembler invincible à un moment donné.
+
+Quelques années plus tard, la situation peut être totalement inversée.
+
+Ar-Rūm apprend ainsi à ne jamais transformer une situation présente en vérité éternelle.
+
+-	Ce qui domine aujourd’hui peut décliner demain.
+-	Ce qui paraît condamné aujourd’hui peut se relever.
+-	Ce qui semble politiquement impossible peut devenir réalité.
+
+Le croyant ne nie pas les causes historiques.
+
+Il étudie les forces militaires, économiques et politiques.
+
+Mais il ne confond jamais ces causes avec une souveraineté absolue.
+
+Allah dit :
+
+> « À Allah appartient le commandement avant comme après. »
+
+L’histoire n’échappe jamais à Celui qui possède le temps lui-même.
+
+## « Les croyants se réjouiront »
+
+Allah ajoute :
+
+> « Et ce jour-là les croyants se réjouiront du secours d’Allah. Il secourt qui Il veut, et Il est le Tout-Puissant, le Très Miséricordieux. »
+> [Sourate Ar-Rūm, versets 4-5]
+
+Les exégètes expliquent notamment que les musulmans étaient favorables à une victoire des Romains parce que ceux-ci appartenaient aux gens du Livre, tandis que les polythéistes mecquois se réjouissaient davantage de la victoire des Perses.
+
+Puis Allah affirme :
+
+> « C’est une promesse d’Allah. Allah ne manque jamais à Sa promesse, mais la plupart des gens ne savent pas. »
+> [Sourate Ar-Rūm, verset 6]
+
+Le contraste est saisissant.
+
+Les hommes voient une défaite.
+Allah annonce déjà ce qui vient après.
+
+Nous voyons un instant.
+Allah connaît toute la trajectoire.
+
+## Ils connaissent l’apparence de la vie d’ici-bas
+
+Juste après cette annonce extraordinaire, Allah décrit une forme étrange de connaissance :
+
+> « Ils connaissent un aspect apparent de la vie d’ici-bas, tandis qu’ils sont inattentifs à l’Au-delà. »
+> [Sourate Ar-Rūm, verset 7]
+
+Le Coran ne critique pas ici la connaissance du monde matériel en elle-même.
+
+Il critique une connaissance qui s’arrête à la surface.
+
+L’homme peut comprendre :
+
+-	le commerce
+-	les armées
+-	les technologies
+-	les cycles politiques
+-	les marchés
+-	la production
+-	les intérêts matériels
+
+Et malgré tout cela, manquer la question la plus importante :
+Pourquoi suis-je ici et où vais-je ?
+
+Une intelligence capable d’analyser le monde tout entier peut rester spirituellement distraite si elle ne se demande jamais ce que cette existence signifie.
+
+Ar-Rūm ne demande donc pas à l’être humain de moins observer le monde.
+
+Elle lui demande de l’observer plus profondément.
+
+## « N’ont-ils pas réfléchi en eux-mêmes ? »
+
+Allah dit ensuite :
+
+> « N’ont-ils pas réfléchi en eux-mêmes ? Allah n’a créé les cieux, la terre et ce qui se trouve entre eux qu’en toute vérité et pour un terme fixé. »
+> [Sourate Ar-Rūm, verset 8]
+
+La réflexion commence ici par l’être humain lui-même.
+
+Avant même de regarder les galaxies, les montagnes ou les civilisations disparues, il peut regarder sa propre existence.
+
+-	Pourquoi existe-t-il ?
+-	Pourquoi possède-t-il une conscience ?
+-	Pourquoi sait-il qu’il mourra ?
+-	Pourquoi cherche-t-il spontanément un sens, une justice, une permanence ?
+
+Puis Allah lui demande de regarder l’univers.
+
+Cette création n’est pas présentée comme absurde.
+
+Elle possède une vérité.
+Un ordre.
+Et une limite temporelle.
+
+Le monde n’est pas éternel.
+
+## Regardez ce qui est arrivé avant vous
+
+Allah demande ensuite :
+
+> « N’ont-ils pas parcouru la terre pour voir ce qu’il est advenu de ceux qui vécurent avant eux ? »
+> [Sourate Ar-Rūm, verset 9]
+
+Ces peuples étaient parfois plus puissants.
+
+Ils travaillèrent la terre.
+Construisirent.
+Développèrent des civilisations.
+Des messagers leur apportèrent des preuves.
+
+Mais lorsqu’ils persistèrent dans l’injustice, leur puissance ne les sauva pas.
+
+Le Coran nous apprend ainsi à visiter mentalement les ruines de l’histoire.
+
+Une civilisation peut sembler énorme lorsqu’on vit à son époque.
+
+Quelques siècles plus tard, elle devient une page dans un livre.
+
+Le croyant ne doit donc jamais confondre puissance momentanée et véritable réussite auprès d’Allah.
+
+## Celui qui commence la création peut la recommencer
+
+Allah affirme :
+
+> « Allah commence la création, puis Il la recommencera ; ensuite, c’est vers Lui que vous serez ramenés. »
+> [Sourate Ar-Rūm, verset 11]
+
+L’argument revient plusieurs fois dans le Coran.
+
+L’être humain trouve parfois difficile d’imaginer la Résurrection.
+Mais son existence actuelle est déjà devant lui.
+
+Celui qui a créé une première fois n’est pas incapable de recréer.
+
+La première création devrait donc nous conduire vers la seconde.
+
+Chaque naissance est en quelque sorte un rappel : celui qui produit la vie possède la capacité de la ramener.
+
+## Lorsque les fausses sécurités disparaîtront
+
+La sourate décrit ensuite le Jour de la Résurrection.
+
+Les criminels seront plongés dans le désespoir.
+
+Les divinités et associés qu’ils invoquaient ne pourront rien pour eux.
+
+Ce que l’homme imaginait protecteur se révélera impuissant.
+
+Encore une fois, Ar-Rūm déplace le regard :
+ce qui semble puissant ici-bas ne possède pas nécessairement de poids devant Allah.
+
+Puis les hommes seront séparés.
+
+Ceux qui ont cru et accompli de bonnes œuvres connaîtront la joie.
+
+Ceux qui ont rejeté les signes d’Allah et la rencontre de l’Au-delà connaîtront la conséquence de leur choix.
+
+Ainsi, après les empires du début de la sourate vient le royaume qui ne disparaît jamais.
+
+## Se souvenir d’Allah au rythme de la journée
+
+Allah dit :
+
+> « Glorifiez donc Allah quand vous arrivez au soir et quand vous arrivez au matin. À Lui toute louange dans les cieux et sur la terre, dans l’après-midi et au milieu du jour. »
+> [Sourate Ar-Rūm, versets 17-18]
+
+La journée humaine est replacée dans le rappel d’Allah.
+
+Le matin.
+Le soir.
+Le jour.
+Les différentes étapes du temps.
+
+Les exégètes ont rapproché ces moments des temps de certaines prières obligatoires, même si le passage demeure d’abord une injonction générale à glorifier Allah au rythme du jour.
+
+Cela transforme la perception du temps.
+
+La journée n’est plus simplement réveil, travail, repas, activités, sommeil…
+
+Elle devient une succession de moments où la créature se souvient de son Créateur.
+
+## Il fait sortir le vivant du mort
+
+Allah dit :
+
+> « Il fait sortir le vivant du mort et fait sortir le mort du vivant. Il redonne vie à la terre après sa mort. Et c’est ainsi que l’on vous fera sortir. »
+> [Sourate Ar-Rūm, verset 19]
+
+La terre morte reprend vie sous nos yeux.
+Une étendue sèche reçoit de l’eau.
+
+Puis apparaissent les plantes.
+Les couleurs.
+La végétation.
+
+Le Coran transforme ce phénomène familier en leçon sur la Résurrection.
+
+Ce que nous appelons « naturel » ne cesse pas d’être un signe simplement parce que nous l’avons vu souvent.
+
+L’habitude peut rendre extraordinaire quelque chose qui ne l’est pas moins.
+
+## « Parmi Ses signes… »
+
+À partir du verset 20 commence l’une des plus belles séries de signes du Coran.
+
+Plusieurs fois revient l’expression :
+
+> « Et parmi Ses signes… »
+
+Le croyant est invité à regarder sa propre existence comme un ensemble de preuves.
+
+## Vous avez été créés de poussière
+
+Allah dit :
+
+> « Et parmi Ses signes, Il vous a créés de poussière ; puis vous voilà des êtres humains dispersés sur la terre. »
+> [Sourate Ar-Rūm, verset 20]
+
+La matière dont l’être humain tire son origine ne possède rien qui annonce extérieurement ce qu’il deviendra.
+
+Et pourtant apparaissent :
+
+-	la conscience
+-	le langage
+-	la mémoire
+-	les émotions
+-	l’intelligence
+-	les civilisations
+
+L’homme qui s’enorgueillit de lui-même est donc ramené à son origine.
+
+## Le couple : tranquillité, affection et miséricorde
+
+Puis vient l’un des versets les plus connus concernant le mariage :
+
+> « Et parmi Ses signes, Il a créé de vous, pour vous, des épouses afin que vous trouviez auprès d’elles la tranquillité, et Il a placé entre vous affection et miséricorde. Il y a en cela des signes pour des gens qui réfléchissent. »
+> [Sourate Ar-Rūm, verset 21]
+
+Trois notions apparaissent :
+
+-	sukūn : la tranquillité, l’apaisement ;
+-	mawaddah : l’affection, l’amour ;
+-	raḥmah : la miséricorde, la bienveillance.
+
+Ibn Kathīr explique notamment cette affection et cette miséricorde comme faisant partie des liens par lesquels Allah unit les époux.
+
+Le Coran présente donc le couple non comme un simple contrat matériel ou une association fonctionnelle.
+
+Il y voit un signe d’Allah.
+
+Deux êtres distincts peuvent construire une intimité dans laquelle chacun devient un lieu de repos pour l’autre.
+
+Et lorsque l’intensité de l’émotion varie au cours de la vie, la miséricorde peut continuer à maintenir la relation.
+
+## Vos langues et vos couleurs
+
+Allah poursuit :
+
+> « Et parmi Ses signes, la création des cieux et de la terre, et la diversité de vos langues et de vos couleurs. Il y a en cela des signes pour ceux qui savent. »
+> [Sourate Ar-Rūm, verset 22]
+
+La diversité humaine elle-même devient un signe.
+
+Les langues. Les accents. Les couleurs. Les peuples.
+
+Le Coran ne présente pas cette diversité comme une erreur à supprimer.
+
+Elle fait partie des signes de la puissance créatrice d’Allah.
+
+Des milliards d’êtres humains appartiennent à une même espèce et pourtant leurs apparences, leurs voix et leurs langues diffèrent.
+
+La différence ne constitue donc pas en elle-même une hiérarchie de valeur devant Allah.
+
+## Votre sommeil est un signe
+
+Allah dit ensuite :
+
+> « Et parmi Ses signes, votre sommeil pendant la nuit et le jour, et votre recherche de Ses bienfaits. »
+> [Sourate Ar-Rūm, verset 23]
+
+Nous dormons chaque jour. Cela nous paraît totalement ordinaire.
+
+Mais l’être humain doit régulièrement abandonner son contrôle.
+
+Sa conscience se retire partiellement. Son corps demeure presque immobile pendant des heures.
+
+Puis il se réveille.
+
+Même l’acte le plus banal de la journée peut donc devenir un objet de méditation.
+
+Le croyant apprend progressivement à voir des signes là où l’habitude ne voyait plus rien.
+
+## L’éclair entre crainte et espérance
+
+Allah dit :
+
+> « Et parmi Ses signes, Il vous montre l’éclair, source de crainte et d’espoir, et fait descendre du ciel une eau par laquelle Il redonne vie à la terre après sa mort. »
+> [Sourate Ar-Rūm, verset 24]
+
+Un même phénomène peut produire deux sentiments : la peur de sa puissance et l’espoir de la pluie.
+
+Puis l’eau descend. La terre reprend vie.
+
+Et la Résurrection est à nouveau suggérée.
+
+La création entière semble enseigner le même message sous différentes formes :
+
+la mort apparente n’empêche pas le retour de la vie.
+
+## Les cieux et la terre tiennent par Son ordre
+
+Allah dit :
+
+> « Et parmi Ses signes, le ciel et la terre se maintiennent par Son ordre. Puis lorsqu’Il vous appellera une seule fois de la terre, voilà que vous en sortirez. »
+> [Sourate Ar-Rūm, verset 25]
+
+Nous vivons à l’intérieur d’un ordre extrêmement stable.
+
+Cette stabilité peut nous faire oublier qu’elle dépend elle-même d’Allah.
+
+Puis viendra un moment où l’ordre actuel prendra fin.
+
+Un appel.
+
+Et les morts se lèveront.
+
+## La fiṭrah : une orientation originelle vers Allah
+
+Vient ensuite l’un des versets centraux de la sourate :
+
+> « Dirige donc ton visage exclusivement vers la religion, selon la fiṭrah d’Allah sur laquelle Il a créé les hommes. Pas de changement à la création d’Allah. Voilà la religion de droiture, mais la plupart des gens ne savent pas. »
+> [Sourate Ar-Rūm, verset 30]
+
+La fiṭrah désigne la disposition originelle avec laquelle Allah crée l’être humain.
+
+Le Prophète Muhammad ﷺ a directement relié ce verset à cette réalité en disant :
+
+> « Tout enfant naît sur la fiṭrah. »
+
+Puis il expliqua que son environnement parental influence ensuite son orientation religieuse. Ce hadith est authentiquement rapporté par Al-Bukhārī et Muslim.
+
+La fiṭrah ne signifie pas nécessairement que tout être humain possède dès sa naissance une connaissance consciente et détaillée de toutes les doctrines de l’Islam.
+
+Elle désigne plutôt cette disposition naturelle tournée vers la reconnaissance d’Allah et du Tawḥīd, disposition qui peut ensuite être influencée, recouverte ou détournée.
+
+Ainsi, le message prophétique ne vient pas simplement imposer quelque chose de totalement étranger à la nature humaine.
+
+Il vient aussi réveiller ce qu’Allah a placé en elle.
+
+## Revenez vers Lui
+
+Allah poursuit :
+
+> « Revenez repentants vers Lui, craignez-Le, accomplissez la prière et ne soyez pas parmi les associateurs. »
+> [Sourate Ar-Rūm, verset 31]
+
+Le retour à la fiṭrah n’est donc pas une simple réflexion philosophique.
+
+Il produit :
+
+-	le repentir
+-	la conscience d’Allah
+-	la prière
+-	le Tawḥīd
+
+La connaissance doit devenir orientation.
+
+## Ne pas transformer la religion en factions orgueilleuses
+
+Allah avertit ensuite contre ceux :
+
+> « qui ont divisé leur religion et sont devenus des factions, chaque groupe se réjouissant de ce qu’il possède. »
+> [Sourate Ar-Rūm, verset 32]
+
+Le verset ne signifie pas que toute divergence intellectuelle ou juridique serait interdite.
+
+Les savants musulmans ont toujours connu des divergences.
+
+Le problème décrit ici est une division religieuse où la vérité est fragmentée par l’attachement partisan et où chacun se satisfait orgueilleusement de son groupe.
+
+La fidélité doit être d’abord à Allah et à la vérité.
+
+Pas au simple plaisir de gagner contre un autre groupe.
+
+## Dans la détresse, l’homme revient vers Allah
+
+Allah décrit ensuite un comportement humain récurrent :
+lorsqu’un mal touche les hommes, ils invoquent leur Seigneur en revenant vers Lui.
+
+Puis lorsqu’Il leur fait goûter une miséricorde, certains recommencent à Lui associer d’autres choses.
+
+La difficulté peut faire tomber beaucoup d’illusions.
+
+L’homme découvre soudain qu’il ne contrôle pas tout.
+
+Il invoque Allah avec sincérité.
+
+Puis le danger disparaît.
+
+Et l’oubli revient.
+
+La véritable gratitude consiste donc à rester proche d’Allah après que l’invocation a été exaucée.
+
+Pas seulement pendant l’urgence.
+
+## L’être humain entre joie et désespoir
+
+Allah décrit également la réaction de l’homme face aux changements de situation.
+
+Lorsqu’une miséricorde l’atteint, il se réjouit.
+
+Lorsqu’un mal survient à cause de ce que ses propres mains ont accompli, il peut tomber dans le désespoir.
+
+Puis Allah rappelle :
+
+> « Ne voient-ils pas qu’Allah étend la subsistance à qui Il veut et la restreint ? »
+> [Sourate Ar-Rūm, verset 37]
+
+La valeur d’une personne n’est donc pas mesurée simplement par l’abondance momentanée de sa subsistance.
+
+L’aisance est une épreuve.
+La restriction aussi.
+
+## Donner son droit au proche, au pauvre et au voyageur
+
+Allah dit :
+
+> « Donne donc au proche son droit, ainsi qu’au pauvre et au voyageur. Cela est meilleur pour ceux qui recherchent le Visage d’Allah. »
+> [Sourate Ar-Rūm, verset 38]
+
+La spiritualité se traduit encore une fois dans l’utilisation des biens.
+
+Le croyant ne voit pas toute sa richesse comme un territoire exclusivement privé.
+
+Certaines personnes possèdent des droits.
+
+Le proche.
+Le pauvre.
+Le voyageur dans le besoin…
+
+Et la finalité du don apparaît : rechercher le Visage d’Allah.
+
+Donner pour être vu n’est pas la même chose que donner pour Allah.
+
+## Ribā et zakāt : deux logiques opposées
+
+Allah dit ensuite :
+
+> « Ce que vous donnez comme ribā pour accroître vos biens aux dépens des biens des gens ne s’accroît pas auprès d’Allah. Mais ce que vous donnez comme zakāt en recherchant le Visage d’Allah, ceux-là verront leur récompense multipliée. »
+> [Sourate Ar-Rūm, verset 39]
+
+Le verset oppose deux logiques.
+
+-	Une augmentation recherchée dans les biens des hommes.
+-	Et une dépense faite pour Allah qui peut sembler diminuer matériellement le patrimoine mais qui possède auprès de Lui une multiplication véritable.
+
+Encore une fois, le Coran modifie le regard sur la richesse.
+
+Tout ce qui augmente un compte ne constitue pas nécessairement une augmentation réelle auprès d’Allah.
+
+## « La corruption est apparue sur terre et sur mer »
+
+Vient ensuite un verset particulièrement célèbre :
+
+> « La corruption est apparue sur la terre et dans la mer à cause de ce que les mains des hommes ont accompli, afin qu’Il leur fasse goûter une partie de ce qu’ils ont fait ; peut-être reviendront-ils. »
+> [Sourate Ar-Rūm, verset 41]
+
+Le terme fasād possède un sens large de corruption, désordre et détérioration.
+
+Les exégètes anciens ont proposé plusieurs exemples : péchés, injustices, meurtres, sécheresses, perturbation des ressources ou autres conséquences des actions humaines. Ibn Kathīr rapporte plusieurs de ces explications.
+
+Il serait donc excessif de prétendre que le verset constitue exclusivement une prédiction précise du changement climatique moderne.
+
+Mais il serait tout aussi faux de ne pas voir son principe général :
+les comportements humains peuvent produire des conséquences destructrices dans le monde où l’homme vit.
+
+-	Morales
+-	Sociales
+-	Économiques
+-	Et parfois matérielles
+
+Le verset se termine surtout par :
+
+> « Peut-être reviendront-ils. »
+
+Même la conséquence possède une fonction de rappel.
+
+L’épreuve peut réveiller.
+
+## Le vent qui porte la miséricorde
+
+Allah revient ensuite aux signes de la nature :
+
+> « Parmi Ses signes, Il envoie les vents comme annonciateurs afin de vous faire goûter de Sa miséricorde. »
+> [Sourate Ar-Rūm, verset 46]
+
+Puis la sourate décrit les vents qui soulèvent les nuages.
+Allah les disperse comme Il veut.
+
+Puis la pluie tombe.
+Et les hommes se réjouissent.
+
+Quelques instants auparavant, ils pouvaient être désespérés.
+Puis l’eau arrive.
+
+Le paysage change.
+
+Encore une fois, Ar-Rūm enseigne à ne pas considérer l’état présent comme définitif.
+
+La terre sèche peut reverdir.
+L’empire vaincu peut revenir.
+Et l’homme mort peut être ressuscité.
+
+## « Regarde donc les traces de la miséricorde d’Allah »
+
+Allah dit :
+
+> « Regarde donc les traces de la miséricorde d’Allah : comment Il redonne vie à la terre après sa mort. Celui-là même fera revivre les morts. »
+> [Sourate Ar-Rūm, verset 50]
+
+Le Coran demande :
+Regarde.
+
+La foi n’est pas présentée comme une fermeture des yeux.
+
+Le croyant est invité à observer les traces de la miséricorde d’Allah.
+
+-	Chaque printemps
+-	Chaque pluie sur une terre asséchée
+-	Chaque retour de la végétation
+
+Tout peut devenir rappel de la Résurrection.
+
+## La faiblesse, la force, puis de nouveau la faiblesse
+
+Vers la fin de la sourate, Allah résume la vie humaine :
+
+> « Allah est Celui qui vous a créés faibles, puis après la faiblesse vous a donné la force, puis après la force Il vous ramène à la faiblesse et aux cheveux blancs. »
+> [Sourate Ar-Rūm, verset 54]
+
+En quelques mots :
+
+-	l’enfant
+-	l’adulte
+-	la vieillesse
+
+L’être humain qui se sent puissant pendant quelques décennies oublie facilement qu’il n’a pas toujours possédé cette force.
+
+Et qu’il ne la possédera pas toujours.
+
+La force est donc une phase.
+Pas une identité éternelle.
+
+Celui qui comprend cela devient plus humble lorsqu’il est fort et plus patient lorsqu’il voit sa force diminuer.
+
+## Le Jour où les mesures du temps changeront
+
+La sourate revient finalement au Jour de la Résurrection.
+
+Les criminels jureront qu’ils ne sont restés dans le monde qu’une heure.
+
+Ce qui semblait si long deviendra extrêmement court lorsqu’il sera comparé à l’Au-delà.
+
+Les croyants dotés de connaissance leur répondront qu’ils sont restés jusqu’au jour de la Résurrection établi par Allah.
+
+Nous vivons actuellement cette vie de l’intérieur.
+
+Soixante, quatre-vingts ou cent ans peuvent sembler immenses.
+
+Mais depuis l’éternité, ils apparaîtront autrement.
+
+La perspective change tout.
+
+## « Patiente donc : la promesse d’Allah est vérité »
+
+La dernière parole adressée au Prophète ﷺ résume magnifiquement le commencement de la sourate :
+
+> « Patiente donc. La promesse d’Allah est vérité. Et que ceux qui n’ont pas de certitude ne t’ébranlent pas. »
+> [Sourate Ar-Rūm, verset 60]
+
+Au début :
+les Romains sont vaincus.
+
+Allah promet qu’ils vaincront.
+
+À la fin :
+Muhammad ﷺ se trouve encore à La Mecque face à l’opposition.
+
+Et Allah lui dit :
+Patiente.
+
+La promesse d’Allah est vérité.
+
+La sourate commence donc par une promesse historique dont l’accomplissement montre que les apparences immédiates ne sont pas toute la réalité.
+
+Puis elle termine en demandant au Prophète ﷺ d’appliquer cette même certitude à sa propre mission.
+
+## Le message central de la sourate Ar-Rūm
+
+Ar-Rūm apprend au croyant à voir au-delà des apparences.
+
+Les Romains viennent d’être vaincus ?
+L’histoire n’est pas terminée.
+
+Une terre paraît morte ?
+La pluie peut la faire revivre.
+
+L’homme possède toute sa force ?
+La vieillesse viendra.
+
+Il meurt ?
+Allah le ressuscitera.
+
+Une civilisation paraît invincible ?
+Regardez celles qui l’ont précédée.
+
+Une richesse augmente extérieurement ?
+Elle n’augmente pas nécessairement auprès d’Allah.
+
+Un homme connaît parfaitement les mécanismes du monde ?
+
+Il peut malgré tout ne connaître que :
+
+> « l’apparence de la vie d’ici-bas »
+
+s’il oublie l’Au-delà.
+
+Le fil qui unit tous ces passages est le même :
+ce que nous voyons maintenant n’est jamais toute l’histoire.
+
+Allah voit le début et la fin.
+
+Nous voyons quelques pages.
+
+La sourate nous apprend aussi que les signes d’Allah ne se trouvent pas uniquement dans les miracles extraordinaires.
+
+Ils sont partout.
+
+> « Parmi Ses signes… »
+
+Ta propre création. Ton couple. L’affection. La miséricorde. Les langues. Les couleurs humaines. Ton sommeil. Ton travail. L’éclair. La pluie. La terre. Le ciel. Le vent.
+
+La succession de la faiblesse et de la force.
+
+L’existence quotidienne devient ainsi un immense livre de signes.
+
+Le problème n’est souvent pas qu’Allah aurait caché toutes les preuves.
+
+C’est que l’habitude nous a appris à ne plus les regarder.
+
+Puis, au centre de tous ces signes, Allah place la fiṭrah.
+
+Comme si, après avoir demandé à l’homme de regarder autour de lui, Il lui demandait finalement de regarder profondément en lui-même.
+
+Il existe dans l’être humain une disposition originelle tournée vers son Créateur.
+
+-	Le monde peut la recouvrir.
+-	Les habitudes peuvent la déformer.
+-	L’orgueil peut l’étouffer.
+
+Mais la Révélation vient lui rappeler vers quoi son cœur fut originellement orienté.
+
+Ar-Rūm est donc une sourate de retour.
+
+-	Retour de la victoire après la défaite.
+-	Retour de la vie après la mort de la terre.
+-	Retour de l’homme vers sa fiṭrah.
+-	Retour du pécheur par le repentir.
+-	Retour de l’humanité entière vers Allah lors de la Résurrection.
+
+Et lorsqu’un croyant traverse une période où la réalité visible semble contredire tout espoir, les premiers et les derniers versets de la sourate se répondent.
+
+Au début :
+
+> « Après leur défaite, ils seront vainqueurs. »
+
+À la fin :
+
+> « Patiente donc. La promesse d’Allah est vérité. »
+
+Entre les deux, Allah montre des dizaines de signes pour apprendre au cœur pourquoi cette patience est raisonnable.
+
+Parce que le monde change.
+Parce que l’histoire change.
+Parce que la terre morte revit.
+
+Parce que Celui qui a créé une première fois peut recréer.
+
+Et parce qu’au-dessus de toutes les transformations demeure Celui dont le commandement était déjà absolu avant la victoire, pendant la défaite et après le retournement :
+
+> « À Allah appartient le commandement avant comme après. »
+
+Voilà peut-être la certitude fondamentale d’Ar-Rūm :
+ne juge jamais la promesse d’Allah uniquement à partir de l’état actuel du monde.
+
+L’état actuel n’est qu’un instant.
+
+Allah connaît toute l’histoire.
+
+
 [[/desc]]
 
 [[desc 31]]
